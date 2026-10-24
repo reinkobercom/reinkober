@@ -1,0 +1,70 @@
+---
+// Animationen: sanftes Einblenden beim Scrollen, hochzählende Kennzahlen,
+// leichter Parallax-Effekt auf Hintergrundbildern. Alles ist rein optisch,
+// ohne JavaScript bleibt der Inhalt vollständig sichtbar.
+// Bei "Bewegung reduzieren" (Systemeinstellung) wird nichts animiert.
+---
+<script is:inline>
+  // Vor dem ersten Rendern setzen, damit nichts aufblitzt
+  if (!matchMedia('(prefers-reduced-motion: reduce)').matches) document.documentElement.classList.add('motion');
+</script>
+<script>
+  const root = document.documentElement;
+  if (root.classList.contains('motion')) {
+    // 1) Einblenden beim Scrollen
+    const els = [...document.querySelectorAll<HTMLElement>('.reveal')];
+    // Elemente im ersten Bildschirm sofort zeigen (kein Flackern, gute LCP-Werte)
+    const vh = innerHeight;
+    els.forEach((el) => { if (el.getBoundingClientRect().top < vh * 0.9) el.classList.add('is-in'); });
+    // Gestaffelt: Geschwister in einer Zeile nacheinander
+    els.forEach((el) => {
+      const parent = el.parentElement?.closest('.row__grid, .bento, .masonry__col, .tl');
+      if (!parent) return;
+      const sibs = [...parent.querySelectorAll(':scope .reveal')];
+      const i = sibs.indexOf(el);
+      if (i > 0) el.style.setProperty('--d', `${Math.min(i, 6) * 80}ms`);
+    });
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('is-in'); io.unobserve(e.target); } });
+    }, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
+    els.filter((el) => !el.classList.contains('is-in')).forEach((el) => io.observe(el));
+
+    // 2) Kennzahlen hochzählen (z. B. ">19.200.000€", ">300", "98%")
+    const counters = [...document.querySelectorAll<HTMLElement>('[data-count]')];
+    const fmt = (n: number, dec: number) => n.toLocaleString('de-DE', { minimumFractionDigits: dec, maximumFractionDigits: dec });
+    const run = (el: HTMLElement) => {
+      const target = parseFloat(el.dataset.count || '0');
+      const dec = +(el.dataset.dec || 0);
+      const start = performance.now();
+      const dur = 1400;
+      const tick = (t: number) => {
+        const p = Math.min(1, (t - start) / dur);
+        const eased = 1 - Math.pow(1 - p, 3);
+        el.textContent = fmt(target * eased, dec);
+        if (p < 1) requestAnimationFrame(tick); else el.textContent = el.dataset.final || fmt(target, dec);
+      };
+      requestAnimationFrame(tick);
+    };
+    const cio = new IntersectionObserver((entries) => {
+      entries.forEach((e) => { if (e.isIntersecting) { run(e.target as HTMLElement); cio.unobserve(e.target); } });
+    }, { threshold: 0.5 });
+    counters.forEach((c) => cio.observe(c));
+
+    // 3) Parallax auf Sektions-Hintergründen
+    const bgs = [...document.querySelectorAll<HTMLElement>('.sec__bg img')];
+    if (bgs.length) {
+      let ticking = false;
+      const update = () => {
+        bgs.forEach((img) => {
+          const r = img.parentElement!.getBoundingClientRect();
+          if (r.bottom < 0 || r.top > innerHeight) return;
+          const off = (r.top + r.height / 2 - innerHeight / 2) * -0.08;
+          img.style.transform = `translate3d(0, ${off.toFixed(1)}px, 0) scale(1.12)`;
+        });
+        ticking = false;
+      };
+      addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(update); } }, { passive: true });
+      update();
+    }
+  }
+</script>

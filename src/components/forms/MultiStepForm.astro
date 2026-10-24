@@ -1,0 +1,129 @@
+---
+// Mehrstufiges Formular (Potenzial-Analyse, Wachstums-Call, Bewerbung) und
+// einstufiges Kontaktformular. Funktioniert auch ohne JavaScript (alle Schritte sichtbar).
+import { forms, type FormField } from '../../data/forms';
+import { site } from '../../data/site';
+
+interface Props { formKey: string; instance?: string; handoffTo?: string; height?: number; variant?: string }
+const { formKey, instance = formKey, handoffTo } = Astro.props;
+const form = forms[formKey];
+if (!form) throw new Error(`Formular ${formKey} fehlt in src/data/forms.ts`);
+const steps = handoffTo ? form.steps.slice(0, 1) : form.steps;
+const uid = `f-${instance}`;
+const total = steps.length;
+const last = total - 1;
+const showProgress = formKey === 'wachstums-call' || formKey === 'bewerbung';
+const fieldId = (s: number, i: number) => `${uid}-${s}-${i}`;
+const inputType = (f: FormField) => (f.type === 'email' ? 'email' : f.type === 'tel' ? 'tel' : 'text');
+---
+<form
+  class:list={['msf', `msf--${form.layout}`, `msf--${formKey}`]}
+  id={uid}
+  action="/api/anfrage"
+  method="post"
+  novalidate
+  data-msf
+  data-form={formKey}
+  data-redirect={form.redirect || ''}
+  data-handoff={handoffTo || undefined}
+  data-instance={instance}
+>
+  <input type="hidden" name="_form" value={formKey} />
+  <input type="hidden" name="_page" value={Astro.url.pathname} />
+  <input type="hidden" name="_t" value="" data-started />
+  <input type="hidden" name="_utm" value="" data-utm />
+  <!-- Spamschutz: Für Menschen unsichtbar; Bots füllen es aus -->
+  <div class="msf__hp" aria-hidden="true">
+    <label for={`${uid}-hp`}>Bitte leer lassen</label>
+    <input id={`${uid}-hp`} type="text" name="_website" tabindex="-1" autocomplete="off" />
+  </div>
+
+  {showProgress && total > 1 && (
+    <div class="msf__progress" aria-hidden="true">
+      <span class="msf__progress-label" data-progress-label>{formKey === 'bewerbung' ? `1/${total + 1}` : `${Math.round(100 / (total + 1))}%`}</span>
+      <span class="msf__bar"><span class="msf__fill" data-progress style={`width:${100 / (total + 1)}%`}></span></span>
+    </div>
+  )}
+
+  {steps.map((st, s) => (
+    <fieldset class="msf__step" data-step={s} aria-labelledby={`${uid}-t${s}`} data-active={s === 0 ? '' : undefined}>
+      {st.title && <legend class="msf__title" id={`${uid}-t${s}`} set:html={st.title.replace(/\n/g, '<br>')} />}
+      {st.description && <p class="msf__desc">{st.description}</p>}
+      <div class="msf__fields">
+        {st.fields.map((f, i) => {
+          const id = fieldId(s, i);
+          const name = f.name;
+          if (f.type === 'choice' || f.type === 'multichoice') {
+            return (
+              <div class:list={['msf__choices', f.type === 'multichoice' && 'msf__choices--multi']} role="group" aria-label={st.title}>
+                {(f.options || []).map((o, oi) => (
+                  <label class="msf__choice">
+                    <input type={f.type === 'choice' ? 'radio' : 'checkbox'} name={name} value={o} required={f.required && f.type === 'choice' && oi === 0} data-auto={f.type === 'choice' ? '' : undefined} />
+                    <span>{o}</span>
+                  </label>
+                ))}
+              </div>
+            );
+          }
+          if (f.type === 'select') {
+            return (
+              <div class="msf__field">
+                <label class="sr-only" for={id}>{f.label || st.title}</label>
+                <select id={id} name={name} required={f.required}>
+                  <option value="">{f.placeholder || 'Bitte auswählen'}</option>
+                  {(f.options || []).map((o) => <option value={o}>{o}</option>)}
+                </select>
+              </div>
+            );
+          }
+          return (
+            <div class:list={['msf__field', f.icon && 'msf__field--icon']}>
+              {f.label ? <label class="msf__label" for={id}>{f.label}</label> : <label class="sr-only" for={id}>{f.placeholder || st.title}</label>}
+              <div class="msf__control">
+                {f.icon && <span class="msf__icon" aria-hidden="true" set:html={f.icon} />}
+                {f.type === 'textarea' ? (
+                  <textarea id={id} name={name} placeholder={f.placeholder} required={f.required} rows={4}></textarea>
+                ) : (
+                  <input id={id} name={name} type={inputType(f)} placeholder={f.placeholder} required={f.required} autocomplete={f.autocomplete || (f.type === 'email' ? 'email' : f.type === 'tel' ? 'tel' : undefined)} inputmode={f.inputmode as any || (f.type === 'tel' ? 'tel' : undefined)} />
+                )}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      {s === last && !handoffTo && (
+        <div class="msf__legal">
+          <label class="msf__check">
+            <input type="checkbox" name="_privacy" value="ja" required />
+            <span>Ich habe die <a href="/datenschutz" target="_blank">Datenschutzerklärung</a> gelesen und bin mit der Verarbeitung meiner Angaben zur Bearbeitung meiner Anfrage einverstanden.</span>
+          </label>
+        </div>
+      )}
+
+      <p class="msf__error" role="alert" data-error hidden></p>
+
+      <div class="msf__nav">
+        {s === last && !handoffTo ? (
+          <button type="submit" class="btn btn--volume msf__btn" data-submit><span class="btn__text"><span class="btn__label">{form.submitText}</span></span></button>
+        ) : (
+          <button type="button" class="btn btn--volume msf__btn" data-next><span class="btn__text"><span class="btn__label">{st.button || form.nextText}</span></span></button>
+        )}
+      </div>
+    </fieldset>
+  ))}
+
+  {!form.redirect && (
+    <div class="msf__done" data-done hidden tabindex="-1">
+      <p class="msf__title">{form.finish?.title || 'Vielen Dank!'}</p>
+      <p class="msf__desc">{form.finish?.text || 'Ihre Angaben sind bei uns angekommen.'}</p>
+    </div>
+  )}
+  <noscript><p class="msf__desc">Hinweis: Ohne JavaScript werden alle Fragen untereinander angezeigt.</p></noscript>
+  <p class="msf__fallback" hidden data-fallback>Es hat leider nicht geklappt. Bitte versuchen Sie es erneut oder rufen Sie uns direkt an: <a href={site.phoneHref}>{site.phone}</a> – oder schreiben Sie an <a href={`mailto:${site.email}`}>{site.email}</a>.</p>
+</form>
+
+<script>
+  import { initForms } from '../../lib/forms-client';
+  initForms();
+</script>

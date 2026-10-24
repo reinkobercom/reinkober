@@ -1,0 +1,93 @@
+---
+// Galerie: Logo-Laufband (Marquee) oder Bild-Collage mit gemessenen Positionen.
+import { Image } from 'astro:assets';
+import { getImage } from '../../data/images';
+import { css } from '../../lib/style';
+
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const images: any[] = (a.images || []).filter((i: any) => getImage(i.src));
+const h = a.item?.h || 100;
+const px = a.item?.frame?.pad ? a.item.frame.pad[1] : 16;
+// Onepage berechnet die Laufgeschwindigkeit per Script – wir übernehmen den gemessenen Wert
+const speed = a.anim?.dur && parseFloat(a.anim.dur) > 1 ? a.anim.dur : `${Math.max(40, images.length * 6)}s`;
+const gb = a.gbox;
+// Slider erkennen: Bilder liegen nebeneinander außerhalb der Galeriebreite (Onepage-Karussell)
+const isSlider = !a.marquee && gb && images.some((i) => i.x != null && (i.x < -2 || i.x + i.w > gb.w + 2));
+const slides = isSlider ? images.filter((i) => i.x >= 0).filter((i, n, arr) => arr.findIndex((x) => x.src === i.src) === n) : [];
+const radius = images[0]?.radius;
+---
+{a.marquee ? (
+  <div class="marquee" style={css({ '--speed': speed, '--mh': h, '--mpx': px })} role="region" aria-label="Logos unserer Kunden">
+    {[0, 1].map((rep) => (
+      <ul class="marquee__track" aria-hidden={rep === 1 ? 'true' : undefined}>
+        {images.map((i) => {
+          const img = getImage(i.src)!;
+          const w = i.w && i.h ? Math.round((i.w / i.h) * h) : undefined;
+          return (
+            <li class="marquee__item">
+              <Image src={img.src} alt={rep === 1 ? '' : (i.alt || img.alt)} height={h} width={w} widths={w ? [w, w * 2] : undefined} sizes={w ? `${w}px` : undefined} loading="lazy" />
+            </li>
+          );
+        })}
+      </ul>
+    ))}
+  </div>
+) : isSlider ? (
+  <div class="slider" data-slider style={css({ 'aspect-ratio': `${slides[0]?.w || 342} / ${slides[0]?.h || 280}`, '--sr': radius })} role="region" aria-roledescription="Karussell" aria-label="Bilder">
+    <div class="slider__track" data-track tabindex="0">
+      {slides.map((i, n) => {
+        const img = getImage(i.src)!;
+        return (
+          <div class="slider__slide" role="group" aria-roledescription="Folie" aria-label={`${n + 1} von ${slides.length}`}>
+            <Image src={img.src} alt={i.alt || img.alt} widths={[400, 700, 1000]} sizes="(max-width: 767px) calc(100vw - 48px), 600px" loading="lazy" />
+          </div>
+        );
+      })}
+    </div>
+    <div class="slider__dots">
+      {slides.map((_, n) => <button type="button" class="slider__dot" aria-label={`Bild ${n + 1} anzeigen`} aria-current={n === 0 ? 'true' : undefined} data-dot={n}></button>)}
+    </div>
+  </div>
+) : gb && images.every((i) => i.x != null) ? (
+  <div class="collage" style={css({ 'aspect-ratio': `${gb.w} / ${gb.h}` })}>
+    {images.map((i) => {
+      const img = getImage(i.src)!;
+      return (
+        <div class="collage__item" style={css({ left: `${(i.x / gb.w) * 100}%`, top: `${(i.y / gb.h) * 100}%`, width: `${(i.w / gb.w) * 100}%`, height: `${(i.h / gb.h) * 100}%`, 'border-radius': i.radius })}>
+          <Image src={img.src} alt={i.alt || img.alt} widths={[300, 450, 600, 900]} sizes={`(max-width: 767px) 50vw, ${Math.round(i.w)}px`} loading="lazy" />
+        </div>
+      );
+    })}
+  </div>
+) : (
+  <div class="gal-grid">
+    {images.map((i) => {
+      const img = getImage(i.src)!;
+      return <Image src={img.src} alt={i.alt || img.alt} widths={[300, 600, 900]} sizes="(max-width: 767px) 100vw, 33vw" loading="lazy" />;
+    })}
+  </div>
+)}
+
+<script>
+  // Karussell: Punkte, Wischen (nativ), automatischer Wechsel alle 5 s (pausiert bei Interaktion)
+  document.querySelectorAll<HTMLElement>('[data-slider]').forEach((sl) => {
+    const track = sl.querySelector<HTMLElement>('[data-track]')!;
+    const dots = [...sl.querySelectorAll<HTMLButtonElement>('[data-dot]')];
+    const go = (i: number) => track.scrollTo({ left: i * track.clientWidth, behavior: 'smooth' });
+    dots.forEach((d, i) => d.addEventListener('click', () => { go(i); pause = true; }));
+    let pause = false;
+    track.addEventListener('scroll', () => {
+      const i = Math.round(track.scrollLeft / track.clientWidth);
+      dots.forEach((d, n) => (n === i ? d.setAttribute('aria-current', 'true') : d.removeAttribute('aria-current')));
+    }, { passive: true });
+    ['pointerdown', 'focusin', 'mouseenter'].forEach((ev) => sl.addEventListener(ev, () => (pause = true)));
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      setInterval(() => {
+        if (pause || !sl.offsetParent) return;
+        const i = Math.round(track.scrollLeft / track.clientWidth);
+        go((i + 1) % dots.length);
+      }, 5000);
+    }
+  });
+</script>

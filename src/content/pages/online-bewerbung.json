@@ -1,0 +1,1398 @@
+{
+ "slug": "/online-bewerbung",
+ "title": "Online Bewerbung",
+ "seoTitle": "",
+ "seoDescription": "",
+ "seoImage": null,
+ "noindexLive": true,
+ "sections": [
+  {
+   "id": "ONlHQo6ApKv-aLfvpSDix",
+   "title": "Quiz",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    91,
+    177
+   ],
+   "padM": [
+    45,
+    88.5
+   ],
+   "padT": [
+    91,
+    177
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "Z99QNxwNMYlcQ1vY7mOTn",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1266,
+       "hpx": 517,
+       "x": 87,
+       "y": 90,
+       "mbox": {
+        "x": 95,
+        "y": 90,
+        "w": 1250,
+        "h": 517
+       },
+       "wpxM": 342,
+       "yM": 44,
+       "hpxM": 536,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "quiz",
+         "id": "bSPKYukJCHTor1jccdeqS",
+         "gap": 19,
+         "halign": "center",
+         "raw": true,
+         "hpx": 517,
+         "source": {
+          "data": {
+           "_oldFormId": 3066,
+           "formTemplateSchema": {
+            "_id": "ad89a520-bb1b-484b-bdb6-8703b3da00a1",
+            "title": "Recruiting Quiz",
+            "type": "form_multistep",
+            "config": {
+             "options": {
+              "button_text": "Bewerbung senden ",
+              "legal_documents": [
+               {
+                "id": "89551224-a242-4026-bce6-3efa5ac4c659",
+                "text_before": "Mit dem Absenden des Formulars erkläre ich mich einverstanden mit der",
+                "isRequired": true,
+                "isCheckbox": true,
+                "list": [
+                 {
+                  "id": "753953dc-9618-45a2-b6e0-b82456bd75bd",
+                  "document_title": "Datenschutzerklärung",
+                  "document_link": "https://www.reinkober.com/datenschutz"
+                 }
+                ]
+               }
+              ],
+              "button_back_text": "",
+              "button_next_text": "Weiter zum nächsten Schritt ",
+              "button_back_active": false,
+              "on_submit_action_link": "",
+              "on_submit_action_type": "slide",
+              "on_submit_action_header": "Thank you!",
+              "on_submit_action_description": "The form was successfully submitted.",
+              "on_submit_action_target_blank": false,
+              "legal_documents_style": "framed"
+             }
+            },
+            "steps": [
+             {
+              "id": "ef65df95-cbdd-4712-b72b-42f43e7c9a5f",
+              "fields": [
+               {
+                "id": "db0ea1e8-c2a5-4c03-a449-61ab2577dd9f",
+                "type": "select",
+                "label": "Auswählen",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "select_option_type": "tabs",
+                 "select_content_type": "none",
+                 "options": [
+                  {
+                   "label": "Senior Online-Marketing Manager (m/w/d)",
+                   "id": "4e9a9e94-222e-425f-abc2-991f2515c3ae",
+                   "value": ""
+                  },
+                  {
+                   "label": "Junior Online-Marketing Manager (m/w/d)",
+                   "id": "25872a04-394b-496b-b549-2d0b4be6c90b",
+                   "value": ""
+                  },
+                  {
+                   "label": "Webflow Entwickler (m/w/d)",
+                   "id": "b952a0e2-78c6-45f0-89c5-5c24b4d4f9e9",
+                   "value": ""
+                  },
+                  {
+                   "value": "",
+                   "label": "Werkstudent Online-Marketing (m/w/d)",
+                   "id": "d8b5d5d4-2e0d-44f2-b61a-70fa958fb7d3",
+                   "icon_type": "nucleo"
+                  },
+                  {
+                   "value": "",
+                   "label": "Initiativbewerbung",
+                   "id": "5c03077a-4eb4-40d4-8af7-2b17cd240b8a",
+                   "icon_type": "nucleo"
+                  }
+                 ]
+                },
+                "value": ""
+               }
+              ],
+              "title": "Auf welche Position willst du dich bewerben? ",
+              "description": "Bitte wähle die jeweilige Position aus oder wähle \"Initiativbewerbung\".",
+              "options": {
+               "step_type": "select",
+               "step_allow_multiselect": false,
+               "slug": "Position",
+               "required": true,
+               "on_submit_send_mail": false,
+               "on_submit_send_mail_template_id": "",
+               "on_submit_send_mail_template_variables": {}
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "4e79a328-5e87-4a8c-b9ed-a56494c863b7",
+              "fields": [
+               {
+                "id": "8e000623-3bf3-4457-8e7b-5cade8efb2c7",
+                "type": "select",
+                "label": "",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "options": [
+                  {
+                   "id": "e35b58d5-4b9f-4880-ade1-3a34be7d7fd9",
+                   "label": "Ich habe bereits mehr als 5 Jahre Berufserfahrung",
+                   "value": ""
+                  },
+                  {
+                   "id": "6e800443-d747-4a9d-b6a0-7e10818fdd5a",
+                   "label": "Ich habe etwa 2 bis 5 Jahre Berufserfahrung ",
+                   "value": ""
+                  },
+                  {
+                   "id": "4ead4e59-c802-4093-9f80-a5b7e377ec5c",
+                   "label": "Ich bin noch neu in dem Bereich ",
+                   "value": ""
+                  }
+                 ],
+                 "select_option_type": "tabs",
+                 "select_content_type": "none"
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie viele Jahre Erfahrung hast du in der jeweiligen Stelle? ",
+              "description": "Bitte wähle die passende Antwort aus.",
+              "options": {
+               "options": [],
+               "step_type": "select",
+               "step_field_type": "tabs",
+               "step_allow_multiselect": false,
+               "slug": "Jahre",
+               "required": true,
+               "on_submit_send_mail": false,
+               "on_submit_send_mail_template_id": "",
+               "on_submit_send_mail_template_variables": {}
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "51227716-8dd5-4e3c-8d79-95e64dd6259c",
+              "fields": [
+               {
+                "id": "38ffd059-118c-4f69-bf2b-e05a2b6c46fa",
+                "type": "textarea",
+                "label": "Was machst du aktuell? ",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {},
+                "value": ""
+               }
+              ],
+              "title": "Was machst du aktuell?",
+              "description": "In welchem Bereich arbeitest du aktuell? Was machst du aktuell beruflich?",
+              "options": {
+               "options": [],
+               "required": true,
+               "step_type": "mono_field",
+               "step_field_type": "textarea",
+               "slug": "Aktuell",
+               "on_submit_send_mail": false,
+               "on_submit_send_mail_template_id": "",
+               "on_submit_send_mail_template_variables": {}
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "217148f7-5943-4139-876c-7eb9d6515d11",
+              "fields": [
+               {
+                "id": "a2696052-c84c-4501-854f-2c4865cf77c1",
+                "type": "textarea",
+                "label": "Alles, was dir einfällt und wichtig ist, uns mitzuteilen...",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {},
+                "value": ""
+               }
+              ],
+              "title": "Deine Erfahrung zählt!",
+              "description": "Teile mit uns, was dich auszeichnet – sei es dein bisheriger Adspend, die Anzahl deiner realisierten Projekte, geschalteten Ads oder deine Erfahrung im Online-Marketing oder der Webentwicklung. Jede Information hilft uns, dich besser kennenzulernen! (optional)",
+              "options": {
+               "options": [],
+               "required": false,
+               "step_type": "mono_field",
+               "step_field_type": "textarea",
+               "slug": "Erfahrungen",
+               "on_submit_send_mail": false,
+               "on_submit_send_mail_template_id": "",
+               "on_submit_send_mail_template_variables": {}
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "5664605e-e4d1-4e11-9bff-abc90618ced8",
+              "fields": [
+               {
+                "id": "2233eba3-add9-46a2-b4aa-ca7785372362",
+                "type": "select",
+                "label": "Auswählen",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "select_option_type": "tabs",
+                 "select_content_type": "none",
+                 "options": [
+                  {
+                   "label": "Sofort",
+                   "id": "a55f7304-e4ee-4a57-8d38-9fa2df26caa2",
+                   "value": ""
+                  },
+                  {
+                   "label": "In ca. 4 Wochen",
+                   "id": "e648fe14-4976-4ad8-ae13-31a60b69b54a",
+                   "value": ""
+                  },
+                  {
+                   "label": "In ca. 8 Wochen",
+                   "id": "3db4fdc4-8df8-4edc-8ffd-5b733b3df757",
+                   "value": ""
+                  },
+                  {
+                   "value": "",
+                   "label": "Noch längerer Zeitraum",
+                   "id": "753bcf8d-73b8-4e7a-8e27-05bced7651cb",
+                   "icon_type": "nucleo"
+                  }
+                 ]
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wann könntest du bei uns anfangen?",
+              "description": "",
+              "options": {
+               "step_type": "select",
+               "step_allow_multiselect": false,
+               "required": true,
+               "slug": "Einstiegsdatum",
+               "on_submit_send_mail": false,
+               "on_submit_send_mail_template_id": "",
+               "on_submit_send_mail_template_variables": {}
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "bb85ad52-abfb-4cdd-ac5c-3280e8e78121",
+              "fields": [
+               {
+                "id": "97dd20ec-d581-4c96-abd4-13ae34a39f0a",
+                "type": "text",
+                "label": "Dein Bruttogehalt pro Monat",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "icon_nucleo_config": {
+                  "label": "pen",
+                  "size": 24,
+                  "fill": "glyph",
+                  "line_weight": 1,
+                  "svg": "<path d=\"M18.086,5.5,3.293,20.293a1.008,1.008,0,0,0-.27.49l-2,9A1,1,0,0,0,2,31a1.067,1.067,0,0,0,.217-.023l9-2a1.008,1.008,0,0,0,.49-.27L26.5,13.914Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M30.121,6.051,25.949,1.878a3.006,3.006,0,0,0-4.242,0L19.5,4.086,27.914,12.5l2.208-2.207A3.007,3.007,0,0,0,30.121,6.051Z\" data-fill=\"#444\"/>"
+                 }
+                },
+                "value": ""
+               }
+              ],
+              "title": "Welche Gehaltsvorstellung hast du für diese Position?",
+              "description": "Teile uns mit, welches Bruttogehalt du dir für diese Position pro Monat vorstellst. Wir besprechen das ohnehin im persönlichen Gespräch – mach dir also nicht zu viele Gedanken. Uns geht es nicht darum, jemanden aufgrund der Gehaltsvorstellung auszuschließen, sondern darum, das Gespräch optimal vorzubereiten.",
+              "options": {
+               "step_type": "mono_field",
+               "step_field_type": "text",
+               "image_position": "above",
+               "image_radius_key": "4",
+               "image_size_type": "fill",
+               "required": true,
+               "slug": "Gehalt",
+               "on_submit_send_mail": false,
+               "on_submit_send_mail_template_id": "",
+               "on_submit_send_mail_template_variables": {}
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "db57ad8f-7542-41aa-beb7-6798f24dd30c",
+              "fields": [
+               {
+                "id": "7fe75f0e-7979-46c3-8610-bd4d5471fa25",
+                "type": "text",
+                "label": "Dein Vor- und Nachname",
+                "placeholder": "",
+                "required": true,
+                "position": 1,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "personal-trainer",
+                  "svg": "<path d=\"M22,14.885l-5-4.5A1.5,1.5,0,0,0,16,10H8a1.5,1.5,0,0,0-1,.385l-5,4.5a1.5,1.5,0,0,0-.308,1.844l2.5,4.5a1.5,1.5,0,1,0,2.622-1.458L4.892,16.315,7,14.418V23a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V14.418l2.108,1.9-1.919,3.456a1.5,1.5,0,0,0,2.622,1.458l2.5-4.5A1.5,1.5,0,0,0,22,14.885Z\" data-fill=\"#444\"></path> <circle cx=\"12\" cy=\"4\" r=\"4\" data-fill=\"#444\"></circle>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               },
+               {
+                "id": "4b99a016-0e24-4802-b4c0-f69a145c8bba",
+                "type": "text",
+                "label": "Deine Telefonnummer",
+                "placeholder": "",
+                "required": true,
+                "position": 2,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "phone",
+                  "svg": "<path d=\"M15.639,14.407l-2.355,2.321a19.111,19.111,0,0,1-3.4-2.613,19.353,19.353,0,0,1-2.612-3.4L9.591,8.36a1.01,1.01,0,0,0,.208-1.1L7.382,1.614A1.009,1.009,0,0,0,6.2,1.036L1.756,2.209A1.007,1.007,0,0,0,1,3.218,21.337,21.337,0,0,0,7.039,16.959,21.339,21.339,0,0,0,20.784,23a1.011,1.011,0,0,0,1.01-.756l1.172-4.44a1.009,1.009,0,0,0-.577-1.186L16.748,14.2A1.009,1.009,0,0,0,15.639,14.407Z\" data-fill=\"#444\"/>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               },
+               {
+                "id": "d6135bca-fb63-40db-a71c-38bb548ea0c4",
+                "type": "email",
+                "label": "Deine E-Mail-Adresse",
+                "placeholder": "",
+                "required": true,
+                "position": 3,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "letter",
+                  "svg": "<path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\" data-fill=\"#444\"/>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie können wir dich erreichen?",
+              "description": "Fülle das Formular aus, damit wir uns mit dir in Verbindung setzen können. Wir freuen uns, dich kennenzulernen.",
+              "options": {
+               "required": true,
+               "step_type": "form",
+               "step_field_type": "phone",
+               "slug": "Kontakt",
+               "on_submit_send_mail": false,
+               "on_submit_send_mail_template_id": "",
+               "on_submit_send_mail_template_variables": {}
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "6fb9c88f-5430-463a-b475-26e2d2fc9cfa",
+              "fields": [],
+              "title": "Senden...",
+              "description": "",
+              "options": {
+               "slug": "",
+               "label": "Label",
+               "title": "Question",
+               "disabled": false,
+               "required": true,
+               "icon_type": "nucleo",
+               "image_src": "unsplash/1SAnrIxw5OY",
+               "step_type": "finish",
+               "autoSelect": false,
+               "media_type": "image",
+               "showLabels": true,
+               "button_text": "Finish",
+               "description": "Description",
+               "icon_nucleo": "",
+               "icon_switch": false,
+               "image_switch": false,
+               "image_position": "right",
+               "media_position": "right",
+               "button_subtitle": "",
+               "image_size_type": "fill",
+               "step_field_type": "select",
+               "image_arrangement": "centerCenter",
+               "image_full_switch": false,
+               "icon_nucleo_config": {
+                "svg": "<rect x=\"2\" y=\"9\" fill=\"none\" data-stroke=\"#444444\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" width=\"12\" height=\"14\" stroke-linejoin=\"miter\"></rect> <polyline data-color=\"color-2\" fill=\"none\" data-stroke=\"#444444\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" points=\" 6,5 18,5 18,19 \" stroke-linejoin=\"miter\"></polyline> <polyline data-color=\"color-2\" fill=\"none\" data-stroke=\"#444444\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" points=\" 10,1 22,1 22,15 \" stroke-linejoin=\"miter\"></polyline>",
+                "fill": "outline",
+                "size": 24,
+                "label": "file-copies",
+                "line_weight": 3
+               },
+               "select_option_type": "card",
+               "select_content_type": "image",
+               "step_allow_multiselect": false,
+               "on_submit_action_type": "link",
+               "on_submit_action_modal_header": "Thank you!",
+               "on_submit_action_modal_description": "The form was successfully submitted.",
+               "on_submit_action_link": "/danke-bewerbung",
+               "on_submit_action_link_blank": false,
+               "on_submit_send_mail": false,
+               "on_submit_send_mail_template_id": "",
+               "on_submit_send_mail_template_variables": {}
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             }
+            ],
+            "id": null
+           },
+           "formId": "0a41d88f-dee0-46ce-b95d-b4a689b7f802",
+           "items": []
+          },
+          "styles": {
+           "step_header_font_type": "m",
+           "button_infinite_animation": "ripple",
+           "step_progressbar_type": "line_progress",
+           "step_progressbar_color_text_variation": "text",
+           "align_horizontal": "center",
+           "align_vertical": "middle",
+           "size": "s",
+           "step_text_font_type": "l",
+           "step_progressbar_size": "xl",
+           "button_color_bg_type": "palette",
+           "button_color_bg": "key1",
+           "step_progressbar_text_type": "fraction"
+          }
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 90,
+      "w": 1250,
+      "h": 517
+     },
+     "boxM": {
+      "x": 24,
+      "y": 44,
+      "w": 342,
+      "h": 536
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 785
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 670
+   }
+  },
+  {
+   "id": "cbb035ff-4f37-4fb6-89c5-007093a442bc",
+   "title": "Fußzeile 2 Global",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    31,
+    14
+   ],
+   "padM": [
+    15,
+    7
+   ],
+   "padT": [
+    31,
+    14
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "1bh4QeuVKY-zDxWmln5ed",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 791,
+       "hpx": 189,
+       "x": 324,
+       "y": 814,
+       "mbox": {
+        "x": 332,
+        "y": 814,
+        "w": 775,
+        "h": 189
+       },
+       "wpxM": 342,
+       "yM": 683,
+       "hpxM": 322,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "v7iNTO2MhW42TqubGqim2",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/7050135a-9ff5-4110-8263-9dde1c6b5b58",
+         "alt": "Logo reinkober.com",
+         "wpx": 200,
+         "hpx": 28,
+         "wpxM": 200,
+         "hpxM": 28,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "plain-text",
+         "id": "BRT3ZEtLnltJmLF4KQcKh",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "5VaH0FmvL7oIpSFSMoh-s",
+         "gap": 15,
+         "halign": "center",
+         "style": "color",
+         "dir": "vertical",
+         "size": "s",
+         "space": "10px",
+         "items": [
+          {
+           "text": "Impressum",
+           "href": "/impressum",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "AGB",
+           "href": "/agb",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "Datenschutz",
+           "href": "/datenschutz",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          }
+         ]
+        },
+        {
+         "type": "plain-text",
+         "id": "RftLzF3IazEYpOgtCYlWO",
+         "gap": 30,
+         "halign": "center",
+         "html": "<p>© 2019 - 2026 reinkober.com - Alle Rechte vorbehalten.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 12,
+          "lh": 18,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 814,
+      "w": 1250,
+      "h": 189
+     },
+     "boxM": {
+      "x": 24,
+      "y": 683,
+      "w": 342,
+      "h": 322
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 783,
+    "w": 1440,
+    "h": 234
+   },
+   "boxM": {
+    "x": 0,
+    "y": 668,
+    "w": 390,
+    "h": 344
+   }
+  }
+ ],
+ "forms": [
+  {
+   "_id": "0a41d88f-dee0-46ce-b95d-b4a689b7f802",
+   "siteId": "fa3bb1a6-a314-426b-8714-2409dcaa0b7a",
+   "title": "Recruiting Quiz",
+   "type": "form_multistep",
+   "config": {
+    "options": {
+     "button_text": "Bewerbung senden ",
+     "legal_documents": [
+      {
+       "id": "89551224-a242-4026-bce6-3efa5ac4c659",
+       "text_before": "Mit dem Absenden des Formulars erkläre ich mich einverstanden mit der",
+       "isRequired": true,
+       "isCheckbox": true,
+       "list": [
+        {
+         "id": "753953dc-9618-45a2-b6e0-b82456bd75bd",
+         "document_title": "Datenschutzerklärung",
+         "document_link": "https://www.reinkober.com/datenschutz"
+        }
+       ]
+      }
+     ],
+     "button_back_text": "",
+     "button_next_text": "Weiter zum nächsten Schritt ",
+     "button_back_active": false,
+     "on_submit_action_link": "",
+     "on_submit_action_type": "slide",
+     "on_submit_action_header": "Thank you!",
+     "on_submit_action_description": "The form was successfully submitted.",
+     "on_submit_action_target_blank": false,
+     "legal_documents_style": "framed"
+    }
+   },
+   "steps": [
+    {
+     "id": "ef65df95-cbdd-4712-b72b-42f43e7c9a5f",
+     "title": "Auf welche Position willst du dich bewerben? ",
+     "description": "Bitte wähle die jeweilige Position aus oder wähle \"Initiativbewerbung\".",
+     "options": {
+      "step_type": "select",
+      "step_allow_multiselect": false,
+      "slug": "Position",
+      "required": true,
+      "on_submit_send_mail": false,
+      "on_submit_send_mail_template_id": "",
+      "on_submit_send_mail_template_variables": {}
+     },
+     "fields": [
+      {
+       "value": "",
+       "id": "db0ea1e8-c2a5-4c03-a449-61ab2577dd9f",
+       "label": "Auswählen",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "select_option_type": "tabs",
+        "select_content_type": "none",
+        "options": [
+         {
+          "label": "Senior Online-Marketing Manager (m/w/d)",
+          "id": "4e9a9e94-222e-425f-abc2-991f2515c3ae",
+          "value": ""
+         },
+         {
+          "label": "Junior Online-Marketing Manager (m/w/d)",
+          "id": "25872a04-394b-496b-b549-2d0b4be6c90b",
+          "value": ""
+         }
+        ]
+       },
+       "type": "select"
+      }
+     ],
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "4e79a328-5e87-4a8c-b9ed-a56494c863b7",
+     "title": "Wie viele Jahre Erfahrung hast du in der jeweiligen Stelle? ",
+     "description": "Bitte wähle die passende Antwort aus.",
+     "options": {
+      "options": [],
+      "step_type": "select",
+      "step_field_type": "tabs",
+      "step_allow_multiselect": false,
+      "slug": "Jahre",
+      "required": true,
+      "on_submit_send_mail": false,
+      "on_submit_send_mail_template_id": "",
+      "on_submit_send_mail_template_variables": {}
+     },
+     "fields": [
+      {
+       "value": "",
+       "id": "8e000623-3bf3-4457-8e7b-5cade8efb2c7",
+       "label": "",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "options": [
+         {
+          "id": "e35b58d5-4b9f-4880-ade1-3a34be7d7fd9",
+          "label": "Ich habe bereits mehr als 5 Jahre Berufserfahrung",
+          "value": ""
+         },
+         {
+          "id": "6e800443-d747-4a9d-b6a0-7e10818fdd5a",
+          "label": "Ich habe etwa 2 bis 5 Jahre Berufserfahrung ",
+          "value": ""
+         },
+         {
+          "id": "4ead4e59-c802-4093-9f80-a5b7e377ec5c",
+          "label": "Ich bin noch neu in dem Bereich ",
+          "value": ""
+         }
+        ],
+        "select_option_type": "tabs",
+        "select_content_type": "none"
+       },
+       "type": "select"
+      }
+     ],
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "51227716-8dd5-4e3c-8d79-95e64dd6259c",
+     "title": "Was machst du aktuell?",
+     "description": "In welchem Bereich arbeitest du aktuell? Was machst du aktuell beruflich?",
+     "options": {
+      "options": [],
+      "required": true,
+      "step_type": "mono_field",
+      "step_field_type": "textarea",
+      "slug": "Aktuell",
+      "on_submit_send_mail": false,
+      "on_submit_send_mail_template_id": "",
+      "on_submit_send_mail_template_variables": {}
+     },
+     "fields": [
+      {
+       "value": "",
+       "id": "38ffd059-118c-4f69-bf2b-e05a2b6c46fa",
+       "label": "Was machst du aktuell? ",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {},
+       "type": "textarea"
+      }
+     ],
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "606c158d-3a8b-43c7-86e3-d89875715ba3",
+     "title": "In welchen Bereichen hast du gute bis sehr gute Erfahrungen?",
+     "description": "Mehrfachauswahl möglich: Klicke alle Punkte an, wo du wirklich Erfahrung drin hast und selbstständig arbeiten kannst. Keine Scham - wähle alles aus, was passt. Ob 2 oder 15 Kacheln.",
+     "options": {
+      "step_type": "select",
+      "step_field_type": "tagline",
+      "slug": "Erfahrungen Auswahl",
+      "step_allow_multiselect": true,
+      "required": false
+     },
+     "fields": [
+      {
+       "value": "",
+       "id": "99e91de2-0c80-4dec-b2bd-8fb98f38c322",
+       "label": "Auswählen",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "select_option_type": "tagline",
+        "select_content_type": "none",
+        "options": [
+         {
+          "label": "Website Programmierung",
+          "id": "a896383a-f615-43ce-af77-1c095c5da503",
+          "value": ""
+         },
+         {
+          "label": "Webflow",
+          "id": "ad3baeb3-3648-45e4-86ad-8c1923aed68a",
+          "value": ""
+         },
+         {
+          "label": "Google Ads (über 50k € Adspend)",
+          "id": "83758afd-58d1-4781-822f-536c4cc96e97",
+          "value": ""
+         },
+         {
+          "value": "",
+          "label": "Meta Ads (über 50k € Adspend)",
+          "id": "905f1eeb-f737-4bd5-88b7-c33a13ddcbe1",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "TikTok Ads (über 50k € Adspend)",
+          "id": "6ce7e22a-31e5-4f16-a0fc-f428a94ff419",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "LinkedIn Outreach",
+          "id": "b7e9d4d6-22a2-46e1-a776-6dc1fe833a83",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "Markenaufbau",
+          "id": "dd3067a3-dfff-4b58-a2c9-7ce3d9ad84ba",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "Copywriting",
+          "id": "d9aa4402-ff7d-4a87-9c7d-d719ede61b05",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "Foto- & Videoproduktion",
+          "id": "75a804f6-1cdf-4a4a-b5a5-7e66fff54a28",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "Conversion-Optimierte Landingpages",
+          "id": "6e98bd90-1693-4e9c-9cde-c7d4165ffd80",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "Onepage.io",
+          "id": "c211a200-1df6-4d61-9ed5-440451643701",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "Tracking & Analytics (GA4, Tag Manager, Server-Side Tracking)",
+          "id": "d438e544-93a9-4b3e-b1eb-3ecb59f55a14",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "SEO (lokal & überregional)",
+          "id": "e562d843-ed59-496e-8d7f-434eee323e66",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "Full-Funnel-Kampagnenstrategie",
+          "id": "d4c02bfe-444a-41bd-b273-814f29855dfd",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "Brand-Strategie & Positionierung",
+          "id": "0d126693-df37-4e31-b372-e9c196927dfc",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "CRM-Setup & Automatisierungen",
+          "id": "908a857e-21b7-49ab-b1e5-df3d9da363c6",
+          "icon_type": "nucleo"
+         },
+         {
+          "value": "",
+          "label": "E-Mail-Marketing",
+          "id": "df5987ed-b536-446d-b2df-17c39a3f26f7",
+          "icon_type": "nucleo"
+         }
+        ]
+       },
+       "type": "select"
+      }
+     ],
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "217148f7-5943-4139-876c-7eb9d6515d11",
+     "title": "Deine Erfahrung zählt!",
+     "description": "Teile mit uns, was dich auszeichnet – sei es dein bisheriger Adspend, die Anzahl deiner realisierten Projekte, geschalteten Ads oder deine Erfahrung im Online-Marketing oder der Webentwicklung. Jede Information hilft uns, dich besser kennenzulernen! (optional)",
+     "options": {
+      "options": [],
+      "required": false,
+      "step_type": "mono_field",
+      "step_field_type": "textarea",
+      "slug": "Erfahrungen",
+      "on_submit_send_mail": false,
+      "on_submit_send_mail_template_id": "",
+      "on_submit_send_mail_template_variables": {}
+     },
+     "fields": [
+      {
+       "value": "",
+       "id": "a2696052-c84c-4501-854f-2c4865cf77c1",
+       "label": "Alles, was dir einfällt und wichtig ist, uns mitzuteilen...",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {},
+       "type": "textarea"
+      }
+     ],
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "5664605e-e4d1-4e11-9bff-abc90618ced8",
+     "title": "Wann könntest du bei uns anfangen?",
+     "description": "",
+     "options": {
+      "step_type": "select",
+      "step_allow_multiselect": false,
+      "required": true,
+      "slug": "Einstiegsdatum",
+      "on_submit_send_mail": false,
+      "on_submit_send_mail_template_id": "",
+      "on_submit_send_mail_template_variables": {}
+     },
+     "fields": [
+      {
+       "value": "",
+       "id": "2233eba3-add9-46a2-b4aa-ca7785372362",
+       "label": "Auswählen",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "select_option_type": "tabs",
+        "select_content_type": "none",
+        "options": [
+         {
+          "label": "Sofort",
+          "id": "a55f7304-e4ee-4a57-8d38-9fa2df26caa2",
+          "value": ""
+         },
+         {
+          "label": "In ca. 4 Wochen",
+          "id": "e648fe14-4976-4ad8-ae13-31a60b69b54a",
+          "value": ""
+         },
+         {
+          "label": "In ca. 8 Wochen",
+          "id": "3db4fdc4-8df8-4edc-8ffd-5b733b3df757",
+          "value": ""
+         },
+         {
+          "value": "",
+          "label": "Noch längerer Zeitraum",
+          "id": "753bcf8d-73b8-4e7a-8e27-05bced7651cb",
+          "icon_type": "nucleo"
+         }
+        ]
+       },
+       "type": "select"
+      }
+     ],
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "bb85ad52-abfb-4cdd-ac5c-3280e8e78121",
+     "title": "Welche Gehaltsvorstellung hast du für diese Position?",
+     "description": "Teile uns mit, welches Bruttogehalt du dir für diese Position pro Monat vorstellst. Wir besprechen das ohnehin im persönlichen Gespräch – mach dir also nicht zu viele Gedanken. Uns geht es nicht darum, jemanden aufgrund der Gehaltsvorstellung auszuschließen, sondern darum, das Gespräch optimal vorzubereiten.",
+     "options": {
+      "step_type": "mono_field",
+      "step_field_type": "text",
+      "image_position": "above",
+      "image_radius_key": "4",
+      "image_size_type": "fill",
+      "required": true,
+      "slug": "Gehalt",
+      "on_submit_send_mail": false,
+      "on_submit_send_mail_template_id": "",
+      "on_submit_send_mail_template_variables": {}
+     },
+     "fields": [
+      {
+       "value": "",
+       "id": "97dd20ec-d581-4c96-abd4-13ae34a39f0a",
+       "label": "Dein Bruttogehalt pro Monat",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "icon_nucleo_config": {
+         "label": "pen",
+         "size": 24,
+         "fill": "glyph",
+         "line_weight": 1,
+         "svg": "<path d=\"M18.086,5.5,3.293,20.293a1.008,1.008,0,0,0-.27.49l-2,9A1,1,0,0,0,2,31a1.067,1.067,0,0,0,.217-.023l9-2a1.008,1.008,0,0,0,.49-.27L26.5,13.914Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M30.121,6.051,25.949,1.878a3.006,3.006,0,0,0-4.242,0L19.5,4.086,27.914,12.5l2.208-2.207A3.007,3.007,0,0,0,30.121,6.051Z\" data-fill=\"#444\"/>"
+        }
+       },
+       "type": "text"
+      }
+     ],
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "db57ad8f-7542-41aa-beb7-6798f24dd30c",
+     "title": "Wie können wir dich erreichen?",
+     "description": "Fülle das Formular aus, damit wir uns mit dir in Verbindung setzen können. Wir freuen uns, dich kennenzulernen.",
+     "options": {
+      "required": true,
+      "step_type": "form",
+      "step_field_type": "phone",
+      "slug": "Kontakt",
+      "on_submit_send_mail": false,
+      "on_submit_send_mail_template_id": "",
+      "on_submit_send_mail_template_variables": {}
+     },
+     "fields": [
+      {
+       "value": "",
+       "id": "7fe75f0e-7979-46c3-8610-bd4d5471fa25",
+       "label": "Dein Vor- und Nachname",
+       "placeholder": "",
+       "required": true,
+       "position": 1,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "personal-trainer",
+         "svg": "<path d=\"M22,14.885l-5-4.5A1.5,1.5,0,0,0,16,10H8a1.5,1.5,0,0,0-1,.385l-5,4.5a1.5,1.5,0,0,0-.308,1.844l2.5,4.5a1.5,1.5,0,1,0,2.622-1.458L4.892,16.315,7,14.418V23a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V14.418l2.108,1.9-1.919,3.456a1.5,1.5,0,0,0,2.622,1.458l2.5-4.5A1.5,1.5,0,0,0,22,14.885Z\" data-fill=\"#444\"></path> <circle cx=\"12\" cy=\"4\" r=\"4\" data-fill=\"#444\"></circle>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "type": "text"
+      },
+      {
+       "value": "",
+       "id": "4b99a016-0e24-4802-b4c0-f69a145c8bba",
+       "label": "Deine Telefonnummer",
+       "placeholder": "",
+       "required": true,
+       "position": 2,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "phone",
+         "svg": "<path d=\"M15.639,14.407l-2.355,2.321a19.111,19.111,0,0,1-3.4-2.613,19.353,19.353,0,0,1-2.612-3.4L9.591,8.36a1.01,1.01,0,0,0,.208-1.1L7.382,1.614A1.009,1.009,0,0,0,6.2,1.036L1.756,2.209A1.007,1.007,0,0,0,1,3.218,21.337,21.337,0,0,0,7.039,16.959,21.339,21.339,0,0,0,20.784,23a1.011,1.011,0,0,0,1.01-.756l1.172-4.44a1.009,1.009,0,0,0-.577-1.186L16.748,14.2A1.009,1.009,0,0,0,15.639,14.407Z\" data-fill=\"#444\"/>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "type": "text"
+      },
+      {
+       "value": "",
+       "id": "d6135bca-fb63-40db-a71c-38bb548ea0c4",
+       "label": "Deine E-Mail-Adresse",
+       "placeholder": "",
+       "required": true,
+       "position": 3,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "letter",
+         "svg": "<path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\" data-fill=\"#444\"/>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "type": "email"
+      },
+      {
+       "value": "",
+       "id": "d427726c-5717-4c79-834e-5b408c3fc6ce",
+       "label": "Deine PLZ - woher kommst du?",
+       "placeholder": "",
+       "required": true,
+       "position": 4,
+       "options": {},
+       "type": "text"
+      }
+     ],
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "6fb9c88f-5430-463a-b475-26e2d2fc9cfa",
+     "title": "Senden...",
+     "description": "",
+     "options": {
+      "slug": "",
+      "label": "Label",
+      "title": "Question",
+      "disabled": false,
+      "required": true,
+      "icon_type": "nucleo",
+      "image_src": "unsplash/1SAnrIxw5OY",
+      "step_type": "finish",
+      "autoSelect": false,
+      "media_type": "image",
+      "showLabels": true,
+      "button_text": "Finish",
+      "description": "Description",
+      "icon_nucleo": "",
+      "icon_switch": false,
+      "image_switch": false,
+      "image_position": "right",
+      "media_position": "right",
+      "button_subtitle": "",
+      "image_size_type": "fill",
+      "step_field_type": "select",
+      "image_arrangement": "centerCenter",
+      "image_full_switch": false,
+      "icon_nucleo_config": {
+       "svg": "<rect x=\"2\" y=\"9\" fill=\"none\" data-stroke=\"#444444\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" width=\"12\" height=\"14\" stroke-linejoin=\"miter\"></rect> <polyline data-color=\"color-2\" fill=\"none\" data-stroke=\"#444444\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" points=\" 6,5 18,5 18,19 \" stroke-linejoin=\"miter\"></polyline> <polyline data-color=\"color-2\" fill=\"none\" data-stroke=\"#444444\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" points=\" 10,1 22,1 22,15 \" stroke-linejoin=\"miter\"></polyline>",
+       "fill": "outline",
+       "size": 24,
+       "label": "file-copies",
+       "line_weight": 3
+      },
+      "select_option_type": "card",
+      "select_content_type": "image",
+      "step_allow_multiselect": false,
+      "on_submit_action_type": "link",
+      "on_submit_action_modal_header": "Thank you!",
+      "on_submit_action_modal_description": "The form was successfully submitted.",
+      "on_submit_action_link": "/karriere-danke",
+      "on_submit_action_link_blank": false,
+      "on_submit_send_mail": false,
+      "on_submit_send_mail_template_id": "",
+      "on_submit_send_mail_template_variables": {}
+     },
+     "fields": [],
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    }
+   ]
+  }
+ ]
+}

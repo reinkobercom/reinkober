@@ -1,0 +1,27 @@
+---
+// Hinweisleiste aus src/data/announcements.ts. Zeitraum wird im Browser geprüft,
+// damit der Hinweis auch ohne neuen Build pünktlich erscheint/verschwindet.
+import { announcements } from '../../data/announcements';
+const items = announcements.filter((a) => a.visible);
+---
+{items.length > 0 && (
+  <div class="ann" data-ann>
+    {items.map((a) => (
+      <p class="ann__item" data-from={a.visibleFrom} data-until={a.visibleUntil} hidden>
+        {a.href ? <a href={a.href}>{a.text}</a> : a.text}
+      </p>
+    ))}
+  </div>
+)}
+<script>
+  const d = new Date().toISOString().slice(0, 10);
+  document.querySelectorAll<HTMLElement>('[data-ann] .ann__item').forEach((el) => {
+    const f = el.dataset.from, u = el.dataset.until;
+    el.hidden = !((!f || d >= f) && (!u || d <= u));
+  });
+</script>
+<style>
+  .ann { background: var(--c-dark); color: #fff; text-align: center; font-size: 14px; line-height: 20px; }
+  .ann__item { padding: 10px 24px; }
+  .ann__item a { color: inherit; }
+</style>

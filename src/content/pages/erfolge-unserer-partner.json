@@ -1,0 +1,7366 @@
+{
+ "slug": "/erfolge-unserer-partner",
+ "title": "Erfolge unserer Partner",
+ "seoTitle": "",
+ "seoDescription": "",
+ "seoImage": null,
+ "noindexLive": true,
+ "sections": [
+  {
+   "id": "775d3083-4fdb-402b-b989-ac1f2cd4364e",
+   "title": "Menü Global final",
+   "only": "both",
+   "isHeader": true,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    0,
+    0
+   ],
+   "padM": [
+    0,
+    0
+   ],
+   "padT": [
+    0,
+    0
+   ],
+   "side": 24,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "headerAtoms": [
+    {
+     "type": "logo",
+     "id": "OAmKJt4DslJ6vqeBUB4Ba",
+     "gap": 0,
+     "w": "16.347153846153844%",
+     "halign": "left",
+     "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+     "alt": "Logo reinkober.com",
+     "wpx": 204,
+     "hpx": 28,
+     "wpxM": 250,
+     "hpxM": 35,
+     "href": "/",
+     "pos": "50% 50%",
+     "fit": "cover"
+    },
+    {
+     "type": "menu-v2",
+     "id": "def7dccb-e2d9-4993-bc1f-6bfca410b8db",
+     "gap": 0,
+     "w": "62.17811758814103%",
+     "halign": "center",
+     "style": "underline",
+     "dir": "horizontal",
+     "size": "l",
+     "space": "24px",
+     "items": [
+      {
+       "text": "Startseite",
+       "href": "/",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Über uns",
+       "href": "/ueber-uns",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Ziele & Branchen",
+       "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
+       "iconColor": "#151f25",
+       "iconBox": {
+        "w": 25,
+        "svg": 18,
+        "color": "#151f25"
+       },
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Erfolge unserer Partner",
+       "href": "/erfolge-unserer-partner",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><path d=\"M15,7H1C0.4,7,0,7.4,0,8s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,7,15,7z\"></path> <path d=\"M15,1H1C0.4,1,0,1.4,0,2s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,1,15,1z\"></path> <path d=\"M15,13H1c-0.6,0-1,0.4-1,1s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,13,15,13z\"></path></svg>",
+       "iconColor": "#151f25",
+       "iconBox": {
+        "w": 25,
+        "svg": 18,
+        "color": "#151f25",
+        "radius": "100px"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      }
+     ]
+    },
+    {
+     "type": "link-group",
+     "id": "jV1tSXxyolXOFjT9C07mj",
+     "gap": 0,
+     "w": "18.27%",
+     "minW": "228.375px",
+     "halign": "center",
+     "buttons": [
+      {
+       "text": "Potenzial-Analyse sichern",
+       "sub": "Kostenfrei & unverbindlich",
+       "href": "/potenzial-analyse",
+       "kind": "solid",
+       "effect": "volume",
+       "radius": "4px",
+       "h": 50.75,
+       "w": 228,
+       "bg": "#76b2cc",
+       "color": "#ffffff",
+       "pad": [
+        6,
+        24
+       ],
+       "font": {
+        "fs": 14,
+        "lh": 18.2,
+        "fw": 700,
+        "color": "#ffffff",
+        "align": "center"
+       },
+       "subFont": {
+        "fs": 11.2,
+        "lh": 14.56,
+        "fw": 400,
+        "color": "#ffffff",
+        "align": "center",
+        "ls": 0.5
+       }
+      }
+     ],
+     "mode": "horizontal"
+    }
+   ],
+   "rows": [
+    {
+     "id": "IAxWmsRhSPu5raUVccs5-",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "header-v2",
+       "frame": {
+        "text": "#151f25"
+       },
+       "wpx": 1298,
+       "hpx": 99,
+       "x": 71,
+       "y": -1,
+       "mbox": {
+        "x": 95,
+        "y": -1,
+        "w": 1250,
+        "h": 99
+       },
+       "wpxM": 342,
+       "yM": -1,
+       "hpxM": 104,
+       "frameM": {
+        "text": "#151f25"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "OAmKJt4DslJ6vqeBUB4Ba",
+         "gap": 0,
+         "w": "16.347153846153844%",
+         "halign": "left",
+         "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+         "alt": "Logo reinkober.com",
+         "wpx": 204,
+         "hpx": 28,
+         "wpxM": 250,
+         "hpxM": 35,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "menu-v2",
+         "id": "def7dccb-e2d9-4993-bc1f-6bfca410b8db",
+         "gap": 0,
+         "w": "62.17811758814103%",
+         "halign": "center",
+         "style": "underline",
+         "dir": "horizontal",
+         "size": "l",
+         "space": "24px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Über uns",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Ziele & Branchen",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 25,
+            "svg": 18,
+            "color": "#151f25"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><path d=\"M15,7H1C0.4,7,0,7.4,0,8s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,7,15,7z\"></path> <path d=\"M15,1H1C0.4,1,0,1.4,0,2s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,1,15,1z\"></path> <path d=\"M15,13H1c-0.6,0-1,0.4-1,1s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,13,15,13z\"></path></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 25,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          }
+         ]
+        },
+        {
+         "type": "link-group",
+         "id": "jV1tSXxyolXOFjT9C07mj",
+         "gap": 0,
+         "w": "18.27%",
+         "minW": "228.375px",
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Potenzial-Analyse sichern",
+           "sub": "Kostenfrei & unverbindlich",
+           "href": "/potenzial-analyse",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 50.75,
+           "w": 228,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            6,
+            24
+           ],
+           "font": {
+            "fs": 14,
+            "lh": 18.2,
+            "fw": 700,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 11.2,
+            "lh": 14.56,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           }
+          }
+         ],
+         "mode": "horizontal"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": -1,
+      "w": 1250,
+      "h": 99
+     },
+     "boxM": {
+      "x": 24,
+      "y": -1,
+      "w": 342,
+      "h": 104
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 99
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 104
+   }
+  },
+  {
+   "id": "6n5Uy1JeqxnZMiwRxwHG6",
+   "title": "About us",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    0
+   ],
+   "padM": [
+    50,
+    0
+   ],
+   "padT": [
+    101,
+    0
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "6dccc082-10ab-4353-9691-ea824245dec4",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "21",
+       "md": "21",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1108,
+       "hpx": 797,
+       "x": 166,
+       "y": 198,
+       "mbox": {
+        "x": 174,
+        "y": 198,
+        "w": 1092,
+        "h": 797
+       },
+       "wpxM": 342,
+       "yM": 152,
+       "hpxM": 582,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "AIER8Sm3-7PxvpPgL2KcN",
+         "gap": 20,
+         "w": "70.45193851800872%",
+         "halign": "center",
+         "html": "<strong><p>Was <mark data-hl=\"brush-underline\">unsere Partner</mark> über die Zusammenarbeit sagen.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 48,
+          "lh": 61.4,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "fontM": {
+          "fs": 28.98,
+          "lh": 37.07
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "6l-FlivbSH0bgD4OIouVW",
+         "gap": 20,
+         "w": "91.20677810854133%",
+         "halign": "center",
+         "html": "<p>Erfolgreiche Partnerschaften sprechen für sich. Hier teilen unsere Partner ihre Erfahrungen aus der Zusammenarbeit mit reinkober.com. Erfahren Sie, wie wir gemeinsam nachhaltige Erfolge erzielen konnten und welche positiven Veränderungen unsere Strategien für ihre Unternehmen bewirkt haben.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "custom-code",
+         "id": "040be366-0ddd-491f-928b-0275c8e711b5",
+         "gap": 7,
+         "halign": "center",
+         "raw": true,
+         "hpx": 553,
+         "source": {
+          "data": {
+           "html": "<script defer async src='https://cdn.trustindex.io/loader.js?89cc1e2540aa45218b2656b448e'></script>"
+          },
+          "styles": {
+           "indentLg": 7,
+           "atom_width": 100
+          }
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 198,
+      "w": 1250,
+      "h": 797
+     },
+     "boxM": {
+      "x": 24,
+      "y": 152,
+      "w": 342,
+      "h": 582
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 97,
+    "w": 1440,
+    "h": 898
+   },
+   "boxM": {
+    "x": 0,
+    "y": 102,
+    "w": 390,
+    "h": 632
+   }
+  },
+  {
+   "id": "RxixQz2xUnb6ejN7AQwo7",
+   "title": "Partners",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    1,
+    50
+   ],
+   "padM": [
+    0,
+    25
+   ],
+   "padT": [
+    1,
+    50
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "cb832bdd-43ca-4abb-a256-bf897bb30a2a",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "8",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 422,
+       "hpx": 37,
+       "x": 509,
+       "y": 994,
+       "mbox": {
+        "x": 517,
+        "y": 994,
+        "w": 406,
+        "h": 37
+       },
+       "wpxM": 342,
+       "yM": 733,
+       "hpxM": 64,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "plain-text",
+         "id": "IDIxGHRuptUfSF8VmWRt3",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p><em>Vertrauen von über 300 Kunden &amp; Partnern</em></p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 994,
+      "w": 1250,
+      "h": 37
+     },
+     "boxM": {
+      "x": 24,
+      "y": 733,
+      "w": 342,
+      "h": 64
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 993,
+    "w": 1440,
+    "h": 88
+   },
+   "boxM": {
+    "x": 0,
+    "y": 733,
+    "w": 390,
+    "h": 89
+   }
+  },
+  {
+   "id": "dc06fdaf-a948-4c10-b526-e021e229f0f3",
+   "title": "Referenz Logos 2",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    16,
+    16
+   ],
+   "padM": [
+    7.5,
+    8
+   ],
+   "padT": [
+    16,
+    16
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "Cg9fZ20EAUdHB6WzVtJGX",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1298,
+       "hpx": 68,
+       "x": 71,
+       "y": 1096,
+       "mbox": {
+        "x": 95,
+        "y": 1096,
+        "w": 1250,
+        "h": 68
+       },
+       "wpxM": 342,
+       "yM": 829,
+       "hpxM": 85,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "gallery",
+         "id": "b4S6qxbeXCUO-jbw78Y7l",
+         "gap": 0,
+         "halign": "left",
+         "marquee": true,
+         "slider": false,
+         "images": [
+          {
+           "src": "media/f1731d22-5fbf-40a6-83f5-d36b058431cb",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": -212,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/a786ddc4-33ba-44ae-890c-bdca49ac66f4",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": -42,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/a2fd2516-2e02-4eaa-9d52-15f795fe3a29",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 129,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/60252009-1974-4c8c-8b77-7122e76f888f",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 300,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/f05ff218-a467-45fe-8543-f19e17bcd3fd",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 471,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1868876f-d9ce-452b-a41b-f2c19daa6c52",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 642,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/7c7d542a-d2c4-46f1-baf6-5db083e294c3",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 813,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4f6858f7-383c-4776-a014-46bea14b7d2e",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 984,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/39d13736-cace-433c-a875-43a9de9aff68",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 1155,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/43ff87e4-f2ac-45c5-858c-0528983e5817",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 1325,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/84b719e9-b706-450b-834b-70b8e1703ebe",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 1496,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b4000d26-70d7-4e79-a793-009db0365035",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 1667,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/229fdfc2-65e1-4ee4-ba96-4d624498f858",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 1838,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/0437c472-8b13-4d08-a11e-09bec76e6b9b",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 2009,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/af29b7dc-b560-465f-a207-cf0fa677f5a1",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 2180,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/e960b391-e652-40b3-9dae-7acfda62747d",
+           "alt": "",
+           "w": 139,
+           "h": 100,
+           "x": 2351,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ee951df7-818f-416c-85da-245b9fa32039",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 2522,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/166cde94-be8a-4e42-b303-b10eca6489ab",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 2694,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/50086772-e316-4677-86fd-d6e148da7e4a",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 2866,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/9c7dab20-2ce2-4a95-8e05-3939b06a0dbd",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 3038,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/3fd5ed60-2877-466d-a947-cfad9a0518f0",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 3210,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/6783e9d5-c2bc-4ca4-a54b-8a1ea26cdcf4",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 3382,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/5c5a37e8-51b6-40d9-bef9-c957188087be",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 3554,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d862883a-03ca-41c6-ac40-5eda17450ca8",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 3726,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/f1731d22-5fbf-40a6-83f5-d36b058431cb",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 3898,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/a786ddc4-33ba-44ae-890c-bdca49ac66f4",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 4070,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/a2fd2516-2e02-4eaa-9d52-15f795fe3a29",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 4242,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/60252009-1974-4c8c-8b77-7122e76f888f",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 4414,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/f05ff218-a467-45fe-8543-f19e17bcd3fd",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 4586,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1868876f-d9ce-452b-a41b-f2c19daa6c52",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 4758,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/7c7d542a-d2c4-46f1-baf6-5db083e294c3",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 4930,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4f6858f7-383c-4776-a014-46bea14b7d2e",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 5102,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/39d13736-cace-433c-a875-43a9de9aff68",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 5274,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/43ff87e4-f2ac-45c5-858c-0528983e5817",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 5446,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/84b719e9-b706-450b-834b-70b8e1703ebe",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 5618,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b4000d26-70d7-4e79-a793-009db0365035",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 5790,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/229fdfc2-65e1-4ee4-ba96-4d624498f858",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 5962,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/0437c472-8b13-4d08-a11e-09bec76e6b9b",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 6134,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/af29b7dc-b560-465f-a207-cf0fa677f5a1",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 6306,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/e960b391-e652-40b3-9dae-7acfda62747d",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 6478,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ee951df7-818f-416c-85da-245b9fa32039",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 6650,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/166cde94-be8a-4e42-b303-b10eca6489ab",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 6822,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/50086772-e316-4677-86fd-d6e148da7e4a",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 6994,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/9c7dab20-2ce2-4a95-8e05-3939b06a0dbd",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 7166,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/3fd5ed60-2877-466d-a947-cfad9a0518f0",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 7338,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/6783e9d5-c2bc-4ca4-a54b-8a1ea26cdcf4",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 7510,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/5c5a37e8-51b6-40d9-bef9-c957188087be",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 7682,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d862883a-03ca-41c6-ac40-5eda17450ca8",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 7854,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/f1731d22-5fbf-40a6-83f5-d36b058431cb",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 8008,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/a786ddc4-33ba-44ae-890c-bdca49ac66f4",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 8180,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/a2fd2516-2e02-4eaa-9d52-15f795fe3a29",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 8352,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/60252009-1974-4c8c-8b77-7122e76f888f",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 8524,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/f05ff218-a467-45fe-8543-f19e17bcd3fd",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 8696,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1868876f-d9ce-452b-a41b-f2c19daa6c52",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 8868,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/7c7d542a-d2c4-46f1-baf6-5db083e294c3",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 9040,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4f6858f7-383c-4776-a014-46bea14b7d2e",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 9212,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/39d13736-cace-433c-a875-43a9de9aff68",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 9384,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/43ff87e4-f2ac-45c5-858c-0528983e5817",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 9556,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/84b719e9-b706-450b-834b-70b8e1703ebe",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 9728,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b4000d26-70d7-4e79-a793-009db0365035",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 9900,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/229fdfc2-65e1-4ee4-ba96-4d624498f858",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 10072,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/0437c472-8b13-4d08-a11e-09bec76e6b9b",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 10244,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/af29b7dc-b560-465f-a207-cf0fa677f5a1",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 10416,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/e960b391-e652-40b3-9dae-7acfda62747d",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 10588,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ee951df7-818f-416c-85da-245b9fa32039",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 10760,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/166cde94-be8a-4e42-b303-b10eca6489ab",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 10932,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/50086772-e316-4677-86fd-d6e148da7e4a",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 11104,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/9c7dab20-2ce2-4a95-8e05-3939b06a0dbd",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 11276,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/3fd5ed60-2877-466d-a947-cfad9a0518f0",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 11448,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/6783e9d5-c2bc-4ca4-a54b-8a1ea26cdcf4",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 11620,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/5c5a37e8-51b6-40d9-bef9-c957188087be",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 11792,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d862883a-03ca-41c6-ac40-5eda17450ca8",
+           "alt": "",
+           "w": 140,
+           "h": 100,
+           "x": 11964,
+           "y": -16,
+           "radius": null
+          }
+         ],
+         "gbox": {
+          "x": 95,
+          "y": 1096,
+          "w": 1250,
+          "h": 68
+         },
+         "item": {
+          "x": -133,
+          "y": 1080,
+          "w": 171,
+          "h": 100,
+          "frame": {
+           "pad": [
+            0,
+            16,
+            0,
+            16
+           ]
+          }
+         },
+         "anim": {
+          "name": "marquee",
+          "dur": "137s",
+          "dir": "normal"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1096,
+      "w": 1250,
+      "h": 68
+     },
+     "boxM": {
+      "x": 24,
+      "y": 829,
+      "w": 342,
+      "h": 85
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1080,
+    "w": 1440,
+    "h": 100
+   },
+   "boxM": {
+    "x": 0,
+    "y": 821,
+    "w": 390,
+    "h": 100
+   }
+  },
+  {
+   "id": "2ce6ff7a-58ae-42ab-b161-49ec461e96e4",
+   "title": "Referenz Logos 1",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    16,
+    16
+   ],
+   "padM": [
+    7.5,
+    8
+   ],
+   "padT": [
+    16,
+    16
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "u3Pzulz8tOZT_bNt-kR8T",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1298,
+       "hpx": 68,
+       "x": 71,
+       "y": 1195,
+       "mbox": {
+        "x": 95,
+        "y": 1195,
+        "w": 1250,
+        "h": 68
+       },
+       "wpxM": 342,
+       "yM": 928,
+       "hpxM": 85,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "gallery",
+         "id": "eGRx1Ev89vZy3NSE_CTpF",
+         "gap": 0,
+         "halign": "left",
+         "marquee": true,
+         "slider": false,
+         "images": [
+          {
+           "src": "media/6aa5794d-e8a1-4d3b-b2ad-259920e70bb5",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": -212,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1a5cb8e8-f8b1-44cc-ab74-95ee4de95712",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": -20,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/cd0ae6e3-1931-4c33-b643-c5d5ebfc2f4e",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 173,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/bc72f021-291b-4da2-836d-ce5d6b7393e1",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 365,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 558,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/86b91a18-0fef-49aa-b17c-d440009ad29e",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 750,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1732f372-5f47-40e0-9552-394b71f857c2",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 943,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/3e622d38-dcd7-4d5a-8d1e-65e644d11d72",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 1135,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b0585694-7dfb-45be-8622-eb9d2378a9d8",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 1328,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b48cce83-37a5-4bd8-925b-a9b6529b411e",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 1520,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ca392273-4472-48d9-9138-2e66792c0630",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 1713,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/5a5f7ccf-e641-497a-91ba-65b3b1653662",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 1906,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4e332fda-8b5b-4cdd-af7f-241033b81be4",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 2098,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/5c4b9f5e-aa73-4cdd-97a7-c62933dfac40",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 2291,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/a2e03ae0-62e3-4f34-b75e-f5b473663ed8",
+           "alt": "",
+           "w": 161,
+           "h": 100,
+           "x": 2483,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/332451eb-67f6-4cfa-8f92-eabb6b20ab5d",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 2676,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/749f72d7-bb58-4394-b774-396d56860dd4",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 2870,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1ba3470a-e08e-426d-b127-69534f40503a",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 3065,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d7a5bee6-4523-4e4e-adee-2f89b80f2abb",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 3260,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4a449c6e-8ba4-4e59-94be-6eeb38c39800",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 3455,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/da4e309c-7eed-4505-8bee-729f8fcc81ca",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 3650,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ba2b2080-c050-46cc-a2b6-90f01237ffd9",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 3844,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d8cc05a4-8e7f-4411-a48a-a7a4c78ec4b6",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 4039,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4c1d4c6a-3162-4d62-8787-2e4bbc39a255",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 4234,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/66484eba-531b-45e5-a0a4-19e69842d949",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 4429,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/bd52bdc9-0d90-4041-b4b7-ae118caf0126",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 4624,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/11266e26-fe8f-4f3f-842a-6468b6fbd63b",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 4818,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/59e8ddee-c561-4c6e-b910-18d1e262921e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 5013,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ba663965-9b70-4223-bc1e-fa735b81c173",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 5208,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/8be1b69a-ea47-4281-be9e-dff3bc89cbe5",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 5403,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/9f350321-356b-4313-a7f5-79a92f0a2663",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 5597,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/9a9949f8-1953-41c4-b153-a1239d851877",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 5792,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/c56cc15b-c790-462f-83bf-55c8a1a47cef",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 5987,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/711182d6-7098-4bc9-952c-5bbcfd0b6f62",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 6182,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/020fd7c0-4b3d-4733-bd98-4226406073b7",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 6377,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/0d1922cc-3bca-474e-8453-10ad8e74bad0",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 6571,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4dcbb9f8-5785-4e65-8a64-6acc5f3c6097",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 6766,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/44fd4a99-6f5c-4257-a567-9b5751bb8ace",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 6961,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/0e5f5580-9aee-4926-bbf2-1a086e9b5999",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 7156,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/04d54598-afe5-4ce5-b4dc-a15b04595741",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 7350,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ae26423b-ea41-46e1-8c32-2b93244945da",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 7545,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/99df304c-c837-4653-a1c8-38455f96ef6e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 7740,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/c0419a18-ec69-465e-9e15-edb1cad46dc1",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 7935,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/2db7b47b-a711-467b-9c59-7daf1008e220",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 8130,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b5120346-e72b-488a-9227-756be513ce2a",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 8324,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ff277cef-15dc-4c70-8f8f-2268234f203b",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 8519,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/33d7dd86-4367-4812-84a5-db1e629f77de",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 8714,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/6aa5794d-e8a1-4d3b-b2ad-259920e70bb5",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 8909,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1a5cb8e8-f8b1-44cc-ab74-95ee4de95712",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 9103,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/cd0ae6e3-1931-4c33-b643-c5d5ebfc2f4e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 9298,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/bc72f021-291b-4da2-836d-ce5d6b7393e1",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 9493,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 9688,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/86b91a18-0fef-49aa-b17c-d440009ad29e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 9882,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1732f372-5f47-40e0-9552-394b71f857c2",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 10077,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/3e622d38-dcd7-4d5a-8d1e-65e644d11d72",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 10272,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b0585694-7dfb-45be-8622-eb9d2378a9d8",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 10467,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b48cce83-37a5-4bd8-925b-a9b6529b411e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 10662,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ca392273-4472-48d9-9138-2e66792c0630",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 10856,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/5a5f7ccf-e641-497a-91ba-65b3b1653662",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 11051,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4e332fda-8b5b-4cdd-af7f-241033b81be4",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 11246,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/5c4b9f5e-aa73-4cdd-97a7-c62933dfac40",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 11441,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/a2e03ae0-62e3-4f34-b75e-f5b473663ed8",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 11635,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/332451eb-67f6-4cfa-8f92-eabb6b20ab5d",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 11830,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/749f72d7-bb58-4394-b774-396d56860dd4",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 12025,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1ba3470a-e08e-426d-b127-69534f40503a",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 12220,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d7a5bee6-4523-4e4e-adee-2f89b80f2abb",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 12415,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4a449c6e-8ba4-4e59-94be-6eeb38c39800",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 12609,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/da4e309c-7eed-4505-8bee-729f8fcc81ca",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 12804,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ba2b2080-c050-46cc-a2b6-90f01237ffd9",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 12999,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d8cc05a4-8e7f-4411-a48a-a7a4c78ec4b6",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 13194,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4c1d4c6a-3162-4d62-8787-2e4bbc39a255",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 13388,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/66484eba-531b-45e5-a0a4-19e69842d949",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 13583,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/bd52bdc9-0d90-4041-b4b7-ae118caf0126",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 13778,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/11266e26-fe8f-4f3f-842a-6468b6fbd63b",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 13973,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/59e8ddee-c561-4c6e-b910-18d1e262921e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 14168,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ba663965-9b70-4223-bc1e-fa735b81c173",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 14362,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/8be1b69a-ea47-4281-be9e-dff3bc89cbe5",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 14557,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/9f350321-356b-4313-a7f5-79a92f0a2663",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 14752,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/9a9949f8-1953-41c4-b153-a1239d851877",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 14947,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/c56cc15b-c790-462f-83bf-55c8a1a47cef",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 15142,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/711182d6-7098-4bc9-952c-5bbcfd0b6f62",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 15336,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/020fd7c0-4b3d-4733-bd98-4226406073b7",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 15531,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/0d1922cc-3bca-474e-8453-10ad8e74bad0",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 15726,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4dcbb9f8-5785-4e65-8a64-6acc5f3c6097",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 15921,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/44fd4a99-6f5c-4257-a567-9b5751bb8ace",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 16115,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/0e5f5580-9aee-4926-bbf2-1a086e9b5999",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 16310,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/04d54598-afe5-4ce5-b4dc-a15b04595741",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 16505,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ae26423b-ea41-46e1-8c32-2b93244945da",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 16700,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/99df304c-c837-4653-a1c8-38455f96ef6e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 16895,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/c0419a18-ec69-465e-9e15-edb1cad46dc1",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 17089,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/2db7b47b-a711-467b-9c59-7daf1008e220",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 17284,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b5120346-e72b-488a-9227-756be513ce2a",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 17479,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ff277cef-15dc-4c70-8f8f-2268234f203b",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 17674,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/33d7dd86-4367-4812-84a5-db1e629f77de",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 17868,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/6aa5794d-e8a1-4d3b-b2ad-259920e70bb5",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 18030,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1a5cb8e8-f8b1-44cc-ab74-95ee4de95712",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 18224,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/cd0ae6e3-1931-4c33-b643-c5d5ebfc2f4e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 18419,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/bc72f021-291b-4da2-836d-ce5d6b7393e1",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 18614,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 18809,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/86b91a18-0fef-49aa-b17c-d440009ad29e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 19003,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1732f372-5f47-40e0-9552-394b71f857c2",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 19198,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/3e622d38-dcd7-4d5a-8d1e-65e644d11d72",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 19393,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b0585694-7dfb-45be-8622-eb9d2378a9d8",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 19588,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b48cce83-37a5-4bd8-925b-a9b6529b411e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 19783,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ca392273-4472-48d9-9138-2e66792c0630",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 19977,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/5a5f7ccf-e641-497a-91ba-65b3b1653662",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 20172,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4e332fda-8b5b-4cdd-af7f-241033b81be4",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 20367,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/5c4b9f5e-aa73-4cdd-97a7-c62933dfac40",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 20562,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/a2e03ae0-62e3-4f34-b75e-f5b473663ed8",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 20756,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/332451eb-67f6-4cfa-8f92-eabb6b20ab5d",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 20951,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/749f72d7-bb58-4394-b774-396d56860dd4",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 21146,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/1ba3470a-e08e-426d-b127-69534f40503a",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 21341,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d7a5bee6-4523-4e4e-adee-2f89b80f2abb",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 21536,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4a449c6e-8ba4-4e59-94be-6eeb38c39800",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 21730,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/da4e309c-7eed-4505-8bee-729f8fcc81ca",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 21925,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ba2b2080-c050-46cc-a2b6-90f01237ffd9",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 22120,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/d8cc05a4-8e7f-4411-a48a-a7a4c78ec4b6",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 22315,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4c1d4c6a-3162-4d62-8787-2e4bbc39a255",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 22509,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/66484eba-531b-45e5-a0a4-19e69842d949",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 22704,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/bd52bdc9-0d90-4041-b4b7-ae118caf0126",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 22899,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/11266e26-fe8f-4f3f-842a-6468b6fbd63b",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 23094,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/59e8ddee-c561-4c6e-b910-18d1e262921e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 23289,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ba663965-9b70-4223-bc1e-fa735b81c173",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 23483,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/8be1b69a-ea47-4281-be9e-dff3bc89cbe5",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 23678,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/9f350321-356b-4313-a7f5-79a92f0a2663",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 23873,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/9a9949f8-1953-41c4-b153-a1239d851877",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 24068,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/c56cc15b-c790-462f-83bf-55c8a1a47cef",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 24263,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/711182d6-7098-4bc9-952c-5bbcfd0b6f62",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 24457,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/020fd7c0-4b3d-4733-bd98-4226406073b7",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 24652,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/0d1922cc-3bca-474e-8453-10ad8e74bad0",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 24847,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/4dcbb9f8-5785-4e65-8a64-6acc5f3c6097",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 25042,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/44fd4a99-6f5c-4257-a567-9b5751bb8ace",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 25236,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/0e5f5580-9aee-4926-bbf2-1a086e9b5999",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 25431,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/04d54598-afe5-4ce5-b4dc-a15b04595741",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 25626,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ae26423b-ea41-46e1-8c32-2b93244945da",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 25821,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/99df304c-c837-4653-a1c8-38455f96ef6e",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 26016,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/c0419a18-ec69-465e-9e15-edb1cad46dc1",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 26210,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/2db7b47b-a711-467b-9c59-7daf1008e220",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 26405,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/b5120346-e72b-488a-9227-756be513ce2a",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 26600,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/ff277cef-15dc-4c70-8f8f-2268234f203b",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 26795,
+           "y": -16,
+           "radius": null
+          },
+          {
+           "src": "media/33d7dd86-4367-4812-84a5-db1e629f77de",
+           "alt": "",
+           "w": 163,
+           "h": 100,
+           "x": 26989,
+           "y": -16,
+           "radius": null
+          }
+         ],
+         "gbox": {
+          "x": 95,
+          "y": 1195,
+          "w": 1250,
+          "h": 68
+         },
+         "item": {
+          "x": -133,
+          "y": 1179,
+          "w": 193,
+          "h": 100,
+          "frame": {
+           "pad": [
+            0,
+            16,
+            0,
+            16
+           ]
+          }
+         },
+         "anim": {
+          "name": "marquee",
+          "dur": "304.033s",
+          "dir": "normal"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1195,
+      "w": 1250,
+      "h": 68
+     },
+     "boxM": {
+      "x": 24,
+      "y": 928,
+      "w": 342,
+      "h": 85
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1179,
+    "w": 1440,
+    "h": 100
+   },
+   "boxM": {
+    "x": 0,
+    "y": 920,
+    "w": 390,
+    "h": 100
+   }
+  },
+  {
+   "id": "e875d35a-529e-4d11-993e-f4f6d685bd52",
+   "title": "Ergebnisse Partner global",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    25
+   ],
+   "padM": [
+    50,
+    12.5
+   ],
+   "padT": [
+    101,
+    25
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center"
+    }
+   },
+   "rows": [
+    {
+     "id": "drNDR6zB-IolIuJBRVQgF",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "21",
+       "md": "21",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1143,
+       "hpx": 103,
+       "x": 149,
+       "y": 1379,
+       "mbox": {
+        "x": 177,
+        "y": 1379,
+        "w": 1087,
+        "h": 103
+       },
+       "wpxM": 342,
+       "yM": 1069,
+       "hpxM": 186,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "Oqh57j1ECATRyUVhSJGIB",
+         "gap": 20,
+         "w": "53.16893293385573%",
+         "halign": "center",
+         "html": "<p>Die <mark data-hl=\"brush-underline\">Ergebnisse</mark> für unsere Kunden &amp; Partner sprechen für sich:</p>",
+         "tag": "h2",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1379,
+      "w": 1250,
+      "h": 143
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1069,
+      "w": 342,
+      "h": 226
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    },
+    {
+     "id": "JTKxgzGMiP8Gcmfrd4q3F",
+     "grid": "masonry",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "bento": [
+        "1",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 281,
+       "x": 95,
+       "y": 1523,
+       "mbox": {
+        "x": 103,
+        "y": 1531,
+        "w": 401,
+        "h": 265
+       },
+       "wpxM": 342,
+       "yM": 1296,
+       "hpxM": 297,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "xVh4MVDSyyNpLJ_6oC2PY",
+         "gap": 15,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/00a189ce-68a5-47e0-870c-d3e8df15932b",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Elo von Knorre",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Elo von Knorre</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Musikerin &amp; Musikcoach</p>"
+        },
+        {
+         "type": "header",
+         "id": "lqSzvwTj1lrtNKN-MgXnX",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>Steigerung des Umsatzes seit der Zusammenarbeit um das <mark data-hl=\"underline\">10‒Fache.</mark></p>",
+         "tag": "h2",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 516,
+       "x": 95,
+       "y": 1804,
+       "mbox": {
+        "x": 103,
+        "y": 1812,
+        "w": 401,
+        "h": 500
+       },
+       "wpxM": 342,
+       "yM": 1592,
+       "hpxM": 532,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "4c58e52a-b3f3-4c66-abb5-0eef11dc6ea0",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/1eb8b15b-e8f6-4ff5-a079-25f60ffed3d2",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Tom Martens",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Tom Martens</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Vertriebscoach aus Mülheim</p>"
+        },
+        {
+         "type": "header",
+         "id": "7d39100f-f3bf-42a4-86d0-f87a779b662a",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Steigerung der Websitereichweite, was zu <mark data-hl=\"underline\">3‒5 Terminbuchungen pro Woche</mark> führt.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "image",
+         "id": "80ecb000-156a-464f-a593-882897f3eff4",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/58710438-a870-4f14-a158-80a7ab7ee860",
+         "wpx": 337,
+         "hpx": 178,
+         "wpxM": 278,
+         "hpxM": 147,
+         "pos": "50% 50%",
+         "fit": "fill"
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 383,
+       "x": 95,
+       "y": 2320,
+       "mbox": {
+        "x": 103,
+        "y": 2328,
+        "w": 401,
+        "h": 367
+       },
+       "wpxM": 342,
+       "yM": 2124,
+       "hpxM": 423,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "363311fc-f3cc-4bdb-9fc9-273e83ed72a4",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/f5af9fcd-b3d7-4dcc-93fd-bb9a869e7f70",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Tobias Surau",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Tobias Surau </p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Elmar Surau Gebäudereinigung GmbH</p>"
+        },
+        {
+         "type": "header",
+         "id": "06343cd9-ffed-42d9-b9e0-357a0e3ce37e",
+         "gap": 25,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"underline\">50‒60 Bewerbungen binnen weniger Wochen</mark> - so viele wie seit Jahren nicht mehr. <br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "react-fragment",
+         "id": "ea43c8ac-af6c-41da-9fd9-e8b2193dc60f",
+         "gap": 20,
+         "halign": "left",
+         "raw": true,
+         "hpx": 124,
+         "source": {
+          "data": {
+           "reactAppId": "6ac8bbdda1e18bad107d0ec6",
+           "componentProps": {
+            "videoUrl": "https://player.mediadelivery.net/embed/748298/4fa7cb20-772f-4aef-8e1a-047ee5d8b309?loop=false&muted=false&preload=true&responsive=true",
+            "label": "Sprachnachricht von Tobias",
+            "durationLabel": "0:42",
+            "bgColor": "var(--color-kit-light)",
+            "accentColor": "var(--color-kit-key1)",
+            "textColor": "var(--color-kit-dark)"
+           }
+          },
+          "styles": {}
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 286,
+       "x": 95,
+       "y": 2703,
+       "mbox": {
+        "x": 103,
+        "y": 2711,
+        "w": 401,
+        "h": 270
+       },
+       "wpxM": 342,
+       "yM": 2547,
+       "hpxM": 501,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "e8aa0489-99c5-4f7b-92ee-7ac3195351ed",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/3f14c288-1508-40bd-a9b3-c3bdc6592c83",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Aufbruch",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Aufbruch </p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Gründungsberatung</p>"
+        },
+        {
+         "type": "header",
+         "id": "3a3a9396-9698-46b1-beea-0941fd3d716a",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Bis zu <mark data-hl=\"underline\">5 Anfragen pro Woche</mark> über die SEO-optimierte Website.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 513,
+       "x": 95,
+       "y": 2990,
+       "mbox": {
+        "x": 103,
+        "y": 2998,
+        "w": 401,
+        "h": 497
+       },
+       "wpxM": 342,
+       "yM": 3047,
+       "hpxM": 461,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "19oUsNxsp85lCjCDrTsm5",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/c79772b1-4873-41c6-b3a6-9cd52cf1d00b",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Bernemann & Röhl",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Bernemann &amp; Röhl</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Meisterfleischerei aus Lünen</p>"
+        },
+        {
+         "type": "header",
+         "id": "6SbOubl2cGoZuZBXxPHqu",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"underline\">Mehr als 25 Catering-Anfragen pro Woche</mark> über die neue, SEO-optimierte Website.<br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "image",
+         "id": "9fa76cff-4081-4e7d-8b83-d0d1c69e1d4c",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/72f8c30e-6106-437a-a413-b9a6107382e3",
+         "wpx": 337,
+         "hpx": 175,
+         "wpxM": 278,
+         "hpxM": 145,
+         "pos": "50% 50%",
+         "fit": "fill"
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 506,
+       "x": 95,
+       "y": 3503,
+       "mbox": {
+        "x": 103,
+        "y": 3511,
+        "w": 401,
+        "h": 490
+       },
+       "wpxM": 342,
+       "yM": 3508,
+       "hpxM": 302,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "a3a9a0a1-27c8-4d3b-8957-59289f40da63",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/c698938b-aeaf-40e7-8b78-3a92ab8f1e43",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Dr. Marek Lang",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Dr. Marek Lang</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Zahnarzt</p>"
+        },
+        {
+         "type": "header",
+         "id": "61546ad2-3f53-4003-898a-eefeb7a114e3",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"underline\">90 Bewerbungen in kürzester Zeit</mark> – und 5 Wochen später hatten wir unsere neue Auszubildende.<br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "custom-code",
+         "id": "15bf42b5-c5d0-427a-8e69-9227902a772d",
+         "gap": 20,
+         "halign": "left",
+         "raw": true,
+         "hpx": 220,
+         "source": {
+          "data": {
+           "html": "<div style=\"position:relative;padding-top:56.25%;\"><iframe src=\"https://player.mediadelivery.net/embed/748298/5db3f749-38b9-4c07-a865-a069502dd74b?autoplay=false&loop=false&muted=false&preload=true&responsive=true\" loading=\"lazy\" style=\"border:0;position:absolute;top:0;height:100%;width:100%;\" allow=\"accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;\" allowfullscreen=\"true\"></iframe></div>"
+          },
+          "styles": {}
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 535,
+       "x": 512,
+       "y": 1523,
+       "mbox": {
+        "x": 520,
+        "y": 1531,
+        "w": 401,
+        "h": 519
+       },
+       "wpxM": 342,
+       "yM": 3810,
+       "hpxM": 399,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "79a1e1b3-3796-4b66-b601-8ff43c178cbe",
+         "gap": 17,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/33f9e92f-8c91-4357-b64b-01b820f6ebc4",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Matthias Schäfers",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Matthias Schäfers</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">mvk Steuerberater Gruppe</p>"
+        },
+        {
+         "type": "header",
+         "id": "0a913f3f-3482-4107-a191-a07a8011da03",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>104 Bewerbungen auf 3 Stellen. An einem Standort in Gelsenkirchen <mark data-hl=\"underline\">binnen einer Woche 2 gute Leute eingestellt. </mark></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "custom-code",
+         "id": "867ce0a0-b44c-40bc-8143-23aa491f5fd6",
+         "gap": 20,
+         "halign": "left",
+         "raw": true,
+         "hpx": 220,
+         "source": {
+          "data": {
+           "html": "<div style=\"position:relative;padding-top:56.25%;\"><iframe\n        src=\"https://player.mediadelivery.net/embed/748298/c76789ed-faad-4bcb-b5f9-b63bfde62e74?autoplay=false&loop=false&muted=false&preload=true&responsive=true\"\n        loading=\"lazy\" style=\"border:0;position:absolute;top:0;height:100%;width:100%;\"\n        allow=\"accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;\"\n        allowfullscreen=\"true\"></iframe></div>"
+          },
+          "styles": {}
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 503,
+       "x": 512,
+       "y": 2057,
+       "mbox": {
+        "x": 520,
+        "y": 2065,
+        "w": 401,
+        "h": 487
+       },
+       "wpxM": 342,
+       "yM": 4208,
+       "hpxM": 270,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "cf3b8dcb-70c0-4aed-9c50-d378906a5ec4",
+         "gap": 17,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/6d052587-7d49-4258-8668-3401cefc13e3",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "KUMACO Werbetechnik",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>KUMACO Werbetechnik</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">aus Essen</p>"
+        },
+        {
+         "type": "header",
+         "id": "8f5c7a01-3dd9-45b1-ba95-b1773e3f15f5",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"underline\">187 Anfragen für Fahrzeugfolierung</mark> und B2B-Textildruck in unter einem Jahr.<br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "image",
+         "id": "036db36a-63a6-4e5e-a2b4-16ae43ee3bb3",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/79d7093c-aee8-4d13-8d03-b4198eb1c549",
+         "wpx": 337,
+         "hpx": 168,
+         "wpxM": 278,
+         "hpxM": 139,
+         "pos": "50% 50%",
+         "fit": "fill"
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 255,
+       "x": 512,
+       "y": 2560,
+       "mbox": {
+        "x": 520,
+        "y": 2568,
+        "w": 401,
+        "h": 239
+       },
+       "wpxM": 342,
+       "yM": 4479,
+       "hpxM": 302,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "ba940e14-9e09-46f6-8550-b030802bd58d",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/5604b401-48da-4d37-9c02-7ddc56c29460",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "ZV-Anwalt",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>ZV-Anwalt</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Anwalt für Zwangsversteigerungsrecht</p>"
+        },
+        {
+         "type": "header",
+         "id": "2dbdb512-81ea-46c5-8c59-8acdd697a896",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Etwa <mark data-hl=\"underline\">8 Anfragen von neuen Mandanten pro Woche.</mark></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 511,
+       "x": 512,
+       "y": 2815,
+       "mbox": {
+        "x": 520,
+        "y": 2823,
+        "w": 401,
+        "h": 495
+       },
+       "wpxM": 342,
+       "yM": 4780,
+       "hpxM": 270,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "db286d03-27cf-4483-8440-44e13f924d62",
+         "gap": 15,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/b7fdf1ff-ed35-4a50-87cd-892980b9915f",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Daniel Schlaegel",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Daniel Schlaegel</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Craftflix - Kellerabdichtungen</p>"
+        },
+        {
+         "type": "header",
+         "id": "a91cf408-07aa-4e16-8f47-4a0c9d797762",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Stetig <mark data-hl=\"underline\">5‒10 Anfragen pro Woche </mark>für Keller-abdichtungen in der Zielregion.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "image",
+         "id": "502b4d2d-f50e-4605-96b3-748aeccbe4c7",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/dd01093b-e2c6-4a2b-bd89-49c137afc9a9",
+         "wpx": 337,
+         "hpx": 178,
+         "wpxM": 278,
+         "hpxM": 147,
+         "pos": "50% 50%",
+         "fit": "fill"
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 539,
+       "x": 512,
+       "y": 3326,
+       "mbox": {
+        "x": 520,
+        "y": 3334,
+        "w": 401,
+        "h": 523
+       },
+       "wpxM": 342,
+       "yM": 5051,
+       "hpxM": 464,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "7qo3qwjihrWKEb7kLEra1",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/d41b07cd-89b3-44e7-acc2-7156b2f4564e",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Andreas Bongard",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Andreas Bongard</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Rechtsanwalt aus Essen</p>"
+        },
+        {
+         "type": "header",
+         "id": "642L67-P1rz4t2ZSFQr5H",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>Mind. <mark data-hl=\"underline\">9 qualifizierte Leads pro Woche</mark>, aus denen im Schnitt 4 Mandate werden. </p>",
+         "tag": "h2",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "image",
+         "id": "361341c3-4813-41f3-951a-09284b4397d3",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/cfc06230-87ba-43b4-b92d-6961dfcbdd92",
+         "wpx": 337,
+         "hpx": 232,
+         "wpxM": 278,
+         "hpxM": 192,
+         "pos": "50% 50%",
+         "fit": "fit"
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 407,
+       "x": 928,
+       "y": 1523,
+       "mbox": {
+        "x": 936,
+        "y": 1531,
+        "w": 401,
+        "h": 391
+       },
+       "wpxM": 342,
+       "yM": 5515,
+       "hpxM": 270,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "AjLO0k7YY-Cr7FjI0DkNr",
+         "gap": 15,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/b7fdf1ff-ed35-4a50-87cd-892980b9915f",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Daniel Schlaegel",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Daniel Schlaegel</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Craftflix - Kellerabdichtungen</p>"
+        },
+        {
+         "type": "header",
+         "id": "H_rEaUm2zZHDSdJ3sKygk",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Durch Social Recruiting Ads <mark data-hl=\"underline\">innerhalb von einer Woche 6 Vorstellungsgespräche, woraus 4 Anstellungen resultiert sind </mark>mit einem Budget von weniger als 250€.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 286,
+       "x": 928,
+       "y": 1930,
+       "mbox": {
+        "x": 936,
+        "y": 1938,
+        "w": 401,
+        "h": 270
+       },
+       "wpxM": 342,
+       "yM": 5785,
+       "hpxM": 466,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "e5XqtzIH7es5GeNlrl91J",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/17d6741b-266b-4d14-b524-f129d550048d",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Fibertalents",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Fibertalents</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">D2D Vertrieb aus Dortmund</p>"
+        },
+        {
+         "type": "header",
+         "id": "7BLxSGo-hp4xJFLb0Bx2E",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"underline\">17 Bewerbungen pro Woche</mark>, davon werden im Schnitt 56% eingestellt.<br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 286,
+       "x": 928,
+       "y": 2216,
+       "mbox": {
+        "x": 936,
+        "y": 2224,
+        "w": 401,
+        "h": 270
+       },
+       "wpxM": 342,
+       "yM": 6251,
+       "hpxM": 514,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "0a5f3513-00aa-40c7-8d80-6c05a1099aac",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/af472054-218a-408d-a7c6-03a9b5c6314e",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Continova",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Continova</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Autismustherapie</p>"
+        },
+        {
+         "type": "header",
+         "id": "0a61201b-4192-4ace-869c-473fd0cee9bb",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"underline\">20 Anfragen pro Woche</mark> für unsere Autismustherapie über Website &amp; Werbung.<br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 286,
+       "x": 928,
+       "y": 2502,
+       "mbox": {
+        "x": 936,
+        "y": 2510,
+        "w": 401,
+        "h": 270
+       },
+       "wpxM": 342,
+       "yM": 6765,
+       "hpxM": 500,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "be209e32-2b29-4d5a-9931-643ad8afb047",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/5bdd8b9a-3329-4817-8343-97bc9152a59b",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Christoph Bergbauer",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Christoph Bergbauer</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Apotheken-Inhaber</p>"
+        },
+        {
+         "type": "header",
+         "id": "5ca55040-fac0-450a-9239-c4157d649342",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>81 Bewerbungen binnen weniger Monate &amp; <mark data-hl=\"underline\">3 Einstellungen.</mark></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 417,
+       "hpx": 503,
+       "x": 928,
+       "y": 2789,
+       "mbox": {
+        "x": 936,
+        "y": 2797,
+        "w": 401,
+        "h": 487
+       },
+       "wpxM": 342,
+       "yM": 7265,
+       "hpxM": 503,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 375,
+       "atoms": [
+        {
+         "type": "person",
+         "id": "6d49ca74-d6f5-4562-8a3b-ea7230e23100",
+         "gap": 17,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/145ec7d8-3528-484f-8464-89f5c207ffa1",
+           "alt": ""
+          }
+         ],
+         "faceSize": 72,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Lars Lanius",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Lars Lanius</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Rechtsanwalt aus Lünen</p>"
+        },
+        {
+         "type": "header",
+         "id": "e09aad49-bb11-45e3-a96f-af1ae1950934",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"underline\">17 qualifiziere Leads pro Woche</mark> über Google Werbung, aus denen im Schnitt 13 Mandate werden. <br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "custom-code",
+         "id": "459dc1a9-1265-4bfd-a04c-87a5d398779a",
+         "gap": 20,
+         "halign": "left",
+         "raw": true,
+         "hpx": 220,
+         "source": {
+          "data": {
+           "html": "<div style=\"position:relative;padding-top:56.25%;\"><iframe src=\"https://player.mediadelivery.net/embed/748298/213275aa-6494-47a7-b8a1-b80264b51214?autoplay=false&loop=false&muted=false&preload=true&responsive=true\" loading=\"lazy\" style=\"border:0;position:absolute;top:0;height:100%;width:100%;\" allow=\"accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;\" allowfullscreen=\"true\"></iframe></div>"
+          },
+          "styles": {}
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1523,
+      "w": 1250,
+      "h": 2486
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1296,
+      "w": 342,
+      "h": 6473
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1278,
+    "w": 1440,
+    "h": 2755
+   },
+   "boxM": {
+    "x": 0,
+    "y": 1019,
+    "w": 390,
+    "h": 6762
+   }
+  },
+  {
+   "id": "tk2Blq-RAgDwmtmCZV3qs",
+   "title": "Testimonials",
+   "only": "mobile",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    25,
+    50
+   ],
+   "padM": [
+    25,
+    50
+   ],
+   "padT": [
+    51,
+    100
+   ],
+   "side": 24,
+   "container": {
+    "w": null,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "7b67db57-ea6d-48a5-bbfd-bcae1b2800c8",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "grid",
+       "wpx": 342,
+       "hpx": 615,
+       "x": 24,
+       "y": 7805,
+       "mbox": {
+        "x": 24,
+        "y": 7805,
+        "w": 342,
+        "h": 615
+       },
+       "wpxM": 342,
+       "yM": 7805,
+       "hpxM": 615,
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "plain-text",
+         "id": "m-P0W_XU1b8isVicRb7uV",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Simon und sein Team von reinkober.com leisten herausragende Arbeit! Sie unterstützen mich – eine chaotische Musikerin mit wenig Technikaffinität – genau an den Punkten, an denen ich alleine nicht weiterkomme. Dank ihnen erleben wir einen kontinuierlichen Zustrom neuer Interessenten und Kunden in unserem Projekt. Ich bin unglaublich dankbar für unsere Zusammenarbeit und würde sie am liebsten überhaupt nicht weiter empfehlen, um sie für mich ganz alleine zu haben. - Vergesst Star Wars, Marvel &amp; Co, denn hier findet ihr wahre Superhelden fürs echte Leben!“</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "person",
+         "id": "eqQS1RnFn5KcXSuy24MxQ",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/00a189ce-68a5-47e0-870c-d3e8df15932b",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Elo von Knorre",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Elo von Knorre</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Musikerin &amp; Musikcoach<br>elovonknorre.de</p>",
+         "cell": 0
+        },
+        {
+         "type": "plain-text",
+         "id": "eWjBuTu6hWkQKdW9-d08B",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Ich arbeite mit Simon mittlerweile nun mehr als vier Jahre zusammen und habe zeitweise auch eine Gesellschaft gemeinsam mit ihm geführt. Währenddessen haben wir zahlreiche Projekte erfolgreich auf den Weg gebracht, skaliert und schließlich auch verkauft. Simons Fähigkeiten, sich an Entwicklungen schnell anzupassen und zielführende Wege zu finden, waren hierfür definitiv von Vorteil. Ich bin mir sicher, dass er auch in Zukunft bei neuen Projekten einen anhaltenden Erfolg erzielen kann!\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "person",
+         "id": "hnZ11aBDT43bGvJQVLK5_",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/b67ec48e-338a-4f31-a2f8-179621310fc2",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Simon Roth",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Simon Roth</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Gründer &amp; Geschäftsführer <br>techadiacom UG (haftungsbeschränkt)</p>",
+         "cell": 1
+        },
+        {
+         "type": "plain-text",
+         "id": "6bKEnTDBhre4uPFwqZE-C",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Durch das umfangreiche Know-how in den Bereichen Angebotsstrukturierung und Performance Advertising hat reinkober.com uns entscheidend dabei unterstützt, die von uns für unsere Kunden entwickelten Marketingstrategien umzusetzen und stetig zu optimieren. Die Expertise in der Ausarbeitung von Angeboten und der Durchführung effektiver Werbemaßnahmen hat signifikant zur Steigerung der Sichtbarkeit und zum Erfolg der Marken unserer Kunden beigetragen. Ich freue mich auf die Fortsetzung dieser erfolgreichen Partnerschaft!\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "person",
+         "id": "Ibg8A7ptLXfrHHz-rL2Vj",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/acfa7965-23a2-4680-8cf9-82323f15941d",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Roman Reimer",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Roman Reimer</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Gründer &amp; Geschäftsführer der Strategie- und Markenberatung tolstoii aus Hamburg</p>",
+         "cell": 2
+        },
+        {
+         "type": "plain-text",
+         "id": "IPe0nHm5WeeBC78PoY5is",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Seit einiger Zeit arbeitet Simon mit seinem Team engagiert an der Entwicklung von Landingpages und Werbekampagnen für mehrere unserer über zehn Online-Shops und Projekte innerhalb der Unternehmensgruppe. Das Hauptziel ist dabei stets, sowohl die Quantität als auch die Qualität der Leads zu verbessern und unsere Verkaufszahlen zu steigern. Wir sind mit den bisherigen Ergebnissen äußerst zufrieden und freuen uns auf die Fortsetzung dieser erfolgreichen Zusammenarbeit.\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 3
+        },
+        {
+         "type": "person",
+         "id": "WsXIn2JkM5o7Qkq-0Xa-0",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/df9c0e09-9c91-4ce9-b0d0-2fe3559b34ff",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Laura Kerkhoff",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Laura Kerkhoff</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Geschäftsführerin KSR-digital</p>",
+         "cell": 3
+        },
+        {
+         "type": "plain-text",
+         "id": "fXJBGB-rAGCdlGe6V7MF5",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Als langjähriger Kunde von reinkober.com möchten wir unsere durchweg positive Erfahrung teilen. Ihre Expertise in Leadgenerierung und Performance Advertising, insbesondere bei Google, hat uns maßgeblich unterstützt. Das Team von reinkober.com überzeugt mit maßgeschneiderten Funnel-Systemen, die unsere Zielgruppen effektiv erreichen und die Conversion-Raten steigern. Wir sind rundum zufrieden.\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 4
+        },
+        {
+         "type": "person",
+         "id": "NAjWQrTHibuIaXSJ-4hwO",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/99116afd-1a28-4595-a6ac-97d88582f16d",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Reza S.",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Reza S.</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Leadgen-Unternehmen Schweiz</p>",
+         "cell": 4
+        },
+        {
+         "type": "plain-text",
+         "id": "a052b002-a592-46d8-8261-80624b68d74b",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>\"Die Suche nach Approbierte/n Apotheker/innen und PKA hat sich früher immer als echte Herausforderung dargestellt. Dank Ihrer Agentur und des gezielten online Recruitings konnten wir jedoch deutlich schneller und erfolgreicher qualifizierte Bewerbungen gewinnen und insgesamt 3 Approbierte bei 5 qualifizierten Bewerbern einstellen. Die Zusammenarbeit war unkompliziert und das Ergebnis spricht für sich. Ich bin sehr zufrieden und empfehle Sie gerne weiter.\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 5
+        },
+        {
+         "type": "person",
+         "id": "3e76a646-9cf0-4bc5-ae64-cb11007bd15f",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/5bdd8b9a-3329-4817-8343-97bc9152a59b",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Christoph Bergbauer",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Christoph Bergbauer</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Inhaber &amp; Geschäftsführer </p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Georgen Apotheke Apotheker Christoph Bergbauer e.K.</p>",
+         "cell": 5
+        }
+       ],
+       "gl": {
+        "n": 1,
+        "gapX": 0,
+        "gapY": null,
+        "nM": 1,
+        "gapYM": null,
+        "item": {
+         "kind": "solid",
+         "bg": "#ffffff",
+         "radius": "8px",
+         "shadow": "rgba(17, 17, 26, 0.05) 0px 1px 4px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px 0px",
+         "pad": "41px",
+         "text": "#151f25",
+         "halign": "left",
+         "valign": "top"
+        },
+        "itemW": 366,
+        "slider": {
+         "arrows": false,
+         "dots": true,
+         "itemW": 366
+        }
+       }
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 7805,
+      "w": 342,
+      "h": 615
+     },
+     "boxM": {
+      "x": 24,
+      "y": 7805,
+      "w": 342,
+      "h": 615
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 7780,
+    "w": 390,
+    "h": 690
+   },
+   "boxM": {
+    "x": 0,
+    "y": 7780,
+    "w": 390,
+    "h": 690
+   }
+  },
+  {
+   "id": "SDcHgPPG5uvIkmX3Mkd-L",
+   "title": "Testimonials Desktop",
+   "only": "desktop",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    51,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "c7e477e0-6e06-4d03-b568-212281e44fb8",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "grid",
+       "wpx": 1298,
+       "hpx": 1201,
+       "x": 71,
+       "y": 4084,
+       "mbox": {
+        "x": 95,
+        "y": 4084,
+        "w": 1250,
+        "h": 1201
+       },
+       "atoms": [
+        {
+         "type": "plain-text",
+         "id": "3Rh7dS4VXfOzMJY7o0xdo",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Simon und sein Team von reinkober.com leisten herausragende Arbeit! Sie unterstützen mich – eine chaotische Musikerin mit wenig Technikaffinität – genau an den Punkten, an denen ich alleine nicht weiterkomme. Dank ihnen erleben wir einen kontinuierlichen Zustrom neuer Interessenten und Kunden in unserem Projekt. Ich bin unglaublich dankbar für unsere Zusammenarbeit und würde sie am liebsten überhaupt nicht weiter empfehlen, um sie für mich ganz alleine zu haben. - Vergesst Star Wars, Marvel &amp; Co, denn hier findet ihr wahre Superhelden fürs echte Leben!“</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "person",
+         "id": "2ElqBiw0sggwLEIzul5Pd",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/00a189ce-68a5-47e0-870c-d3e8df15932b",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Elo von Knorre",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Elo von Knorre</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Musikerin &amp; Musikcoach<br>elovonknorre.de</p>",
+         "cell": 0
+        },
+        {
+         "type": "plain-text",
+         "id": "1lkOpjxqgatUyCQG_AMVO",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Ich arbeite mit Simon mittlerweile nun mehr als vier Jahre zusammen und habe zeitweise auch eine Gesellschaft gemeinsam mit ihm geführt. Währenddessen haben wir zahlreiche Projekte erfolgreich auf den Weg gebracht, skaliert und schließlich auch verkauft. Simons Fähigkeiten, sich an Entwicklungen schnell anzupassen und zielführende Wege zu finden, waren hierfür definitiv von Vorteil. Ich bin mir sicher, dass er auch in Zukunft bei neuen Projekten einen anhaltenden Erfolg erzielen kann!\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "person",
+         "id": "TLmY-JjkKg5JlKTSxhwdm",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/b67ec48e-338a-4f31-a2f8-179621310fc2",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Simon Roth",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Simon Roth</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Gründer &amp; Geschäftsführer <br>techadiacom UG (haftungsbeschränkt)</p>",
+         "cell": 1
+        },
+        {
+         "type": "plain-text",
+         "id": "_7BJGN5jh8NNuwUGi5-D8",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Durch das umfangreiche Know-how in den Bereichen Angebotsstrukturierung und Performance Advertising hat reinkober.com uns entscheidend dabei unterstützt, die von uns für unsere Kunden entwickelten Marketingstrategien umzusetzen und stetig zu optimieren. Die Expertise in der Ausarbeitung von Angeboten und der Durchführung effektiver Werbemaßnahmen hat signifikant zur Steigerung der Sichtbarkeit und zum Erfolg der Marken unserer Kunden beigetragen. Ich freue mich auf die Fortsetzung dieser erfolgreichen Partnerschaft!\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "person",
+         "id": "rWJ9Z1cTW-ewPVFJ2Vuj9",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/acfa7965-23a2-4680-8cf9-82323f15941d",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Roman Reimer",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Roman Reimer</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Gründer &amp; Geschäftsführer der Strategie- und Markenberatung tolstoii aus Hamburg</p>",
+         "cell": 2
+        },
+        {
+         "type": "plain-text",
+         "id": "FN_QnVoXhWsmlmkYSVbAR",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Seit einiger Zeit arbeitet Simon mit seinem Team engagiert an der Entwicklung von Landingpages und Werbekampagnen für mehrere unserer über zehn Online-Shops und Projekte innerhalb der Unternehmensgruppe. Das Hauptziel ist dabei stets, sowohl die Quantität als auch die Qualität der Leads zu verbessern und unsere Verkaufszahlen zu steigern. Wir sind mit den bisherigen Ergebnissen äußerst zufrieden und freuen uns auf die Fortsetzung dieser erfolgreichen Zusammenarbeit.\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 3
+        },
+        {
+         "type": "person",
+         "id": "b0AVnPejYbgfSS-8ckpSe",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/df9c0e09-9c91-4ce9-b0d0-2fe3559b34ff",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Laura Kerkhoff",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Laura Kerkhoff</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Geschäftsführerin KSR-digital</p>",
+         "cell": 3
+        },
+        {
+         "type": "plain-text",
+         "id": "F36r4SKCb1gbMvpvCwR0R",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>„Als langjähriger Kunde von reinkober.com möchten wir unsere durchweg positive Erfahrung teilen. Ihre Expertise in Leadgenerierung und Performance Advertising, insbesondere bei Google, hat uns maßgeblich unterstützt. Das Team von reinkober.com überzeugt mit maßgeschneiderten Funnel-Systemen, die unsere Zielgruppen effektiv erreichen und die Conversion-Raten steigern. Wir sind rundum zufrieden.\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 4
+        },
+        {
+         "type": "person",
+         "id": "kXH-sj9eKDpOi5M8h-mek",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/99116afd-1a28-4595-a6ac-97d88582f16d",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Reza S.",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Reza S.</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Leadgen-Unternehmen Schweiz</p>",
+         "cell": 4
+        },
+        {
+         "type": "plain-text",
+         "id": "c478ff4c-cb11-4f80-b758-638ae4c72e08",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>\"Die Suche nach Approbierte/n Apotheker/innen und PKA hat sich früher immer als echte Herausforderung dargestellt. Dank Ihrer Agentur und des gezielten online Recruitings konnten wir jedoch deutlich schneller und erfolgreicher qualifizierte Bewerbungen gewinnen und insgesamt 3 Approbierte Apotheker/innen bei 5 qualifizierten Bewerbern einstellen. Die Zusammenarbeit war unkompliziert und das Ergebnis spricht für sich. Ich bin sehr zufrieden und empfehle Sie gerne weiter.\"</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 5
+        },
+        {
+         "type": "person",
+         "id": "4ddabf20-23ef-49f8-8ae7-ebd8d595b711",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/5bdd8b9a-3329-4817-8343-97bc9152a59b",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Christoph Bergbauer",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<strong><p>Christoph Bergbauer</p></strong><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Inhaber &amp; Geschäftsführer<br>Georgen Apotheke Apotheker Christoph Bergbauer e.K.</p>",
+         "cell": 5
+        }
+       ],
+       "gl": {
+        "n": 2,
+        "gapX": 24,
+        "gapY": 24,
+        "nM": 1,
+        "gapYM": null,
+        "item": {
+         "kind": "solid",
+         "bg": "#ffffff",
+         "radius": "8px",
+         "shadow": "rgba(17, 17, 26, 0.05) 0px 1px 4px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px 0px",
+         "pad": "41px",
+         "text": "#151f25",
+         "halign": "left",
+         "valign": "top"
+        },
+        "itemW": 613,
+        "slider": null
+       }
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4084,
+      "w": 1250,
+      "h": 1201
+     }
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 4033,
+    "w": 1440,
+    "h": 1352
+   }
+  },
+  {
+   "id": "7f2eb353-9323-4086-893e-4a36cf8e72b3",
+   "title": "Inhalt",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    61,
+    60
+   ],
+   "padM": [
+    30,
+    30
+   ],
+   "padT": [
+    61,
+    60
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "radius": "16px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "radius": "16px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "bb3d4a7b-8bcf-402a-81d0-ea3d1f26d326",
+     "grid": "columns",
+     "frame": {
+      "kind": "solid",
+      "bg": "#f2f2f2",
+      "radius": "16px",
+      "pad": "80px 80px 80px 80px",
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "19",
+       "md": "19",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 876,
+       "hpx": 124,
+       "x": 282,
+       "y": 5525,
+       "mbox": {
+        "x": 290,
+        "y": 5525,
+        "w": 860,
+        "h": 124
+       },
+       "wpxM": 294,
+       "yM": 8523,
+       "hpxM": 219,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 606,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "63b96047-6ed0-466b-929b-3bd48bf91101",
+         "gap": 15,
+         "w": "86.1707232835875%",
+         "halign": "center",
+         "html": "<strong><p>Wir sind auf Stimmenfang.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "6b20fbdf-8f57-45e7-a656-93e6f21f01d2",
+         "gap": 40,
+         "halign": "center",
+         "html": "<p>Bald finden Sie hier noch mehr Stimmen von unseren Kunden &amp; Partnern!</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 5445,
+      "w": 1250,
+      "h": 284
+     },
+     "boxM": {
+      "x": 24,
+      "y": 8499,
+      "w": 342,
+      "h": 267
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 5384,
+    "w": 1440,
+    "h": 405
+   },
+   "boxM": {
+    "x": 0,
+    "y": 8469,
+    "w": 390,
+    "h": 327
+   }
+  },
+  {
+   "id": "108161c2-b542-4dd4-9b7d-4d3dae20979f",
+   "title": "Fußzeile Global 2",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    61,
+    80
+   ],
+   "padM": [
+    30,
+    40
+   ],
+   "padT": [
+    61,
+    80
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "LFz0L9wdlP-WsUtcF4sVg",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 94,
+       "y": 5848,
+       "mbox": {
+        "x": 122,
+        "y": 5848,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 8825,
+       "hpxM": 366,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "ppAZ17-odGtbU42km4is6",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Unternehmen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "5bbf22f9-a7d9-4554-9513-ea36f4e995d9",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Y6YmPKYV5wwhMUdRI6wX8",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Über uns & was wir tun",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Karriere",
+           "href": "/karriere",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Potenzial-Analyse",
+           "href": "/potenzial-analyse",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kontakt",
+           "href": "/kontakt",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "8",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 435,
+       "hpx": 464,
+       "x": 366,
+       "y": 5848,
+       "mbox": {
+        "x": 394,
+        "y": 5848,
+        "w": 379,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 9191,
+       "hpxM": 537,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "UC7YkAB6uXvKuUD5wpAHJ",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Leistungen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "d34bcf03-baf2-4d05-8f45-607ad83508a2",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 379,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "nbUi8zuih0yYq8qAJShK2",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Mandantengewinnung für Anwälte",
+           "href": "https://www.heyadvo.com",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Handwerker",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Steuerberater",
+           "href": "/mitarbeitergewinnung-steuerberater",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Apotheken",
+           "href": "/mitarbeitergewinnung-apotheken",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Handwerksbetriebe",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 802,
+       "y": 5848,
+       "mbox": {
+        "x": 830,
+        "y": 5848,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 9728,
+       "hpxM": 334,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "Gw3NOgKX7lRycFG6df-Ic",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Marketing-Blog</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "b9be9d6f-233b-445f-8b61-7eda7c09bfb5",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Lozpi2yuJNtiq_SQgl0Wj",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Zum Marketing-Blog",
+           "href": "/marketing-blog",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "KI-Schulungspflicht in Unternehmen",
+           "href": "/ki-schulungspflicht-in-unternehmen",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 häufige SEO-Fehler",
+           "href": "/10-haufige-seo-fehler",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 Tipps für ein besseres Instagram-Profil",
+           "href": "/10-tipps-fur-ein-besseres-instagram-profil",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 90
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 1074,
+       "y": 5848,
+       "mbox": {
+        "x": 1102,
+        "y": 5848,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 10061,
+       "hpxM": 338,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "SV2PwlVp3NlB2_L0VLTfB",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Kontakt</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "f620dd3b-de9e-44ee-918c-93b7fd947f53",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "contacts",
+         "id": "suWozKFJMh47QbZ6HZ-_D",
+         "gap": 20,
+         "halign": "left",
+         "items": [
+          {
+           "href": "tel:+49016096088604",
+           "text": "+49 (0) 160 960 886 04",
+           "sub": "Rufen Sie uns an",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M15.639,14.407l-2.355,2.321a19.111,19.111,0,0,1-3.4-2.613,19.353,19.353,0,0,1-2.612-3.4L9.591,8.36a1.01,1.01,0,0,0,.208-1.1L7.382,1.614A1.009,1.009,0,0,0,6.2,1.036L1.756,2.209A1.007,1.007,0,0,0,1,3.218,21.337,21.337,0,0,0,7.039,16.959,21.339,21.339,0,0,0,20.784,23a1.011,1.011,0,0,0,1.01-.756l1.172-4.44a1.009,1.009,0,0,0-.577-1.186L16.748,14.2A1.009,1.009,0,0,0,15.639,14.407Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          },
+          {
+           "href": "mailto:info@reinkober.com",
+           "text": "info@reinkober.com",
+           "sub": "Schreiben Sie eine E-Mail",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\"></path> <path d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          }
+         ],
+         "dir": "row",
+         "gapItems": 12,
+         "html": "<a href=\"tel:+49016096088604\">+49 (0) 160 960 886 04Rufen Sie uns an</a><a href=\"mailto:info@reinkober.com\">info@reinkober.comSchreiben Sie eine E-Mail</a>",
+         "iconSize": 26,
+         "iconColor": "#ffffff"
+        },
+        {
+         "type": "link-group",
+         "id": "683b9cf4-094e-40a9-83eb-541d8110d99f",
+         "gap": 20,
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Kontakt aufnehmen",
+           "href": "/kontakt",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 40,
+           "w": 216,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            5,
+            20
+           ],
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 41.59,
+           "w": 342,
+           "fs": 13,
+           "pad": [
+            5,
+            20
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "social",
+         "id": "UgXHlwm7s_lhzxFDjPRUq",
+         "gap": 10,
+         "halign": "left",
+         "items": [
+          {
+           "href": "https://www.facebook.com/reinkoberholding",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#3b5998\" d=\"M9.03153,23L9,13H5V9h4V6.5C9,2.7886,11.29832,1,14.60914,1c1.58592,0,2.94893,0.11807,3.34615,0.17085 v3.87863l-2.29623,0.00104c-1.80061,0-2.14925,0.85562-2.14925,2.11119V9H18.75l-2,4h-3.24019v10H9.03153z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.instagram.com/reinkober.holding/",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#231F20\" d=\"M12,2.982c2.937,0,3.285.011,4.445.064a6.072,6.072,0,0,1,2.042.379,3.4,3.4,0,0,1,1.265.823,3.4,3.4,0,0,1,.823,1.265,6.072,6.072,0,0,1,.379,2.042c.053,1.16.064,1.508.064,4.445s-.011,3.285-.064,4.445a6.072,6.072,0,0,1-.379,2.042,3.644,3.644,0,0,1-2.088,2.088,6.072,6.072,0,0,1-2.042.379c-1.16.053-1.508.064-4.445.064s-3.285-.011-4.445-.064a6.072,6.072,0,0,1-2.042-.379,3.4,3.4,0,0,1-1.265-.823,3.4,3.4,0,0,1-.823-1.265,6.072,6.072,0,0,1-.379-2.042c-.053-1.16-.064-1.508-.064-4.445s.011-3.285.064-4.445a6.072,6.072,0,0,1,.379-2.042,3.4,3.4,0,0,1,.823-1.265,3.4,3.4,0,0,1,1.265-.823,6.072,6.072,0,0,1,2.042-.379c1.16-.053,1.508-.064,4.445-.064M12,1c-2.987,0-3.362.013-4.535.066a8.108,8.108,0,0,0-2.67.511A5.625,5.625,0,0,0,1.577,4.8a8.108,8.108,0,0,0-.511,2.67C1.013,8.638,1,9.013,1,12s.013,3.362.066,4.535a8.108,8.108,0,0,0,.511,2.67A5.625,5.625,0,0,0,4.8,22.423a8.108,8.108,0,0,0,2.67.511C8.638,22.987,9.013,23,12,23s3.362-.013,4.535-.066a8.108,8.108,0,0,0,2.67-.511A5.625,5.625,0,0,0,22.423,19.2a8.108,8.108,0,0,0,.511-2.67C22.987,15.362,23,14.987,23,12s-.013-3.362-.066-4.535a8.108,8.108,0,0,0-.511-2.67A5.625,5.625,0,0,0,19.2,1.577a8.108,8.108,0,0,0-2.67-.511C15.362,1.013,14.987,1,12,1Z\"></path><path d=\"M12,6.351A5.649,5.649,0,1,0,17.649,12,5.649,5.649,0,0,0,12,6.351Zm0,9.316A3.667,3.667,0,1,1,15.667,12,3.667,3.667,0,0,1,12,15.667Z\"></path><circle cx=\"17.872\" cy=\"6.128\" r=\"1.32\"></circle></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.linkedin.com/company/14815912",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#0076B6\" d=\"M23,0H1C0.4,0,0,0.4,0,1v22c0,0.6,0.4,1,1,1h22c0.6,0,1-0.4,1-1V1C24,0.4,23.6,0,23,0z M7.1,20.5H3.6V9h3.6 V20.5z M5.3,7.4c-1.1,0-2.1-0.9-2.1-2.1c0-1.1,0.9-2.1,2.1-2.1c1.1,0,2.1,0.9,2.1,2.1C7.4,6.5,6.5,7.4,5.3,7.4z M20.5,20.5h-3.6 v-5.6c0-1.3,0-3-1.8-3c-1.9,0-2.1,1.4-2.1,2.9v5.7H9.4V9h3.4v1.6h0c0.5-0.9,1.6-1.8,3.4-1.8c3.6,0,4.3,2.4,4.3,5.5V20.5z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          }
+         ],
+         "dir": "row",
+         "gapItems": 16,
+         "html": "<a href=\"https://www.facebook.com/reinkoberholding\" target=\"_blank\"></a><a href=\"https://www.instagram.com/reinkober.holding/\" target=\"_blank\"></a><a href=\"https://www.linkedin.com/company/14815912\" target=\"_blank\"></a>",
+         "iconSize": 18,
+         "iconColor": "#151f25"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 5848,
+      "w": 1250,
+      "h": 464
+     },
+     "boxM": {
+      "x": 24,
+      "y": 8825,
+      "w": 342,
+      "h": 1574
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 5787,
+    "w": 1440,
+    "h": 605
+   },
+   "boxM": {
+    "x": 0,
+    "y": 8795,
+    "w": 390,
+    "h": 1644
+   }
+  },
+  {
+   "id": "1031e62c-0ac5-42c7-9a87-491b3280d825",
+   "title": "Fußzeile 2 Global",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    31,
+    14
+   ],
+   "padM": [
+    15,
+    7
+   ],
+   "padT": [
+    31,
+    14
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "1bh4QeuVKY-zDxWmln5ed",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 791,
+       "hpx": 189,
+       "x": 324,
+       "y": 6422,
+       "mbox": {
+        "x": 332,
+        "y": 6422,
+        "w": 775,
+        "h": 189
+       },
+       "wpxM": 342,
+       "yM": 10454,
+       "hpxM": 322,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "v7iNTO2MhW42TqubGqim2",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/7050135a-9ff5-4110-8263-9dde1c6b5b58",
+         "alt": "Logo reinkober.com",
+         "wpx": 200,
+         "hpx": 28,
+         "wpxM": 200,
+         "hpxM": 28,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "plain-text",
+         "id": "BRT3ZEtLnltJmLF4KQcKh",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "5VaH0FmvL7oIpSFSMoh-s",
+         "gap": 15,
+         "halign": "center",
+         "style": "color",
+         "dir": "vertical",
+         "size": "s",
+         "space": "10px",
+         "items": [
+          {
+           "text": "Impressum",
+           "href": "/impressum",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "AGB",
+           "href": "/agb",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "Datenschutz",
+           "href": "/datenschutz",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          }
+         ]
+        },
+        {
+         "type": "plain-text",
+         "id": "RftLzF3IazEYpOgtCYlWO",
+         "gap": 30,
+         "halign": "center",
+         "html": "<p>© 2019 - 2026 reinkober.com - Alle Rechte vorbehalten.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 12,
+          "lh": 18,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 6422,
+      "w": 1250,
+      "h": 189
+     },
+     "boxM": {
+      "x": 24,
+      "y": 10454,
+      "w": 342,
+      "h": 322
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 6391,
+    "w": 1440,
+    "h": 234
+   },
+   "boxM": {
+    "x": 0,
+    "y": 10439,
+    "w": 390,
+    "h": 344
+   }
+  },
+  {
+   "id": "cf520d54-f0b4-434e-ba44-c815468d9482",
+   "title": "mega-menu-manager",
+   "only": "both",
+   "isHeader": false,
+   "isMega": true,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    17,
+    56
+   ],
+   "padM": [
+    8,
+    28
+   ],
+   "padT": [
+    17,
+    56
+   ],
+   "side": 0,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "radius": "16px",
+     "pad": "56px",
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "top"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "radius": "16px",
+     "pad": "56px",
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "top"
+    }
+   },
+   "rows": [
+    {
+     "id": "7ZRThB7HqSwNtN6bV5gQF",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "left",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "8",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 387,
+       "hpx": 569,
+       "x": 139,
+       "y": 38,
+       "mbox": {
+        "x": 151,
+        "y": 38,
+        "w": 363,
+        "h": 569
+       },
+       "wpxM": 0,
+       "yM": 0,
+       "hpxM": 0,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 0,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "u7qknNQ0JBjMOc4efqfKy",
+         "gap": 30,
+         "gapM": 0,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"brush-underline\">Neukundengewinnung</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         },
+         "only": "desktop"
+        },
+        {
+         "type": "menu-v2",
+         "id": "865IXcqWtGsyI0p5ypMxq",
+         "gap": 10,
+         "gapM": 0,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "s",
+         "space": "32px",
+         "items": [
+          {
+           "text": "Mandantengewinnung für Anwälte",
+           "sub": "Mehr A-Mandate für Ihre Kanzlei durch das heyavo-Neumandantensystem.",
+           "href": "https://www.heyadvo.com",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 91,
+           "img": "unsplash/MYbhN8KaaEc"
+          },
+          {
+           "text": "Kundengewinnung für Handwerker",
+           "sub": "Ob Sanitär oder Bausanierung - wir liefern Neukunden und bauen Systeme.",
+           "href": "/kundengewinnung-handwerk",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 91,
+           "img": "unsplash/XcLQN-2R9CM"
+          },
+          {
+           "text": "Kundengewinnung für Dienstleister",
+           "sub": "Mehr Kunden für Cateringunternehmen oder andere regionale Dienstleister.",
+           "href": "/kundengewinnung-dienstleister",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 91,
+           "img": "unsplash/fMntI8HAAB8"
+          },
+          {
+           "text": "Kundengewinnung für Pflegedienste",
+           "sub": "Ob ambulant oder stationär – wir bringen Ihnen neue Klienten und füllen Ihre Kapazitäten.",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 110,
+           "img": "media/1ee9e27d-af96-4959-bf8f-b2c4032db4b9"
+          },
+          {
+           "text": "Kundengewinnung für KFZ-Werkstätten",
+           "sub": "Wir sorgen dafür, dass der Hof voll ist.",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 91,
+           "img": "unsplash/8t6tk7LYLrE"
+          }
+         ],
+         "only": "desktop"
+        }
+       ]
+      },
+      {
+       "lg": "9",
+       "md": "9",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 436,
+       "hpx": 569,
+       "x": 526,
+       "y": 38,
+       "mbox": {
+        "x": 538,
+        "y": 38,
+        "w": 412,
+        "h": 569
+       },
+       "wpxM": 0,
+       "yM": 0,
+       "hpxM": 0,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 0,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "O0Sm37yXpJpPOq118KtmN",
+         "gap": 30,
+         "gapM": 0,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"brush-underline\">Mitarbeitergewinnung</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         },
+         "only": "desktop"
+        },
+        {
+         "type": "menu-v2",
+         "id": "EbirSo3MSM6t28xaVu05G",
+         "gap": 10,
+         "gapM": 0,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "s",
+         "space": "20px",
+         "items": [
+          {
+           "text": "Recruiting für Steuerberater",
+           "sub": "Vom Steuerfachangestellten oder Spezialstellen wie Sachbearbeiter Digitale Kanzleiprozesse und Mandantenservice.",
+           "href": "/mitarbeitergewinnung-steuerberater",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 98,
+           "img": "unsplash/8wLZi9OhsWU"
+          },
+          {
+           "text": "Recruiting für Apotheken",
+           "sub": "Vom approbierten Apotheker bis zum pharmazeutisch-kaufmännischen Angestellten",
+           "href": "/mitarbeitergewinnung-apotheken",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "unsplash/m-StmYvk7q0"
+          },
+          {
+           "text": "Recruiting für Handwerksbetriebe",
+           "sub": "Neue Fachkräfte für Ihren Betrieb. \nGezielt, regional, praxisnah.",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "unsplash/oQQEXoG8Oqc"
+          },
+          {
+           "text": "Recruiting für Dienstleister",
+           "sub": "Von Cateringunternehmen bis Sicherheitsfirmen. Vom Koch bis zum Alarmfahrer.",
+           "href": "/mitarbeitergewinnung-dienstleister",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "unsplash/2OX0bKvL1-I"
+          },
+          {
+           "text": "Recruiting für Pflegedienste",
+           "sub": "Von der examinierten Pflegefachkraft bis zum Pflegehelfer. Gezielt, regional, praxisnah.",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "media/e8990ac5-696c-4863-8aa5-64b28bd461ec"
+          },
+          {
+           "text": "Recruiting für KFZ-Werkstätten",
+           "sub": "Ob im Büro oder neue Unterstützung in der Werkstatt. Vom Azubi bis zum Meister.",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "unsplash/UZUzvJEvKnI"
+          }
+         ],
+         "only": "desktop"
+        }
+       ]
+      },
+      {
+       "lg": "7",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 339,
+       "hpx": 569,
+       "x": 962,
+       "y": 38,
+       "mbox": {
+        "x": 974,
+        "y": 38,
+        "w": 315,
+        "h": 569
+       },
+       "wpxM": 0,
+       "yM": 0,
+       "hpxM": 0,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 0,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "-N7yNaCv8DZzwa1HwV7cC",
+         "gap": 30,
+         "gapM": 0,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"brush-underline\">Kontakt</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         },
+         "only": "desktop"
+        },
+        {
+         "type": "map",
+         "id": "mxMMSZ-cWejyEHGDCueZQ",
+         "gap": 20,
+         "gapM": 0,
+         "halign": "left",
+         "raw": true,
+         "hpx": 215,
+         "only": "desktop",
+         "source": {
+          "data": {
+           "items": []
+          },
+          "styles": {
+           "location_x": "-122.419906",
+           "location_y": "37.7790262",
+           "osm_x": "7.6427878",
+           "osm_y": "51.6637736",
+           "osm_label": "Stockumer Straße 30 Deutschland, Werne",
+           "google_map_label": "San Francisco",
+           "resize_percent": 62,
+           "style": "light",
+           "radius_key": "custom",
+           "indentLg": 20,
+           "radius_custom": 12,
+           "map_provider_type": "free"
+          }
+         }
+        },
+        {
+         "type": "person",
+         "id": "smmA1sP5s7QrUBoYX452t",
+         "gap": 20,
+         "gapM": 0,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/35abd161-f83c-4891-b74f-7545b76ebbe1",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Simon Reinkober",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Simon Reinkober</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Geschäftsführer</p>",
+         "only": "desktop"
+        },
+        {
+         "type": "link-group",
+         "id": "61L0YdC4vuF_iN_J4PI-3",
+         "gap": 20,
+         "gapM": 0,
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Kostenloses Erstgespräch",
+           "href": "/kontakt",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 56,
+           "w": 315,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            7,
+            28
+           ],
+           "font": {
+            "fs": 15,
+            "lh": 22.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": null,
+           "w": 0,
+           "fs": 15,
+           "pad": [
+            7,
+            28
+           ]
+          }
+         ],
+         "mode": "vertical",
+         "only": "desktop"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 151,
+      "y": 38,
+      "w": 1138,
+      "h": 569
+     },
+     "boxM": {
+      "x": 0,
+      "y": 0,
+      "w": 0,
+      "h": 0
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 754
+   },
+   "boxM": {
+    "x": 0,
+    "y": 0,
+    "w": 0,
+    "h": 0
+   }
+  }
+ ],
+ "forms": []
+}

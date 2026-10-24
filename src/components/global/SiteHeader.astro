@@ -1,0 +1,122 @@
+---
+// Kopfbereich: Logo, Navigation, Megamenü "Ziele & Branchen", Button, mobiles Menü.
+import { Image } from 'astro:assets';
+import { getImage } from '../../data/images';
+import { mainNav, headerCta } from '../../data/navigation';
+import Section from '../blocks/Section.astro';
+import indexModel from '../../content/pages/index.json';
+
+interface Props { path: string; headings: Map<string, string> }
+const { path, headings } = Astro.props;
+const logo = getImage('media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89');
+const mega = (indexModel as any).sections.find((s: any) => s.isMega);
+const megaSection = mega ? { ...mega, only: 'both', pad: mega.pad, padM: [16, 24] } : null;
+const chevron = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z"/></svg>';
+---
+<header class="hdr" data-header>
+  <div class="hdr__in">
+    <a class="hdr__logo" href="/" aria-label="reinkober.com – zur Startseite">
+      {logo && <Image src={logo.src} alt="Logo reinkober.com" width={204} height={28} widths={[204, 408]} sizes="204px" loading="eager" />}
+    </a>
+    <nav class="hdr__nav" aria-label="Hauptnavigation">
+      <ul>
+        {mainNav.map((item) => (
+          <li>
+            {'mega' in item && item.mega ? (
+              <button type="button" class="hdr__link hdr__link--mega" aria-expanded="false" aria-controls="megamenu" data-mega-toggle>
+                <span>{item.label}</span><span class="hdr__chev" set:html={chevron} />
+              </button>
+            ) : (
+              <a class:list={['hdr__link', path === (item as any).href && 'is-active']} href={(item as any).href} aria-current={path === (item as any).href ? 'page' : undefined}><span>{item.label}</span></a>
+            )}
+          </li>
+        ))}
+      </ul>
+      <span class="hdr__spacer" aria-hidden="true"></span>
+    </nav>
+    <a class="btn btn--volume hdr__cta" href={headerCta.href}>
+      <span class="btn__text"><span class="btn__label">{headerCta.label}</span><span class="btn__sub">{headerCta.sub}</span></span>
+    </a>
+    <button type="button" class="hdr__burger" aria-label="Menü öffnen" aria-expanded="false" aria-controls="mnav" data-burger>
+      <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M15,7H1C0.4,7,0,7.4,0,8s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,7,15,7z"/><path d="M15,1H1C0.4,1,0,1.4,0,2s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,1,15,1z"/><path d="M15,13H1c-0.6,0-1,0.4-1,1s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,13,15,13z"/></svg>
+    </button>
+  </div>
+
+  {megaSection && (
+    <div class="mega" id="megamenu" hidden data-mega>
+      <div class="mega__holder" data-mega-holder>
+        <Section section={megaSection} headings={headings} index={-1} />
+      </div>
+    </div>
+  )}
+
+  <div class="mnav" id="mnav" hidden data-mnav>
+    <div class="mnav__bar">
+      <button type="button" class="mnav__back" hidden aria-label="Zurück" data-mnav-back>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12H4M10 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+      </button>
+      <a class="mnav__logo" href="/" aria-label="reinkober.com – zur Startseite">
+        {logo && <Image src={logo.src} alt="Logo reinkober.com" width={250} height={35} widths={[250, 500]} sizes="250px" loading="lazy" />}
+      </a>
+      <button type="button" class="mnav__close" aria-label="Menü schließen" data-mnav-close>
+        <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.5 3.5l9 9M12.5 3.5l-9 9" stroke="currentColor" stroke-width="1.5" fill="none"/></svg>
+      </button>
+    </div>
+    <div class="mnav__main" data-mnav-main>
+      <ul class="mnav__list">
+        {mainNav.map((item) => (
+          <li>
+            {'mega' in item && item.mega ? (
+              <button type="button" class="mnav__link" data-mnav-sub>{item.label}<span class="mnav__chev" aria-hidden="true">›</span></button>
+            ) : (
+              <a class:list={['mnav__link', path === (item as any).href && 'is-active']} href={(item as any).href} aria-current={path === (item as any).href ? 'page' : undefined}>{item.label}</a>
+            )}
+          </li>
+        ))}
+      </ul>
+      <a class="btn btn--volume mnav__cta" href={headerCta.href}>
+        <span class="btn__text"><span class="btn__label">{headerCta.label}</span><span class="btn__sub">{headerCta.sub}</span></span>
+      </a>
+    </div>
+    <div class="mnav__sub" data-mnav-subpanel hidden></div>
+  </div>
+</header>
+
+<script>
+  const hdr = document.querySelector<HTMLElement>('[data-header]');
+  if (hdr) {
+    const toggle = hdr.querySelector<HTMLButtonElement>('[data-mega-toggle]');
+    const mega = hdr.querySelector<HTMLElement>('[data-mega]');
+    const holder = hdr.querySelector<HTMLElement>('[data-mega-holder]');
+    const setMega = (open: boolean) => {
+      if (!toggle || !mega) return;
+      mega.hidden = !open;
+      toggle.setAttribute('aria-expanded', String(open));
+      toggle.classList.toggle('is-open', open);
+    };
+    toggle?.addEventListener('click', (e) => { e.stopPropagation(); setMega(mega!.hidden); });
+    document.addEventListener('click', (e) => { if (mega && !mega.hidden && !mega.contains(e.target as Node)) setMega(false); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { if (mega && !mega.hidden) { setMega(false); toggle?.focus(); } closeNav(); } });
+
+    // Mobiles Menü
+    const burger = hdr.querySelector<HTMLButtonElement>('[data-burger]');
+    const nav = hdr.querySelector<HTMLElement>('[data-mnav]');
+    const main = hdr.querySelector<HTMLElement>('[data-mnav-main]');
+    const sub = hdr.querySelector<HTMLElement>('[data-mnav-subpanel]');
+    const back = hdr.querySelector<HTMLButtonElement>('[data-mnav-back]');
+    const logo = hdr.querySelector<HTMLElement>('.mnav__logo');
+    const showSub = (on: boolean) => {
+      if (!sub || !main || !back || !holder) return;
+      if (on) sub.appendChild(holder); else mega?.appendChild(holder);
+      sub.hidden = !on; main.hidden = on; back.hidden = !on; if (logo) logo.hidden = on;
+      (on ? back : hdr.querySelector<HTMLElement>('[data-mnav-sub]'))?.focus();
+    };
+    const openNav = () => { if (!nav) return; nav.hidden = false; document.body.classList.add('no-scroll'); burger?.setAttribute('aria-expanded', 'true'); nav.querySelector<HTMLElement>('[data-mnav-close]')?.focus(); };
+    function closeNav() { if (!nav || nav.hidden) return; showSub(false); nav.hidden = true; document.body.classList.remove('no-scroll'); burger?.setAttribute('aria-expanded', 'false'); burger?.focus(); }
+    burger?.addEventListener('click', openNav);
+    hdr.querySelector('[data-mnav-close]')?.addEventListener('click', closeNav);
+    hdr.querySelector('[data-mnav-sub]')?.addEventListener('click', () => showSub(true));
+    back?.addEventListener('click', () => showSub(false));
+    matchMedia('(min-width: 992px)').addEventListener('change', (e) => { if (e.matches) closeNav(); });
+  }
+</script>

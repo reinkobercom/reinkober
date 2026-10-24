@@ -1,0 +1,21 @@
+---
+// Zeitstrahl (z. B. "So verhelfen wir Ihnen zu Mehr."): Schritte abwechselnd links/rechts,
+// mit nummerierten Markierungen auf der Mittellinie. Versatz wie gemessen.
+import Molecule from './Molecule.astro';
+
+interface Props { cols: any[]; headings: Map<string, string> }
+const { cols, headings } = Astro.props;
+const minX = Math.min(...cols.map((c) => c.x));
+const maxX = Math.max(...cols.map((c) => c.x));
+const mid = (minX + maxX) / 2;
+// Vertikaler Versatz: Abstand zum Ende des vorherigen Schritts (meist negativ = überlappend)
+const offs = cols.map((c, i) => (i === 0 ? 0 : Math.round(c.y - (cols[i - 1].y + cols[i - 1].hpx))));
+---
+<ol class="tl">
+  {cols.map((c, i) => (
+    <li class:list={['tl__item', c.x > mid ? 'tl__item--right' : 'tl__item--left']} style={`--off:${offs[i]}px`}>
+      <span class="tl__num" aria-hidden="true">{i + 1}</span>
+      <Molecule col={c} headings={headings} />
+    </li>
+  ))}
+</ol>

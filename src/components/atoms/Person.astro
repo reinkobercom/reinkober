@@ -1,0 +1,37 @@
+---
+// Personen-/Bewertungszeile: runde Fotos, Sterne, Name & Beschreibung.
+import { Image } from 'astro:assets';
+import { getImage } from '../../data/images';
+import { css, fontVars } from '../../lib/style';
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const faces: any[] = a.faces || [];
+const size = a.faceSize || 56;
+const texts: any[] = a.texts || [];
+// Name/Beschreibung: aus Texts (Titel) + Rest des HTML
+const title = texts.find((t) => t.cls.includes('title'));
+const desc = texts.find((t) => t.cls.includes('description'));
+const plain = (a.html || '').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+const rest = title ? plain.replace(title.text, '').trim() : plain.trim();
+const stars = a.stars || 0;
+const overlap = faces.length > 1;
+---
+<div class:list={['person', overlap && 'person--stack']} style={css({ '--ps': size })}>
+  {faces.length > 0 && (
+    <div class="person__faces">
+      {faces.map((f) => {
+        const img = getImage(f.src);
+        return img && <Image class="person__face" src={img.src} alt={overlap ? '' : (f.alt || img.alt || (title?.text ?? ''))} width={size * 2} height={size * 2} widths={[size, size * 2]} sizes={`${size}px`} loading="lazy" />;
+      })}
+    </div>
+  )}
+  <div class="person__body">
+    {stars > 0 && (
+      <span class="person__stars" role="img" aria-label={`${stars} von 5 Sternen`}>
+        {Array.from({ length: stars }).map(() => <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.746,1.464l3.11,6.3L22.81,8.776a.831.831,0,0,1,.461,1.418l-5.033,4.9,1.188,6.926a.832.832,0,0,1-1.207.877L12,19.632,5.78,22.9a.833.833,0,0,1-1.207-.878L5.761,15.1l-5.033-4.9a.831.831,0,0,1,.461-1.418L8.143,7.765l3.11-6.3A.833.833,0,0,1,12.746,1.464Z"/></svg>)}
+      </span>
+    )}
+    {title && <span class="person__name t" style={css(fontVars(title.font))}>{title.text}</span>}
+    {(desc || rest) && <span class="person__desc t" style={css(fontVars(desc?.font || { fs: title ? 14 : 16, lh: title ? 21 : 24, color: undefined }))}>{desc?.text || rest}</span>}
+  </div>
+</div>

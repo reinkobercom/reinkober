@@ -1,0 +1,87 @@
+---
+// Onboarding-Interview (Kunden / Recruiting): Startseite wie bisher, danach
+// eine Frage pro Schritt mit Fortschrittsbalken in Prozent.
+import { forms } from '../../data/forms';
+import { site } from '../../data/site';
+
+interface Props { formKey: string }
+const { formKey } = Astro.props;
+const form = forms[formKey];
+const steps = form.steps;
+const total = steps.length + 2; // + Startseite + Abschluss
+const uid = `f-${formKey}`;
+const pct = (i: number) => `${Math.round(((i + 1) / total) * 100)}%`;
+---
+<div class="itv" data-interview data-total={total}>
+  <div class="itv__progress" aria-hidden="true">
+    <span class="itv__pct" data-itv-pct>{pct(0)}</span>
+    <span class="itv__bar"><span class="itv__fill" data-itv-fill style={`width:${pct(0)}`}></span></span>
+  </div>
+
+  <div class="itv__start" data-itv-start>
+    <slot />
+  </div>
+
+  <form class="itv__form" id={uid} action="/api/anfrage" method="post" novalidate data-itv-form hidden>
+    <input type="hidden" name="_form" value={formKey} />
+    <input type="hidden" name="_page" value={Astro.url.pathname} />
+    <input type="hidden" name="_t" value="" data-started />
+    <input type="hidden" name="_utm" value="" data-utm />
+    <div class="msf__hp" aria-hidden="true">
+      <label for={`${uid}-hp`}>Bitte leer lassen</label>
+      <input id={`${uid}-hp`} type="text" name="_website" tabindex="-1" autocomplete="off" />
+    </div>
+
+    {steps.map((st, s) => (
+      <fieldset class="itv__step" data-step={s} aria-labelledby={`${uid}-q${s}`}>
+        {st.kicker && <p class="itv__kicker"><mark>{st.kicker}</mark></p>}
+        <legend class="itv__q" id={`${uid}-q${s}`}>{st.title}</legend>
+        <div class="itv__fields">
+          {st.fields.map((f, i) => {
+            const id = `${uid}-${s}-${i}`;
+            return (
+              <div class="itv__field">
+                {f.label ? <label class="itv__label" for={id}>{f.label}</label> : <label class="sr-only" for={id}>{st.title}</label>}
+                {f.type === 'textarea' && <textarea id={id} name={f.name} placeholder={f.placeholder} required={f.required} rows={3}></textarea>}
+                {(f.type === 'text' || f.type === 'email') && <input id={id} name={f.name} type={f.type} placeholder={f.placeholder} required={f.required} autocomplete={f.autocomplete} />}
+                {f.type === 'select' && (
+                  <select id={id} name={f.name} required={f.required}>
+                    <option value="">{f.placeholder}</option>
+                    {(f.options || []).map((o) => <option value={o}>{o}</option>)}
+                  </select>
+                )}
+              </div>
+            );
+          })}
+        </div>
+        {st.hint && <p class="itv__hint">{st.hint}</p>}
+        {s === steps.length - 1 && (
+          <label class="msf__check itv__check">
+            <input type="checkbox" name="_privacy" value="ja" required />
+            <span>Ich habe die <a href="/datenschutz" target="_blank">Datenschutzerklärung</a> gelesen und bin mit der Verarbeitung meiner Angaben einverstanden.</span>
+          </label>
+        )}
+        <p class="msf__error" role="alert" data-error hidden></p>
+        <div class="itv__nav">
+          <button type="button" class="itv__prev" data-prev>{form.prevText}</button>
+          {s === steps.length - 1 ? (
+            <button type="submit" class="btn btn--volume itv__next" data-submit><span class="btn__text"><span class="btn__label">{form.submitText}</span></span></button>
+          ) : (
+            <button type="button" class="btn btn--volume itv__next" data-next><span class="btn__text"><span class="btn__label">{form.nextText}</span></span></button>
+          )}
+        </div>
+      </fieldset>
+    ))}
+    <p class="msf__fallback" hidden data-fallback>Es hat leider nicht geklappt. Bitte versuchen Sie es erneut oder melden Sie sich direkt: <a href={site.phoneHref}>{site.phone}</a> · <a href={`mailto:${site.email}`}>{site.email}</a></p>
+  </form>
+
+  <div class="itv__done" data-itv-done hidden tabindex="-1">
+    <p class="itv__q">{form.finish?.title}</p>
+    <p class="itv__hint">{form.finish?.text}</p>
+  </div>
+</div>
+
+<script>
+  import { initInterview } from '../../lib/interview-client';
+  initInterview();
+</script>

@@ -1,0 +1,2552 @@
+{
+ "slug": "/wachstums-call",
+ "title": "Wachstums-Call",
+ "seoTitle": "",
+ "seoDescription": "",
+ "seoImage": null,
+ "noindexLive": true,
+ "sections": [
+  {
+   "id": "077b9eac-dbfb-430b-8a70-704e8956e939",
+   "title": "Cover",
+   "only": "desktop",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    1,
+    50
+   ],
+   "side": 8,
+   "container": {
+    "w": 1424,
+    "frame": {
+     "kind": "solid",
+     "bg": "#ffffff",
+     "radius": "16px",
+     "pad": "16px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "3b6a31fb-5551-41d8-8353-3c7c84fcd85c",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1424,
+       "hpx": 661,
+       "x": 8,
+       "y": 16,
+       "mbox": {
+        "x": 24,
+        "y": 16,
+        "w": 1392,
+        "h": 661
+       },
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "16069cc0-fc22-4136-a1c3-ca427ee149bf",
+         "gap": 37,
+         "halign": "center",
+         "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+         "wpx": 185,
+         "hpx": 26,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "label-text",
+         "id": "406a234f-58be-4a60-95e6-0bd0858a6ebc",
+         "gap": 40,
+         "halign": "center",
+         "html": "<p>exklusiv für HANDWERKSUNTERNEHMer</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 20,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center",
+          "ls": 0.5,
+          "tt": "uppercase"
+         },
+         "frame": {
+          "bg": "#f2f2f2",
+          "radius": "100px",
+          "pad": "4px 12px 4px 12px",
+          "text": "#151f25"
+         }
+        },
+        {
+         "type": "header",
+         "id": "c8fd9dcc-2e75-406a-b24e-c2f342b80419",
+         "gap": 30,
+         "w": "70.6246603843464%",
+         "halign": "center",
+         "html": "<strong><p>Mehr Aufträge &amp; Fachkräfte für dein Handwerksunternehmen – planbar &amp; erfolgsabhängig!</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 48,
+          "lh": 61.4,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "6a425575-cda3-4d98-88b7-8c3f0d72f2a0",
+         "gap": 25,
+         "w": "59.26659939721752%",
+         "halign": "center",
+         "html": "<p><span style=\"color:rgb(21,31,37)\"><strong>Du </strong><strong>erhältst </strong><strong>regelmäßig </strong><strong>neue </strong><strong>Kundenanfragen </strong><strong>&amp; </strong><strong>qualifizierte </strong><strong>Bewerbungen </strong><strong>– </strong><strong>ohne </strong><strong>hohe </strong><strong>Werbeausgaben </strong><strong>oder </strong><strong>Kaltakquise. </strong><strong>Zudem </strong><strong>auf </strong><strong>Erfolgsbasis. </strong><strong></strong>Buche deinen kostenfreien 20‒Minuten‒Wachstums‒Call und erfahre, wie wir das für dich umsetzen! Kein Mehrwert für dich dabei? Du erhältst 50 € Cashback. </span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 30,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         }
+        },
+        {
+         "type": "link-group",
+         "id": "b9fbbc7b-b5c6-445f-ba8e-219540658020",
+         "gap": 37,
+         "minW": "468.4461975097656px",
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Jetzt kostenfreien Wachstums-Call buchen",
+           "sub": "Kein Mehrwert? 50 € Cashback – garantiert!",
+           "href": "/wachstums-call-formular",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "8px",
+           "h": 67.89,
+           "w": 417,
+           "bg": "#099dd4",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 25.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           }
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "person",
+         "id": "4752423b-420f-45ad-842c-069747b611d1",
+         "gap": 10,
+         "halign": "center",
+         "faces": [
+          {
+           "src": "media/bc3d3547-93e2-466d-847a-133afccdbffe",
+           "alt": ""
+          },
+          {
+           "src": "media/00a189ce-68a5-47e0-870c-d3e8df15932b",
+           "alt": ""
+          },
+          {
+           "src": "media/acfa7965-23a2-4680-8cf9-82323f15941d",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 5,
+         "starColor": "#fbbe03",
+         "html": "<p>300+ erfolgreich betreute Unternehmer</p>"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 16,
+      "w": 1392,
+      "h": 693
+     }
+    },
+    {
+     "id": "3dacf0e1-9978-496b-aeb2-9348243cc243",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "14",
+       "md": "14",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 831,
+       "hpx": 559,
+       "x": 305,
+       "y": 709,
+       "mbox": {
+        "x": 321,
+        "y": 709,
+        "w": 799,
+        "h": 559
+       },
+       "atoms": [
+        {
+         "type": "image",
+         "id": "4c39ad78-6787-40b1-84a2-02a9bf8f8e72",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/20c7a9f0-b778-450e-a049-fcf35680490c",
+         "wpx": 799,
+         "hpx": 471,
+         "frame": {
+          "radius": "8px"
+         },
+         "pos": "50% 50%",
+         "fit": "fill"
+        },
+        {
+         "type": "plain-text",
+         "id": "304db13e-6e11-4924-9fd1-0d78737a1824",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p><em>Geschäftsführer Simon Reinkober: <br>„Wir wissen, was wir tun - und dafür stehe ich auch mit meinem Namen.“</em></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 709,
+      "w": 1392,
+      "h": 559
+     }
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 1335
+   }
+  },
+  {
+   "id": "d5e77215-2099-47f6-8496-27c43c62037f",
+   "title": "Cover",
+   "only": "mobile",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    0,
+    25
+   ],
+   "padM": [
+    0,
+    25
+   ],
+   "padT": [
+    1,
+    50
+   ],
+   "side": 24,
+   "container": {
+    "w": null,
+    "frame": {
+     "kind": "solid",
+     "bg": "#ffffff",
+     "radius": "16px",
+     "pad": "16px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "kind": "solid",
+     "bg": "#ffffff",
+     "radius": "16px",
+     "pad": "16px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "6a731be6-d3e1-48d7-9c02-7fc2361c930c",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 294,
+       "hpx": 768,
+       "x": 48,
+       "y": 23,
+       "mbox": {
+        "x": 48,
+        "y": 23,
+        "w": 294,
+        "h": 768
+       },
+       "wpxM": 294,
+       "yM": 23,
+       "hpxM": 768,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 884,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "46558c3e-d231-4661-b826-e2d8776a6239",
+         "gap": 21,
+         "halign": "center",
+         "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+         "wpx": 143,
+         "hpx": 20,
+         "wpxM": 143,
+         "hpxM": 20,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "label-text",
+         "id": "ec37c82a-2310-4614-9625-09c40cb70d81",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>exklusiv für HANDWERKSUNTERNEHMer</p>",
+         "tag": "p",
+         "font": {
+          "fs": 12,
+          "lh": 20,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center",
+          "ls": 0.5,
+          "tt": "uppercase"
+         },
+         "frame": {
+          "bg": "#f2f2f2",
+          "radius": "100px",
+          "pad": "4px 12px 4px 12px",
+          "text": "#151f25"
+         }
+        },
+        {
+         "type": "header",
+         "id": "bff0cc60-0bc0-4be6-9f3d-9cba068f4c74",
+         "gap": 15,
+         "w": "70.6246603843464%",
+         "halign": "center",
+         "html": "<strong><p>Mehr Aufträge &amp; Fachkräfte für dein Handwerksunternehmen – planbar &amp; erfolgsabhängig!</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "f01ef5c9-ea4b-4b68-b9cc-280a0c69aafa",
+         "gap": 25,
+         "w": "59.26659939721752%",
+         "halign": "center",
+         "html": "<p><span style=\"color:rgb(21,31,37)\"><strong>Du </strong><strong>erhältst </strong><strong>regelmäßig </strong><strong>neue </strong><strong>Kundenanfragen </strong><strong>&amp; </strong><strong>qualifizierte </strong><strong>Bewerbungen </strong><strong>– </strong><strong>ohne </strong><strong>hohe </strong><strong>Werbeausgaben </strong><strong>oder </strong><strong>Kaltakquise. </strong><strong>Zudem </strong><strong>auf </strong><strong>Erfolgsbasis. </strong><strong></strong>Buche deinen kostenfreien 20‒Minuten‒Wachstums‒Call und erfahre, wie wir das für dich umsetzen! Kein Mehrwert für dich dabei? Du erhältst 50 € Cashback.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         }
+        },
+        {
+         "type": "link-group",
+         "id": "37b2841c-7b4d-4af5-93a0-7b6911fa7e94",
+         "gap": 37,
+         "minW": "468.4461975097656px",
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Jetzt kostenfreien Wachstums-Call buchen",
+           "sub": "Kein Mehrwert? 50 € Cashback – garantiert!",
+           "href": "/wachstums-call-formular",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "8px",
+           "h": 93.19,
+           "w": 295,
+           "bg": "#099dd4",
+           "color": "#ffffff",
+           "pad": [
+            6,
+            24
+           ],
+           "font": {
+            "fs": 14,
+            "lh": 16.8,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 11.2,
+            "lh": 16.8,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 93.19,
+           "w": 295,
+           "fs": 14,
+           "pad": [
+            6,
+            24
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "person",
+         "id": "03492ec0-ea7d-476e-b225-69aff9985d3a",
+         "gap": 10,
+         "halign": "center",
+         "faces": [
+          {
+           "src": "media/bc3d3547-93e2-466d-847a-133afccdbffe",
+           "alt": ""
+          },
+          {
+           "src": "media/00a189ce-68a5-47e0-870c-d3e8df15932b",
+           "alt": ""
+          },
+          {
+           "src": "media/acfa7965-23a2-4680-8cf9-82323f15941d",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 5,
+         "starColor": "#fbbe03",
+         "html": "<p>300+ betreute Unternehmer</p>"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 48,
+      "y": 23,
+      "w": 294,
+      "h": 800
+     },
+     "boxM": {
+      "x": 48,
+      "y": 23,
+      "w": 294,
+      "h": 800
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    },
+    {
+     "id": "d5e75f8d-84ce-4f7e-9753-05ce536e2e96",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "14",
+       "md": "14",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 294,
+       "hpx": 285,
+       "x": 48,
+       "y": 823,
+       "mbox": {
+        "x": 48,
+        "y": 823,
+        "w": 294,
+        "h": 285
+       },
+       "wpxM": 294,
+       "yM": 823,
+       "hpxM": 285,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 884,
+       "atoms": [
+        {
+         "type": "image",
+         "id": "f344ac40-33c6-4a08-8f15-872a73340c4e",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/20c7a9f0-b778-450e-a049-fcf35680490c",
+         "wpx": 294,
+         "hpx": 173,
+         "wpxM": 294,
+         "hpxM": 173,
+         "frame": {
+          "radius": "8px"
+         },
+         "pos": "50% 50%",
+         "fit": "fill"
+        },
+        {
+         "type": "plain-text",
+         "id": "6c5d84b7-708f-41ae-82b0-83b4e3bf7ddb",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p><em>Geschäftsführer Simon Reinkober: <br>„Wir wissen, was wir tun - und dafür stehe ich auch mit meinem Namen.“</em></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 48,
+      "y": 823,
+      "w": 294,
+      "h": 285
+     },
+     "boxM": {
+      "x": 48,
+      "y": 823,
+      "w": 294,
+      "h": 285
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 1158
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 1158
+   }
+  },
+  {
+   "id": "b09d6e0d-33f1-47ca-91ac-00e6b9870d2c",
+   "title": "layout",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    100
+   ],
+   "padM": [
+    50,
+    50
+   ],
+   "padT": [
+    101,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "a4ebd5e7-d313-4031-a080-11ab79bbc50a",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "21",
+       "md": "21",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1136,
+       "hpx": 153,
+       "x": 152,
+       "y": 1434,
+       "mbox": {
+        "x": 176,
+        "y": 1434,
+        "w": 1088,
+        "h": 153
+       },
+       "wpxM": 342,
+       "yM": 1206,
+       "hpxM": 302,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "3bee8520-692a-4790-bb73-340dcbc3b012",
+         "gap": 20,
+         "w": "65.28509274101214%",
+         "halign": "center",
+         "html": "<strong><p>Erkennst du dich wieder?</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "21fa1ac4-4321-4b28-8db1-c586b2964c8c",
+         "gap": 10,
+         "w": "72.70430020609115%",
+         "halign": "center",
+         "html": "<p>Den ganzen Tag schuften, Angebote schreiben, Kunden hinterherlaufen – aber es bleibt unberechenbar. Mal zu viel Arbeit, mal zu wenig. Kaum Bewerbungen, nur Absagen. Und das Marketing? Frisst Geld, bringt aber nichts. Es geht auch anders:</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1434,
+      "w": 1250,
+      "h": 201
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1206,
+      "w": 342,
+      "h": 350
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    },
+    {
+     "id": "cb6c5348-09dc-48a9-9f79-1d94060cc5ed",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "11",
+       "md": "11",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#ffffff",
+        "radius": "4px",
+        "pad": "48px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 595,
+       "hpx": 524,
+       "x": 98,
+       "y": 1634,
+       "mbox": {
+        "x": 122,
+        "y": 1634,
+        "w": 547,
+        "h": 524
+       },
+       "wpxM": 342,
+       "yM": 1557,
+       "hpxM": 564,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#ffffff",
+        "radius": "4px",
+        "pad": "48px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "6049d86d-08ad-43f2-a431-488be801fe3f",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Deine aktuelle Situation</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "7e3e0be4-1f65-4c62-9e36-60ee08e9c494",
+         "gap": 30,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 451,
+          "bg": null,
+          "border": "0px none rgb(21,31,37)"
+         }
+        },
+        {
+         "type": "list",
+         "id": "5f7db12d-3492-4673-9a67-bb4c00e5185e",
+         "gap": 50,
+         "halign": "left",
+         "items": [
+          {
+           "title": null,
+           "titleFont": null,
+           "html": null,
+           "bodyFont": null,
+           "frame": {},
+           "accordion": false,
+           "open": null,
+           "iconSize": null,
+           "bodyGap": null
+          },
+          {
+           "title": null,
+           "titleFont": null,
+           "html": null,
+           "bodyFont": null,
+           "frame": {},
+           "accordion": false,
+           "open": null,
+           "iconSize": null,
+           "bodyGap": null
+          },
+          {
+           "title": null,
+           "titleFont": null,
+           "html": null,
+           "bodyFont": null,
+           "frame": {},
+           "accordion": false,
+           "open": null,
+           "iconSize": null,
+           "bodyGap": null
+          },
+          {
+           "title": null,
+           "titleFont": null,
+           "html": null,
+           "bodyFont": null,
+           "frame": {},
+           "accordion": false,
+           "open": null,
+           "iconSize": null,
+           "bodyGap": null
+          }
+         ],
+         "listStyle": "transparent",
+         "toggle": "arrow",
+         "listCols": 1,
+         "space": 24
+        }
+       ]
+      },
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#ffffff",
+        "radius": "4px",
+        "shadow": "rgba(17, 17, 26, 0.1) 0px 8px 56px 0px, rgba(17, 17, 26, 0.1) 0px 32px 140px 0px",
+        "pad": "48px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 649,
+       "hpx": 524,
+       "x": 693,
+       "y": 1634,
+       "mbox": {
+        "x": 717,
+        "y": 1634,
+        "w": 601,
+        "h": 524
+       },
+       "wpxM": 342,
+       "yM": 2121,
+       "hpxM": 472,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#ffffff",
+        "radius": "4px",
+        "shadow": "rgba(17, 17, 26, 0.1) 0px 8px 56px 0px, rgba(17, 17, 26, 0.1) 0px 32px 140px 0px",
+        "pad": "48px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "3fe65a64-24aa-4ef9-abd8-e69b51c91a79",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"hand-underlined\">Deine Zukunft</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "hand-underlined",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "line",
+         "id": "ce86b61c-cd9f-4b63-af9c-5aa3a87f4619",
+         "gap": 30,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 505,
+          "bg": null,
+          "border": "0px none rgb(21,31,37)"
+         }
+        },
+        {
+         "type": "list",
+         "id": "b9fad7a0-8d48-477a-a482-2cf092520db8",
+         "gap": 0,
+         "halign": "left",
+         "items": [
+          {
+           "title": null,
+           "titleFont": null,
+           "html": null,
+           "bodyFont": null,
+           "frame": {},
+           "accordion": false,
+           "open": null,
+           "iconSize": null,
+           "bodyGap": null
+          },
+          {
+           "title": null,
+           "titleFont": null,
+           "html": null,
+           "bodyFont": null,
+           "frame": {},
+           "accordion": false,
+           "open": null,
+           "iconSize": null,
+           "bodyGap": null
+          },
+          {
+           "title": null,
+           "titleFont": null,
+           "html": null,
+           "bodyFont": null,
+           "frame": {},
+           "accordion": false,
+           "open": null,
+           "iconSize": null,
+           "bodyGap": null
+          },
+          {
+           "title": null,
+           "titleFont": null,
+           "html": null,
+           "bodyFont": null,
+           "frame": {},
+           "accordion": false,
+           "open": null,
+           "iconSize": null,
+           "bodyGap": null
+          }
+         ],
+         "listStyle": "transparent",
+         "toggle": "arrow",
+         "listCols": 1,
+         "space": 24
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1634,
+      "w": 1250,
+      "h": 524
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1557,
+      "w": 342,
+      "h": 1036
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1333,
+    "w": 1440,
+    "h": 925
+   },
+   "boxM": {
+    "x": 0,
+    "y": 1156,
+    "w": 390,
+    "h": 1486
+   }
+  },
+  {
+   "id": "01f033ba-4a22-44b7-98de-9665c5417b31",
+   "title": "CTA",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    31,
+    60
+   ],
+   "padM": [
+    15,
+    30
+   ],
+   "padT": [
+    31,
+    60
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "4dfc7920-5dd4-49cf-8d48-29dfc3f3c4f3",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "21",
+       "md": "21",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1108,
+       "hpx": 250,
+       "x": 166,
+       "y": 2288,
+       "mbox": {
+        "x": 174,
+        "y": 2288,
+        "w": 1092,
+        "h": 250
+       },
+       "wpxM": 342,
+       "yM": 2657,
+       "hpxM": 294,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "gallery",
+         "id": "f9a669be-fce0-4a4f-9b72-086d669cfe20",
+         "gap": 20,
+         "halign": "left",
+         "marquee": true,
+         "slider": false,
+         "images": [
+          {
+           "src": "media/bc72f021-291b-4da2-836d-ce5d6b7393e1",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": -95,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 19,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/332451eb-67f6-4cfa-8f92-eabb6b20ab5d",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 132,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/a2e03ae0-62e3-4f34-b75e-f5b473663ed8",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 246,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d7a5bee6-4523-4e4e-adee-2f89b80f2abb",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 360,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/749f72d7-bb58-4394-b774-396d56860dd4",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 474,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/4c1d4c6a-3162-4d62-8787-2e4bbc39a255",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 588,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/11266e26-fe8f-4f3f-842a-6468b6fbd63b",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 702,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/711182d6-7098-4bc9-952c-5bbcfd0b6f62",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 816,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/46feb041-1e05-4596-b46b-96254aa2461e",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 930,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/bc72f021-291b-4da2-836d-ce5d6b7393e1",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 1044,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 1158,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/332451eb-67f6-4cfa-8f92-eabb6b20ab5d",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 1271,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/a2e03ae0-62e3-4f34-b75e-f5b473663ed8",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 1385,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d7a5bee6-4523-4e4e-adee-2f89b80f2abb",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 1499,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/749f72d7-bb58-4394-b774-396d56860dd4",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 1613,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/4c1d4c6a-3162-4d62-8787-2e4bbc39a255",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 1727,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/11266e26-fe8f-4f3f-842a-6468b6fbd63b",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 1841,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/711182d6-7098-4bc9-952c-5bbcfd0b6f62",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 1955,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/46feb041-1e05-4596-b46b-96254aa2461e",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 2069,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/bc72f021-291b-4da2-836d-ce5d6b7393e1",
+           "alt": "",
+           "w": 90,
+           "h": 56,
+           "x": 2183,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 91,
+           "h": 56,
+           "x": 2297,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/332451eb-67f6-4cfa-8f92-eabb6b20ab5d",
+           "alt": "",
+           "w": 91,
+           "h": 56,
+           "x": 2412,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/a2e03ae0-62e3-4f34-b75e-f5b473663ed8",
+           "alt": "",
+           "w": 91,
+           "h": 56,
+           "x": 2527,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d7a5bee6-4523-4e4e-adee-2f89b80f2abb",
+           "alt": "",
+           "w": 91,
+           "h": 56,
+           "x": 2642,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/749f72d7-bb58-4394-b774-396d56860dd4",
+           "alt": "",
+           "w": 91,
+           "h": 56,
+           "x": 2757,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/4c1d4c6a-3162-4d62-8787-2e4bbc39a255",
+           "alt": "",
+           "w": 91,
+           "h": 56,
+           "x": 2872,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/11266e26-fe8f-4f3f-842a-6468b6fbd63b",
+           "alt": "",
+           "w": 91,
+           "h": 56,
+           "x": 2987,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/711182d6-7098-4bc9-952c-5bbcfd0b6f62",
+           "alt": "",
+           "w": 91,
+           "h": 56,
+           "x": 3103,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/46feb041-1e05-4596-b46b-96254aa2461e",
+           "alt": "",
+           "w": 91,
+           "h": 56,
+           "x": 3218,
+           "y": 0,
+           "radius": null
+          }
+         ],
+         "gbox": {
+          "x": 174,
+          "y": 2288,
+          "w": 1092,
+          "h": 76
+         },
+         "item": {
+          "x": 67,
+          "y": 2288,
+          "w": 114,
+          "h": 56,
+          "frame": {
+           "pad": [
+            0,
+            12,
+            0,
+            12
+           ]
+          }
+         },
+         "anim": {
+          "name": "marquee",
+          "dur": "37.9667s",
+          "dir": "normal"
+         }
+        },
+        {
+         "type": "link-group",
+         "id": "e1e249f3-2cad-4398-8760-5637d8fe2dd9",
+         "gap": 20,
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Jetzt kostenfrei & unverbindlich Gespräch buchen",
+           "sub": "Kein Mehrwert? 50 € Cashback – garantiert!",
+           "href": "/wachstums-call-formular",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 67.89,
+           "w": 473,
+           "bg": "#099dd4",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 25.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 111.56,
+           "w": 342,
+           "fs": 17,
+           "pad": [
+            8,
+            31
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "person",
+         "id": "e9b33ab9-e9a2-4099-ae4e-2e6cb53849a0",
+         "gap": 10,
+         "halign": "center",
+         "stars": 5,
+         "starColor": "#f1b310",
+         "texts": [
+          {
+           "cls": "title",
+           "text": "5 / 5 basierend auf 37+ Rezensionen",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "center"
+           }
+          }
+         ],
+         "html": "<p><strong>5 / 5 </strong>basierend auf<strong> 37+ Rezensionen</strong></p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Quelle: Google &amp; mehr</p>"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 2288,
+      "w": 1250,
+      "h": 250
+     },
+     "boxM": {
+      "x": 24,
+      "y": 2657,
+      "w": 342,
+      "h": 294
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 2257,
+    "w": 1440,
+    "h": 341
+   },
+   "boxM": {
+    "x": 0,
+    "y": 2642,
+    "w": 390,
+    "h": 339
+   }
+  },
+  {
+   "id": "b465c6a0-cffc-40ee-b397-9f6d7b6c465b",
+   "title": "Testimonials",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    51
+   ],
+   "padM": [
+    50,
+    25.5
+   ],
+   "padT": [
+    101,
+    51
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "6df23518-62e1-4841-8e9a-cbdcd2f3e4d1",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 653,
+       "hpx": 615,
+       "x": 67,
+       "y": 2698,
+       "mbox": {
+        "x": 95,
+        "y": 2698,
+        "w": 597,
+        "h": 615
+       },
+       "wpxM": 342,
+       "yM": 3029,
+       "hpxM": 826,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "471e9d99-6cd0-495c-b8e3-c8c6af5cb5d8",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>🚨 Problem</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "70bcce63-5fca-446b-8adc-ffd06289f380",
+         "gap": 30,
+         "w": "90.58823529411765%",
+         "halign": "left",
+         "html": "<p>Andere Agenturen hatten Google Ads aufgesetzt – doch es brachte nichts. Kampagnen liefen ins Leere, wurden abgeschaltet, und die Auftragslage blieb unvorhersehbar. Es gab keine funktionierende Strategie für planbares Wachstum. Der Betrieb war weiterhin von Empfehlungen &amp; Netzwerken abhängig.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.51)",
+          "align": "left"
+         }
+        },
+        {
+         "type": "header",
+         "id": "465c53b3-3f0d-4dea-a9d8-0326b25b910f",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>✅ Lösung</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "8bfb0ef7-c031-479c-9a23-6d8469736f2d",
+         "gap": 17,
+         "w": "90.58823529411764%",
+         "halign": "left",
+         "html": "<p>Wir haben das gesamte System von Grund auf neu aufgesetzt – mit einer professionellen Website, Performance Ads und einer klaren Strategie. Ergebnis: 10–20 Anfragen pro Woche und ein Recruiting-Prozess, der regelmäßig qualifizierte Bewerber liefert.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "195a5a76-8f59-406d-a36e-de07cda317a9",
+         "gap": 40,
+         "halign": "left",
+         "style": "dot",
+         "dir": "vertical",
+         "size": "l",
+         "space": "8px",
+         "items": [
+          {
+           "text": "Neue Website mit klarer Positionierung",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "#76b2cc",
+           "iconBox": {
+            "w": 31,
+            "svg": 22,
+            "color": "#76b2cc",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 39
+          },
+          {
+           "text": "10–20 Kundenanfragen pro Woche",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "#76b2cc",
+           "iconBox": {
+            "w": 31,
+            "svg": 22,
+            "color": "#76b2cc",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 39
+          },
+          {
+           "text": "10 Bewerbungen pro Woche",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "#76b2cc",
+           "iconBox": {
+            "w": 31,
+            "svg": 22,
+            "color": "#76b2cc",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 39
+          },
+          {
+           "text": "Nachhaltiger Wachstumskurs gestartet",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "#76b2cc",
+           "iconBox": {
+            "w": 31,
+            "svg": 22,
+            "color": "#76b2cc",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 39
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "radius": "8px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 653,
+       "hpx": 615,
+       "x": 720,
+       "y": 2698,
+       "mbox": {
+        "x": 748,
+        "y": 2698,
+        "w": 597,
+        "h": 615
+       },
+       "wpxM": 342,
+       "yM": 3856,
+       "hpxM": 406,
+       "frameM": {
+        "radius": "8px",
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "image",
+         "id": "d5113dcf-ec46-4b25-a689-3ffda6e9e3e8",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/85445acb-89c4-46e3-a9df-6f4ce91997c8",
+         "wpx": 597,
+         "hpx": 376,
+         "wpxM": 342,
+         "hpxM": 215,
+         "frame": {
+          "radius": "8px",
+          "shadow": "rgba(17, 17, 26, 0.05) 0px 4px 32px 0px, rgba(17, 17, 26, 0.05) 0px 8px 48px 0px"
+         },
+         "pos": "50% 25%",
+         "fit": "fill"
+        },
+        {
+         "type": "header",
+         "id": "92394e83-d540-436d-ae28-3bbb777ac4de",
+         "gap": 8,
+         "halign": "left",
+         "html": "<strong><p>\"Andere Agenturen hatten mir gesagt, das funktioniert nicht. Jetzt bekomme ich jede Woche Anfragen &amp; Bewerbungen, ohne mich selbst darum kümmern zu müssen.\"</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "fontM": {
+          "fs": 17.62,
+          "lh": 23.18
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "3b003b8a-c0a3-4596-b0fe-5d2ba17b1a11",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p><em>Daniel Schlaegel - Craftflix</em></p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 2698,
+      "w": 1250,
+      "h": 615
+     },
+     "boxM": {
+      "x": 24,
+      "y": 3029,
+      "w": 342,
+      "h": 1233
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 2597,
+    "w": 1440,
+    "h": 767
+   },
+   "boxM": {
+    "x": 0,
+    "y": 2979,
+    "w": 390,
+    "h": 1308
+   }
+  },
+  {
+   "id": "d82f1747-3ba0-4c65-a954-3875e8e4a7a1",
+   "title": "About us",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    47,
+    100
+   ],
+   "padM": [
+    23,
+    50
+   ],
+   "padT": [
+    47,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "2e2707f1-3ca9-4bf3-9f24-4d7b18e93b1c",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "9",
+       "md": "9",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 490,
+       "hpx": 348,
+       "x": 67,
+       "y": 3410,
+       "mbox": {
+        "x": 95,
+        "y": 3410,
+        "w": 434,
+        "h": 348
+       },
+       "wpxM": 342,
+       "yM": 4309,
+       "hpxM": 301,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "image",
+         "id": "59944ec4-7eb8-41bf-9c77-87daae075141",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/32027b35-db19-4683-9a7c-50e3ae19b7c7",
+         "wpx": 434,
+         "hpx": 338,
+         "wpxM": 342,
+         "hpxM": 267,
+         "pos": "50% 50%",
+         "fit": "fit"
+        }
+       ]
+      },
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 816,
+       "hpx": 348,
+       "x": 557,
+       "y": 3410,
+       "mbox": {
+        "x": 585,
+        "y": 3410,
+        "w": 760,
+        "h": 348
+       },
+       "wpxM": 342,
+       "yM": 4610,
+       "hpxM": 458,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "25aa7a0a-4c91-4e68-a2fd-9f3804336307",
+         "gap": 12,
+         "w": "98.90903994510596%",
+         "halign": "left",
+         "html": "<strong><p>Unsere reinkober.com-Cashback-Garantie!</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "2f8f3659-22fe-4de6-b0eb-55268ce95830",
+         "gap": 20,
+         "w": "89.85082578097514%",
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Deine Zeit ist wertvoll. Deshalb übernehmen wir das Risiko: Falls du aus unserem Gespräch keine neuen Erkenntnisse oder Impulse mitnimmst, zahlen wir dir 50 € für deine investierte Zeit – unkompliziert und ohne Diskussion.</span><br></p><p data-fs=\"16\" data-lh=\"24\" data-fw=\"400\"><span style=\"color:rgb(21,31,37)\">👉 Du willst nur die 50 € kassieren? Dann sollten wir erst recht sprechen – denn offensichtlich läuft dein Business nicht so, wie es sollte! 🚀 Win‒win für dich!</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.47)",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 3410,
+      "w": 1250,
+      "h": 348
+     },
+     "boxM": {
+      "x": 24,
+      "y": 4309,
+      "w": 342,
+      "h": 759
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 3363,
+    "w": 1440,
+    "h": 495
+   },
+   "boxM": {
+    "x": 0,
+    "y": 4286,
+    "w": 390,
+    "h": 832
+   }
+  },
+  {
+   "id": "4c1e5699-7bb3-4d05-8663-9a4d16f5a6cc",
+   "title": "CTA",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    31,
+    60
+   ],
+   "padM": [
+    15,
+    30
+   ],
+   "padT": [
+    31,
+    60
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "c92eef39-01c0-442e-b60a-69306d08dc91",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "21",
+       "md": "21",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1108,
+       "hpx": 174,
+       "x": 166,
+       "y": 3888,
+       "mbox": {
+        "x": 174,
+        "y": 3888,
+        "w": 1092,
+        "h": 174
+       },
+       "wpxM": 342,
+       "yM": 5132,
+       "hpxM": 218,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "link-group",
+         "id": "a88375b6-f9f3-4c4f-830f-5d75f2e15557",
+         "gap": 20,
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Jetzt kostenfrei & unverbindlich Gespräch buchen",
+           "sub": "Kein Mehrwert? 50 € Cashback – garantiert!",
+           "href": "/wachstums-call-formular",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 67.89,
+           "w": 473,
+           "bg": "#099dd4",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 25.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 111.56,
+           "w": 342,
+           "fs": 17,
+           "pad": [
+            8,
+            31
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "person",
+         "id": "5a2e1452-0f7f-4104-b006-093dab319ddb",
+         "gap": 10,
+         "halign": "center",
+         "stars": 5,
+         "starColor": "#f1b310",
+         "texts": [
+          {
+           "cls": "title",
+           "text": "5 / 5 basierend auf 37+ Rezensionen",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "center"
+           }
+          }
+         ],
+         "html": "<p><strong>5 / 5 </strong>basierend auf<strong> 37+ Rezensionen</strong></p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Quelle: Google &amp; mehr</p>"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 3888,
+      "w": 1250,
+      "h": 174
+     },
+     "boxM": {
+      "x": 24,
+      "y": 5132,
+      "w": 342,
+      "h": 218
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 3857,
+    "w": 1440,
+    "h": 265
+   },
+   "boxM": {
+    "x": 0,
+    "y": 5117,
+    "w": 390,
+    "h": 263
+   }
+  },
+  {
+   "id": "664cf470-853e-46ad-b3fd-31ccb505f6ff",
+   "title": "Fußzeile 2 Global",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    31,
+    30
+   ],
+   "padM": [
+    15,
+    15
+   ],
+   "padT": [
+    31,
+    30
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "b521d48f-ade0-4493-a0b6-587b581d6b35",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 791,
+       "hpx": 97,
+       "x": 324,
+       "y": 4152,
+       "mbox": {
+        "x": 332,
+        "y": 4152,
+        "w": 775,
+        "h": 97
+       },
+       "wpxM": 342,
+       "yM": 5394,
+       "hpxM": 97,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "R_HM2saPnnSKflVLklYr7",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+         "wpx": 250,
+         "hpx": 35,
+         "wpxM": 250,
+         "hpxM": 35,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "plain-text",
+         "id": "XM2Eg_6XBy5GamyeHk4bH",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>© 2025 reinkober.com - Alle Rechte vorbehalten.<br><a href=\"/impressum\">Impressum</a> | <a href=\"/datenschutz\">Datenschutz</a></p>",
+         "tag": "p",
+         "font": {
+          "fs": 14,
+          "lh": 21,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4152,
+      "w": 1250,
+      "h": 97
+     },
+     "boxM": {
+      "x": 24,
+      "y": 5394,
+      "w": 342,
+      "h": 97
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 4121,
+    "w": 1440,
+    "h": 158
+   },
+   "boxM": {
+    "x": 0,
+    "y": 5379,
+    "w": 390,
+    "h": 127
+   }
+  }
+ ],
+ "forms": []
+}

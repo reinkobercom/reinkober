@@ -1,0 +1,140 @@
+---
+// Cookie-Banner im bisherigen Onepage-Look. Lädt Tracking und externe Inhalte
+// erst nach Einwilligung. Auswahl wird im Browser gespeichert (localStorage).
+import { tracking } from '../../data/site';
+const groups = [
+  { id: 'essential', label: 'Essentielle', locked: true, text: 'Ermöglicht Kernfunktionen. Erforderlich, damit notwendige Funktionen ordnungsgemäß funktionieren.', services: ['Vercel (Hosting)', 'Speicherung Ihrer Cookie-Auswahl'] },
+  { id: 'functional', label: 'Funktionale', text: 'Funktionale Cookies werden verwendet, um Besucherinformationen auf der Webseite zu speichern, z.B. Sprache, Zeitzone, erweiterte Inhalte.', services: ['Bunny Stream (Videos)', 'Trustindex (Bewertungen)', 'OpenStreetMap (Karte)'] },
+  { id: 'performance', label: 'Performance', text: 'Hilft bei der Analyse der Seitenleistung, um dein Erlebnis zu verbessern. Diese Cookies können nicht verwendet werden, um einen bestimmten Besucher zu identifizieren.', services: ['Vercel Web Analytics'] },
+  { id: 'marketing', label: 'Marketing', text: 'Dienen zur Identifizierung von Besuchern zwischen verschiedenen Websites, z.B. Content-Partnern, Bannernetzwerken. Diese Cookies können von Unternehmen verwendet werden, um relevante Werbung auf anderen Webseiten anzuzeigen.', services: ['Google Ads', 'Meta Pixel', 'OpenAI Ads'] },
+];
+---
+<div class="cc" id="cc" hidden role="dialog" aria-labelledby="cc-title" aria-describedby="cc-desc" aria-modal="false">
+  <div class="cc__card">
+    <div class="cc__main">
+      <div class="cc__text">
+        <h2 class="cc__title" id="cc-title">Wir verwenden Cookies</h2>
+        <p class="cc__desc" id="cc-desc">Wir setzen auf dieser Internetseite Cookies ein, wie in unserer <a href="/datenschutz">Datenschutzerklärung</a> beschrieben. Einige sind technisch erforderlich (funktionale Cookies); andere nicht, sondern dienen der Analyse des Nutzungsverhaltens (Performance) oder der Ausführung von Marketingmaßnahmen (Marketing). Sie können diesen Cookie-Banner jederzeit aufrufen und Ihre Einwilligungserklärungen jederzeit modifizieren und damit auch jederzeit mit Wirkung für die Zukunft widerrufen.</p>
+      </div>
+      <div class="cc__btns">
+        <button type="button" class="cc__btn cc__btn--primary btn--volume" data-cc="all">Alle akzeptieren</button>
+        <button type="button" class="cc__btn" data-cc="deny">Ablehnen</button>
+        <button type="button" class="cc__btn" data-cc="edit">Bearbeiten</button>
+      </div>
+    </div>
+    <div class="cc__switches">
+      {groups.map((g) => (
+        <label class="cc__switch">
+          <input type="checkbox" role="switch" data-cc-group={g.id} checked={g.locked} disabled={g.locked} />
+          <span class="cc__track" aria-hidden="true"></span>
+          <span>{g.label}</span>
+        </label>
+      ))}
+    </div>
+  </div>
+</div>
+
+<dialog class="ccm" id="ccm" aria-labelledby="ccm-title">
+  <form method="dialog" class="ccm__inner">
+    <h2 class="sr-only" id="ccm-title">Cookie-Einstellungen</h2>
+    <button class="ccm__close" value="close" aria-label="Schließen">
+      <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 3l10 10M13 3L3 13" stroke="currentColor" stroke-width="1.6" fill="none" /></svg>
+    </button>
+    <div class="ccm__body">
+      {groups.map((g) => (
+        <section class="ccm__group">
+          <label class="cc__switch">
+            <input type="checkbox" role="switch" data-cc-group={g.id} checked={g.locked} disabled={g.locked} />
+            <span class="cc__track" aria-hidden="true"></span>
+            <span class="ccm__label">{g.label}</span>
+          </label>
+          <p class="ccm__text">{g.text}</p>
+          {g.services.map((s) => <details class="ccm__service"><summary>{s}</summary><p>Details siehe <a href="/datenschutz">Datenschutzerklärung</a>.</p></details>)}
+        </section>
+      ))}
+    </div>
+    <div class="ccm__foot">
+      <button type="button" class="cc__btn cc__btn--primary btn--volume" data-cc="all">Alle akzeptieren</button>
+      <button type="button" class="cc__btn" data-cc="save">Auswahl speichern</button>
+      <button type="button" class="cc__btn" data-cc="deny">Ablehnen</button>
+    </div>
+  </form>
+</dialog>
+
+<button type="button" class="cc-reopen" id="cc-reopen" hidden aria-label="Cookie-Einstellungen öffnen">
+  <svg width="20" height="24" viewBox="0 0 20 24" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M14 8h2V6.01A5.98 5.98 0 0010.01 0h-.061A5.961 5.961 0 004 5.9V8h2V5.911A3.978 3.978 0 0110.047 2h.042A3.958 3.958 0 0114 6v2zM3 10h14a3 3 0 013 3v8a3 3 0 01-3 3H3a3 3 0 01-3-3v-8a3 3 0 013-3zm5.889 8.663a2 2 0 102.222-3.325 2 2 0 00-2.222 3.325z" fill="currentColor"/></svg>
+</button>
+
+<script is:inline define:vars={{ tracking }}>
+  window.__rkTracking = tracking;
+</script>
+<script>
+  import { getConsent, setConsent, onConsent, type Consent } from '../../lib/consent';
+  import { initEmbeds } from '../../lib/consent-embeds';
+  initEmbeds();
+
+  const banner = document.getElementById('cc')!;
+  const modal = document.getElementById('ccm') as HTMLDialogElement;
+  const reopen = document.getElementById('cc-reopen')!;
+
+  const readSwitches = (root: ParentNode): Consent => {
+    const v = (id: string) => (root.querySelector<HTMLInputElement>(`[data-cc-group="${id}"]`)?.checked ?? false);
+    return { functional: v('functional'), performance: v('performance'), marketing: v('marketing') };
+  };
+  const syncSwitches = (c: Consent) => {
+    document.querySelectorAll<HTMLInputElement>('[data-cc-group]').forEach((el) => {
+      const g = el.dataset.ccGroup as keyof Consent | 'essential';
+      if (g !== 'essential') el.checked = !!c[g];
+    });
+  };
+  const close = () => { banner.hidden = true; if (modal.open) modal.close(); reopen.hidden = false; };
+
+  document.addEventListener('click', (e) => {
+    const t = (e.target as HTMLElement).closest<HTMLElement>('[data-cc]');
+    if (!t) return;
+    const a = t.dataset.cc;
+    if (a === 'all') { setConsent({ functional: true, performance: true, marketing: true }); close(); }
+    else if (a === 'deny') { setConsent({ functional: false, performance: false, marketing: false }); close(); }
+    else if (a === 'edit') { modal.showModal(); }
+    else if (a === 'save') { setConsent(readSwitches(modal)); close(); }
+  });
+  // Schalter im Banner speichern sofort (wie bei Onepage)
+  banner.querySelectorAll<HTMLInputElement>('[data-cc-group]').forEach((el) =>
+    el.addEventListener('change', () => { const c = readSwitches(banner); setConsent(c); syncSwitches(c); }));
+  reopen.addEventListener('click', () => { const c = getConsent(); if (c) syncSwitches(c); reopen.hidden = true; banner.hidden = false; });
+  document.addEventListener('rk:open-consent', () => modal.showModal());
+
+  const c = getConsent();
+  if (c) { syncSwitches(c); reopen.hidden = false; } else { banner.hidden = false; }
+
+  // ---- Dienste laden, sobald Einwilligung vorliegt ----
+  const tr = (window as any).__rkTracking;
+  const load = (src: string, attrs: Record<string, string> = {}) => {
+    const s = document.createElement('script'); s.src = src; s.async = true;
+    Object.entries(attrs).forEach(([k, v]) => s.setAttribute(k, v)); document.head.appendChild(s); return s;
+  };
+  let marketingLoaded = false, perfLoaded = false;
+  onConsent((cons) => {
+    if (cons.marketing && !marketingLoaded) {
+      marketingLoaded = true;
+      // Google Ads
+      load(`https://www.googletagmanager.com/gtag/js?id=${tr.googleAds}`);
+      const w = window as any; w.dataLayer = w.dataLayer || []; w.gtag = function () { w.dataLayer.push(arguments); };
+      w.gtag('js', new Date()); w.gtag('config', tr.googleAds);
+      // Meta Pixel
+      (function (f: any, b: Document) {
+        if (f.fbq) return; const n: any = (f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); });
+        if (!f._fbq) f._fbq = n; n.push = n; n.loaded = true; n.version = '2.0'; n.queue = [];
+        const t = b.createElement('script'); t.async = true; t.src = 'https://connect.facebook.net/en_US/fbevents.js'; b.head.appendChild(t);
+      })(window, document);
+      w.fbq('init', tr.metaPixel); w.fbq('track', 'PageView');
+      // OpenAI Ads Pixel
+      (function (w2: any) { if (w2.oaiq) return; const q: any = function () { q.q.push(arguments); }; q.q = []; w2.oaiq = q; })(window);
+      load('https://bzrcdn.openai.com/sdk/oaiq.min.js'); w.oaiq('init', { pixelId: tr.openAiPixel });
+    }
+    if (cons.performance && !perfLoaded) {
+      perfLoaded = true;
+      import('@vercel/analytics').then((m) => m.inject({ mode: 'production' })).catch(() => {});
+    }
+  });
+</script>

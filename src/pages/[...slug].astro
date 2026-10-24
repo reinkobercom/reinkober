@@ -1,0 +1,58 @@
+---
+// Erzeugt alle Seiten aus den Seitenmodellen in src/content/pages/*.json.
+// Sektionen lassen sich in src/data/sections.ts ein- und ausschalten.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Section from '../components/blocks/Section.astro';
+import SiteHeader from '../components/global/SiteHeader.astro';
+import CareerExtras from '../components/global/CareerExtras.astro';
+import { career, careerPlaceholderSection } from '../data/career';
+import InterviewForm from '../components/forms/InterviewForm.astro';
+import { assignHeadings } from '../lib/headings';
+import { isSectionOn } from '../data/sections';
+import { pageMeta } from '../data/meta';
+import { jsonLdFor } from '../lib/jsonld';
+
+export function getStaticPaths() {
+  const mods = import.meta.glob<{ default: any }>('../content/pages/*.json', { eager: true });
+  return Object.entries(mods).map(([file, mod]) => {
+    const name = file.split('/').pop()!.replace('.json', '');
+    return { params: { slug: name === 'index' ? undefined : name }, props: { page: mod.default, name } };
+  });
+}
+
+const { page, name } = Astro.props as { page: any; name: string };
+const path: string = page.slug;
+const meta = pageMeta[path] || { title: page.seoTitle || page.title, description: page.seoDescription };
+const isFooter = (s: any) => /fu(ß|ss)zeile/i.test(s.title || '');
+const sections: any[] = page.sections.filter((s: any) => !s.isMega && isSectionOn(path, s.id));
+const headings = assignHeadings(sections);
+// Seiten ohne sichtbare Überschrift (z. B. reine Formularseiten) bekommen eine H1 für Screenreader & Suchmaschinen
+const hasH1 = [...headings.values()].includes('h1');
+const srH1 = (meta.title || '').split(/\s+[|–-]\s+/)[0];
+const hasHeader = sections.some((s: any) => s.isHeader);
+const content = sections.filter((s) => !s.isHeader && !isFooter(s));
+const footer = sections.filter((s) => isFooter(s));
+const interviewKey = ({ '/onboarding-formular': 'onboarding', '/onboarding-formular-recruiting': 'onboarding-recruiting' } as Record<string, string>)[path];
+---
+<BaseLayout title={meta.title} description={meta.description} path={path} jsonLd={jsonLdFor(path, meta)}>
+  {hasHeader && <SiteHeader path={path} headings={headings} />}
+  <main id="inhalt" tabindex="-1">
+    {!hasH1 && <h1 class="sr-only">{srH1}</h1>}
+    {interviewKey ? (
+      <InterviewForm formKey={interviewKey}>
+        {content.map((s, i) => <Section section={s} headings={headings} index={i} eagerImages={i === 0} />)}
+      </InterviewForm>
+    ) : (
+      content.map((s, i) => (
+        path === '/karriere' && career.enabled && s.id === careerPlaceholderSection
+          ? <CareerExtras />
+          : <Section section={s} headings={headings} index={i} eagerImages={i === 0 || (i === 1 && s.only === 'mobile')} />
+      ))
+    )}
+  </main>
+  {footer.length > 0 && (
+    <footer>
+      {footer.map((s, i) => <Section section={s} headings={headings} index={100 + i} />)}
+    </footer>
+  )}
+</BaseLayout>

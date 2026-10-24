@@ -1,0 +1,30 @@
+---
+// FAQ-Akkordeon. Natives <details>/<summary>: per Tastatur bedienbar, ohne JavaScript.
+import { css, fontVars, frameVars } from '../../lib/style';
+import { blockHtml } from '../../lib/html';
+
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const items: any[] = a.items || [];
+const cols = a.listCols || 1;
+const plus = '<svg viewBox="0 0 16 16" aria-hidden="true"><path class="acc__v" d="M8 1v14"/><path d="M1 8h14"/></svg>';
+---
+<div class="acc" style={css({ '--acols': cols > 1 ? cols : undefined, '--agap': a.space ?? 8 })}>
+  {items.map((it) => {
+    const style = css({ ...frameVars(it.frame), '--isz': it.iconSize });
+    return it.accordion !== false ? (
+      <details class="acc__item fr" style={style} open={it.open || undefined}>
+        <summary class="acc__head">
+          <span class="acc__title t" style={css(fontVars(it.titleFont))}>{it.title}</span>
+          <span class="acc__toggle" aria-hidden="true" set:html={plus} />
+        </summary>
+        <div class="acc__body t" style={css({ ...fontVars(it.bodyFont), '--abg': it.bodyGap })} set:html={blockHtml(it.html || '')} />
+      </details>
+    ) : (
+      <div class="acc__item fr" style={style}>
+        <p class="acc__title t" style={css(fontVars(it.titleFont))}>{it.title}</p>
+        {it.html && <div class="acc__body t" style={css(fontVars(it.bodyFont))} set:html={blockHtml(it.html)} />}
+      </div>
+    );
+  })}
+</div>

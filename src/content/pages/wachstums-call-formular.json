@@ -1,0 +1,534 @@
+{
+ "slug": "/wachstums-call-formular",
+ "title": "Wachstums-Call Formular",
+ "seoTitle": "",
+ "seoDescription": "",
+ "seoImage": null,
+ "noindexLive": false,
+ "sections": [
+  {
+   "id": "qP6YpeorRnfEaxdA1HIpr",
+   "title": "Quiz",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "fullH": true,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    81,
+    80
+   ],
+   "padM": [
+    40,
+    40
+   ],
+   "padT": [
+    81,
+    80
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "fxlMWUg3u8HTJdGoe9YmP",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1266,
+       "hpx": 594,
+       "x": 87,
+       "y": 152,
+       "mbox": {
+        "x": 95,
+        "y": 152,
+        "w": 1250,
+        "h": 594
+       },
+       "wpxM": 342,
+       "yM": 133,
+       "hpxM": 575,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "quiz",
+         "id": "He7p4FtbqaxnsUOW0ONYz",
+         "gap": 19,
+         "halign": "center",
+         "raw": true,
+         "hpx": 594,
+         "source": {
+          "data": {
+           "_oldFormId": 3074,
+           "formTemplateSchema": {
+            "_id": "95e3119e-c962-488b-9456-c7218e8601c1",
+            "title": "Quiz",
+            "type": "form_multistep",
+            "config": {
+             "options": {
+              "button_text": "Daten absenden",
+              "legal_documents": [],
+              "button_back_text": "",
+              "button_next_text": "Nächster Schritt",
+              "button_back_active": false,
+              "on_submit_action_link": "",
+              "on_submit_action_type": "slide",
+              "on_submit_action_header": "Thank you!",
+              "on_submit_action_description": "The form was successfully submitted.",
+              "on_submit_action_target_blank": false
+             }
+            },
+            "steps": [
+             {
+              "id": "e71088b6-8ac8-4620-9a3e-9f14c345104c",
+              "title": "Gib deinen Vornamen ein",
+              "description": "",
+              "options": {
+               "required": true,
+               "step_type": "mono_field",
+               "step_field_type": "text"
+              },
+              "fields": [
+               {
+                "value": "",
+                "id": "3618248f-4035-4f89-a1df-cf5301a98966",
+                "label": "Bsp. John ",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {},
+                "type": "text"
+               }
+              ],
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "e35dd970-8f5c-48e4-ac18-503319ff3eab",
+              "title": "Gib deinen Nachnamen ein",
+              "description": "",
+              "options": {
+               "step_type": "mono_field",
+               "step_field_type": "text"
+              },
+              "fields": [
+               {
+                "value": "",
+                "id": "a043c9d5-4631-4ce6-b587-4c7c4c7503d1",
+                "label": "Bsp. Mueller",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {},
+                "type": "text"
+               }
+              ],
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "7de68c3e-9e51-4066-9ae5-64254d425067",
+              "title": "Gib deine Postleitzahl ein",
+              "description": "",
+              "options": {
+               "required": true,
+               "step_type": "mono_field",
+               "step_field_type": "text"
+              },
+              "fields": [
+               {
+                "value": "",
+                "id": "bdc2d826-6cc8-4d7b-8568-ac55eecb44fb",
+                "label": "Bsp. 30164",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {},
+                "type": "text"
+               }
+              ],
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "25eaf583-47fb-4cff-8372-b8aac9ff51a9",
+              "title": "Gib deine Stadt ein",
+              "description": "",
+              "options": {
+               "required": true,
+               "step_type": "mono_field",
+               "step_field_type": "text"
+              },
+              "fields": [
+               {
+                "value": "",
+                "id": "2139f160-44c7-4eef-bae4-d5abe6f508bc",
+                "label": "Bsp. Stuttgart",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {},
+                "type": "text"
+               }
+              ],
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "c6d152e6-8f6d-4ec4-ba46-7ea984ab6740",
+              "title": "Gib deine Kontaktinformationen ein",
+              "description": "Wir sind nur noch einen Schritt vom Ziel entfernt",
+              "options": {
+               "required": true,
+               "step_type": "form",
+               "step_field_type": "phone",
+               "button_text_switch": true,
+               "button_text": "Daten absenden"
+              },
+              "fields": [
+               {
+                "value": "",
+                "id": "36859603-1afc-4d41-8f66-a75259391b95",
+                "label": "📧 E-Mail",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {},
+                "type": "email"
+               },
+               {
+                "value": "",
+                "id": "0cfafb12-7e8b-40e6-9654-626595609e01",
+                "label": "Telefon",
+                "placeholder": "",
+                "required": false,
+                "position": 2,
+                "options": {
+                 "phone_region": "auto"
+                },
+                "type": "phone"
+               }
+              ],
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "6fb9c88f-5430-463a-b475-26e2d2fc9cfa",
+              "title": "Vielen Dank! Wir werden uns bald mit dir in Verbindung setzen",
+              "description": "",
+              "options": {
+               "slug": "",
+               "label": "Label",
+               "title": "Question",
+               "disabled": false,
+               "required": true,
+               "image_src": "",
+               "step_type": "finish",
+               "autoSelect": false,
+               "media_type": "image",
+               "showLabels": true,
+               "button_text": "Finish",
+               "description": "Description",
+               "icon_nucleo": "",
+               "icon_switch": false,
+               "image_switch": false,
+               "image_position": "right",
+               "media_position": "right",
+               "button_subtitle": "",
+               "image_size_type": "fill",
+               "step_field_type": "select",
+               "image_arrangement": "centerCenter",
+               "image_full_switch": false,
+               "select_option_type": "card",
+               "select_content_type": "image",
+               "step_allow_multiselect": false,
+               "on_submit_action_type": "slide",
+               "on_submit_action_modal_header": "Thank you!",
+               "on_submit_action_modal_description": "The form was successfully submitted.",
+               "on_submit_action_link": "",
+               "on_submit_action_link_blank": false
+              },
+              "fields": [],
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             }
+            ]
+           },
+           "items": [],
+           "formId": "3b34b928-45ea-4381-bab8-c7e6251222fb"
+          },
+          "styles": {
+           "button_infinite_animation": "ripple",
+           "size": "xl",
+           "step_progressbar_type": "line_progress"
+          }
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 152,
+      "w": 1250,
+      "h": 594
+     },
+     "boxM": {
+      "x": 24,
+      "y": 133,
+      "w": 342,
+      "h": 575
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 900
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 844
+   }
+  }
+ ],
+ "forms": [
+  {
+   "_id": "3b34b928-45ea-4381-bab8-c7e6251222fb",
+   "siteId": "fa3bb1a6-a314-426b-8714-2409dcaa0b7a",
+   "title": "Wachtums-Call",
+   "type": "form_multistep",
+   "config": {
+    "options": {
+     "button_text": "Daten absenden",
+     "legal_documents": [],
+     "button_back_text": "",
+     "button_next_text": "Nächster Schritt",
+     "button_back_active": false,
+     "on_submit_action_link": "",
+     "on_submit_action_type": "slide",
+     "on_submit_action_header": "Thank you!",
+     "on_submit_action_description": "The form was successfully submitted.",
+     "on_submit_action_target_blank": false
+    }
+   },
+   "steps": [
+    {
+     "id": "e71088b6-8ac8-4620-9a3e-9f14c345104c",
+     "fields": [
+      {
+       "id": "3618248f-4035-4f89-a1df-cf5301a98966",
+       "type": "text",
+       "label": "Bsp. Max ",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {},
+       "value": ""
+      }
+     ],
+     "title": "Gib deinen Vornamen ein",
+     "description": "",
+     "options": {
+      "required": true,
+      "step_type": "mono_field",
+      "step_field_type": "text",
+      "slug": "Vorname",
+      "button_text_switch": true
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "e35dd970-8f5c-48e4-ac18-503319ff3eab",
+     "fields": [
+      {
+       "id": "a043c9d5-4631-4ce6-b587-4c7c4c7503d1",
+       "type": "text",
+       "label": "Bsp. Mustermann",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {},
+       "value": ""
+      }
+     ],
+     "title": "Gib deinen Nachnamen ein",
+     "description": "",
+     "options": {
+      "step_type": "mono_field",
+      "step_field_type": "text",
+      "slug": "Nachname",
+      "required": true
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "7de68c3e-9e51-4066-9ae5-64254d425067",
+     "fields": [
+      {
+       "id": "bdc2d826-6cc8-4d7b-8568-ac55eecb44fb",
+       "type": "text",
+       "label": "Bsp. www.reinkober.com",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {},
+       "value": ""
+      }
+     ],
+     "title": "Gib deine Website an",
+     "description": "",
+     "options": {
+      "required": true,
+      "step_type": "mono_field",
+      "step_field_type": "text",
+      "slug": "Website"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "25eaf583-47fb-4cff-8372-b8aac9ff51a9",
+     "fields": [
+      {
+       "id": "2139f160-44c7-4eef-bae4-d5abe6f508bc",
+       "type": "text",
+       "label": "Bsp. 016096088604",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {},
+       "value": ""
+      }
+     ],
+     "title": "Gib deine Telefonnummer ein",
+     "description": "",
+     "options": {
+      "required": true,
+      "step_type": "mono_field",
+      "step_field_type": "text",
+      "slug": "Telefonnummer"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "6fb9c88f-5430-463a-b475-26e2d2fc9cfa",
+     "fields": [],
+     "title": "Senden...",
+     "description": "",
+     "options": {
+      "slug": "",
+      "label": "Label",
+      "title": "Question",
+      "disabled": false,
+      "required": true,
+      "image_src": "",
+      "step_type": "finish",
+      "autoSelect": false,
+      "media_type": "image",
+      "showLabels": true,
+      "button_text": "Finish",
+      "description": "Description",
+      "icon_nucleo": "",
+      "icon_switch": false,
+      "image_switch": false,
+      "image_position": "right",
+      "media_position": "right",
+      "button_subtitle": "",
+      "image_size_type": "fill",
+      "step_field_type": "select",
+      "image_arrangement": "centerCenter",
+      "image_full_switch": false,
+      "select_option_type": "card",
+      "select_content_type": "image",
+      "step_allow_multiselect": false,
+      "on_submit_action_type": "link",
+      "on_submit_action_modal_header": "Thank you!",
+      "on_submit_action_modal_description": "The form was successfully submitted.",
+      "on_submit_action_link": "/danke-wachstum",
+      "on_submit_action_link_blank": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    }
+   ]
+  }
+ ]
+}

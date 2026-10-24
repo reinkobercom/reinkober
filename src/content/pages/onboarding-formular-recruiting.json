@@ -1,0 +1,1669 @@
+{
+ "slug": "/onboarding-formular-recruiting",
+ "title": "Onboarding Formular Recruiting",
+ "seoTitle": "Onboarding Formular Recruiting",
+ "seoDescription": "",
+ "seoImage": null,
+ "noindexLive": true,
+ "sections": [
+  {
+   "id": "JwcXwiYb27jphSwlAu-rb",
+   "title": "ONB Quiz Recruiting",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    61,
+    100
+   ],
+   "padM": [
+    30,
+    50
+   ],
+   "padT": [
+    61,
+    100
+   ],
+   "side": 24,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "mExUK8N312nnRQNVnBhj0",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "11",
+       "md": "11",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 591,
+       "hpx": 965,
+       "x": 75,
+       "y": 165,
+       "mbox": {
+        "x": 95,
+        "y": 165,
+        "w": 551,
+        "h": 965
+       },
+       "wpxM": 342,
+       "yM": 134,
+       "hpxM": 414,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 790,
+       "atoms": [
+        {
+         "type": "image",
+         "id": "Z2eFG03bzKJMTf15SYQfy",
+         "gap": 0,
+         "halign": "center",
+         "src": "unsplash/-uHVRvDr7pg",
+         "wpx": 551,
+         "hpx": 628,
+         "wpxM": 342,
+         "hpxM": 390,
+         "frame": {
+          "radius": "16px"
+         },
+         "pos": "50% 50%",
+         "fit": "fill"
+        }
+       ]
+      },
+      {
+       "lg": "13",
+       "md": "13",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 699,
+       "hpx": 965,
+       "x": 666,
+       "y": 165,
+       "mbox": {
+        "x": 686,
+        "y": 165,
+        "w": 659,
+        "h": 965
+       },
+       "wpxM": 342,
+       "yM": 548,
+       "hpxM": 1491,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "wpxT": 790,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "lGpuitRMbb3S_0naRw_2c",
+         "gap": 20,
+         "w": "91.2106135986733%",
+         "halign": "left",
+         "html": "<strong><p>Lass uns gemeinsam dein Arbeitgeber-Angebot messerscharf herausarbeiten!</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "header",
+         "id": "AcIAOdNOY0OWaBqscp1Hl",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Warum dieses <mark data-hl=\"underline\">Arbeitgeber‒Interview?</mark></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "kWtyfTl1esKJLPh9SvPHg",
+         "gap": 30,
+         "halign": "left",
+         "html": "<p>Du möchtest mit uns passende Bewerber für dein Unternehmen gewinnen – und zwar nicht irgendwie, sondern gezielt und überzeugend. Dafür reicht es nicht, einfach nur Stellenanzeigen zu schalten. Wir müssen dein Unternehmen als attraktiven Arbeitgeber positionieren – mit klaren Vorteilen, echtem Mehrwert für Bewerber und einer individuellen Ansprache.</p><p>Damit wir deine Recruiting-Kampagne passgenau planen und umsetzen können, brauchen wir einige Informationen von dir. Dieses kurze Interview hilft uns, deine Arbeitgebermarke richtig zu verstehen und entsprechend zu kommunizieren.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 30,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "c9PaogDGBzJVXQ9GO35dU",
+         "gap": 10,
+         "halign": "left",
+         "style": "color",
+         "dir": "vertical",
+         "size": "l",
+         "space": "24px",
+         "items": [
+          {
+           "text": "Dauer",
+           "sub": "Bitte nimm dir ca. 15-20 Min. Zeit, um alle Fragen genau zu beantworten.",
+           "icon": "<svg viewBox=\"0 0 12 12\" preserveAspectRatio=\"none\"><path d=\"M1,9A1,1,0,0,1,.293,7.293l3.5-3.5a1,1,0,0,1,1.414,0L7.5,6.086l2.793-2.793a1,1,0,1,1,1.414,1.414l-3.5,3.5a1,1,0,0,1-1.414,0L4.5,5.914,1.707,8.707A1,1,0,0,1,1,9Z\"></path></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "#76b2cc",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 15.12,
+            "lh": 22.68,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 78
+          },
+          {
+           "text": "Technik",
+           "sub": "Am besten füllst Du das Interview am Laptop aus.",
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><path d=\"M11,16h2c0.6,0,1-0.4,1-1V8h1v0c0.3,0,0.6-0.1,0.8-0.3c0.4-0.4,0.3-1-0.1-1.4l-7-6c-0.4-0.3-0.9-0.3-1.3,0 l-7,6c-0.4,0.4-0.5,1-0.1,1.4C0.4,7.9,0.7,8,1,8c0.2,0,1,0,1,0v7c0,0.6,0.4,1,1,1h2c0.6,0,1-0.4,1-1v-3h4v3C10,15.6,10.4,16,11,16z\"></path></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "#76b2cc",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 15.12,
+            "lh": 22.68,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 78
+          },
+          {
+           "text": "Funktionsweise",
+           "sub": "Falls Dir später noch was einfällt, kannst du immer zurück navigieren.",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><polyline fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" points=\"2,12 9,19 22,6 \" stroke-linejoin=\"miter\"></polyline></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "#76b2cc",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 15.12,
+            "lh": 22.68,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 78
+          },
+          {
+           "text": "Wichtig",
+           "sub": "Wir arbeiten mit dem, was Du uns gibst - antworte daher bitte so ausführlich wie möglich.",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"none\" stroke-width=\"2\" stroke-miterlimit=\"10\" d=\"M11,13 c-2.824,0-5.329,0.638-6.975,1.193C2.81,14.604,2,15.749,2,17.032V21h8\" stroke-linejoin=\"miter\" stroke-linecap=\"butt\"></path> <path fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" d=\"M11,13L11,13 c-2.761,0-5-3.239-5-6V6c0-2.761,2.239-5,5-5h0c2.761,0,5,2.239,5,5v1C16,9.761,13.761,13,11,13z\" stroke-linejoin=\"miter\"></path> <polyline fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" points=\" 15,20 17,22 22,17 \" stroke-linejoin=\"miter\"></polyline></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "#76b2cc",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 15.12,
+            "lh": 22.68,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 101
+          }
+         ]
+        },
+        {
+         "type": "plain-text",
+         "id": "71f2630c-f827-4f27-9675-abb5416d7f1a",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p><em><strong>Wenn du Hilfe brauchst, melde dich gerne jederzeit in unserer WhatsApp-Gruppe bei uns!</strong></em></p>",
+         "tag": "p",
+         "font": {
+          "fs": 14,
+          "lh": 21,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "link-group",
+         "id": "4nWNOO3GVatahxyqQ-y3z",
+         "gap": 0,
+         "minW": "190.546875px",
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Jetzt loslegen",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "100px",
+           "h": 61,
+           "w": 178,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 25.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "action": "form_action"
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 61,
+           "w": 178,
+           "fs": 17,
+           "pad": [
+            8,
+            31
+           ]
+          }
+         ],
+         "mode": "vertical"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 165,
+      "w": 1250,
+      "h": 965
+     },
+     "boxM": {
+      "x": 24,
+      "y": 134,
+      "w": 342,
+      "h": 1905
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 1231
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 2090
+   }
+  }
+ ],
+ "forms": [
+  {
+   "_id": "BlA_1FhtMGW0-8MXSsf5V",
+   "config": {
+    "options": {
+     "data": {
+      "progress_bar_type": "sticky-line",
+      "form_action_prev_text": "Vorheriger Schritt",
+      "form_action_submit_text": "Nächster Schritt",
+      "form_action_next_text": "Zum nächsten Schritt "
+     },
+     "styles": {
+      "progress_bar_type": "horizontal-line",
+      "progress_bar_size": "l",
+      "progress_bar_indentLg": 60,
+      "progress_bar_label_type": "percent"
+     }
+    }
+   },
+   "siteId": "fa3bb1a6-a314-426b-8714-2409dcaa0b7a",
+   "steps": [
+    {
+     "id": "j2IYcLeo3q20atT4QeaiO",
+     "title": "Starten",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "title": "Starten",
+       "type": "default"
+      },
+      "styles": {
+       "hide_navigation": true,
+       "padding_top": 60
+      },
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": []
+    },
+    {
+     "id": "6BBTJcKs-hC9jGsG0KPWt",
+     "title": "Fertig. 1",
+     "description": "",
+     "options": {
+      "step_type": "finish",
+      "data": {
+       "type": "action",
+       "title": "Fertig. 1",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {
+       "frame_style_override": true,
+       "container_style_type": "solid",
+       "container_radius_key": "16",
+       "container_color_bg_variation": "text",
+       "color_bg": "light",
+       "container_color_bg_type": "palette",
+       "container_color_bg": "white",
+       "full_height": true
+      },
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": []
+    },
+    {
+     "id": "do00FXFIRUp8Zh8aEO3JX",
+     "title": "Titel",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Titel",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "XJZzBSY56v6WzMUR6c_Q0",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Zum Beispiel: „Online Ernährungscoaching“, „1:1 Finanzberatung für Selbstständige“ oder „Premium Massivholztische“.",
+       "required": true,
+       "slug": null,
+       "position": 4,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Zum Beispiel: „Online Ernährungscoaching“, „1:1 Finanzberatung für Selbstständige“ oder „Premium Massivholztische“.",
+         "form_label": "",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "PGDNKQhdqwzUWUU9uZLCp",
+     "title": "Zielgruppe",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Zielgruppe",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "3xlEozxfTUoUT06eaHsPv",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Denk an Kunden, bei denen die Zusammenarbeit Spaß macht: Alter, Beruf, Interessen, Branche, typische Probleme.",
+       "required": true,
+       "slug": "ZG",
+       "position": 4,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Denk an Kunden, bei denen die Zusammenarbeit Spaß macht: Alter, Beruf, Interessen, Branche, typische Probleme.",
+         "form_label": "",
+         "form_slug": "ZG",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "EOOCmPiFdqEdWJrwGjX5K",
+     "title": "Alleinige Problemlösung",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Alleinige Problemlösung",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "C-UO_TCCODh03_5IJ7fcl",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Was funktioniert bei ihnen nicht? Woran scheitern sie, wenn sie es selbst probieren?",
+       "required": true,
+       "slug": "Herausforderung ZG",
+       "position": 4,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Was funktioniert bei ihnen nicht? Woran scheitern sie, wenn sie es selbst probieren?",
+         "form_label": "",
+         "form_slug": "Herausforderung ZG",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "Bnq1_7V3B9IMHzx9RfBO2",
+     "title": "Angebotsinhalt",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Angebotsinhalt",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "k698UDbcLRJvUEQ212CZT",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Beschreib’s so, wie du es einem Interessenten erzählen würdest. Was bekommt er konkret? Welche Ergebnisse kann er erwarten?",
+       "required": true,
+       "slug": "Angebotsinhalt",
+       "position": 4,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Beschreib’s so, wie du es einem Interessenten erzählen würdest. Was bekommt er konkret? Welche Ergebnisse kann er erwarten?",
+         "form_label": "",
+         "form_slug": "Angebotsinhalt",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "XbpSZFVRNdZ52R8lEQkkn",
+     "title": "Pakete",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Pakete",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "Igy_Eg7bseowLkvdbwkrx",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Zum Beispiel: „Es gibt ein 6-Wochen-Intensivprogramm und eine langfristige Betreuung“, oder „Ich biete Einzelstücke sowie Serienproduktion an“.",
+       "required": true,
+       "slug": "Preise/Pakete",
+       "position": 4,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Zum Beispiel: „Es gibt ein 6-Wochen-Intensivprogramm und eine langfristige Betreuung“, oder „Ich biete Einzelstücke sowie Serienproduktion an“.",
+         "form_label": "",
+         "form_slug": "Preise/Pakete",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "vo2rHcHYYNwVKlho_0tda",
+     "title": "Pakete/preise nennen",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Pakete/preise nennen"
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "3fbLYyQonBBnsDUyu8xia",
+       "type": "form-select",
+       "label": null,
+       "placeholder": "Wählen Sie eine Option aus",
+       "required": null,
+       "slug": null,
+       "position": 4,
+       "options": {
+        "data": {
+         "form_placeholder": "Wählen Sie eine Option aus",
+         "items": [
+          {
+           "_id": "PG4Yk0rhPNFDapnsqJGCF",
+           "data": {
+            "value": "Ja, Preise dürfen offen kommuniziert werden."
+           },
+           "styles": {}
+          },
+          {
+           "_id": "m-mNMo7qKwHHe30Kn_m2C",
+           "data": {
+            "value": "Nein, Preise dürfen nicht offen kommuniziert werden."
+           },
+           "styles": {}
+          },
+          {
+           "_id": "GmPTkjWVl0EU42tuxnN2j",
+           "data": {
+            "value": "Die verschiedenen Pakete/Stufen dürfen genannt werden, aber ohne Preise."
+           },
+           "styles": {}
+          }
+         ]
+        },
+        "styles": {
+         "card_columns": 3,
+         "select_type": "checklist"
+        }
+       },
+       "typeId": null
+      },
+      {
+       "id": "A77Q-njo9iGlEaFN3FPcO",
+       "type": "form-input",
+       "label": "Alternativ:",
+       "placeholder": "Wie darf dein Angebot kommuniziert werden?",
+       "required": null,
+       "slug": null,
+       "position": 5,
+       "options": {
+        "data": {
+         "form_placeholder": "Wie darf dein Angebot kommuniziert werden?",
+         "form_label": "Alternativ:",
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "iKNcfmvy4Yeyt7OqFebjg",
+     "title": "ZG Ziel",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "ZG Ziel",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "RI46h97smaefGmGuJog0A",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Was wollen diese Kunden erreichen oder verbessern? Zum Beispiel: „Endlich wieder schmerzfrei trainieren“ oder „Mehr Anfragen über Social Media bekommen“.",
+       "required": true,
+       "slug": "ZG Ziel",
+       "position": 4,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Was wollen diese Kunden erreichen oder verbessern? Zum Beispiel: „Endlich wieder schmerzfrei trainieren“ oder „Mehr Anfragen über Social Media bekommen“.",
+         "form_label": "",
+         "form_slug": "ZG Ziel",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "l_7aRrG-YQMu2HJyOLbys",
+     "title": "ZG Problem",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "ZG Problem",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "Dgte3QumFpBhNXMGUWNGF",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Beschreib typische Probleme oder Symptome. Was ist der Moment, in dem die Kunden merken: „Jetzt reicht’s, ich will eine Lösung!“",
+       "required": true,
+       "slug": "ZG Problem",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Beschreib typische Probleme oder Symptome. Was ist der Moment, in dem die Kunden merken: „Jetzt reicht’s, ich will eine Lösung!“",
+         "form_label": "",
+         "form_slug": "ZG Problem",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {
+         "atom_width": 100
+        }
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "jZs3x6kQ4J7_Sp1f_XF3E",
+     "title": "ZG Einwand",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "ZG Einwand",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "ePomMxTSyOTwZ9Y8kqmVi",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Was hörst du im Gespräch oft? „Zu teuer“, „zu wenig Zeit“, „Ich weiß nicht, ob das klappt“… Trage gerne alles ein, was dir einfällt.",
+       "required": true,
+       "slug": "Einwand ZG",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Was hörst du im Gespräch oft? „Zu teuer“, „zu wenig Zeit“, „Ich weiß nicht, ob das klappt“… Trage gerne alles ein, was dir einfällt.",
+         "form_label": "",
+         "form_slug": "Einwand ZG",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "VjIdQRSUJaNtSy0Xd9NfG",
+     "title": "USPs",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "USPs",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "7haUVZaIPVGmNiNDmtF-j",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Zum Beispiel: „Ich begleite meine Kunden persönlich“, „Wir haben eine einzigartige Methode“, „Unsere Ergebnisse sind messbar“…",
+       "required": true,
+       "slug": "USPs",
+       "position": 4,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Zum Beispiel: „Ich begleite meine Kunden persönlich“, „Wir haben eine einzigartige Methode“, „Unsere Ergebnisse sind messbar“…",
+         "form_label": "",
+         "form_slug": "USPs",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "LTzoPSXVQaSmxdwDy0dCF",
+     "title": "Wettbewerber",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Wettbewerber",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "lAyUwj-gVotxZDS_HM9zs",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Was bekommst du immer wieder als Feedback? Oder was würdest du selbst sagen: „Das kann ich besser als die anderen…“",
+       "required": true,
+       "slug": "Wettbewerber",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Was bekommst du immer wieder als Feedback? Oder was würdest du selbst sagen: „Das kann ich besser als die anderen…“",
+         "form_label": "",
+         "form_slug": "Wettbewerber",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "I4-YdC6Kz4Z4Io_fFfOsO",
+     "title": "Motivation/Story",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Motivation/Story",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "t6xhFIAbyCEBXfuDKyQU1",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Gab es einen Aha-Moment? Ein Schlüsselerlebnis? Oder hast du einfach gemerkt: „DAS ist meine Leidenschaft“?",
+       "required": true,
+       "slug": "Motivation/Story",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Gab es einen Aha-Moment? Ein Schlüsselerlebnis? Oder hast du einfach gemerkt: „DAS ist meine Leidenschaft“?",
+         "form_label": "",
+         "form_slug": "Motivation/Story",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "wgz2xF1-E76EVokbpm_fw",
+     "title": "Kommunikation",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Kommunikation",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "sPNS3pN2uBUwRBqLYOS5x",
+       "type": "form-select",
+       "label": null,
+       "placeholder": "Wählen Sie eine Option aus",
+       "required": true,
+       "slug": "Kommunikation",
+       "position": 4,
+       "options": {
+        "data": {
+         "form_placeholder": "Wählen Sie eine Option aus",
+         "items": [
+          {
+           "_id": "j0Fg166JarO8HF_-ZnQY8",
+           "data": {
+            "value": "Duzen"
+           },
+           "styles": {
+            "icon_nucleo_config": {
+             "label": "star",
+             "svg": "<path d=\"M12.746,1.464l3.11,6.3L22.81,8.776a.831.831,0,0,1,.461,1.418l-5.033,4.9,1.188,6.926a.832.832,0,0,1-1.207.877L12,19.632,5.78,22.9a.833.833,0,0,1-1.207-.878L5.761,15.1l-5.033-4.9a.831.831,0,0,1,.461-1.418L8.143,7.765l3.11-6.3A.833.833,0,0,1,12.746,1.464Z\" data-fill=\"#444\"/>",
+             "size": 24,
+             "fill": "glyph",
+             "line_weight": 2
+            },
+            "icon_type": "nucleo"
+           }
+          },
+          {
+           "_id": "XL_yJgq7qoXVdey9rD1VK",
+           "data": {
+            "value": "Siezen"
+           },
+           "styles": {
+            "icon_nucleo_config": {
+             "label": "star",
+             "svg": "<path d=\"M12.746,1.464l3.11,6.3L22.81,8.776a.831.831,0,0,1,.461,1.418l-5.033,4.9,1.188,6.926a.832.832,0,0,1-1.207.877L12,19.632,5.78,22.9a.833.833,0,0,1-1.207-.878L5.761,15.1l-5.033-4.9a.831.831,0,0,1,.461-1.418L8.143,7.765l3.11-6.3A.833.833,0,0,1,12.746,1.464Z\" data-fill=\"#444\"/>",
+             "size": 24,
+             "fill": "glyph",
+             "line_weight": 2
+            },
+            "icon_type": "nucleo"
+           }
+          },
+          {
+           "_id": "aK2lDShwLxffhcj21qfLK",
+           "data": {
+            "value": "Weiß ich noch nicht"
+           },
+           "styles": {
+            "icon_nucleo_config": {
+             "label": "star",
+             "svg": "<path d=\"M12.746,1.464l3.11,6.3L22.81,8.776a.831.831,0,0,1,.461,1.418l-5.033,4.9,1.188,6.926a.832.832,0,0,1-1.207.877L12,19.632,5.78,22.9a.833.833,0,0,1-1.207-.878L5.761,15.1l-5.033-4.9a.831.831,0,0,1,.461-1.418L8.143,7.765l3.11-6.3A.833.833,0,0,1,12.746,1.464Z\" data-fill=\"#444\"/>",
+             "size": 24,
+             "fill": "glyph",
+             "line_weight": 2
+            },
+            "icon_type": "nucleo"
+           }
+          }
+         ],
+         "form_slug": "Kommunikation",
+         "form_required": true
+        },
+        "styles": {
+         "card_columns": 3,
+         "select_type": "checklist"
+        }
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "oO0tQx5dwkjBHo7aLEgY9",
+     "title": "Nicht kommunizieren",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Nicht kommunizieren",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "vBY2Y7mzXqWZxOpLwTwcx",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Gibt es Dinge, über die du im Marketing bewusst NICHT reden möchtest? Beispielsweise „Ich will keine Rabatte nennen“ oder „Ich will keine Heilversprechen machen“…",
+       "required": false,
+       "slug": "Nicht kommunizieren",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Gibt es Dinge, über die du im Marketing bewusst NICHT reden möchtest? Beispielsweise „Ich will keine Rabatte nennen“ oder „Ich will keine Heilversprechen machen“…",
+         "form_label": "",
+         "form_slug": "Nicht kommunizieren",
+         "form_required": false,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "_NGubDHqH8DjeyasJVs-q",
+     "title": "Kommunizieren",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Kommunizieren",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "MuVCcrKgv-zTjfhKtDpv6",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Hast du ein persönliches Motto, einen Leitsatz oder einen Begriff, der immer genannt werden soll?",
+       "required": true,
+       "slug": "Kommunizieren",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Hast du ein persönliches Motto, einen Leitsatz oder einen Begriff, der immer genannt werden soll?",
+         "form_label": "",
+         "form_slug": "Kommunizieren",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "9ViXx0eSbC76amkBNxwJ8",
+     "title": "Verständnisfehler",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Verständnisfehler",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "-paqKgTmp9Cevjwjy7OjD",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Zum Beispiel: „Viele glauben, mein Coaching ist nur für Profis geeignet“, oder „Die meisten unterschätzen den Aufwand hinter dem Ergebnis“. Was müssen wir wissen, um diese falschen Vorstellungen direkt richtigzustellen?",
+       "required": true,
+       "slug": "Verständnisfehler",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Zum Beispiel: „Viele glauben, mein Coaching ist nur für Profis geeignet“, oder „Die meisten unterschätzen den Aufwand hinter dem Ergebnis“. Was müssen wir wissen, um diese falschen Vorstellungen direkt richtigzustellen?",
+         "form_label": "",
+         "form_slug": "Verständnisfehler",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {
+         "rows": 5
+        }
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "ANu6I1U9ne0rom_ZQgGQG",
+     "title": "Nach Kauf",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Nach Kauf",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "WS_-NXkuSFcoW5mDB54YA",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Was sagen deine Kunden nach dem Kauf? Welche positiven Veränderungen sehen sie?",
+       "required": true,
+       "slug": "Nach Kauf",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Was sagen deine Kunden nach dem Kauf? Welche positiven Veränderungen sehen sie?",
+         "form_label": "",
+         "form_slug": "Nach Kauf",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "koaoI5xBWQ_H7BEWwwbMb",
+     "title": "Verpassen",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Verpassen",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "egdoJaKd-CbuaHpVRchLN",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Was passiert, wenn sie sich dagegen entscheiden? Bleibt das Problem bestehen? Wird es vielleicht schlimmer?",
+       "required": true,
+       "slug": "Verpassen",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Was passiert, wenn sie sich dagegen entscheiden? Bleibt das Problem bestehen? Wird es vielleicht schlimmer?",
+         "form_label": "",
+         "form_slug": "Verpassen",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "wtT47FX9oFhV7VyY9Q3I_",
+     "title": "Zusatz Infos",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Zusatz Infos",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "4Zhn3D7vO-_TIyXH6EU0q",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Hier ist Platz für alles, was du uns noch mitgeben möchtest.",
+       "required": true,
+       "slug": "Mehr infos",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Hier ist Platz für alles, was du uns noch mitgeben möchtest.",
+         "form_label": "",
+         "form_slug": "Mehr infos",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "qA449_q4B0t23KpHMBU2W",
+     "title": "Qualifikation",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Qualifikation",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "VaYc6Cj0PRuGsloMklhWz",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Zum Beispiel: „Zertifizierter XY-Coach“, „20 Jahre Branchenerfahrung“, „Studium im Bereich XY“, „Eigene Erfolgsgeschichte mit dem Thema“ oder „Regelmäßige Fachvorträge auf Konferenzen“. Alles, was deiner Zielgruppe zeigt: Du weißt, wovon du sprichst!",
+       "required": true,
+       "slug": "Qualifikationen",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Zum Beispiel: „Zertifizierter XY-Coach“, „20 Jahre Branchenerfahrung“, „Studium im Bereich XY“, „Eigene Erfolgsgeschichte mit dem Thema“ oder „Regelmäßige Fachvorträge auf Konferenzen“. Alles, was deiner Zielgruppe zeigt: Du weißt, wovon du sprichst!",
+         "form_label": "",
+         "form_slug": "Qualifikationen",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {
+         "rows": 5
+        }
+       },
+       "typeId": null
+      }
+     ]
+    },
+    {
+     "id": "OuA4JGnZpbpL6MXiT07N7",
+     "title": "Wettbewerber (1)",
+     "description": "",
+     "options": {
+      "step_type": "text",
+      "data": {
+       "type": "default",
+       "title": "Wettbewerber (1)",
+       "logic": {
+        "rules": [],
+        "fallbackFrameId": ""
+       }
+      },
+      "styles": {},
+      "double_opt_in_switch": false,
+      "double_opt_in_mail_template_id": "",
+      "double_opt_in_mail_template_variables": {},
+      "double_opt_in_redirect_path": "",
+      "double_opt_in_trigger_integrations": false
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {
+       "goToStepId": ""
+      }
+     },
+     "fields": [
+      {
+       "id": "Ds0aHWw0eJiVfm0md-q9S",
+       "type": "form-textarea",
+       "label": "",
+       "placeholder": "💡 Füge gern einfach die Links zu deren Webseiten hier ein.",
+       "required": true,
+       "slug": "Wettbewerber",
+       "position": 3,
+       "options": {
+        "data": {
+         "form_placeholder": "💡 Füge gern einfach die Links zu deren Webseiten hier ein.",
+         "form_label": "",
+         "form_slug": "Wettbewerber",
+         "form_required": true,
+         "items": []
+        },
+        "styles": {}
+       },
+       "typeId": null
+      }
+     ]
+    }
+   ],
+   "title": "ONB Quiz Recruiting",
+   "type": "form_multistep",
+   "v": 2
+  }
+ ]
+}

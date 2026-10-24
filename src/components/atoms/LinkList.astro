@@ -1,0 +1,31 @@
+---
+// Kontakt-Einträge (Telefon, E-Mail) und Social-Media-Icons.
+import { css, fontVars } from '../../lib/style';
+import { fixHref } from '../../lib/html';
+
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const items: any[] = a.items || [];
+const social = a.type === 'social';
+const label = (h = '') => h.includes('facebook') ? 'Facebook' : h.includes('instagram') ? 'Instagram' : h.includes('linkedin') ? 'LinkedIn' : h.includes('youtube') ? 'YouTube' : h.includes('tiktok') ? 'TikTok' : h.includes('xing') ? 'XING' : h.includes('wa.me') || h.includes('whatsapp') ? 'WhatsApp' : 'Profil';
+---
+<ul class:list={['links', social ? 'links--social' : 'links--contacts']} style={css({ '--lgap': a.gapItems || undefined })}>
+  {items.map((it) => {
+    const href = fixHref(it.href);
+    const ib = it.iconBox || {};
+    const st = css({ '--iw': ib.w || a.iconSize, '--is': ib.svg, '--ibg': ib.bg, '--ir': ib.radius, '--ibd': ib.border, '--ic': ib.color || a.iconColor, '--lbbg': it.btn?.bg, '--lbr': it.btn?.r, '--lbw': social && it.btn ? it.btn.w : undefined });
+    return (
+      <li>
+        <a class:list={['links__item', social && it.btn && 'links__item--btn']} href={href} target={it.target} rel={it.target === '_blank' ? 'noopener' : undefined} aria-label={social ? `${label(href)} (öffnet in neuem Tab)` : undefined} style={st || undefined}>
+          {it.icon && <span class="links__icon" aria-hidden="true" set:html={it.icon} />}
+          {!social && (
+            <span class="links__text">
+              <span class="t links__label" style={css(fontVars(it.font))}>{it.text}</span>
+              {it.sub && <span class="t links__sub" style={css(fontVars(it.subFont))}>{it.sub}</span>}
+            </span>
+          )}
+        </a>
+      </li>
+    );
+  })}
+</ul>

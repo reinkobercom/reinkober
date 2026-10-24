@@ -1,0 +1,64 @@
+---
+// Eine Seitensektion (entspricht einer Onepage-Sektion) inkl. Hintergrund,
+// Abständen, Container und Zeilen.
+import { Image } from 'astro:assets';
+import { getImage } from '../../data/images';
+import { css, frameVars, hasFrame, flex, isDark } from '../../lib/style';
+import Row from './Row.astro';
+
+interface Props { section: any; headings: Map<string, string>; eagerImages?: boolean; index: number }
+const { section: s, headings, eagerImages = false, index } = Astro.props;
+
+const pad = s.pad || [0, 0];
+const padM = s.padM || [Math.round(pad[0] / 2), Math.round(pad[1] / 2)];
+const padT = s.padT;
+const cont = s.container || {};
+const cf = cont.frame || {};
+const cfm = s.containerM?.frame;
+const contHasFrame = hasFrame(cf);
+const bgImg = s.bgImage ? getImage(s.bgImage.src) : undefined;
+const contBg = cf.bgImage ? getImage(cf.bgImage.src) : undefined;
+const dark = isDark(s.bg) || isDark(cf.bg);
+const onlyCls = s.only === 'desktop' ? 'only-desktop' : s.only === 'mobile' ? 'only-mobile' : '';
+
+// Zeilenabstände aus den gemessenen Boxen
+const rows = s.rows || [];
+const rowGaps = rows.map((r: any, i: number) => {
+  if (i === 0) return {};
+  const prev = rows[i - 1];
+  const g = prev.box && r.box ? Math.max(0, r.box.y - (prev.box.y + prev.box.h)) : 0;
+  const gm = prev.boxM && r.boxM ? Math.max(0, r.boxM.y - (prev.boxM.y + prev.boxM.h)) : undefined;
+  return { g, gm };
+});
+
+const style = css({
+  '--bg': s.bg,
+  '--text': s.text,
+  '--pt': pad[0], '--pb': pad[1], '--pt-m': padM[0], '--pb-m': padM[1],
+  '--pt-t': padT?.[0] !== pad[0] ? padT?.[0] : undefined, '--pb-t': padT?.[1] !== pad[1] ? padT?.[1] : undefined,
+  '--side': s.side != null && s.side !== 32 ? s.side : undefined,
+  '--cw': cont.w && cont.w !== 1250 ? cont.w : undefined,
+  '--cva': flex(cf.valign),
+});
+const id = index === -1 ? undefined : `s-${s.id}`;
+---
+<section class:list={['sec', onlyCls, dark && 'on-dark', s.fullH && 'sec--full']} style={style} data-sec={s.id} id={id} data-title={s.title}>
+  {bgImg && (
+    <div class="sec__bg" aria-hidden="true">
+      <Image src={bgImg.src} alt="" widths={[640, 1024, 1440, 1920, 2400]} sizes="100vw" loading={eagerImages ? 'eager' : 'lazy'} fetchpriority={eagerImages ? 'high' : undefined} style={s.bgImage.pos ? `object-position:${s.bgImage.pos}` : undefined} />
+      {s.overlay && <div class="sec__overlay" style={css({ background: s.overlay.img || s.overlay.bg, opacity: s.overlay.op })}></div>}
+    </div>
+  )}
+  <div class="sec__frame">
+    <div class:list={['sec__cont', contHasFrame && 'fr']} style={contHasFrame ? css(frameVars(cf, cfm)) : undefined}>
+      {contBg && (
+        <div class="fr__bg" aria-hidden="true">
+          <Image src={contBg.src} alt="" widths={[640, 1024, 1440, 1920]} sizes="(max-width: 1300px) 100vw, 1250px" loading="lazy" style={`object-position:${cf.bgImage.pos || '50% 50%'}`} />
+        </div>
+      )}
+      {rows.map((r: any, i: number) => (
+        <Row row={r} headings={headings} gap={rowGaps[i].g} gapM={rowGaps[i].gm} eagerImages={eagerImages && i === 0} sectionIndex={index} />
+      ))}
+    </div>
+  </div>
+</section>

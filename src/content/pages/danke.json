@@ -1,0 +1,617 @@
+{
+ "slug": "/danke",
+ "title": "Danke",
+ "seoTitle": "Danke",
+ "seoDescription": "",
+ "seoImage": null,
+ "noindexLive": true,
+ "sections": [
+  {
+   "id": "mXkDGZUC5HvYWei2x0Yl3",
+   "title": "Absatztext",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    71,
+    50
+   ],
+   "padM": [
+    35,
+    25
+   ],
+   "padT": [
+    71,
+    50
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "3a2a3527-647a-4623-9259-c65ed63377a3",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 633,
+       "hpx": 357,
+       "x": 404,
+       "y": 70,
+       "mbox": {
+        "x": 412,
+        "y": 70,
+        "w": 617,
+        "h": 357
+       },
+       "wpxM": 342,
+       "yM": 34,
+       "hpxM": 426,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "icon",
+         "id": "osaTFWiFJOBmFAh0GuTrH",
+         "gap": 20,
+         "halign": "center",
+         "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"none\"><path d=\"M42,25c0,14-18,20-18,20S6,39,6,25V6L24,2,42,6Z\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></path><polyline points=\"16 23 22 29 34 15\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></polyline></svg>",
+         "size": 45,
+         "color": "#ffffff",
+         "frame": {
+          "text": "#ffffff"
+         },
+         "boxSize": 96,
+         "iconBox": {
+          "w": 96,
+          "svg": 45,
+          "color": "#ffffff",
+          "bg": "#76b2cc",
+          "radius": "100px"
+         }
+        },
+        {
+         "type": "header",
+         "id": "5OHTgxcbTv-rOmFVAFnVz",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Vielen Dank für Ihre Anfrage zur Potenzial-Analyse.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "-yKpTMswKYV8VJ2cJC2z1",
+         "gap": 30,
+         "halign": "center",
+         "html": "<p>Wir melden uns umgehend mit den Ergebnissen bei Ihnen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "link-group",
+         "id": "Rrhsf9-pUQV5F-2exKtzD",
+         "gap": 20,
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Zur Website",
+           "href": "https://www.reinkober.com",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 61,
+           "w": 278,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 25.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 61,
+           "w": 161,
+           "fs": 17,
+           "pad": [
+            8,
+            31
+           ]
+          }
+         ],
+         "mode": "vertical"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 70,
+      "w": 1250,
+      "h": 357
+     },
+     "boxM": {
+      "x": 24,
+      "y": 34,
+      "w": 342,
+      "h": 426
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 478
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 486
+   }
+  },
+  {
+   "id": "bf416e98-5c45-4763-8d07-55eb2b3e30d6",
+   "title": "Produkt",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    41,
+    100
+   ],
+   "padM": [
+    20,
+    50
+   ],
+   "padT": [
+    41,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "ec69ea2a-6143-4358-af6e-c7c4c4a1bc0a",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "16",
+       "md": "16",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 860,
+       "hpx": 42,
+       "x": 290,
+       "y": 517,
+       "mbox": {
+        "x": 310,
+        "y": 517,
+        "w": 820,
+        "h": 42
+       },
+       "wpxM": 342,
+       "yM": 504,
+       "hpxM": 83,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 790,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "ef622715-f8ad-411f-9e9e-1d2317f587fb",
+         "gap": 0,
+         "halign": "center",
+         "html": "<strong><p>Wie es nun weitergeht:</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 517,
+      "w": 1250,
+      "h": 82
+     },
+     "boxM": {
+      "x": 24,
+      "y": 504,
+      "w": 342,
+      "h": 123
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    },
+    {
+     "id": "34fc2722-8f4a-4885-9051-bf3a800a84a7",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "grid",
+       "wpx": 1290,
+       "hpx": 433,
+       "x": 75,
+       "y": 599,
+       "mbox": {
+        "x": 95,
+        "y": 599,
+        "w": 1250,
+        "h": 433
+       },
+       "wpxM": 342,
+       "yM": 627,
+       "hpxM": 1304,
+       "wpxT": 790,
+       "atoms": [
+        {
+         "type": "image",
+         "id": "5f283512-5970-4516-abe0-c0f7d09d5c5c",
+         "gap": 20,
+         "halign": "center",
+         "src": "unsplash/Vy2Y1cCLiT8",
+         "wpx": 373,
+         "hpx": 261,
+         "wpxM": 342,
+         "hpxM": 239,
+         "pos": "50% 50%",
+         "fit": "fill",
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "a8a3fdb6-5fc3-47a6-8ae6-6d288b9160ac",
+         "gap": 0,
+         "halign": "left",
+         "html": "<strong><p>Schritt 1</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 28,
+          "fw": 700,
+          "color": "#76b2cc",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "7b69b240-54c5-4b05-b749-bcef2c28e903",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Analyse Ihres Potenzials</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "plain-text",
+         "id": "f432f66f-953f-4091-9e99-d408d7e3f0df",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Unsere Analysten haben bereits Ihre Website auf dem Radar und prüfen zeitnah, welche Möglichkeiten Sie noch haben. </span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "image",
+         "id": "29861570-55df-4261-826b-482fa565ee4d",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/f17cb458-f95d-45bf-92fa-cd17ff4b6f22",
+         "wpx": 373,
+         "hpx": 261,
+         "wpxM": 342,
+         "hpxM": 239,
+         "pos": "50% 50%",
+         "fit": "fill",
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "1ae22393-b336-4bd9-80cd-80dbcf93a0fc",
+         "gap": 0,
+         "halign": "left",
+         "html": "<strong><p>Schritt 2</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 28,
+          "fw": 700,
+          "color": "#76b2cc",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "ebdd492e-bbf8-470a-8218-d79ba5c93f94",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Wir rufen Sie an</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "plain-text",
+         "id": "8ac914d4-45c3-4bca-8b1d-738c953c2b19",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Wir rufen Sie an und vereinbaren mit Ihnen einen Termin zur Besprechung der Ergebnisse ‒ kein Sales-Gespräch ‒ sondern 100% Mehrwert. </span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "image",
+         "id": "041f6c9a-ead8-4eb0-a14f-7298043f9a9a",
+         "gap": 20,
+         "halign": "center",
+         "src": "unsplash/pypeCEaJeZY",
+         "wpx": 373,
+         "hpx": 261,
+         "wpxM": 342,
+         "hpxM": 239,
+         "pos": "50% 50%",
+         "fit": "fill",
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "210f44b5-f4f8-4a67-b42d-e8d0505f3d78",
+         "gap": 0,
+         "halign": "left",
+         "html": "<strong><p>Schritt 3</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 28,
+          "fw": 700,
+          "color": "#76b2cc",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "80dbafff-7a25-44c7-a3e1-da1a6000d4de",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Mehrwert &amp; Umsetzung</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "plain-text",
+         "id": "26c11927-f6a9-4c4a-8845-8fd93194a47e",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Im persönlichen Gespräch analysieren wir Ihr Potenzial und geben Ihnen direkt umsetzbare Maßnahmen mit auf den Weg.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         },
+         "cell": 2
+        }
+       ],
+       "gl": {
+        "n": 3,
+        "gapX": 65,
+        "gapY": null,
+        "nM": 1,
+        "gapYM": 24,
+        "item": {
+         "text": "#151f25",
+         "halign": "left",
+         "valign": "top"
+        },
+        "itemW": 373,
+        "slider": null
+       }
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 599,
+      "w": 1250,
+      "h": 433
+     },
+     "boxM": {
+      "x": 24,
+      "y": 627,
+      "w": 342,
+      "h": 1304
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 476,
+    "w": 1440,
+    "h": 655
+   },
+   "boxM": {
+    "x": 0,
+    "y": 484,
+    "w": 390,
+    "h": 1498
+   }
+  }
+ ],
+ "forms": []
+}

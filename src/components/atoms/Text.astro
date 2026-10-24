@@ -1,0 +1,36 @@
+---
+// Überschrift, Fließtext oder Label (kleiner farbiger Hinweis über Überschriften).
+import { css, fontVars, frameVars, hasFrame } from '../../lib/style';
+import { inlineHtml, blockHtml } from '../../lib/html';
+
+interface Props { atom: any; tag: string }
+const { atom: a, tag } = Astro.props;
+const Tag = tag as any;
+const isHeader = a.type === 'header';
+const isLabel = a.type === 'label-text';
+const html = isHeader || isLabel ? inlineHtml(a.html, a.font?.fs) : blockHtml(a.html);
+const fr = isLabel ? a.frame : undefined;
+// Kennzahlen wie ">19.200.000€" oder ">300" beim Scrollen hochzählen lassen (Motion.astro)
+let counted = html;
+const m = isHeader ? html.match(/^(\s*(?:&gt;|>|\+|~|ca\.\s)?\s*)(\d{1,3}(?:\.\d{3})*(?:,\d+)?)(\s*(?:€|%|\+|Mio\.?|k)?\s*)$/) : null;
+if (m) {
+  const num = parseFloat(m[2].replace(/\./g, '').replace(',', '.'));
+  const dec = (m[2].split(',')[1] || '').length;
+  counted = `${m[1]}<span data-count="${num}" data-dec="${dec}" data-final="${m[2]}">${m[2]}</span>${m[3]}`;
+}
+const framed = isLabel && hasFrame(fr);
+const style = css({
+  ...fontVars(a.font, a.fontM),
+  '--hl': a.hl?.color && a.hl.color !== '#76b2cc' ? a.hl.color : undefined,
+  ...(framed ? frameVars(fr) : {}),
+  '--psp': a.sp?.p ? `${a.sp.p}px` : undefined, '--lsp': a.sp?.l ? `${a.sp.l}px` : undefined, '--lisp': a.sp?.li ? `${a.sp.li}px` : undefined,
+});
+const ta = a.font?.align;
+---
+{isLabel ? (
+  <div class:list={['label-wrap', ta === 'center' && 'label-wrap--center', ta === 'right' && 'label-wrap--right']}>
+    <p class:list={['t', 'label', framed && 'fr']} style={style} set:html={html} />
+  </div>
+) : (
+  <Tag class:list={['t', isHeader ? 'head' : 'rich']} style={style} set:html={counted} />
+)}

@@ -1,0 +1,13 @@
+---
+// Trennlinie.
+import { css } from '../../lib/style';
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const l = a.line || {};
+const bw = l.border && !l.border.startsWith('0px') ? parseFloat(l.border) : undefined;
+const bc = l.border ? l.border.split(' ').slice(2).join(' ') : undefined;
+// Linie ohne sichtbaren Rand und ohne Hintergrund = reiner Abstandshalter
+const spacer = !bw && !l.bg;
+const style = spacer ? css({ height: `${l.h || 0}px` }) : css({ '--lh2': bw || l.h || 1, '--lbg': l.bg || bc });
+---
+{spacer ? <div class="spacer" style={style} aria-hidden="true" /> : <hr class="line" style={style} />}

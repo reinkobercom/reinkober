@@ -1,0 +1,2202 @@
+{
+ "slug": "/impressum",
+ "title": "Impressum",
+ "seoTitle": "",
+ "seoDescription": "",
+ "seoImage": null,
+ "noindexLive": true,
+ "sections": [
+  {
+   "id": "8d82ea53-8997-43f4-9e57-ab400e166325",
+   "title": "Menü 4 Global",
+   "only": "both",
+   "isHeader": true,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    0,
+    0
+   ],
+   "padM": [
+    0,
+    0
+   ],
+   "padT": [
+    0,
+    0
+   ],
+   "side": 24,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "headerAtoms": [
+    {
+     "type": "logo",
+     "id": "I7eE0_daDsjPQ-b5kAe1s",
+     "gap": 0,
+     "w": "17.548820512820512%",
+     "halign": "left",
+     "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+     "alt": "Logo reinkober.com",
+     "wpx": 219,
+     "hpx": 30,
+     "wpxM": 250,
+     "hpxM": 35,
+     "href": "/",
+     "pos": "50% 50%",
+     "fit": "cover"
+    },
+    {
+     "type": "menu-v2",
+     "id": "qSGUMoBgd8NadBofUM8cu",
+     "gap": 0,
+     "w": "59.974358974358985%",
+     "halign": "center",
+     "style": "underline",
+     "dir": "horizontal",
+     "size": "l",
+     "space": "24px",
+     "items": [
+      {
+       "text": "Startseite",
+       "href": "/",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Über uns",
+       "href": "/ueber-uns",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Erfolge unserer Partner",
+       "href": "/erfolge-unserer-partner",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><g> <circle cx=\"7.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"1.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"13.5\" cy=\"7.5\" r=\"1.5\"></circle> </g></svg>",
+       "iconColor": "#151f25",
+       "iconBox": {
+        "w": 25,
+        "svg": 18,
+        "color": "#151f25",
+        "radius": "100px"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      }
+     ]
+    },
+    {
+     "type": "link-group",
+     "id": "v9P3d28O7tmaGCY8UmGkX",
+     "gap": 0,
+     "w": "19.271459334935898%",
+     "minW": "240.8828125px",
+     "halign": "center",
+     "buttons": [
+      {
+       "text": "Potenzial-Analyse sichern",
+       "sub": "Kostenfrei & unverbindlich",
+       "href": "/potenzial-analyse",
+       "kind": "solid",
+       "effect": "volume",
+       "radius": "4px",
+       "h": 50.75,
+       "w": 241,
+       "bg": "#76b2cc",
+       "color": "#ffffff",
+       "pad": [
+        6,
+        24
+       ],
+       "font": {
+        "fs": 14,
+        "lh": 18.2,
+        "fw": 700,
+        "color": "#ffffff",
+        "align": "center"
+       },
+       "subFont": {
+        "fs": 11.2,
+        "lh": 14.56,
+        "fw": 400,
+        "color": "#ffffff",
+        "align": "center",
+        "ls": 0.5
+       }
+      }
+     ],
+     "mode": "horizontal"
+    }
+   ],
+   "rows": [
+    {
+     "id": "PZFiOqmgpSrQwQv-azo8K",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "header-v2",
+       "frame": {
+        "text": "#151f25"
+       },
+       "wpx": 1298,
+       "hpx": 99,
+       "x": 71,
+       "y": -1,
+       "mbox": {
+        "x": 95,
+        "y": -1,
+        "w": 1250,
+        "h": 99
+       },
+       "wpxM": 342,
+       "yM": -1,
+       "hpxM": 104,
+       "frameM": {
+        "text": "#151f25"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "I7eE0_daDsjPQ-b5kAe1s",
+         "gap": 0,
+         "w": "17.548820512820512%",
+         "halign": "left",
+         "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+         "alt": "Logo reinkober.com",
+         "wpx": 219,
+         "hpx": 30,
+         "wpxM": 250,
+         "hpxM": 35,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "menu-v2",
+         "id": "qSGUMoBgd8NadBofUM8cu",
+         "gap": 0,
+         "w": "59.974358974358985%",
+         "halign": "center",
+         "style": "underline",
+         "dir": "horizontal",
+         "size": "l",
+         "space": "24px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Über uns",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><g> <circle cx=\"7.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"1.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"13.5\" cy=\"7.5\" r=\"1.5\"></circle> </g></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 25,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          }
+         ]
+        },
+        {
+         "type": "link-group",
+         "id": "v9P3d28O7tmaGCY8UmGkX",
+         "gap": 0,
+         "w": "19.271459334935898%",
+         "minW": "240.8828125px",
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Potenzial-Analyse sichern",
+           "sub": "Kostenfrei & unverbindlich",
+           "href": "/potenzial-analyse",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 50.75,
+           "w": 241,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            6,
+            24
+           ],
+           "font": {
+            "fs": 14,
+            "lh": 18.2,
+            "fw": 700,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 11.2,
+            "lh": 14.56,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           }
+          }
+         ],
+         "mode": "horizontal"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": -1,
+      "w": 1250,
+      "h": 99
+     },
+     "boxM": {
+      "x": 24,
+      "y": -1,
+      "w": 342,
+      "h": 104
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 99
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 104
+   }
+  },
+  {
+   "id": "ZziYgprjczGiaIhFbOpcP",
+   "title": "Headline",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    60
+   ],
+   "padM": [
+    50,
+    30
+   ],
+   "padT": [
+    101,
+    60
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "5992a389-b922-4d00-abda-befbef036d7e",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "8",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 427,
+       "hpx": 321,
+       "x": 79,
+       "y": 198,
+       "mbox": {
+        "x": 95,
+        "y": 198,
+        "w": 395,
+        "h": 321
+       },
+       "wpxM": 342,
+       "yM": 152,
+       "hpxM": 96,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 782,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "3rqHLtmejQtgkjkm8QaHa",
+         "gap": 30,
+         "halign": "left",
+         "html": "<strong><p>Impressum</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        }
+       ]
+      },
+      {
+       "lg": "16",
+       "md": "16",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 855,
+       "hpx": 321,
+       "x": 506,
+       "y": 198,
+       "mbox": {
+        "x": 522,
+        "y": 198,
+        "w": 823,
+        "h": 321
+       },
+       "wpxM": 342,
+       "yM": 248,
+       "hpxM": 321,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "wpxT": 782,
+       "atoms": [
+        {
+         "type": "line",
+         "id": "D0S08EI0WGF2jYVcGDOJa",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 823,
+          "bg": null,
+          "border": "0px none rgb(21,31,37)"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "Dqqrt9fyihysh9XsWUkUK",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><strong>Angaben gemäß § 5 DDG</strong></p><p><strong>RX2 Marketing GmbH</strong><br>Stockumer Straße 30<br>59368 Werne</p><p>Vertreten durch den Geschäftsführer: Simon Reinkober</p><p>E-Mail: <a href=\"mailto:kontakt@reinkober.com\">kontakt@reinkober.com</a><br>Telefon: <a href=\"tel:+4916096088604\">+49 (0) 160 960 886 04</a></p><p>Registergericht: Amtsgericht Dortmund<br>Registernummer: HRB 35256<br>Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: DE362440352</p><p>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV: Simon Reinkober, Anschrift wie oben</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 198,
+      "w": 1250,
+      "h": 321
+     },
+     "boxM": {
+      "x": 24,
+      "y": 152,
+      "w": 342,
+      "h": 417
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 97,
+    "w": 1440,
+    "h": 482
+   },
+   "boxM": {
+    "x": 0,
+    "y": 102,
+    "w": 390,
+    "h": 497
+   }
+  },
+  {
+   "id": "f2zZTJcH3AbH-gGsAq9Fd",
+   "title": "Text",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    21,
+    20
+   ],
+   "padM": [
+    10,
+    10
+   ],
+   "padT": [
+    21,
+    20
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "eac6f788-c9f2-4e34-aae4-d97278d2e959",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1266,
+       "hpx": 251,
+       "x": 87,
+       "y": 599,
+       "mbox": {
+        "x": 95,
+        "y": 599,
+        "w": 1250,
+        "h": 251
+       },
+       "wpxM": 342,
+       "yM": 608,
+       "hpxM": 539,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "h66YHaNTNtzOxaDwAsFno",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Verbraucherstreitbeilegung</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "RhBtFOBC6d1hWChN7hJtZ",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 599,
+      "w": 1250,
+      "h": 251
+     },
+     "boxM": {
+      "x": 24,
+      "y": 608,
+      "w": 342,
+      "h": 539
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 578,
+    "w": 1440,
+    "h": 292
+   },
+   "boxM": {
+    "x": 0,
+    "y": 598,
+    "w": 390,
+    "h": 559
+   }
+  },
+  {
+   "id": "KIIjsORRr-CkQ8yMM_4KJ",
+   "title": "Text",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    21,
+    10
+   ],
+   "padM": [
+    10,
+    5
+   ],
+   "padT": [
+    21,
+    10
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "ceb371a5-cc10-45a8-9e0e-12d90dd02419",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1266,
+       "hpx": 211,
+       "x": 87,
+       "y": 890,
+       "mbox": {
+        "x": 95,
+        "y": 890,
+        "w": 1250,
+        "h": 211
+       },
+       "wpxM": 342,
+       "yM": 1166,
+       "hpxM": 499,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "HkxpGNo9Om__Begr3FAVI",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Haftung für Inhalte</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "0EmmqNv-K2xTbXq6-d7Gk",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p>Als Diensteanbieter sind wir gemäß § 7 Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</p><p>Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 890,
+      "w": 1250,
+      "h": 211
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1166,
+      "w": 342,
+      "h": 499
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 869,
+    "w": 1440,
+    "h": 242
+   },
+   "boxM": {
+    "x": 0,
+    "y": 1156,
+    "w": 390,
+    "h": 514
+   }
+  },
+  {
+   "id": "Fc9_AbaHZgYiadz8LtFG0",
+   "title": "Text",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    21,
+    100
+   ],
+   "padM": [
+    10,
+    50
+   ],
+   "padT": [
+    21,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "78dea6b8-09ea-4b0c-bf2e-4589f3daaba2",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1266,
+       "hpx": 459,
+       "x": 87,
+       "y": 1132,
+       "mbox": {
+        "x": 95,
+        "y": 1132,
+        "w": 1250,
+        "h": 459
+       },
+       "wpxM": 342,
+       "yM": 1679,
+       "hpxM": 1131,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "FR_fMGNeuik9Xlf96vA9p",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Haftung für Links</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "VckX17NWx8ABucckAcI0q",
+         "gap": 30,
+         "halign": "left",
+         "html": "<p>Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.</p><p>Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        },
+        {
+         "type": "header",
+         "id": "TCgLfx3H2-5GnvTSnYTtp",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Urheberrecht</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "P5Be136Yt455QcxUju3ZT",
+         "gap": 30,
+         "halign": "left",
+         "html": "<p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.</p><p>Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1132,
+      "w": 1250,
+      "h": 459
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1679,
+      "w": 342,
+      "h": 1131
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1111,
+    "w": 1440,
+    "h": 580
+   },
+   "boxM": {
+    "x": 0,
+    "y": 1669,
+    "w": 390,
+    "h": 1191
+   }
+  },
+  {
+   "id": "98c7e1a1-387b-4db1-bcd8-39c157b58e06",
+   "title": "Fußzeile Global 2",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    61,
+    80
+   ],
+   "padM": [
+    30,
+    40
+   ],
+   "padT": [
+    61,
+    80
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "LFz0L9wdlP-WsUtcF4sVg",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 94,
+       "y": 1751,
+       "mbox": {
+        "x": 122,
+        "y": 1751,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 2889,
+       "hpxM": 366,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "ppAZ17-odGtbU42km4is6",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Unternehmen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "5bbf22f9-a7d9-4554-9513-ea36f4e995d9",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Y6YmPKYV5wwhMUdRI6wX8",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Über uns & was wir tun",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Karriere",
+           "href": "/karriere",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Potenzial-Analyse",
+           "href": "/potenzial-analyse",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kontakt",
+           "href": "/kontakt",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "8",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 435,
+       "hpx": 464,
+       "x": 366,
+       "y": 1751,
+       "mbox": {
+        "x": 394,
+        "y": 1751,
+        "w": 379,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 3255,
+       "hpxM": 537,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "UC7YkAB6uXvKuUD5wpAHJ",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Leistungen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "d34bcf03-baf2-4d05-8f45-607ad83508a2",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 379,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "nbUi8zuih0yYq8qAJShK2",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Mandantengewinnung für Anwälte",
+           "href": "https://www.heyadvo.com",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Handwerker",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Steuerberater",
+           "href": "/mitarbeitergewinnung-steuerberater",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Apotheken",
+           "href": "/mitarbeitergewinnung-apotheken",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Handwerksbetriebe",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 802,
+       "y": 1751,
+       "mbox": {
+        "x": 830,
+        "y": 1751,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 3792,
+       "hpxM": 334,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "Gw3NOgKX7lRycFG6df-Ic",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Marketing-Blog</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "b9be9d6f-233b-445f-8b61-7eda7c09bfb5",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Lozpi2yuJNtiq_SQgl0Wj",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Zum Marketing-Blog",
+           "href": "/marketing-blog",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "KI-Schulungspflicht in Unternehmen",
+           "href": "/ki-schulungspflicht-in-unternehmen",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 häufige SEO-Fehler",
+           "href": "/10-haufige-seo-fehler",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 Tipps für ein besseres Instagram-Profil",
+           "href": "/10-tipps-fur-ein-besseres-instagram-profil",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 90
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 1074,
+       "y": 1751,
+       "mbox": {
+        "x": 1102,
+        "y": 1751,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 4125,
+       "hpxM": 338,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "SV2PwlVp3NlB2_L0VLTfB",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Kontakt</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "f620dd3b-de9e-44ee-918c-93b7fd947f53",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "contacts",
+         "id": "suWozKFJMh47QbZ6HZ-_D",
+         "gap": 20,
+         "halign": "left",
+         "items": [
+          {
+           "href": "tel:+49016096088604",
+           "text": "+49 (0) 160 960 886 04",
+           "sub": "Rufen Sie uns an",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M15.639,14.407l-2.355,2.321a19.111,19.111,0,0,1-3.4-2.613,19.353,19.353,0,0,1-2.612-3.4L9.591,8.36a1.01,1.01,0,0,0,.208-1.1L7.382,1.614A1.009,1.009,0,0,0,6.2,1.036L1.756,2.209A1.007,1.007,0,0,0,1,3.218,21.337,21.337,0,0,0,7.039,16.959,21.339,21.339,0,0,0,20.784,23a1.011,1.011,0,0,0,1.01-.756l1.172-4.44a1.009,1.009,0,0,0-.577-1.186L16.748,14.2A1.009,1.009,0,0,0,15.639,14.407Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          },
+          {
+           "href": "mailto:info@reinkober.com",
+           "text": "info@reinkober.com",
+           "sub": "Schreiben Sie eine E-Mail",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\"></path> <path d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          }
+         ],
+         "dir": "row",
+         "gapItems": 12,
+         "html": "<a href=\"tel:+49016096088604\">+49 (0) 160 960 886 04Rufen Sie uns an</a><a href=\"mailto:info@reinkober.com\">info@reinkober.comSchreiben Sie eine E-Mail</a>",
+         "iconSize": 26,
+         "iconColor": "#ffffff"
+        },
+        {
+         "type": "link-group",
+         "id": "683b9cf4-094e-40a9-83eb-541d8110d99f",
+         "gap": 20,
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Kontakt aufnehmen",
+           "href": "/kontakt",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 40,
+           "w": 216,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            5,
+            20
+           ],
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 41.59,
+           "w": 342,
+           "fs": 13,
+           "pad": [
+            5,
+            20
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "social",
+         "id": "UgXHlwm7s_lhzxFDjPRUq",
+         "gap": 10,
+         "halign": "left",
+         "items": [
+          {
+           "href": "https://www.facebook.com/reinkoberholding",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#3b5998\" d=\"M9.03153,23L9,13H5V9h4V6.5C9,2.7886,11.29832,1,14.60914,1c1.58592,0,2.94893,0.11807,3.34615,0.17085 v3.87863l-2.29623,0.00104c-1.80061,0-2.14925,0.85562-2.14925,2.11119V9H18.75l-2,4h-3.24019v10H9.03153z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.instagram.com/reinkober.holding/",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#231F20\" d=\"M12,2.982c2.937,0,3.285.011,4.445.064a6.072,6.072,0,0,1,2.042.379,3.4,3.4,0,0,1,1.265.823,3.4,3.4,0,0,1,.823,1.265,6.072,6.072,0,0,1,.379,2.042c.053,1.16.064,1.508.064,4.445s-.011,3.285-.064,4.445a6.072,6.072,0,0,1-.379,2.042,3.644,3.644,0,0,1-2.088,2.088,6.072,6.072,0,0,1-2.042.379c-1.16.053-1.508.064-4.445.064s-3.285-.011-4.445-.064a6.072,6.072,0,0,1-2.042-.379,3.4,3.4,0,0,1-1.265-.823,3.4,3.4,0,0,1-.823-1.265,6.072,6.072,0,0,1-.379-2.042c-.053-1.16-.064-1.508-.064-4.445s.011-3.285.064-4.445a6.072,6.072,0,0,1,.379-2.042,3.4,3.4,0,0,1,.823-1.265,3.4,3.4,0,0,1,1.265-.823,6.072,6.072,0,0,1,2.042-.379c1.16-.053,1.508-.064,4.445-.064M12,1c-2.987,0-3.362.013-4.535.066a8.108,8.108,0,0,0-2.67.511A5.625,5.625,0,0,0,1.577,4.8a8.108,8.108,0,0,0-.511,2.67C1.013,8.638,1,9.013,1,12s.013,3.362.066,4.535a8.108,8.108,0,0,0,.511,2.67A5.625,5.625,0,0,0,4.8,22.423a8.108,8.108,0,0,0,2.67.511C8.638,22.987,9.013,23,12,23s3.362-.013,4.535-.066a8.108,8.108,0,0,0,2.67-.511A5.625,5.625,0,0,0,22.423,19.2a8.108,8.108,0,0,0,.511-2.67C22.987,15.362,23,14.987,23,12s-.013-3.362-.066-4.535a8.108,8.108,0,0,0-.511-2.67A5.625,5.625,0,0,0,19.2,1.577a8.108,8.108,0,0,0-2.67-.511C15.362,1.013,14.987,1,12,1Z\"></path><path d=\"M12,6.351A5.649,5.649,0,1,0,17.649,12,5.649,5.649,0,0,0,12,6.351Zm0,9.316A3.667,3.667,0,1,1,15.667,12,3.667,3.667,0,0,1,12,15.667Z\"></path><circle cx=\"17.872\" cy=\"6.128\" r=\"1.32\"></circle></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.linkedin.com/company/14815912",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#0076B6\" d=\"M23,0H1C0.4,0,0,0.4,0,1v22c0,0.6,0.4,1,1,1h22c0.6,0,1-0.4,1-1V1C24,0.4,23.6,0,23,0z M7.1,20.5H3.6V9h3.6 V20.5z M5.3,7.4c-1.1,0-2.1-0.9-2.1-2.1c0-1.1,0.9-2.1,2.1-2.1c1.1,0,2.1,0.9,2.1,2.1C7.4,6.5,6.5,7.4,5.3,7.4z M20.5,20.5h-3.6 v-5.6c0-1.3,0-3-1.8-3c-1.9,0-2.1,1.4-2.1,2.9v5.7H9.4V9h3.4v1.6h0c0.5-0.9,1.6-1.8,3.4-1.8c3.6,0,4.3,2.4,4.3,5.5V20.5z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          }
+         ],
+         "dir": "row",
+         "gapItems": 16,
+         "html": "<a href=\"https://www.facebook.com/reinkoberholding\" target=\"_blank\"></a><a href=\"https://www.instagram.com/reinkober.holding/\" target=\"_blank\"></a><a href=\"https://www.linkedin.com/company/14815912\" target=\"_blank\"></a>",
+         "iconSize": 18,
+         "iconColor": "#151f25"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1751,
+      "w": 1250,
+      "h": 464
+     },
+     "boxM": {
+      "x": 24,
+      "y": 2889,
+      "w": 342,
+      "h": 1574
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1690,
+    "w": 1440,
+    "h": 605
+   },
+   "boxM": {
+    "x": 0,
+    "y": 2859,
+    "w": 390,
+    "h": 1644
+   }
+  },
+  {
+   "id": "290d1d36-5625-469e-82c4-e70a02c9ae27",
+   "title": "Fußzeile 2 Global",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    31,
+    14
+   ],
+   "padM": [
+    15,
+    7
+   ],
+   "padT": [
+    31,
+    14
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "1bh4QeuVKY-zDxWmln5ed",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 791,
+       "hpx": 189,
+       "x": 324,
+       "y": 2324,
+       "mbox": {
+        "x": 332,
+        "y": 2324,
+        "w": 775,
+        "h": 189
+       },
+       "wpxM": 342,
+       "yM": 4518,
+       "hpxM": 322,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "v7iNTO2MhW42TqubGqim2",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/7050135a-9ff5-4110-8263-9dde1c6b5b58",
+         "alt": "Logo reinkober.com",
+         "wpx": 200,
+         "hpx": 28,
+         "wpxM": 200,
+         "hpxM": 28,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "plain-text",
+         "id": "BRT3ZEtLnltJmLF4KQcKh",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "5VaH0FmvL7oIpSFSMoh-s",
+         "gap": 15,
+         "halign": "center",
+         "style": "color",
+         "dir": "vertical",
+         "size": "s",
+         "space": "10px",
+         "items": [
+          {
+           "text": "Impressum",
+           "href": "/impressum",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#76b2cc",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "AGB",
+           "href": "/agb",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "Datenschutz",
+           "href": "/datenschutz",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          }
+         ]
+        },
+        {
+         "type": "plain-text",
+         "id": "RftLzF3IazEYpOgtCYlWO",
+         "gap": 30,
+         "halign": "center",
+         "html": "<p>© 2019 - 2026 reinkober.com - Alle Rechte vorbehalten.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 12,
+          "lh": 18,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 2324,
+      "w": 1250,
+      "h": 189
+     },
+     "boxM": {
+      "x": 24,
+      "y": 4518,
+      "w": 342,
+      "h": 322
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 2293,
+    "w": 1440,
+    "h": 234
+   },
+   "boxM": {
+    "x": 0,
+    "y": 4503,
+    "w": 390,
+    "h": 344
+   }
+  }
+ ],
+ "forms": []
+}

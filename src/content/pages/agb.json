@@ -1,0 +1,1659 @@
+{
+ "slug": "/agb",
+ "title": "AGB",
+ "seoTitle": "AGB",
+ "seoDescription": "",
+ "seoImage": null,
+ "noindexLive": true,
+ "sections": [
+  {
+   "id": "9f7875ce-8929-44f2-9020-a3049b130a33",
+   "title": "Menü 4 Global",
+   "only": "both",
+   "isHeader": true,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    0,
+    0
+   ],
+   "padM": [
+    0,
+    0
+   ],
+   "padT": [
+    0,
+    0
+   ],
+   "side": 24,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "headerAtoms": [
+    {
+     "type": "logo",
+     "id": "I7eE0_daDsjPQ-b5kAe1s",
+     "gap": 0,
+     "w": "17.548820512820512%",
+     "halign": "left",
+     "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+     "alt": "Logo reinkober.com",
+     "wpx": 219,
+     "hpx": 30,
+     "wpxM": 250,
+     "hpxM": 35,
+     "href": "/",
+     "pos": "50% 50%",
+     "fit": "cover"
+    },
+    {
+     "type": "menu-v2",
+     "id": "qSGUMoBgd8NadBofUM8cu",
+     "gap": 0,
+     "w": "59.974358974358985%",
+     "halign": "center",
+     "style": "underline",
+     "dir": "horizontal",
+     "size": "l",
+     "space": "24px",
+     "items": [
+      {
+       "text": "Startseite",
+       "href": "/",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Über uns",
+       "href": "/ueber-uns",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Erfolge unserer Partner",
+       "href": "/erfolge-unserer-partner",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><g> <circle cx=\"7.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"1.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"13.5\" cy=\"7.5\" r=\"1.5\"></circle> </g></svg>",
+       "iconColor": "#151f25",
+       "iconBox": {
+        "w": 25,
+        "svg": 18,
+        "color": "#151f25",
+        "radius": "100px"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      }
+     ]
+    },
+    {
+     "type": "link-group",
+     "id": "v9P3d28O7tmaGCY8UmGkX",
+     "gap": 0,
+     "w": "19.271459334935898%",
+     "minW": "240.8828125px",
+     "halign": "center",
+     "buttons": [
+      {
+       "text": "Potenzial-Analyse sichern",
+       "sub": "Kostenfrei & unverbindlich",
+       "href": "/potenzial-analyse",
+       "kind": "solid",
+       "effect": "volume",
+       "radius": "4px",
+       "h": 50.75,
+       "w": 241,
+       "bg": "#76b2cc",
+       "color": "#ffffff",
+       "pad": [
+        6,
+        24
+       ],
+       "font": {
+        "fs": 14,
+        "lh": 18.2,
+        "fw": 700,
+        "color": "#ffffff",
+        "align": "center"
+       },
+       "subFont": {
+        "fs": 11.2,
+        "lh": 14.56,
+        "fw": 400,
+        "color": "#ffffff",
+        "align": "center",
+        "ls": 0.5
+       }
+      }
+     ],
+     "mode": "horizontal"
+    }
+   ],
+   "rows": [
+    {
+     "id": "PZFiOqmgpSrQwQv-azo8K",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "header-v2",
+       "frame": {
+        "text": "#151f25"
+       },
+       "wpx": 1298,
+       "hpx": 99,
+       "x": 71,
+       "y": -1,
+       "mbox": {
+        "x": 95,
+        "y": -1,
+        "w": 1250,
+        "h": 99
+       },
+       "wpxM": 342,
+       "yM": -1,
+       "hpxM": 104,
+       "frameM": {
+        "text": "#151f25"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "I7eE0_daDsjPQ-b5kAe1s",
+         "gap": 0,
+         "w": "17.548820512820512%",
+         "halign": "left",
+         "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+         "alt": "Logo reinkober.com",
+         "wpx": 219,
+         "hpx": 30,
+         "wpxM": 250,
+         "hpxM": 35,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "menu-v2",
+         "id": "qSGUMoBgd8NadBofUM8cu",
+         "gap": 0,
+         "w": "59.974358974358985%",
+         "halign": "center",
+         "style": "underline",
+         "dir": "horizontal",
+         "size": "l",
+         "space": "24px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Über uns",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><g> <circle cx=\"7.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"1.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"13.5\" cy=\"7.5\" r=\"1.5\"></circle> </g></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 25,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          }
+         ]
+        },
+        {
+         "type": "link-group",
+         "id": "v9P3d28O7tmaGCY8UmGkX",
+         "gap": 0,
+         "w": "19.271459334935898%",
+         "minW": "240.8828125px",
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Potenzial-Analyse sichern",
+           "sub": "Kostenfrei & unverbindlich",
+           "href": "/potenzial-analyse",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 50.75,
+           "w": 241,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            6,
+            24
+           ],
+           "font": {
+            "fs": 14,
+            "lh": 18.2,
+            "fw": 700,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 11.2,
+            "lh": 14.56,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           }
+          }
+         ],
+         "mode": "horizontal"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": -1,
+      "w": 1250,
+      "h": 99
+     },
+     "boxM": {
+      "x": 24,
+      "y": -1,
+      "w": 342,
+      "h": 104
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 99
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 104
+   }
+  },
+  {
+   "id": "pHNhyGxt3GLapXlVm3N5V",
+   "title": "Headline",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    100
+   ],
+   "padM": [
+    50,
+    50
+   ],
+   "padT": [
+    101,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "XS47_ATJayjeM6qI8TXn2",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1266,
+       "hpx": 7186,
+       "x": 87,
+       "y": 198,
+       "mbox": {
+        "x": 95,
+        "y": 198,
+        "w": 1250,
+        "h": 7186
+       },
+       "wpxM": 342,
+       "yM": 152,
+       "hpxM": 18898,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "QhUtRH0G37fW9YJ9h6SfF",
+         "gap": 30,
+         "halign": "left",
+         "html": "<strong><p>AGB<br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "00e79299-460b-4171-8134-568255c5fe2f",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 1250,
+          "bg": null,
+          "border": "0px none rgb(21,31,37)"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "tNoRU9axs9cVCt4m1G-sO",
+         "gap": 30,
+         "halign": "left",
+         "html": "<p>Allgemeine Geschäftsbedingungen der RX2 Marketing GmbH, Geschäftsführer Simon Reinkober, Stockumer Straße 30 in 59368 Werne (nachfolgend \"RX2 Marketing\" genannt) gegenüber Unternehmern.</p><p><br></p><p>§ 1 Anwendungsbereich</p><p>(1) Alle Lieferungen, Leistungen und Angebote von RX2 Marketing erfolgen ausschließlich aufgrund dieser Allgemeinen Geschäftsbedingungen. Diese sind Bestandteil aller Verträge, die RX2 Marketing mit ihren Vertragspartnern (nachfolgend auch „Kunde“ genannt) über die von ihr angebotenen Lieferungen oder Leistungen schließt. Sie gelten auch für alle zukünftigen Lieferungen, Leistungen oder Angebote an den Kunden, selbst wenn sie nicht nochmals gesondert vereinbart werden.</p><p>(2) Geschäftsbedingungen des Kunden oder Dritter finden keine Anwendung, auch wenn RX2 Marketing ihrer Geltung im Einzelfall nicht gesondert widerspricht. Selbst wenn RX2 Marketing auf ein Schreiben oder eine E-Mail Bezug nimmt, das Geschäftsbedingungen des Kunden oder eines Dritten enthält oder auf solche verweist, liegt darin kein Einverständnis mit der Geltung jener Geschäftsbedingungen.</p><p>(3) RX2 Marketing schließt keine Verträge mit Verbrauchern im Sinne des § 13 BGB ab. Der Kunde versichert bei Vertragsschluss mit RX2 Marketing, als Unternehmer gemäß § 14 BGB beziehungsweise als Kaufmann nach HGB zu handeln.</p><p>(4) Diese AGB gelten ausschließlich. Abweichende, entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen des Kunden werden nur dann und insoweit Vertragsbestandteil, als RX2 Marketing ihrer Geltung ausdrücklich schriftlich zugestimmt hat. Dieses Zustimmungserfordernis gilt in jedem Fall, beispielsweise auch dann, wenn RX2 Marketing in Kenntnis der AGB des Kunden mit der Erbringung der Dienstleistungen vorbehaltlos beginnt.</p><p><br></p><p>§ 2 Leistungen von RX2 Marketing / Mitwirkung des Kunden</p><p>(1) RX2 Marketing erbringt für den Kunden je nach Buchung standardisierte oder individuelle, onlinebasierte Beratungs- und Coachingdienstleistungen. Soweit nicht ausdrücklich schriftlich abweichend vereinbart, schuldet RX2 Marketing dabei nicht die Erbringung eines Werks / konkreten Erfolgs.</p><p>(1.1) Sofern zwischen RX2 Marketing und dem Kunden ausdrücklich eine gesonderte Vergütung für das Erreichen eines bestimmten Erfolgs einer Beratungs- oder Werbemaßnahme vereinbart wurde, handelt es sich hierbei um eine zusätzliche, erfolgsabhängige Bonuszahlung („Erfolgsbonus“). Die Voraussetzungen für das Entstehen dieses Erfolgsbonus sind im jeweiligen Angebot oder einer gesonderten Vereinbarung konkret festgelegt. Die Zahlung des Erfolgsbonus erfolgt unabhängig davon, ob der konkrete Erfolg ausschließlich oder kausal auf die Tätigkeit von RX2 Marketing zurückzuführen ist, sobald der vereinbarte Erfolgsindikator nachweislich eintritt. Ein Anspruch auf das Erreichen eines bestimmten Erfolgs besteht hingegen nicht, sofern dieser nicht ausdrücklich und schriftlich als verbindlich zugesichert wurde. Die übrigen Leistungen von RX2 Marketing sind im Grundsatz als Dienstleistung geschuldet, bei denen ein bestimmter Erfolg nicht geschuldet wird.</p><p>(2) Dem Kunden ist bewusst, dass Algorithmen von Anbietern wie Facebook, Instagram und Google geheim sind und der permanenten Weiterentwicklung/Änderung unterliegen</p><p>(3) Der Kunde verpflichtet sich, sämtliche zur Durchführung der vereinbarten Leistungen erforderlichen Mitwirkungshandlungen vollständig, fristgerecht und auf erstes Anfordern von RX2 Marketing zu erbringen. Hierzu zählen insbesondere, aber nicht abschließend: das Bereitstellen von Login-Daten, Texten, Bildmaterial, Zugang zu Werbekonten und anderen Plattformen, die Pflege etwaiger Leadportale sowie die Erreichbarkeit per E-Mail und Telefon. Reagiert der Kunde auf mindestens zwei nachweisliche Kontaktversuche innerhalb von 10 Werktagen nicht oder erbringt erforderliche Mitwirkungen trotz Aufforderung nicht, so gilt die Mitwirkungspflicht als verletzt. In diesem Fall bleibt der Vergütungsanspruch von RX2 Marketing unberührt. Zusätzlich ist RX2 Marketing berechtigt, Leistungen auf Grundlage des verfügbaren Informationsstands fortzuführen oder vorläufig einzustellen, bis die Mitwirkung nachgeholt wird.</p><p>(4) Dem Kunden ist bewusst, dass Plattformen wie Facebook, Instagram oder Google jederzeit berechtigt sind, Werbekonten zu sperren, Kampagnen ohne Vorankündigung zu stoppen oder Änderungen an ihren Algorithmen vorzunehmen. Für derartige Eingriffe Dritter haftet RX2 Marketing nicht. Ein solcher Fall begründet keine Rückforderung oder Reduzierung der vereinbarten Vergütung, sofern RX2 Marketing die Beeinträchtigung nicht vorsätzlich oder grob fahrlässig herbeigeführt hat.</p><p>(5) RX2 Marketing steht hinsichtlich der konkreten Ausgestaltung, Reihenfolge und Methodik der vereinbarten Dienstleistungen ein Leistungsbestimmungsrecht nach § 315 BGB zu. Dabei wird RX2 Marketing die berechtigten Interessen des Kunden berücksichtigen und die Ausführung nach billigem Ermessen festlegen. Dies umfasst insbesondere die Auswahl von Maßnahmen, Kanälen, Zeitpunkten und Vorgehensweisen im Rahmen der gebuchten Leistungen.</p><p>(6) RX2 Marketing ist berechtigt, zur Erfüllung der vertraglich geschuldeten Leistungen Dritte, insbesondere Subunternehmer oder Erfüllungsgehilfen, einzuschalten. RX2 Marketing bleibt dabei stets verantwortlicher Vertragspartner des Kunden. Die Auswahl erfolgt unter Beachtung der erforderlichen Sorgfalt. Datenschutzrechtliche Verpflichtungen werden bei der Einschaltung Dritter gewahrt.</p><p>(7) Die vereinbarte Vergütung von RX2 Marketing umfasst ausschließlich die durch RX2 Marketing erbrachten Leistungen und enthält kein Budget für Drittleistungen, insbesondere nicht für Werbekosten bei Plattformen wie Google, Meta, LinkedIn oder anderen Werbenetzwerken. Das zur Durchführung von Werbekampagnen erforderliche Werbebudget ist vom Kunden separat und rechtzeitig bereitzustellen oder direkt an die jeweilige Plattform zu entrichten. RX2 Marketing ist nicht verpflichtet, in Vorleistung für solche Budgets zu treten.</p><p>(8) Stellt RX2 Marketing dem Kunden im Rahmen der Vertragsbeziehung Domains, Landingpages, Webseiten oder vergleichbare digitale Inhalte zur Verfügung, erfolgt die Überlassung ausschließlich für die Dauer der Vertragslaufzeit, sofern nicht ausdrücklich und schriftlich etwas anderes vereinbart wurde. Eine Nutzung oder Weiterverwendung über das Vertragsende hinaus gilt – vorbehaltlich einer individuellen Anschlussregelung – als nicht vereinbart. Eine automatische oder stillschweigende Übertragung von Nutzungs- oder Eigentumsrechten ist ausgeschlossen.</p><p>(9) Der Kunde ist für die rechtliche Zulässigkeit sämtlicher Inhalte, Texte, Werbeanzeigen und Materialien verantwortlich, die im Rahmen der Zusammenarbeit genutzt werden. RX2 Marketing trifft – vorbehaltlich ausdrücklicher schriftlicher Vereinbarung – keine Pflicht zur rechtlichen Prüfung der bereitgestellten oder erstellten Inhalte. Der Kunde hat diese eigenverantwortlich vor Freigabe zu überprüfen und erforderliche Korrekturen oder Hinweise an RX2 Marketing zu übermitteln.</p><p>(10) Sofern im Rahmen der Zusammenarbeit die Verwendung von Bild-, Video- oder sonstigem urheberrechtlich geschütztem Material erforderlich ist, verpflichtet sich der Kunde, RX2 Marketing die hierfür erforderlichen einfachen Nutzungs-, Bearbeitungs- und Veröffentlichungsrechte unentgeltlich und im erforderlichen Umfang zur Verfügung zu stellen. Alternativ hat der Kunde sicherzustellen, dass eine entsprechende Lizenz zur vertragsgemäßen Nutzung und Bearbeitung ordnungsgemäß vorliegt. Der Kunde garantiert, dass durch die Verwendung der bereitgestellten Inhalte keine Rechte Dritter verletzt werden, und stellt RX2 Marketing insoweit von sämtlichen Ansprüchen Dritter frei.</p><p>(11) Die im Rahmen der Zusammenarbeit gebuchten Leistungen sind personengebunden und nicht auf Dritte übertragbar. Eine Weitergabe, Überlassung oder sonstige Nutzung durch Dritte – auch konzernintern – ist nur mit ausdrücklicher schriftlicher Zustimmung von RX2 Marketing zulässig.</p><p><br></p><p>§ 3 Zustandekommen von Verträgen</p><p>(1) Der Vertrag zwischen RX2 Marketing und dem Kunden kann mündlich – insbesondere telefonisch oder per Videochat –, schriftlich oder in Textform (z. B. per E-Mail) zustande kommen. Maßgeblich ist die übereinstimmende Willenserklärung beider Parteien über die wesentlichen Vertragsinhalte.</p><p>(2) RX2 Marketing ist berechtigt, den Vertragsschluss in einer schriftlichen oder digitalen Auftragsbestätigung zu dokumentieren. Diese Bestätigung dient ausschließlich der Transparenz und Beweissicherung; sie ist nicht Voraussetzung für das wirksame Zustandekommen des Vertrags.</p><p>(3) Der Kunde erklärt sich damit einverstanden, dass auch digital (z. B. per E-Mail, CRM-System oder Aufnahme eines Videocalls) dokumentierte Vertragsschlüsse als verbindlich gelten. RX2 Marketing behält sich vor, diese Nachweise im Streitfall heranzuziehen.</p><p><br></p><p>§ 4 Abnahmebedürftige Leistungen</p><p>(1) Soweit RX2 Marketing im Einzelfall Leistungen schuldet, die nach ihrer Art und Zielsetzung dem Werkvertragsrecht unterfallen (z. B. die Erstellung einer konkreten Webseite, Landingpage oder grafischen Ausarbeitung), gelten ergänzend zu den übrigen Regelungen dieses Vertrags die nachfolgenden Bestimmungen zur Abnahme. Im Übrigen unterliegen die Leistungen von RX2 Marketing dem Dienstvertragsrecht (§§ 611 ff. BGB), bei dem ein konkreter Erfolg nicht geschuldet ist.</p><p>(2) RX2 Marketing ist berechtigt, vom Kunden nach Abschluss einzelner Projektabschnitte eine Teilabnahme und nach Fertigstellung der Gesamtleistung eine Gesamtabnahme zu verlangen.</p><p>(3) Die Abnahme setzt eine Funktionsprüfung durch den Kunden voraus. Diese gilt als erfolgreich durchgeführt, wenn die (Teil-)Leistung die vereinbarten Anforderungen im Wesentlichen erfüllt.</p><p>(4) RX2 Marketing kann den Kunden unter Setzung einer Frist von 7 Werktagen zur Abgabe einer Abnahmeerklärung auffordern. In der Aufforderung ist der Kunde ausdrücklich darauf hinzuweisen, dass die Leistung als abgenommen gilt, wenn er innerhalb dieser Frist nicht schriftlich erhebliche Mängel benennt. Erfolgt innerhalb der gesetzten Frist keine entsprechende Mitteilung, gilt die Leistung als abgenommen.</p><p>(5) Stellt der Kunde im Rahmen der Funktionsprüfung erhebliche Mängel fest, ist RX2 Marketing berechtigt und verpflichtet, diese innerhalb angemessener Frist zu beseitigen. Die Nachbesserung ist für den Kunden unentgeltlich, sofern die Mängel auf Leistungen von RX2 Marketing zurückzuführen sind. Bei vom Kunden zu vertretenden Ursachen (z. B. unvollständige Mitwirkung, fehlerhafte Inhalte oder Zugangsdaten) kann RX2 Marketing den Mehraufwand gesondert berechnen.</p><p>(6) RX2 Marketing hat das Recht, bis zu zwei Nachbesserungsversuche innerhalb angemessener Frist zu unternehmen. Erst nach dem erfolglosen Ablauf dieser Fristen kann der Kunde weitergehende Rechte geltend machen.</p><p>(7) Ist zwischen den Parteien streitig, ob ein erheblicher oder lediglich ein unerheblicher Mangel vorliegt, soll zunächst ein von einer Industrie- und Handelskammer öffentlich bestellter und vereidigter Sachverständiger angerufen werden. Die Kosten für das Gutachten trägt zunächst der Kunde. Ergibt das Gutachten das Vorliegen eines erheblichen Mangels, werden die Kosten durch RX2 Marketing erstattet.</p><p>(8) Eine (Teil-)Leistung gilt ebenfalls als abgenommen, wenn der Kunde sich auf eine schriftliche Aufforderung von RX2 Marketing zur Abnahme nicht innerhalb von 7 Werktagen erklärt und in der Aufforderung auf diese Folge hingewiesen wurde.</p><p>(9) Unerhebliche Mängel berechtigen den Kunden nicht zur Verweigerung der Abnahme. Etwaige Beanstandungen solcher Mängel sind gesondert zu dokumentieren und von RX2 Marketing im Rahmen der Nachbesserung zu prüfen.</p><p>(10) Weitergehende Ansprüche des Kunden auf Minderung, Schadenersatz oder Ersatz vergeblicher Aufwendungen bestehen nur im gesetzlich zwingend vorgesehenen Umfang, insbesondere bei Vorsatz, grober Fahrlässigkeit oder Verletzung von Leben, Körper oder Gesundheit. Ein Rückzahlungsanspruch für bereits geleistete Vergütungen ist nur bei wesentlichen und nicht behebbaren Mängeln gegeben, die zur außerordentlichen Kündigung berechtigen.</p><p><br></p><p>§ 5 Zahlungen, Preise, Bedingungen</p><p>(1) Sämtliche von RX2 Marketing genannten Preise sind verbindlich, sofern im Einzelfall nichts anderes schriftlich vereinbart wurde. Alle Preisangaben verstehen sich netto zuzüglich der jeweils gültigen gesetzlichen Umsatzsteuer.</p><p>(2) Die Vergütung für die vereinbarten Leistungen ist – sofern nicht abweichend im Angebot geregelt – unmittelbar bei Vertragsschluss fällig und zahlbar. Die Zahlung erfolgt grundsätzlich gegen Rechnung. RX2 Marketing ist berechtigt, dem Kunden die Rechnungen auch digital (z. B. per E-Mail) zu übermitteln. Eine RX2 Marketing erteilte SEPA-Lastschriftermächtigung gilt bis auf Widerruf auch für zukünftige Geschäftsbeziehungen.</p><p>(3) Hat der Kunde sich zur Zahlung per SEPA-Lastschrift verpflichtet, ist er verpflichtet, RX2 Marketing nach Vertragsschluss ein entsprechendes SEPA-Lastschriftmandat schriftlich oder in elektronischer Form zu erteilen.</p><p>(4) RX2 Marketing stellt dem Kunden eine ordnungsgemäße und die Umsatzsteuer ausweisende Rechnung aus. Diese kann auch durch beauftragte Erfüllungsgehilfen oder Zahlungsdienstleister erfolgen.</p><p>(5) Wird eine Lastschrift mangels ausreichender Kontodeckung, unberechtigten Widerspruchs oder aus anderen vom Kunden zu vertretenden Gründen zurückgebucht, ist der Kunde verpflichtet, den ausstehenden Betrag binnen drei Werktagen nach Rückbuchung auf ein von RX2 Marketing benanntes Konto zu überweisen. Zusätzlich trägt der Kunde alle durch die Rückbuchung verursachten Bankgebühren und Verwaltungskosten.</p><p>(6) Die Zahlungsabwicklung kann – sofern vereinbart – über externe Zahlungsdienstleister wie GoCardless Ltd., AffiliCon GmbH, Digistore24 GmbH oder Stripe Inc. erfolgen. Diese Unternehmen agieren dabei ausschließlich als technische Abwickler im Auftrag von RX2 Marketing. Ein selbständiges Vertragsverhältnis zwischen dem Kunden und dem Zahlungsdienstleister kommt nicht zustande. Vertragspartner bleibt in jedem Fall ausschließlich RX2 Marketing.</p><p>(7) Eine Aufrechnung mit Gegenforderungen ist für beide Parteien nur zulässig, wenn die jeweilige Gegenforderung unbestritten oder rechtskräftig festgestellt ist. Gleiches gilt für die Geltendmachung eines Zurückbehaltungsrechts.</p><p><br></p><p>§ 6 Kündigung, Laufzeit</p><p>(1) Der Vertrag tritt mit Vertragsschluss in Kraft und hat die individuell zwischen den Parteien vereinbarte Laufzeit sowie die dort festgelegte Kündigungsfrist. Diese Angaben sind im jeweiligen Hauptvertrag, Angebot oder der Auftragsbestätigung festgehalten und gelten vorrangig gegenüber den nachfolgenden Regelungen.</p><p>(2) Sofern im Einzelfall keine ausdrückliche Kündigungsfrist schriftlich vereinbart wurde, gilt eine Kündigungsfrist von drei Monaten zum Monatsende als vereinbart.</p><p>(3) Erfolgt keine fristgerechte Kündigung, verlängert sich der Vertrag jeweils automatisch um die ursprünglich vereinbarte Laufzeit – höchstens jedoch um weitere zwölf Monate – zu den zuletzt vereinbarten Bedingungen. Einmalige Einrichtungs- oder Setupgebühren sind von der Verlängerung nicht umfasst.</p><p>(4) Eine ordentliche Kündigung vor Ablauf der vereinbarten Mindestlaufzeit ist ausgeschlossen. Freie Kündigungsrechte des Kunden während der Laufzeit bestehen nicht, soweit gesetzlich zulässig.</p><p>(5) Kündigungen bedürfen zur Wirksamkeit der Schriftform. Die Übermittlung per E-Mail ist ausreichend, sofern sie von einer eindeutig identifizierbaren Adresse des kündigenden Vertragspartners stammt.</p><p>(6) Das Recht zur außerordentlichen Kündigung aus wichtigem Grund bleibt für beide Vertragsparteien unberührt. Ein solcher liegt insbesondere dann vor, wenn eine Partei ihre vertraglichen Hauptpflichten erheblich verletzt, trotz Mahnung nicht nachbessert oder sich mit zwei aufeinanderfolgenden Zahlungen in Verzug befindet.</p><p><br></p><p>§ 7 Verzug / außerordentliche Kündigung</p><p>(1) Fristen für die Leistungserbringung durch RX2 Marketing beginnen frühestens, sobald der vereinbarte Rechnungsbetrag vollständig bei RX2 Marketing eingegangen ist und der Kunde sämtliche für die Ausführung erforderlichen Mitwirkungshandlungen vollständig und vertragsgemäß erbracht sowie alle notwendigen Unterlagen und Zugangsdaten bereitgestellt hat. Verzögerungen aufgrund unvollständiger Mitwirkung liegen im Verantwortungsbereich des Kunden.</p><p>(2) Befindet sich der Kunde mit einer fälligen Zahlung in Verzug, ist RX2 Marketing berechtigt, die weitere Leistungserbringung bis zum vollständigen Ausgleich des offenen Betrags vorübergehend einzustellen, ohne dass dies als Leistungsverzug von RX2 Marketing gilt. Der Vergütungsanspruch bleibt hiervon unberührt.</p><p>(3) Gerät der Kunde im Rahmen einer Ratenzahlungsvereinbarung mit mindestens zwei aufeinanderfolgenden Raten ganz oder teilweise in Zahlungsverzug, ist RX2 Marketing berechtigt, den Vertrag aus wichtigem Grund außerordentlich zu kündigen und sämtliche Leistungen unverzüglich einzustellen. In diesem Fall ist RX2 Marketing berechtigt, als pauschalen Schadensersatz die gesamte noch ausstehende Vergütung bis zum nächsten ordentlichen Beendigungstermin geltend zu machen. Die Geltendmachung eines weitergehenden Schadens bleibt unberührt. Dem Kunden bleibt der Nachweis vorbehalten, dass kein oder ein wesentlich geringerer Schaden entstanden ist.</p><p><br></p><p>§ 8 Erfüllung</p><p>(1) RX2 Marketing verpflichtet sich, die im Angebot oder Vertrag definierten Dienstleistungen mit der gebotenen Sorgfalt und gemäß den vereinbarten Leistungsinhalten auszuführen. RX2 Marketing ist berechtigt, zur Erfüllung der vertraglich geschuldeten Leistungen qualifizierte Subunternehmer, freie Mitarbeiter oder andere Erfüllungsgehilfen nach eigenem Ermessen einzusetzen. Die Verantwortung für die ordnungsgemäße Leistungserbringung verbleibt dabei bei RX2 Marketing.</p><p>(2) Der Kunde erkennt an, dass – sofern nicht ausdrücklich und schriftlich abweichend vereinbart – ausschließlich Dienstleistungen im Sinne der §§ 611 ff. BGB geschuldet sind, bei denen kein konkreter Erfolg garantiert wird. Werkvertragliche Leistungspflichten gelten nur bei entsprechender ausdrücklicher Vereinbarung in Textform. Auf Verlangen des Kunden erteilt RX2 Marketing in angemessener Frist Auskunft über Art und Umfang der bisher erbrachten Leistungen.</p><p>(3) Wird RX2 Marketing an der ordnungsgemäßen Leistungserbringung gehindert, weil erforderliche Informationen, Mitwirkungen oder Zugänge vom Kunden fehlen, unvollständig oder fehlerhaft übermittelt wurden oder auf sonstige Weise aus der Sphäre des Kunden eine Verzögerung eintritt, bleibt der Vergütungsanspruch von RX2 Marketing in voller Höhe bestehen. Verzögerungen, die aus der Risikosphäre des Kunden stammen, verlängern etwaige Fristen entsprechend. Zusätzlicher Aufwand, der RX2 Marketing in diesem Zusammenhang entsteht, kann gesondert in Rechnung gestellt werden.</p><p><br></p><p>§ 9 Verhalten und Rücksichtnahme</p><p>(1) Der Kunde verpflichtet sich zu einem respektvollen, professionellen und sachlich angemessenen Umgang mit RX2 Marketing sowie deren Mitarbeitenden, Subunternehmern und Vertretern. Er hat insbesondere Äußerungen zu unterlassen, die geeignet sind, das Ansehen, die geschäftlichen Interessen oder die Dienstleistungen von RX2 Marketing unzutreffend negativ darzustellen. Unwahre Tatsachenbehauptungen, Schmähkritiken oder gezielte geschäftsschädigende Aussagen wird RX2 Marketing zivilrechtlich und ggf. strafrechtlich verfolgen.</p><p>(2) Sofern der Kunde im Rahmen der Zusammenarbeit Zugang zu Community-Plattformen, Gruppen oder Veranstaltungen (z. B. Facebook-Gruppen, Gruppen-Calls, Foren etc.) von RX2 Marketing erhält, verpflichtet er sich, dort keine Inhalte zu verbreiten, die gegen gesetzliche Vorschriften, die guten Sitten oder berechtigte Interessen von RX2 Marketing verstoßen. RX2 Marketing behält sich das Recht vor, Kunden bei wiederholtem oder schwerwiegendem Verstoß temporär oder dauerhaft aus diesen Angeboten auszuschließen.</p><p>(3) Bewertungen, insbesondere auf öffentlich zugänglichen Plattformen wie Google, ProvenExpert oder Trustpilot, erfolgen stets freiwillig und unabhängig. Der Kunde verpflichtet sich, nur solche Bewertungen abzugeben, die auf tatsächlichen Erfahrungen beruhen und keine falschen oder ehrverletzenden Inhalte enthalten. RX2 Marketing ist berechtigt, im Falle einer nachweislich falschen oder rechtswidrigen Bewertung rechtliche Schritte einzuleiten und die Entfernung zu verlangen. Ein genereller Anspruch auf Löschung von Bewertungen durch den Kunden auf bloßes Anfordern besteht nicht.</p><p><br></p><p>§ 10 Schutzrechte Dritter</p><p>Der Kunde gewährleistet, dass sämtliche RX2 Marketing im Rahmen der Zusammenarbeit überlassenen Inhalte, Materialien, Daten, Medien (z. B. Texte, Bilder, Logos, Videos, Marken, Tonaufnahmen, Software oder Zugangsdaten) frei von Rechten Dritter sind oder dass der Kunde über sämtliche zur vertragsgemäßen Nutzung, Bearbeitung, Veröffentlichung und Verwertung erforderlichen Nutzungsrechte, Lizenzen oder Einwilligungen verfügt. Dies gilt insbesondere für urheber-, marken-, wettbewerbs- oder datenschutzrechtlich geschützte Inhalte.</p><p>Der Kunde stellt RX2 Marketing von sämtlichen Ansprüchen Dritter frei, die wegen einer Verletzung solcher Rechte im Zusammenhang mit den vom Kunden bereitgestellten Materialien geltend gemacht werden. Die Freistellung umfasst auch die angemessenen Kosten der Rechtsverteidigung (z. B. Anwalts- und Gerichtskosten). Der Kunde verpflichtet sich, RX2 Marketing bei der Abwehr entsprechender Ansprüche bestmöglich zu unterstützen.</p><p><br></p><p>§ 11 Nutzungsrechte</p><p>(1) RX2 Marketing räumt dem Kunden – vorbehaltlich abweichender schriftlicher Vereinbarung – ein einfaches, nicht übertragbares Nutzungsrecht an den im Rahmen des Vertragsverhältnisses erstellten Arbeits- und Leistungsergebnissen ein. Dieses Nutzungsrecht ist auf die Vertragslaufzeit beschränkt und umfasst ausschließlich die Nutzung zu eigenen geschäftlichen Zwecken des Kunden. Eine Nutzung über die vereinbarte Vertragslaufzeit hinaus bedarf einer gesonderten schriftlichen Vereinbarung.</p><p>(2) Leistungs- und Arbeitsergebnisse im Sinne dieses Vertrags sind alle im Rahmen der Auftragsdurchführung entstandenen Werke, Teilleistungen oder sonstigen Inhalte, insbesondere Texte, Bilder, Videos, Anzeigenmotive, Dokumentationen, Präsentationen, Auswertungen, Pflichtenhefte, Softwaremodule, Datensammlungen und Konzepte – unabhängig vom Fertigstellungsgrad.</p><p>(3) Eine Weitergabe, Vervielfältigung, Veröffentlichung oder Bearbeitung der überlassenen Arbeitsergebnisse durch den Kunden ist nur mit vorheriger ausdrücklicher schriftlicher Zustimmung von RX2 Marketing zulässig. Dies gilt auch für die Weitergabe an mit dem Kunden verbundene Unternehmen oder Dritte. Zulässig bleibt die Nutzung im Rahmen der vereinbarten Zwecke (z. B. Verwendung von Landingpages während der Vertragslaufzeit).</p><p>(4) Individuelle Sonderregelungen zur dauerhaften oder erweiterten Nutzung können im Angebot oder in einer gesonderten Vereinbarung getroffen werden.</p><p><br></p><p>§ 12 Widerrufsrecht</p><p>Ein gesetzliches Widerrufsrecht besteht ausschließlich für Verbraucher im Sinne des § 13 BGB. Da RX2 Marketing ausschließlich Verträge mit Unternehmern im Sinne des § 14 BGB bzw. Kaufleuten im Sinne des HGB abschließt, besteht ein Widerrufsrecht nach §§ 355 ff. BGB nicht. Ein vertragliches Widerrufsrecht wird ebenfalls nicht eingeräumt.</p><p><br></p><p>§ 13 Haftung</p><p>(1) RX2 Marketing haftet uneingeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung beruhen. Für sonstige Schäden haftet RX2 Marketing nur bei Vorsatz und grober Fahrlässigkeit.</p><p>Bei einfacher Fahrlässigkeit haftet RX2 Marketing nur bei Verletzung einer wesentlichen Vertragspflicht (Kardinalpflicht). In diesem Fall ist die Haftung auf den vertragstypischen, vorhersehbaren Schaden begrenzt. Eine wesentliche Vertragspflicht ist eine solche, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf.</p><p>(2) Die Haftung für Datenverluste und Programmfehler ist – außer im Fall von Vorsatz oder grober Fahrlässigkeit – der Höhe nach auf den typischen Wiederherstellungsaufwand beschränkt, der bei ordnungsgemäßer und regelmäßiger Anfertigung von Sicherungskopien durch den Kunden entstanden wäre.</p><p>(3) Die Haftung nach dem Produkthaftungsgesetz sowie bei der ausdrücklichen Übernahme einer Garantie bleibt unberührt.</p><p><br></p><p>§ 14 Datenschutz und Datensicherheit</p><p>(1) Der Kunde ist verpflichtet, bei der Übermittlung personenbezogener Daten an RX2 Marketing die geltenden Vorschriften der Datenschutz-Grundverordnung (DSGVO) und des Bundesdatenschutzgesetzes (BDSG) zu beachten. Der Kunde stellt sicher, dass er zur Übermittlung dieser Daten an RX2 Marketing berechtigt ist und alle erforderlichen Einwilligungen vorliegen.</p><p>(2) Soweit RX2 Marketing im Rahmen der Vertragsdurchführung personenbezogene Daten im Auftrag des Kunden verarbeitet, schließen die Parteien vor Beginn der Verarbeitung eine gesonderte Vereinbarung über die Auftragsverarbeitung gemäß Art. 28 DSGVO in schriftlicher oder elektronischer Form. Diese Vereinbarung ist gesondert zu vergüten, sofern nicht anders vereinbart.</p><p>(3) RX2 Marketing verpflichtet sich, angemessene technische und organisatorische Maßnahmen zum Schutz personenbezogener Daten zu treffen, die dem aktuellen Stand der Technik entsprechen.</p><p><br></p><p>§ 15 Schlussbestimmungen</p><p>(1) Abweichungen, Nebenabreden und Ergänzungen zu diesen AGB bedürfen zu ihrer Wirksamkeit der Schriftform. Individuelle Vereinbarungen im Angebot oder Vertrag zwischen RX2 Marketing und dem Kunden gehen diesen AGB im Kollisionsfall vor. Maßgeblich ist in diesem Fall der Inhalt des schriftlichen Angebots oder der schriftlichen Bestätigung von RX2 Marketing.</p><p>(2) Es gilt ausschließlich das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG). Erfüllungsort und ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit dem Vertragsverhältnis ist – soweit gesetzlich zulässig – der Sitz von RX2 Marketing.</p><p>(3) Sollte eine Bestimmung dieser AGB ganz oder teilweise unwirksam oder undurchführbar sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. Anstelle der unwirksamen oder undurchführbaren Regelung gilt eine rechtlich zulässige Regelung als vereinbart, die dem wirtschaftlichen Zweck der ursprünglichen Regelung am nächsten kommt.</p><p>Stand: 26.04.2025</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 198,
+      "w": 1250,
+      "h": 7186
+     },
+     "boxM": {
+      "x": 24,
+      "y": 152,
+      "w": 342,
+      "h": 18898
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 97,
+    "w": 1440,
+    "h": 7387
+   },
+   "boxM": {
+    "x": 0,
+    "y": 102,
+    "w": 390,
+    "h": 18998
+   }
+  },
+  {
+   "id": "1f7e40af-7246-474d-a6f5-f974b4f7a265",
+   "title": "Fußzeile Global 2",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    61,
+    80
+   ],
+   "padM": [
+    30,
+    40
+   ],
+   "padT": [
+    61,
+    80
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "LFz0L9wdlP-WsUtcF4sVg",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 94,
+       "y": 7543,
+       "mbox": {
+        "x": 122,
+        "y": 7543,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 19129,
+       "hpxM": 366,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "ppAZ17-odGtbU42km4is6",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Unternehmen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "5bbf22f9-a7d9-4554-9513-ea36f4e995d9",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Y6YmPKYV5wwhMUdRI6wX8",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Über uns & was wir tun",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Karriere",
+           "href": "/karriere",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Potenzial-Analyse",
+           "href": "/potenzial-analyse",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kontakt",
+           "href": "/kontakt",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "8",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 435,
+       "hpx": 464,
+       "x": 366,
+       "y": 7543,
+       "mbox": {
+        "x": 394,
+        "y": 7543,
+        "w": 379,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 19494,
+       "hpxM": 537,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "UC7YkAB6uXvKuUD5wpAHJ",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Leistungen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "d34bcf03-baf2-4d05-8f45-607ad83508a2",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 379,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "nbUi8zuih0yYq8qAJShK2",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Mandantengewinnung für Anwälte",
+           "href": "https://www.heyadvo.com",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Handwerker",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Steuerberater",
+           "href": "/mitarbeitergewinnung-steuerberater",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Apotheken",
+           "href": "/mitarbeitergewinnung-apotheken",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Handwerksbetriebe",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 802,
+       "y": 7543,
+       "mbox": {
+        "x": 830,
+        "y": 7543,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 20031,
+       "hpxM": 334,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "Gw3NOgKX7lRycFG6df-Ic",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Marketing-Blog</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "b9be9d6f-233b-445f-8b61-7eda7c09bfb5",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Lozpi2yuJNtiq_SQgl0Wj",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Zum Marketing-Blog",
+           "href": "/marketing-blog",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "KI-Schulungspflicht in Unternehmen",
+           "href": "/ki-schulungspflicht-in-unternehmen",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 häufige SEO-Fehler",
+           "href": "/10-haufige-seo-fehler",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 Tipps für ein besseres Instagram-Profil",
+           "href": "/10-tipps-fur-ein-besseres-instagram-profil",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 90
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 1074,
+       "y": 7543,
+       "mbox": {
+        "x": 1102,
+        "y": 7543,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 20365,
+       "hpxM": 338,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "SV2PwlVp3NlB2_L0VLTfB",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Kontakt</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "f620dd3b-de9e-44ee-918c-93b7fd947f53",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "contacts",
+         "id": "suWozKFJMh47QbZ6HZ-_D",
+         "gap": 20,
+         "halign": "left",
+         "items": [
+          {
+           "href": "tel:+49016096088604",
+           "text": "+49 (0) 160 960 886 04",
+           "sub": "Rufen Sie uns an",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M15.639,14.407l-2.355,2.321a19.111,19.111,0,0,1-3.4-2.613,19.353,19.353,0,0,1-2.612-3.4L9.591,8.36a1.01,1.01,0,0,0,.208-1.1L7.382,1.614A1.009,1.009,0,0,0,6.2,1.036L1.756,2.209A1.007,1.007,0,0,0,1,3.218,21.337,21.337,0,0,0,7.039,16.959,21.339,21.339,0,0,0,20.784,23a1.011,1.011,0,0,0,1.01-.756l1.172-4.44a1.009,1.009,0,0,0-.577-1.186L16.748,14.2A1.009,1.009,0,0,0,15.639,14.407Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          },
+          {
+           "href": "mailto:info@reinkober.com",
+           "text": "info@reinkober.com",
+           "sub": "Schreiben Sie eine E-Mail",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\"></path> <path d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          }
+         ],
+         "dir": "row",
+         "gapItems": 12,
+         "html": "<a href=\"tel:+49016096088604\">+49 (0) 160 960 886 04Rufen Sie uns an</a><a href=\"mailto:info@reinkober.com\">info@reinkober.comSchreiben Sie eine E-Mail</a>",
+         "iconSize": 26,
+         "iconColor": "#ffffff"
+        },
+        {
+         "type": "link-group",
+         "id": "683b9cf4-094e-40a9-83eb-541d8110d99f",
+         "gap": 20,
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Kontakt aufnehmen",
+           "href": "/kontakt",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 40,
+           "w": 216,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            5,
+            20
+           ],
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 41.59,
+           "w": 342,
+           "fs": 13,
+           "pad": [
+            5,
+            20
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "social",
+         "id": "UgXHlwm7s_lhzxFDjPRUq",
+         "gap": 10,
+         "halign": "left",
+         "items": [
+          {
+           "href": "https://www.facebook.com/reinkoberholding",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#3b5998\" d=\"M9.03153,23L9,13H5V9h4V6.5C9,2.7886,11.29832,1,14.60914,1c1.58592,0,2.94893,0.11807,3.34615,0.17085 v3.87863l-2.29623,0.00104c-1.80061,0-2.14925,0.85562-2.14925,2.11119V9H18.75l-2,4h-3.24019v10H9.03153z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.instagram.com/reinkober.holding/",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#231F20\" d=\"M12,2.982c2.937,0,3.285.011,4.445.064a6.072,6.072,0,0,1,2.042.379,3.4,3.4,0,0,1,1.265.823,3.4,3.4,0,0,1,.823,1.265,6.072,6.072,0,0,1,.379,2.042c.053,1.16.064,1.508.064,4.445s-.011,3.285-.064,4.445a6.072,6.072,0,0,1-.379,2.042,3.644,3.644,0,0,1-2.088,2.088,6.072,6.072,0,0,1-2.042.379c-1.16.053-1.508.064-4.445.064s-3.285-.011-4.445-.064a6.072,6.072,0,0,1-2.042-.379,3.4,3.4,0,0,1-1.265-.823,3.4,3.4,0,0,1-.823-1.265,6.072,6.072,0,0,1-.379-2.042c-.053-1.16-.064-1.508-.064-4.445s.011-3.285.064-4.445a6.072,6.072,0,0,1,.379-2.042,3.4,3.4,0,0,1,.823-1.265,3.4,3.4,0,0,1,1.265-.823,6.072,6.072,0,0,1,2.042-.379c1.16-.053,1.508-.064,4.445-.064M12,1c-2.987,0-3.362.013-4.535.066a8.108,8.108,0,0,0-2.67.511A5.625,5.625,0,0,0,1.577,4.8a8.108,8.108,0,0,0-.511,2.67C1.013,8.638,1,9.013,1,12s.013,3.362.066,4.535a8.108,8.108,0,0,0,.511,2.67A5.625,5.625,0,0,0,4.8,22.423a8.108,8.108,0,0,0,2.67.511C8.638,22.987,9.013,23,12,23s3.362-.013,4.535-.066a8.108,8.108,0,0,0,2.67-.511A5.625,5.625,0,0,0,22.423,19.2a8.108,8.108,0,0,0,.511-2.67C22.987,15.362,23,14.987,23,12s-.013-3.362-.066-4.535a8.108,8.108,0,0,0-.511-2.67A5.625,5.625,0,0,0,19.2,1.577a8.108,8.108,0,0,0-2.67-.511C15.362,1.013,14.987,1,12,1Z\"></path><path d=\"M12,6.351A5.649,5.649,0,1,0,17.649,12,5.649,5.649,0,0,0,12,6.351Zm0,9.316A3.667,3.667,0,1,1,15.667,12,3.667,3.667,0,0,1,12,15.667Z\"></path><circle cx=\"17.872\" cy=\"6.128\" r=\"1.32\"></circle></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.linkedin.com/company/14815912",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#0076B6\" d=\"M23,0H1C0.4,0,0,0.4,0,1v22c0,0.6,0.4,1,1,1h22c0.6,0,1-0.4,1-1V1C24,0.4,23.6,0,23,0z M7.1,20.5H3.6V9h3.6 V20.5z M5.3,7.4c-1.1,0-2.1-0.9-2.1-2.1c0-1.1,0.9-2.1,2.1-2.1c1.1,0,2.1,0.9,2.1,2.1C7.4,6.5,6.5,7.4,5.3,7.4z M20.5,20.5h-3.6 v-5.6c0-1.3,0-3-1.8-3c-1.9,0-2.1,1.4-2.1,2.9v5.7H9.4V9h3.4v1.6h0c0.5-0.9,1.6-1.8,3.4-1.8c3.6,0,4.3,2.4,4.3,5.5V20.5z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          }
+         ],
+         "dir": "row",
+         "gapItems": 16,
+         "html": "<a href=\"https://www.facebook.com/reinkoberholding\" target=\"_blank\"></a><a href=\"https://www.instagram.com/reinkober.holding/\" target=\"_blank\"></a><a href=\"https://www.linkedin.com/company/14815912\" target=\"_blank\"></a>",
+         "iconSize": 18,
+         "iconColor": "#151f25"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 7543,
+      "w": 1250,
+      "h": 464
+     },
+     "boxM": {
+      "x": 24,
+      "y": 19129,
+      "w": 342,
+      "h": 1574
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 7482,
+    "w": 1440,
+    "h": 605
+   },
+   "boxM": {
+    "x": 0,
+    "y": 19099,
+    "w": 390,
+    "h": 1644
+   }
+  },
+  {
+   "id": "PHKoKdj7Qs7oPyGg9w5vE",
+   "title": "Fußzeile 2 Global",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    31,
+    14
+   ],
+   "padM": [
+    15,
+    7
+   ],
+   "padT": [
+    31,
+    14
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "1bh4QeuVKY-zDxWmln5ed",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 791,
+       "hpx": 189,
+       "x": 324,
+       "y": 8117,
+       "mbox": {
+        "x": 332,
+        "y": 8117,
+        "w": 775,
+        "h": 189
+       },
+       "wpxM": 342,
+       "yM": 20757,
+       "hpxM": 322,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "v7iNTO2MhW42TqubGqim2",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/7050135a-9ff5-4110-8263-9dde1c6b5b58",
+         "alt": "Logo reinkober.com",
+         "wpx": 200,
+         "hpx": 28,
+         "wpxM": 200,
+         "hpxM": 28,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "plain-text",
+         "id": "BRT3ZEtLnltJmLF4KQcKh",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "5VaH0FmvL7oIpSFSMoh-s",
+         "gap": 15,
+         "halign": "center",
+         "style": "color",
+         "dir": "vertical",
+         "size": "s",
+         "space": "10px",
+         "items": [
+          {
+           "text": "Impressum",
+           "href": "/impressum",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "AGB",
+           "href": "/agb",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#76b2cc",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "Datenschutz",
+           "href": "/datenschutz",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          }
+         ]
+        },
+        {
+         "type": "plain-text",
+         "id": "RftLzF3IazEYpOgtCYlWO",
+         "gap": 30,
+         "halign": "center",
+         "html": "<p>© 2019 - 2026 reinkober.com - Alle Rechte vorbehalten.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 12,
+          "lh": 18,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 8117,
+      "w": 1250,
+      "h": 189
+     },
+     "boxM": {
+      "x": 24,
+      "y": 20757,
+      "w": 342,
+      "h": 322
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 8086,
+    "w": 1440,
+    "h": 234
+   },
+   "boxM": {
+    "x": 0,
+    "y": 20742,
+    "w": 390,
+    "h": 344
+   }
+  }
+ ],
+ "forms": []
+}

@@ -1,0 +1,29 @@
+---
+// Ordnet ein Onepage-Formular-Atom dem passenden Formular aus src/data/forms.ts zu.
+import MultiStepForm from './MultiStepForm.astro';
+
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+const formId: string | undefined = a.source?.data?.formId;
+
+// Onepage-Formular-IDs → Formulare dieser Website
+const BY_ID: Record<string, string> = {
+  '442a1997-ad50-49a2-840d-b7af5d79be62': 'potenzial-analyse',
+  'f6cd4b09-ae06-4835-9ee6-9fad325bcadc': 'potenzial-analyse',
+  '3b34b928-45ea-4381-bab8-c7e6251222fb': 'wachstums-call',
+  '95e3119e-c962-488b-9456-c7218e8601c1': 'wachstums-call',
+  '0a41d88f-dee0-46ce-b95d-b4a689b7f802': 'bewerbung',
+};
+const BY_PATH: Record<string, string> = {
+  '/potenzial-analyse': 'potenzial-analyse',
+  '/wachstums-call-formular': 'wachstums-call',
+  '/online-bewerbung': 'bewerbung',
+  '/kontakt': 'kontakt',
+};
+const key = (formId && BY_ID[formId]) || BY_PATH[path];
+// Potenzial-Analyse: oberes Formular gibt nach Schritt 1 an das untere ab (ein Formular, ein Versand)
+const isUpper = formId === 'f6cd4b09-ae06-4835-9ee6-9fad325bcadc';
+const instance = isUpper ? 'pa-oben' : key;
+---
+{key && <MultiStepForm formKey={key} instance={instance} handoffTo={isUpper ? 'potenzial-analyse' : undefined} height={a.hpx} />}

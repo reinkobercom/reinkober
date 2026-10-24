@@ -1,0 +1,50 @@
+---
+// Verteilt ein Atom (kleinstes Inhaltselement) an die passende Komponente.
+import { css } from '../../lib/style';
+import Text from '../atoms/Text.astro';
+import Buttons from '../atoms/Buttons.astro';
+import MenuList from '../atoms/MenuList.astro';
+import Picture from '../atoms/Picture.astro';
+import Icon from '../atoms/Icon.astro';
+import Line from '../atoms/Line.astro';
+import Person from '../atoms/Person.astro';
+import Accordion from '../atoms/Accordion.astro';
+import Gallery from '../atoms/Gallery.astro';
+import LinkList from '../atoms/LinkList.astro';
+import Embed from '../atoms/Embed.astro';
+import AudioMessage from '../atoms/AudioMessage.astro';
+import MapEmbed from '../atoms/MapEmbed.astro';
+import FormAtom from '../forms/FormAtom.astro';
+
+interface Props { atom: any; headings: Map<string, string>; eager?: boolean }
+const { atom: a, headings, eager = false } = Astro.props;
+const t: string = a.type;
+const align = a.halign === 'center' ? 'atom--center' : a.halign === 'right' ? 'atom--right' : '';
+const only = a.only === 'desktop' ? 'only-desktop' : a.only === 'mobile' ? 'only-mobile' : '';
+const style = css({
+  '--g': a.gap || undefined,
+  '--g-m': a.gapM != null ? a.gapM : undefined,
+  '--aw': a.w && !a.w.startsWith('100') ? a.w : undefined,
+  '--amw': a.minW,
+});
+// Formular-Felder des alten Kontaktformulars werden gemeinsam in FormAtom gerendert
+const skip = t.startsWith('form-') && t !== 'form-name';
+---
+{!skip && (
+  <div class:list={['atom', `atom--${t}`, align, only]} style={style || undefined}>
+    {(t === 'header' || t === 'plain-text' || t === 'label-text') && <Text atom={a} tag={t === 'header' ? headings.get(a.id) || 'p' : t === 'label-text' ? 'p' : 'div'} />}
+    {t === 'link-group' && <Buttons atom={a} />}
+    {t === 'menu-v2' && <MenuList atom={a} />}
+    {(t === 'image' || t === 'logo') && <Picture atom={a} eager={eager} />}
+    {t === 'icon' && <Icon atom={a} />}
+    {t === 'line' && <Line atom={a} />}
+    {t === 'person' && <Person atom={a} />}
+    {t === 'list' && <Accordion atom={a} />}
+    {t === 'gallery' && <Gallery atom={a} />}
+    {(t === 'social' || t === 'contacts') && <LinkList atom={a} />}
+    {t === 'custom-code' && <Embed atom={a} />}
+    {t === 'react-fragment' && <AudioMessage atom={a} />}
+    {t === 'map' && <MapEmbed atom={a} />}
+    {(t === 'quiz' || t === 'form-name') && <FormAtom atom={a} />}
+  </div>
+)}

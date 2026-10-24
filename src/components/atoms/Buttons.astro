@@ -1,0 +1,44 @@
+---
+// Button-Gruppe (link-group). Maße/Farben wie gemessen.
+import { css } from '../../lib/style';
+import { fixHref } from '../../lib/html';
+
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const buttons: any[] = a.buttons || [];
+const mobile: any[] = a.buttonsM || [];
+const ja = a.halign === 'center' ? 'center' : a.halign === 'right' ? 'flex-end' : undefined;
+// Volle Breite, wenn der Button (fast) die ganze Spalte füllt
+const fullM = mobile.some((m) => m && m.w && m.w >= 300);
+const scrollTarget = (href?: string) => href && href.startsWith('#') ? href : undefined;
+---
+<div class:list={['btns', fullM && 'btns--stretch-m']} style={css({ '--bja': ja })}>
+  {buttons.map((b) => {
+    const href = fixHref(b.href)?.replace(/^#atom-/, '#s-');
+    const ext = href && /^https?:/.test(href);
+    const style = css({
+      '--bh': b.h ? Math.round(b.h) : undefined,
+      '--bpy': b.pad?.[0], '--bpx': b.pad?.[1],
+      '--bbg': b.kind === 'line' ? (b.border?.split(' ').pop()) : b.bg,
+      '--bc': b.color, '--br': b.radius, '--bbd': b.kind === 'line' ? b.border : undefined,
+      '--bfs': b.font?.fs, '--bfw': b.font?.fw && b.font.fw !== 600 ? b.font.fw : undefined,
+      '--bsfs': b.subFont?.fs, '--bsh': b.shadow,
+    });
+    const cls = ['btn', b.kind === 'line' && 'btn--line', b.effect === 'volume' && 'btn--volume', b.effect === 'soft-line-hover' && 'btn--soft', b.sub && 'btn--sub'];
+    const inner = (
+      <>
+        {b.icon && b.iconPos !== 'right' && <span class="btn__icon" aria-hidden="true" set:html={b.icon} />}
+        <span class="btn__text">
+          <span class="btn__label">{b.text}</span>
+          {b.sub && <span class="btn__sub">{b.sub}</span>}
+        </span>
+        {b.icon && b.iconPos === 'right' && <span class="btn__icon" aria-hidden="true" set:html={b.icon} />}
+      </>
+    );
+    return href ? (
+      <a class:list={cls} style={style} href={href} target={b.target} rel={ext && b.target === '_blank' ? 'noopener' : undefined} data-scroll={scrollTarget(href)}>{inner}</a>
+    ) : (
+      b.action ? <button type="button" class:list={cls} style={style} data-form-next={b.action === 'form_action' ? '' : undefined}>{inner}</button> : <span class:list={cls} style={style}>{inner}</span>
+    );
+  })}
+</div>

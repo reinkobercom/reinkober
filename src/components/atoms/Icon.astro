@@ -1,0 +1,9 @@
+---
+// Einzelnes Icon (z. B. über Vorteils-Karten).
+import { css } from '../../lib/style';
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const ib = a.iconBox || {};
+const style = css({ '--iw': ib.w || a.boxSize || a.size, '--is': ib.svg || a.size, '--ibg': ib.bg, '--ir': ib.radius, '--ibd': ib.border, '--ic': ib.color || a.color });
+---
+{a.svg && <span class:list={['icon', a.halign === 'center' && 'icon--center']} style={style} aria-hidden="true" set:html={a.svg} />}

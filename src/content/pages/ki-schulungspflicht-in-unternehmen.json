@@ -1,0 +1,2241 @@
+{
+ "slug": "/ki-schulungspflicht-in-unternehmen",
+ "title": "KI-Schulungspflicht in Unternehmen",
+ "seoTitle": "KI-Schulungspflicht: Warum Unternehmen jetzt handeln müssen",
+ "seoDescription": "Warum KI-Schulungspflicht für Unternehmen jetzt entscheidend ist. Erfahren Sie, wie Sie Ihre Mitarbeiter auf die KI-Revolution vorbereiten.",
+ "seoImage": null,
+ "noindexLive": false,
+ "sections": [
+  {
+   "id": "33114be5-5386-4b19-b2c4-f2ed1255f7f2",
+   "title": "Menü 4 Global",
+   "only": "both",
+   "isHeader": true,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    0,
+    0
+   ],
+   "padM": [
+    0,
+    0
+   ],
+   "padT": [
+    0,
+    0
+   ],
+   "side": 24,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "headerAtoms": [
+    {
+     "type": "logo",
+     "id": "I7eE0_daDsjPQ-b5kAe1s",
+     "gap": 0,
+     "w": "17.548820512820512%",
+     "halign": "left",
+     "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+     "alt": "Logo reinkober.com",
+     "wpx": 219,
+     "hpx": 30,
+     "wpxM": 250,
+     "hpxM": 35,
+     "href": "/",
+     "pos": "50% 50%",
+     "fit": "cover"
+    },
+    {
+     "type": "menu-v2",
+     "id": "qSGUMoBgd8NadBofUM8cu",
+     "gap": 0,
+     "w": "59.974358974358985%",
+     "halign": "center",
+     "style": "underline",
+     "dir": "horizontal",
+     "size": "l",
+     "space": "24px",
+     "items": [
+      {
+       "text": "Startseite",
+       "href": "/",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Über uns",
+       "href": "/ueber-uns",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Erfolge unserer Partner",
+       "href": "/erfolge-unserer-partner",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><g> <circle cx=\"7.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"1.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"13.5\" cy=\"7.5\" r=\"1.5\"></circle> </g></svg>",
+       "iconColor": "#151f25",
+       "iconBox": {
+        "w": 25,
+        "svg": 18,
+        "color": "#151f25",
+        "radius": "100px"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      }
+     ]
+    },
+    {
+     "type": "link-group",
+     "id": "v9P3d28O7tmaGCY8UmGkX",
+     "gap": 0,
+     "w": "19.271459334935898%",
+     "minW": "240.8828125px",
+     "halign": "center",
+     "buttons": [
+      {
+       "text": "Potenzial-Analyse sichern",
+       "sub": "Kostenfrei & unverbindlich",
+       "href": "/potenzial-analyse",
+       "kind": "solid",
+       "effect": "volume",
+       "radius": "4px",
+       "h": 50.75,
+       "w": 241,
+       "bg": "#76b2cc",
+       "color": "#ffffff",
+       "pad": [
+        6,
+        24
+       ],
+       "font": {
+        "fs": 14,
+        "lh": 18.2,
+        "fw": 700,
+        "color": "#ffffff",
+        "align": "center"
+       },
+       "subFont": {
+        "fs": 11.2,
+        "lh": 14.56,
+        "fw": 400,
+        "color": "#ffffff",
+        "align": "center",
+        "ls": 0.5
+       }
+      }
+     ],
+     "mode": "horizontal"
+    }
+   ],
+   "rows": [
+    {
+     "id": "PZFiOqmgpSrQwQv-azo8K",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "header-v2",
+       "frame": {
+        "text": "#151f25"
+       },
+       "wpx": 1298,
+       "hpx": 99,
+       "x": 71,
+       "y": -1,
+       "mbox": {
+        "x": 95,
+        "y": -1,
+        "w": 1250,
+        "h": 99
+       },
+       "wpxM": 342,
+       "yM": -1,
+       "hpxM": 104,
+       "frameM": {
+        "text": "#151f25"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "I7eE0_daDsjPQ-b5kAe1s",
+         "gap": 0,
+         "w": "17.548820512820512%",
+         "halign": "left",
+         "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+         "alt": "Logo reinkober.com",
+         "wpx": 219,
+         "hpx": 30,
+         "wpxM": 250,
+         "hpxM": 35,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "menu-v2",
+         "id": "qSGUMoBgd8NadBofUM8cu",
+         "gap": 0,
+         "w": "59.974358974358985%",
+         "halign": "center",
+         "style": "underline",
+         "dir": "horizontal",
+         "size": "l",
+         "space": "24px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Über uns",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><g> <circle cx=\"7.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"1.5\" cy=\"7.5\" r=\"1.5\"></circle> <circle cx=\"13.5\" cy=\"7.5\" r=\"1.5\"></circle> </g></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 25,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          }
+         ]
+        },
+        {
+         "type": "link-group",
+         "id": "v9P3d28O7tmaGCY8UmGkX",
+         "gap": 0,
+         "w": "19.271459334935898%",
+         "minW": "240.8828125px",
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Potenzial-Analyse sichern",
+           "sub": "Kostenfrei & unverbindlich",
+           "href": "/potenzial-analyse",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 50.75,
+           "w": 241,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            6,
+            24
+           ],
+           "font": {
+            "fs": 14,
+            "lh": 18.2,
+            "fw": 700,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 11.2,
+            "lh": 14.56,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           }
+          }
+         ],
+         "mode": "horizontal"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": -1,
+      "w": 1250,
+      "h": 99
+     },
+     "boxM": {
+      "x": 24,
+      "y": -1,
+      "w": 342,
+      "h": 104
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 99
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 104
+   }
+  },
+  {
+   "id": "pSTIXSFMBDmuNQJjeQe3u",
+   "title": "About us",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    51,
+    20
+   ],
+   "padM": [
+    25,
+    10
+   ],
+   "padT": [
+    51,
+    20
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "cakwQHFUDwJIayumP-pQl",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "21",
+       "md": "21",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1108,
+       "hpx": 411,
+       "x": 166,
+       "y": 148,
+       "mbox": {
+        "x": 174,
+        "y": 148,
+        "w": 1092,
+        "h": 411
+       },
+       "wpxM": 342,
+       "yM": 127,
+       "hpxM": 941,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "2--F7aTyItMDrjqlZFjvr",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>KI-Schulungspflicht in Unternehmen: Warum jetzt gehandelt werden muss</p>",
+         "tag": "h1",
+         "font": {
+          "fs": 48,
+          "lh": 61.4,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "fontM": {
+          "fs": 28.98,
+          "lh": 37.07
+         }
+        },
+        {
+         "type": "header",
+         "id": "3wNme9UqMpnH--rKr1hJE",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>KI-Schulungspflicht: Der Schlüssel zur digitalen Zukunft im Betrieb</p>",
+         "tag": "h2",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "p_cQr5XS-G0N-p-fZ0dGE",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p><em>von Simon aus dem reinkober.com Marketing-Expertenteam | 08.04.2025</em></p>",
+         "tag": "p",
+         "font": {
+          "fs": 14,
+          "lh": 21,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "QqOX-HRzkgwRsiaApimaC",
+         "gap": 0,
+         "halign": "center",
+         "html": "<p>Künstliche Intelligenz (KI) verändert die Arbeitswelt grundlegend – und zwar schneller, als viele Unternehmen damit Schritt halten können. Automatisierung, maschinelles Lernen und generative KI-Tools wie ChatGPT oder Copilot revolutionieren Geschäftsprozesse, steigern Effizienz und eröffnen völlig neue Möglichkeiten. Doch mit dieser Entwicklung geht auch eine zentrale Herausforderung einher: die mangelnde Kompetenz im Umgang mit KI.</p><p>Mit dem EU AI Act ist aus dieser Forderung inzwischen Pflicht geworden: Seit dem 2. Februar 2025 müssen Unternehmen, die KI einsetzen, die KI-Kompetenz ihrer Belegschaft fördern – für Mitarbeitende, Führungskräfte und ganze Organisationen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 30,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 148,
+      "w": 1250,
+      "h": 411
+     },
+     "boxM": {
+      "x": 24,
+      "y": 127,
+      "w": 342,
+      "h": 941
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 97,
+    "w": 1440,
+    "h": 482
+   },
+   "boxM": {
+    "x": 0,
+    "y": 102,
+    "w": 390,
+    "h": 976
+   }
+  },
+  {
+   "id": "APBtCjisJYFlKP2ev91xV",
+   "title": "About us",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    21,
+    20
+   ],
+   "padM": [
+    10,
+    10
+   ],
+   "padT": [
+    21,
+    20
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "HbhsNPCvdWHidjLJd6NGL",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "21",
+       "md": "21",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1108,
+       "hpx": 566,
+       "x": 166,
+       "y": 599,
+       "mbox": {
+        "x": 174,
+        "y": 599,
+        "w": 1092,
+        "h": 566
+       },
+       "wpxM": 342,
+       "yM": 1087,
+       "hpxM": 191,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "image",
+         "id": "avQDV6EYdcN3COdXoxDuk",
+         "gap": 20,
+         "halign": "center",
+         "src": "unsplash/eGGFZ5X2LnA",
+         "alt": "Ein Computer-Chip mit der Aufschrift „AI“ sitzt auf einer schwarzen Platine mit vielen kleinen Bauteilen.",
+         "wpx": 1092,
+         "hpx": 546,
+         "wpxM": 342,
+         "hpxM": 171,
+         "frame": {
+          "radius": "8px"
+         },
+         "pos": "50% 50%",
+         "fit": "fill"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 599,
+      "w": 1250,
+      "h": 566
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1087,
+      "w": 342,
+      "h": 191
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 578,
+    "w": 1440,
+    "h": 607
+   },
+   "boxM": {
+    "x": 0,
+    "y": 1077,
+    "w": 390,
+    "h": 211
+   }
+  },
+  {
+   "id": "0yQIlpaRW8jzDtciT0AYK",
+   "title": "About us",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    21,
+    20
+   ],
+   "padM": [
+    10,
+    10
+   ],
+   "padT": [
+    21,
+    20
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "Zs_S9SUwA9LbFiweWZD_v",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "21",
+       "md": "21",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1108,
+       "hpx": 2615,
+       "x": 166,
+       "y": 1205,
+       "mbox": {
+        "x": 174,
+        "y": 1205,
+        "w": 1092,
+        "h": 2615
+       },
+       "wpxM": 342,
+       "yM": 1297,
+       "hpxM": 5126,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "plain-text",
+         "id": "PvpYkHwvB5-R4Pk1rLE1L",
+         "gap": 0,
+         "halign": "center",
+         "html": "<p><strong>Was bedeutet eine KI-Schulungspflicht konkret?</strong></p><p>Die Einführung einer Schulungspflicht für Künstliche Intelligenz bedeutet, dass Unternehmen ihre Mitarbeitenden verpflichtend über den verantwortungsvollen, sicheren und produktiven Umgang mit KI-Technologien informieren und weiterbilden müssen. Rechtsgrundlage ist Art. 4 der EU-KI-Verordnung (AI Act). Wie die Schulung konkret aussieht, legt jedes Unternehmen selbst fest – z. B. über betriebliche Weiterbildung oder externe Schulungen.</p><p>Ziele der KI-Schulungspflicht:</p><ul><li>Digitale Kompetenzen stärken</li><li>Risiken im Umgang mit KI minimieren (z. B. Datenschutz, Bias)</li><li>Potenziale für Produktivität und Innovation erkennen</li><li>Verantwortungsvolle Anwendung von KI fördern</li></ul><p><br></p><p><a href=\"https://ai.8byte.de/\" target=\"_blank\">Jetzt KI‒Schulungspflicht nachkommen und hier mehr erfahren.</a><br></p><p><br></p><p><strong>Warum eine KI-Schulungspflicht notwendig ist</strong></p><p>1. Die KI-Nutzung nimmt exponentiell zu</p><p>Studien zeigen: Der Einsatz von KI-Tools hat sich in den letzten 12 Monaten verdreifacht. Unternehmen, die keine klaren Schulungsmaßnahmen einführen, laufen Gefahr, in einen Wildwuchs unkontrollierter Nutzung zu geraten – mit rechtlichen, ethischen und wirtschaftlichen Risiken.</p><p>2. Mitarbeitende sind oft überfordert</p><p>Viele Arbeitnehmerinnen und Arbeitnehmer wissen nicht, wie sie KI sinnvoll einsetzen können. Ohne Schulung fehlt nicht nur Wissen, sondern auch das nötige Urteilsvermögen, um Chancen und Grenzen von KI richtig einzuschätzen.</p><p>3. Rechtliche Absicherung für Unternehmen</p><p>Gerade mit Blick auf DSGVO, Urheberrecht und den EU AI Act wird der professionelle Umgang mit KI zur rechtlichen Notwendigkeit. Eine Schulungspflicht schützt Unternehmen vor Compliance-Verstößen und Sanktionen.</p><p>4. Wettbewerbsvorteil sichern</p><p>Wer KI sinnvoll nutzt, spart Zeit, senkt Kosten und steigert Innovationskraft. Unternehmen, die auf systematische Schulung setzen, verschaffen sich einen klaren Wettbewerbsvorteil.</p><p><br></p><p><strong>Was Unternehmen jetzt tun sollten</strong></p><p>1. Status-Quo-Analyse: Wo steht das Unternehmen beim Thema KI?</p><p>Bevor Schulungsmaßnahmen geplant werden, sollten Führungskräfte den aktuellen Stand der KI-Nutzung im Unternehmen analysieren. Wer nutzt bereits KI? Welche Tools sind im Einsatz? Wo bestehen Unsicherheiten?</p><p>2. Zielgruppengerechte Schulungsprogramme entwickeln</p><p>Nicht jede Abteilung braucht die gleiche Tiefe. Während im Marketing der Fokus auf Text-KI liegen kann, sind in der Buchhaltung andere Tools relevant. Auch die Führungsebene braucht spezifisches Know-how, um strategische Entscheidungen im KI-Kontext treffen zu können.</p><p>3. Pflichtmodule definieren</p><p>Ein Mindeststandard für alle: Datenschutz, ethische Leitlinien, sichere Nutzung, Transparenz. Ergänzt durch praxisnahe Module je nach Tätigkeitsbereich.</p><p>4. Schulungsnachweise und Zertifizierungen</p><p>Zur rechtlichen Absicherung und zur Steigerung der Motivation kann es sinnvoll sein, die Teilnahme an Schulungen zu dokumentieren – z. B. durch interne Zertifikate oder Badge-Systeme.</p><p>5. Eine offene Lernkultur fördern</p><p>KI verändert Arbeitsprozesse radikal. Damit Mitarbeitende keine Angst vor KI haben, sondern sie als Unterstützung verstehen, braucht es eine transparente Kommunikation und kontinuierliche Fortbildungsangebote.</p><p><a href=\"https://ai.8byte.de/\" target=\"_blank\">Jetzt KI‒Schulungspflicht nachkommen und hier mehr erfahren.</a><br></p><p><br></p><p><strong>Gesetzliche Entwicklungen: Die KI-Schulungspflicht ist da</strong></p><p>Der AI Act der Europäischen Union ist seit dem 1. August 2024 in Kraft. Seit dem 2. Februar 2025 gilt Art. 4: Anbieter und Betreiber von KI-Systemen – also auch jedes Unternehmen, das KI-Tools wie ChatGPT oder Copilot im Arbeitsalltag einsetzt – müssen Maßnahmen ergreifen, um die KI-Kompetenz ihrer Mitarbeitenden und weiterer Personen zu fördern, die in ihrem Auftrag mit KI arbeiten. Das gilt nicht nur für sogenannte „Hochrisiko-KI-Anwendungen“, sondern für jeden KI-Einsatz.</p><p>Mit dem sogenannten „Digital Omnibus“ (Verordnung (EU) 2026/1744, in Kraft seit 27. Juli 2026) wurde die Pflicht präzisiert: Unternehmen müssen nicht für jede einzelne Person ein bestimmtes Kompetenzniveau garantieren – die Pflicht, KI-Kompetenz aktiv zu fördern, bleibt aber bestehen. Gleichzeitig wurden die Fristen für Hochrisiko-KI verschoben, etwa für KI im Personalbereich auf den 2. Dezember 2027. Unser Tipp: Dokumentieren Sie Schulungsinhalte und Teilnahme, damit Sie im Zweifel nachweisen können, dass Sie Ihrer Pflicht nachgekommen sind. (Stand: Oktober 2026)</p><p><br></p><p><strong>Herausforderungen bei der Umsetzung</strong></p><ul><li>Fehlende Ressourcen und Zeit für Weiterbildung</li><li>Widerstände bei Mitarbeitenden („KI nimmt mir den Job weg“)</li><li>Unsicherheit bei der Auswahl geeigneter Schulungspartner</li><li>Schnelle technologische Entwicklung macht Inhalte schnell veraltet</li></ul><p>Die Lösung: partnerschaftliche Zusammenarbeit mit externen Experten, digitale Lernplattformen, flexible Micro-Learning-Formate und ein interner „KI-Koordinator“ als Ansprechpartner für das Thema.</p><p><br></p><p><strong>Fazit: KI-Kompetenz wird zur Schlüsselqualifikation</strong></p><p>Die KI-Schulungspflicht ist nicht nur ein sinnvoller Schritt – sie ist geltendes Recht und unausweichlich, wenn Unternehmen zukunftsfähig bleiben wollen. Der kompetente und verantwortungsvolle Umgang mit Künstlicher Intelligenz wird zur Kernkompetenz der modernen Arbeitswelt.</p><p>Unternehmen, die jetzt in Schulung und Aufklärung investieren, sichern sich nicht nur rechtlich ab, sondern nutzen auch frühzeitig die enormen Potenziale von KI – in Marketing, Vertrieb, Kundenservice, Produktentwicklung und mehr.</p><p>Jetzt <a href=\"https://ai.8byte.de/\" target=\"_blank\">KI‒Schulungspflicht</a> nachkommen und hier mehr erfahren.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "sp": {
+          "p": 16,
+          "l": 8,
+          "li": 16
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1205,
+      "w": 1250,
+      "h": 2615
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1297,
+      "w": 342,
+      "h": 5126
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1184,
+    "w": 1440,
+    "h": 2656
+   },
+   "boxM": {
+    "x": 0,
+    "y": 1287,
+    "w": 390,
+    "h": 5146
+   }
+  },
+  {
+   "id": "Sq8oU_ZfogIeNFxekBydi",
+   "title": "CTA",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    51,
+    50
+   ],
+   "padM": [
+    25,
+    25
+   ],
+   "padT": [
+    51,
+    50
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "kind": "solid",
+     "bg": "#ffffff",
+     "radius": "8px",
+     "shadow": "rgba(17, 17, 26, 0.1) 0px 8px 56px 0px, rgba(17, 17, 26, 0.1) 0px 32px 140px 0px",
+     "pad": "32px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "kind": "solid",
+     "bg": "#ffffff",
+     "radius": "8px",
+     "shadow": "rgba(17, 17, 26, 0.1) 0px 8px 56px 0px, rgba(17, 17, 26, 0.1) 0px 32px 140px 0px",
+     "pad": "32px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "2079038d-ecb3-4802-a3ff-b11d94e6c257",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 804,
+       "hpx": 290,
+       "x": 131,
+       "y": 3922,
+       "mbox": {
+        "x": 181,
+        "y": 3922,
+        "w": 704,
+        "h": 290
+       },
+       "wpxM": 294,
+       "yM": 6481,
+       "hpxM": 541,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "wpxT": 786,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "_JltTUq7u069l3iIFFDlu",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Kostenfreie Potenzial-Analyse sichern</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "WirTdc_YRJfl2jd_YX4We",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>Sichern Sie sich jetzt eine kostenlose Potenzial-Analyse, die Ihnen zeigt, wie Ihre Website wirklich abschneidet. Wir analysieren Ihre Besucherzahlen, Ihr Google-Ranking und Ihre Konkurrenz – inklusive konkreter Empfehlungen, wie Sie schnell mehr Kunden gewinnen. Nutzen Sie diese Chance für eine unverbindliche und wertvolle Einschätzung Ihrer aktuellen Performance.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "person",
+         "id": "xx3jJqkK1EgV8eNE0uWcv",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/a7f47040-dbbe-4b92-9d03-22867b20cc02",
+           "alt": ""
+          }
+         ],
+         "faceSize": 88,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Simon Reinkober",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Simon Reinkober</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Geschäftsführer</p>"
+        }
+       ]
+      },
+      {
+       "lg": "7",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 375,
+       "hpx": 290,
+       "x": 934,
+       "y": 3922,
+       "mbox": {
+        "x": 984,
+        "y": 3922,
+        "w": 275,
+        "h": 290
+       },
+       "wpxM": 294,
+       "yM": 7021,
+       "hpxM": 71,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "middle"
+       },
+       "wpxT": 786,
+       "atoms": [
+        {
+         "type": "link-group",
+         "id": "sHSh4rQrE_H8iCW-_lxWC",
+         "gap": 0,
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Potenzial-Analyse sichern",
+           "sub": "Kostenfrei & unverbindlich",
+           "href": "/potenzial-analyse",
+           "kind": "solid",
+           "effect": "soft-line-hover",
+           "radius": "8px",
+           "h": 93.39,
+           "w": 277,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 25.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           },
+           "shadow": "rgba(118, 178, 204, 0.3) 0px 0px 0px 0px, rgba(118, 178, 204, 0) 0px 0px 0px 16px"
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 70.78,
+           "w": 294,
+           "fs": 17,
+           "pad": [
+            8,
+            31
+           ]
+          }
+         ],
+         "mode": "vertical"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 127,
+      "y": 3922,
+      "w": 1186,
+      "h": 290
+     },
+     "boxM": {
+      "x": 48,
+      "y": 6481,
+      "w": 294,
+      "h": 612
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 3839,
+    "w": 1440,
+    "h": 455
+   },
+   "boxM": {
+    "x": 0,
+    "y": 6432,
+    "w": 390,
+    "h": 710
+   }
+  },
+  {
+   "id": "B9dIzcdtXlONbb6laUU9y",
+   "title": "Fußzeile Global 2",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    61,
+    80
+   ],
+   "padM": [
+    30,
+    40
+   ],
+   "padT": [
+    61,
+    80
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "LFz0L9wdlP-WsUtcF4sVg",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 94,
+       "y": 4353,
+       "mbox": {
+        "x": 122,
+        "y": 4353,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 7170,
+       "hpxM": 366,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "ppAZ17-odGtbU42km4is6",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Unternehmen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "5bbf22f9-a7d9-4554-9513-ea36f4e995d9",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Y6YmPKYV5wwhMUdRI6wX8",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Über uns & was wir tun",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Karriere",
+           "href": "/karriere",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Potenzial-Analyse",
+           "href": "/potenzial-analyse",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kontakt",
+           "href": "/kontakt",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "8",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 435,
+       "hpx": 464,
+       "x": 366,
+       "y": 4353,
+       "mbox": {
+        "x": 394,
+        "y": 4353,
+        "w": 379,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 7536,
+       "hpxM": 537,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "UC7YkAB6uXvKuUD5wpAHJ",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Leistungen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "d34bcf03-baf2-4d05-8f45-607ad83508a2",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 379,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "nbUi8zuih0yYq8qAJShK2",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Mandantengewinnung für Anwälte",
+           "href": "https://www.heyadvo.com",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Handwerker",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Steuerberater",
+           "href": "/mitarbeitergewinnung-steuerberater",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Apotheken",
+           "href": "/mitarbeitergewinnung-apotheken",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Handwerksbetriebe",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 802,
+       "y": 4353,
+       "mbox": {
+        "x": 830,
+        "y": 4353,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 8073,
+       "hpxM": 334,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "Gw3NOgKX7lRycFG6df-Ic",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Marketing-Blog</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "b9be9d6f-233b-445f-8b61-7eda7c09bfb5",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Lozpi2yuJNtiq_SQgl0Wj",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Zum Marketing-Blog",
+           "href": "/marketing-blog",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "KI-Schulungspflicht in Unternehmen",
+           "href": "/ki-schulungspflicht-in-unternehmen",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 häufige SEO-Fehler",
+           "href": "/10-haufige-seo-fehler",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 Tipps für ein besseres Instagram-Profil",
+           "href": "/10-tipps-fur-ein-besseres-instagram-profil",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 90
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 1074,
+       "y": 4353,
+       "mbox": {
+        "x": 1102,
+        "y": 4353,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 8406,
+       "hpxM": 338,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "SV2PwlVp3NlB2_L0VLTfB",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Kontakt</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "f620dd3b-de9e-44ee-918c-93b7fd947f53",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "contacts",
+         "id": "suWozKFJMh47QbZ6HZ-_D",
+         "gap": 20,
+         "halign": "left",
+         "items": [
+          {
+           "href": "tel:+49016096088604",
+           "text": "+49 (0) 160 960 886 04",
+           "sub": "Rufen Sie uns an",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M15.639,14.407l-2.355,2.321a19.111,19.111,0,0,1-3.4-2.613,19.353,19.353,0,0,1-2.612-3.4L9.591,8.36a1.01,1.01,0,0,0,.208-1.1L7.382,1.614A1.009,1.009,0,0,0,6.2,1.036L1.756,2.209A1.007,1.007,0,0,0,1,3.218,21.337,21.337,0,0,0,7.039,16.959,21.339,21.339,0,0,0,20.784,23a1.011,1.011,0,0,0,1.01-.756l1.172-4.44a1.009,1.009,0,0,0-.577-1.186L16.748,14.2A1.009,1.009,0,0,0,15.639,14.407Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          },
+          {
+           "href": "mailto:info@reinkober.com",
+           "text": "info@reinkober.com",
+           "sub": "Schreiben Sie eine E-Mail",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\"></path> <path d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          }
+         ],
+         "dir": "row",
+         "gapItems": 12,
+         "html": "<a href=\"tel:+49016096088604\">+49 (0) 160 960 886 04Rufen Sie uns an</a><a href=\"mailto:info@reinkober.com\">info@reinkober.comSchreiben Sie eine E-Mail</a>",
+         "iconSize": 26,
+         "iconColor": "#ffffff"
+        },
+        {
+         "type": "link-group",
+         "id": "683b9cf4-094e-40a9-83eb-541d8110d99f",
+         "gap": 20,
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Kontakt aufnehmen",
+           "href": "/kontakt",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 40,
+           "w": 216,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            5,
+            20
+           ],
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 41.59,
+           "w": 342,
+           "fs": 13,
+           "pad": [
+            5,
+            20
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "social",
+         "id": "UgXHlwm7s_lhzxFDjPRUq",
+         "gap": 10,
+         "halign": "left",
+         "items": [
+          {
+           "href": "https://www.facebook.com/reinkoberholding",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#3b5998\" d=\"M9.03153,23L9,13H5V9h4V6.5C9,2.7886,11.29832,1,14.60914,1c1.58592,0,2.94893,0.11807,3.34615,0.17085 v3.87863l-2.29623,0.00104c-1.80061,0-2.14925,0.85562-2.14925,2.11119V9H18.75l-2,4h-3.24019v10H9.03153z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.instagram.com/reinkober.holding/",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#231F20\" d=\"M12,2.982c2.937,0,3.285.011,4.445.064a6.072,6.072,0,0,1,2.042.379,3.4,3.4,0,0,1,1.265.823,3.4,3.4,0,0,1,.823,1.265,6.072,6.072,0,0,1,.379,2.042c.053,1.16.064,1.508.064,4.445s-.011,3.285-.064,4.445a6.072,6.072,0,0,1-.379,2.042,3.644,3.644,0,0,1-2.088,2.088,6.072,6.072,0,0,1-2.042.379c-1.16.053-1.508.064-4.445.064s-3.285-.011-4.445-.064a6.072,6.072,0,0,1-2.042-.379,3.4,3.4,0,0,1-1.265-.823,3.4,3.4,0,0,1-.823-1.265,6.072,6.072,0,0,1-.379-2.042c-.053-1.16-.064-1.508-.064-4.445s.011-3.285.064-4.445a6.072,6.072,0,0,1,.379-2.042,3.4,3.4,0,0,1,.823-1.265,3.4,3.4,0,0,1,1.265-.823,6.072,6.072,0,0,1,2.042-.379c1.16-.053,1.508-.064,4.445-.064M12,1c-2.987,0-3.362.013-4.535.066a8.108,8.108,0,0,0-2.67.511A5.625,5.625,0,0,0,1.577,4.8a8.108,8.108,0,0,0-.511,2.67C1.013,8.638,1,9.013,1,12s.013,3.362.066,4.535a8.108,8.108,0,0,0,.511,2.67A5.625,5.625,0,0,0,4.8,22.423a8.108,8.108,0,0,0,2.67.511C8.638,22.987,9.013,23,12,23s3.362-.013,4.535-.066a8.108,8.108,0,0,0,2.67-.511A5.625,5.625,0,0,0,22.423,19.2a8.108,8.108,0,0,0,.511-2.67C22.987,15.362,23,14.987,23,12s-.013-3.362-.066-4.535a8.108,8.108,0,0,0-.511-2.67A5.625,5.625,0,0,0,19.2,1.577a8.108,8.108,0,0,0-2.67-.511C15.362,1.013,14.987,1,12,1Z\"></path><path d=\"M12,6.351A5.649,5.649,0,1,0,17.649,12,5.649,5.649,0,0,0,12,6.351Zm0,9.316A3.667,3.667,0,1,1,15.667,12,3.667,3.667,0,0,1,12,15.667Z\"></path><circle cx=\"17.872\" cy=\"6.128\" r=\"1.32\"></circle></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.linkedin.com/company/14815912",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#0076B6\" d=\"M23,0H1C0.4,0,0,0.4,0,1v22c0,0.6,0.4,1,1,1h22c0.6,0,1-0.4,1-1V1C24,0.4,23.6,0,23,0z M7.1,20.5H3.6V9h3.6 V20.5z M5.3,7.4c-1.1,0-2.1-0.9-2.1-2.1c0-1.1,0.9-2.1,2.1-2.1c1.1,0,2.1,0.9,2.1,2.1C7.4,6.5,6.5,7.4,5.3,7.4z M20.5,20.5h-3.6 v-5.6c0-1.3,0-3-1.8-3c-1.9,0-2.1,1.4-2.1,2.9v5.7H9.4V9h3.4v1.6h0c0.5-0.9,1.6-1.8,3.4-1.8c3.6,0,4.3,2.4,4.3,5.5V20.5z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          }
+         ],
+         "dir": "row",
+         "gapItems": 16,
+         "html": "<a href=\"https://www.facebook.com/reinkoberholding\" target=\"_blank\"></a><a href=\"https://www.instagram.com/reinkober.holding/\" target=\"_blank\"></a><a href=\"https://www.linkedin.com/company/14815912\" target=\"_blank\"></a>",
+         "iconSize": 18,
+         "iconColor": "#151f25"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4353,
+      "w": 1250,
+      "h": 464
+     },
+     "boxM": {
+      "x": 24,
+      "y": 7170,
+      "w": 342,
+      "h": 1574
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 4292,
+    "w": 1440,
+    "h": 605
+   },
+   "boxM": {
+    "x": 0,
+    "y": 7140,
+    "w": 390,
+    "h": 1644
+   }
+  },
+  {
+   "id": "blyWgD8ZXhPxyuihU0kZ7",
+   "title": "Fußzeile 2 Global",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    31,
+    14
+   ],
+   "padM": [
+    15,
+    7
+   ],
+   "padT": [
+    31,
+    14
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "1bh4QeuVKY-zDxWmln5ed",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 791,
+       "hpx": 189,
+       "x": 324,
+       "y": 4927,
+       "mbox": {
+        "x": 332,
+        "y": 4927,
+        "w": 775,
+        "h": 189
+       },
+       "wpxM": 342,
+       "yM": 8798,
+       "hpxM": 322,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "v7iNTO2MhW42TqubGqim2",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/7050135a-9ff5-4110-8263-9dde1c6b5b58",
+         "alt": "Logo reinkober.com",
+         "wpx": 200,
+         "hpx": 28,
+         "wpxM": 200,
+         "hpxM": 28,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "plain-text",
+         "id": "BRT3ZEtLnltJmLF4KQcKh",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "5VaH0FmvL7oIpSFSMoh-s",
+         "gap": 15,
+         "halign": "center",
+         "style": "color",
+         "dir": "vertical",
+         "size": "s",
+         "space": "10px",
+         "items": [
+          {
+           "text": "Impressum",
+           "href": "/impressum",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "AGB",
+           "href": "/agb",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "Datenschutz",
+           "href": "/datenschutz",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          }
+         ]
+        },
+        {
+         "type": "plain-text",
+         "id": "RftLzF3IazEYpOgtCYlWO",
+         "gap": 30,
+         "halign": "center",
+         "html": "<p>© 2019 - 2026 reinkober.com - Alle Rechte vorbehalten.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 12,
+          "lh": 18,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4927,
+      "w": 1250,
+      "h": 189
+     },
+     "boxM": {
+      "x": 24,
+      "y": 8798,
+      "w": 342,
+      "h": 322
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 4896,
+    "w": 1440,
+    "h": 234
+   },
+   "boxM": {
+    "x": 0,
+    "y": 8783,
+    "w": 390,
+    "h": 344
+   }
+  }
+ ],
+ "forms": []
+}

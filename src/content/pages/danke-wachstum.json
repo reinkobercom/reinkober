@@ -1,0 +1,247 @@
+{
+ "slug": "/danke-wachstum",
+ "title": "Danke Wachstum",
+ "seoTitle": "Danke Wachstum",
+ "seoDescription": "",
+ "seoImage": null,
+ "noindexLive": true,
+ "sections": [
+  {
+   "id": "DCV7FhpmYWc_cZpDUZIUQ",
+   "title": "Absatztext",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    161,
+    160
+   ],
+   "padM": [
+    80,
+    80
+   ],
+   "padT": [
+    161,
+    160
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "Pu7EV7QCyw-SdO-o_8jQq",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 633,
+       "hpx": 835,
+       "x": 404,
+       "y": 160,
+       "mbox": {
+        "x": 412,
+        "y": 160,
+        "w": 617,
+        "h": 835
+       },
+       "wpxM": 342,
+       "yM": 79,
+       "hpxM": 847,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "icon",
+         "id": "lbaZFWd8UCVCxt_bMGDg0",
+         "gap": 20,
+         "halign": "center",
+         "svg": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"none\"><path d=\"M42,25c0,14-18,20-18,20S6,39,6,25V6L24,2,42,6Z\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></path><polyline points=\"16 23 22 29 34 15\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></polyline></svg>",
+         "size": 45,
+         "color": "#ffffff",
+         "frame": {
+          "text": "#ffffff"
+         },
+         "boxSize": 96,
+         "iconBox": {
+          "w": 96,
+          "svg": 45,
+          "color": "#ffffff",
+          "bg": "#76b2cc",
+          "radius": "100px"
+         }
+        },
+        {
+         "type": "header",
+         "id": "BMID6eY73NYvborFs2YDW",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Anfrage erfolgreich! Danke für dein Vertrauen bis hierher!</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "9CoZqLZSDtAMpVHoBVd1f",
+         "gap": 30,
+         "halign": "center",
+         "html": "<p>Ich melde mich zeitnah bei dir, um einen Termin für dein Wachstums-Meeting zu vereinbaren. </p><p>Bis dahin: Bleib fokussiert &amp; lass dein Business wachsen! 🚀</p>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 30,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "sp": {
+          "p": 16,
+          "l": 0,
+          "li": 0
+         }
+        },
+        {
+         "type": "image",
+         "id": "3382792b-d0e0-41c8-9ac0-1eb726c64c03",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/23b28044-d088-45e9-ab14-6ba9b9ea413a",
+         "wpx": 617,
+         "hpx": 389,
+         "wpxM": 342,
+         "hpxM": 215,
+         "frame": {
+          "radius": "8px",
+          "shadow": "rgba(17, 17, 26, 0.05) 0px 4px 32px 0px, rgba(17, 17, 26, 0.05) 0px 8px 48px 0px"
+         },
+         "pos": "50% 41%",
+         "fit": "fill"
+        },
+        {
+         "type": "link-group",
+         "id": "XTFDkCtaMcJws-AIyciuA",
+         "gap": 20,
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Mehr über reinkober.com erfahren",
+           "href": "https://www.reinkober.com",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 61,
+           "w": 344,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 25.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 72.78,
+           "w": 342,
+           "fs": 17,
+           "pad": [
+            8,
+            31
+           ]
+          }
+         ],
+         "mode": "vertical"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 160,
+      "w": 1250,
+      "h": 835
+     },
+     "boxM": {
+      "x": 24,
+      "y": 79,
+      "w": 342,
+      "h": 847
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 1156
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 1007
+   }
+  }
+ ],
+ "forms": []
+}

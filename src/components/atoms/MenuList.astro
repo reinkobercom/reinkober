@@ -1,0 +1,51 @@
+---
+// Liste mit Icons (Checklisten, Footer-Links, Linktree, Megamenü-Einträge).
+import { Image } from 'astro:assets';
+import { getImage } from '../../data/images';
+import { css, fontVars } from '../../lib/style';
+import { fixHref } from '../../lib/html';
+
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const items: any[] = a.items || [];
+const horizontal = a.dir === 'horizontal';
+const space = a.space ? parseFloat(a.space) : undefined;
+---
+<ul class:list={['mlist', horizontal && 'mlist--h', `mlist--${a.style || 'plain'}`]} style={css({ '--msp': horizontal ? space : 0, '--mja': a.halign === 'center' ? 'center' : undefined })}>
+  {items.map((it) => {
+    const href = fixHref(it.href);
+    const ib = it.iconBox || {};
+    const img = it.img ? getImage(it.img) : undefined;
+    const pad = it.frame?.pad;
+    const st = css({
+      '--mip': pad,
+      '--iw': ib.w || undefined, '--is': ib.svg || undefined, '--ibg': ib.bg, '--ir': ib.radius, '--ibd': ib.border,
+      '--ic': ib.color || it.iconColor,
+    });
+    const ext = href && /^https?:/.test(href);
+    const inner = (
+      <>
+        {(it.icon || img) && (
+          <span class="mlist__icon" aria-hidden="true">
+            {img ? <Image src={img.src} alt="" widths={[96, 192]} sizes={`${ib.w || 48}px`} loading="lazy" /> : <Fragment set:html={it.icon} />}
+          </span>
+        )}
+        {(it.text || it.sub) && (
+          <span class="mlist__text">
+            {it.text && <span class="mlist__title t" style={css(fontVars(it.font, a.itemFontM))}>{it.text}</span>}
+            {it.sub && <span class="mlist__sub t" style={css(fontVars(it.subFont))}>{it.sub}</span>}
+          </span>
+        )}
+      </>
+    );
+    return (
+      <li>
+        {href ? (
+          <a class="mlist__item" style={st || undefined} href={href} target={it.target} rel={ext && it.target === '_blank' ? 'noopener' : undefined}>{inner}</a>
+        ) : (
+          <span class="mlist__item" style={st || undefined}>{inner}</span>
+        )}
+      </li>
+    );
+  })}
+</ul>

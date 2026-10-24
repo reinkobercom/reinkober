@@ -1,0 +1,5394 @@
+{
+ "slug": "/mitarbeitergewinnung-steuerberater",
+ "title": "Mitarbeitergewinnung Steuerberater",
+ "seoTitle": "Mitarbeitergewinnung für Steuerberater",
+ "seoDescription": "Mitarbeitergewinnung für Steuerberater: Reinkober bietet transparente Lösungen für Ihr Wachstum. Vertrauen Sie auf unsere Expertise & erzielen Sie Ergebnisse!",
+ "seoImage": null,
+ "noindexLive": false,
+ "sections": [
+  {
+   "id": "b2670ad0-d3f6-46cf-a6d2-a18cb2ffd43d",
+   "title": "Menü Global final",
+   "only": "both",
+   "isHeader": true,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    0,
+    0
+   ],
+   "padM": [
+    0,
+    0
+   ],
+   "padT": [
+    0,
+    0
+   ],
+   "side": 24,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "pad": "24px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "headerAtoms": [
+    {
+     "type": "logo",
+     "id": "OAmKJt4DslJ6vqeBUB4Ba",
+     "gap": 0,
+     "w": "16.347153846153844%",
+     "halign": "left",
+     "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+     "alt": "Logo reinkober.com",
+     "wpx": 204,
+     "hpx": 28,
+     "wpxM": 250,
+     "hpxM": 35,
+     "href": "/",
+     "pos": "50% 50%",
+     "fit": "cover"
+    },
+    {
+     "type": "menu-v2",
+     "id": "def7dccb-e2d9-4993-bc1f-6bfca410b8db",
+     "gap": 0,
+     "w": "62.17811758814103%",
+     "halign": "center",
+     "style": "underline",
+     "dir": "horizontal",
+     "size": "l",
+     "space": "24px",
+     "items": [
+      {
+       "text": "Startseite",
+       "href": "/",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Über uns",
+       "href": "/ueber-uns",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Ziele & Branchen",
+       "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
+       "iconColor": "#151f25",
+       "iconBox": {
+        "w": 25,
+        "svg": 18,
+        "color": "#151f25"
+       },
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "text": "Erfolge unserer Partner",
+       "href": "/erfolge-unserer-partner",
+       "font": {
+        "fs": 16.8,
+        "lh": 25.2,
+        "fw": 500,
+        "color": "#151f25",
+        "align": "center"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      },
+      {
+       "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><path d=\"M15,7H1C0.4,7,0,7.4,0,8s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,7,15,7z\"></path> <path d=\"M15,1H1C0.4,1,0,1.4,0,2s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,1,15,1z\"></path> <path d=\"M15,13H1c-0.6,0-1,0.4-1,1s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,13,15,13z\"></path></svg>",
+       "iconColor": "#151f25",
+       "iconBox": {
+        "w": 25,
+        "svg": 18,
+        "color": "#151f25",
+        "radius": "100px"
+       },
+       "frame": {
+        "pad": "12px 12px 12px 12px"
+       },
+       "h": 49
+      }
+     ]
+    },
+    {
+     "type": "link-group",
+     "id": "jV1tSXxyolXOFjT9C07mj",
+     "gap": 0,
+     "w": "18.27%",
+     "minW": "228.375px",
+     "halign": "center",
+     "buttons": [
+      {
+       "text": "Potenzial-Analyse sichern",
+       "sub": "Kostenfrei & unverbindlich",
+       "href": "/potenzial-analyse",
+       "kind": "solid",
+       "effect": "volume",
+       "radius": "4px",
+       "h": 50.75,
+       "w": 228,
+       "bg": "#76b2cc",
+       "color": "#ffffff",
+       "pad": [
+        6,
+        24
+       ],
+       "font": {
+        "fs": 14,
+        "lh": 18.2,
+        "fw": 700,
+        "color": "#ffffff",
+        "align": "center"
+       },
+       "subFont": {
+        "fs": 11.2,
+        "lh": 14.56,
+        "fw": 400,
+        "color": "#ffffff",
+        "align": "center",
+        "ls": 0.5
+       }
+      }
+     ],
+     "mode": "horizontal"
+    }
+   ],
+   "rows": [
+    {
+     "id": "IAxWmsRhSPu5raUVccs5-",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "header-v2",
+       "frame": {
+        "text": "#151f25"
+       },
+       "wpx": 1298,
+       "hpx": 99,
+       "x": 71,
+       "y": -1,
+       "mbox": {
+        "x": 95,
+        "y": -1,
+        "w": 1250,
+        "h": 99
+       },
+       "wpxM": 342,
+       "yM": -1,
+       "hpxM": 104,
+       "frameM": {
+        "text": "#151f25"
+       },
+       "wpxT": 798,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "OAmKJt4DslJ6vqeBUB4Ba",
+         "gap": 0,
+         "w": "16.347153846153844%",
+         "halign": "left",
+         "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+         "alt": "Logo reinkober.com",
+         "wpx": 204,
+         "hpx": 28,
+         "wpxM": 250,
+         "hpxM": 35,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "menu-v2",
+         "id": "def7dccb-e2d9-4993-bc1f-6bfca410b8db",
+         "gap": 0,
+         "w": "62.17811758814103%",
+         "halign": "center",
+         "style": "underline",
+         "dir": "horizontal",
+         "size": "l",
+         "space": "24px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Über uns",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Ziele & Branchen",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 25,
+            "svg": 18,
+            "color": "#151f25"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 500,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          },
+          {
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><path d=\"M15,7H1C0.4,7,0,7.4,0,8s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,7,15,7z\"></path> <path d=\"M15,1H1C0.4,1,0,1.4,0,2s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,1,15,1z\"></path> <path d=\"M15,13H1c-0.6,0-1,0.4-1,1s0.4,1,1,1h14c0.6,0,1-0.4,1-1S15.6,13,15,13z\"></path></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 25,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          }
+         ]
+        },
+        {
+         "type": "link-group",
+         "id": "jV1tSXxyolXOFjT9C07mj",
+         "gap": 0,
+         "w": "18.27%",
+         "minW": "228.375px",
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Potenzial-Analyse sichern",
+           "sub": "Kostenfrei & unverbindlich",
+           "href": "/potenzial-analyse",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 50.75,
+           "w": 228,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            6,
+            24
+           ],
+           "font": {
+            "fs": 14,
+            "lh": 18.2,
+            "fw": 700,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 11.2,
+            "lh": 14.56,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           }
+          }
+         ],
+         "mode": "horizontal"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": -1,
+      "w": 1250,
+      "h": 99
+     },
+     "boxM": {
+      "x": 24,
+      "y": -1,
+      "w": 342,
+      "h": 104
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 99
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 104
+   }
+  },
+  {
+   "id": "XVPvnwBBUcCqDlcMR3t1P",
+   "title": "Hero",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    100
+   ],
+   "padM": [
+    50,
+    50
+   ],
+   "padT": [
+    101,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "gagtjDgaSBE8Xn4TBTQKM",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "22",
+       "md": "22",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1175,
+       "hpx": 232,
+       "x": 132,
+       "y": 198,
+       "mbox": {
+        "x": 148,
+        "y": 198,
+        "w": 1143,
+        "h": 232
+       },
+       "wpxM": 342,
+       "yM": 152,
+       "hpxM": 528,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 782,
+       "atoms": [
+        {
+         "type": "label-text",
+         "id": "MX8V7Zg5hpSt6cdtdht_n",
+         "gap": 15,
+         "halign": "center",
+         "html": "<p>Qualifizierte Bewerbungen für Ihre Kanzlei – planbar und schnell</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 20,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center",
+          "ls": 0.5,
+          "tt": "uppercase"
+         },
+         "frame": {
+          "bg": "#76b2cc",
+          "radius": "4px",
+          "pad": "4px 12px 4px 12px",
+          "text": "#ffffff"
+         }
+        },
+        {
+         "type": "header",
+         "id": "pzIwtVtDfv3LV1NprPWKj",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Wir finden <mark data-hl=\"brush-underline\">Mitarbeiter für Steuerkanzleien.</mark></p>",
+         "tag": "h1",
+         "font": {
+          "fs": 48,
+          "lh": 61.4,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "fontM": {
+          "fs": 28.98,
+          "lh": 37.07
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "00p_BDjCdE6w0Hu3zYT1s",
+         "gap": 0,
+         "halign": "center",
+         "html": "<p>Der Fachkräftemangel in Steuerkanzleien ist längst Realität. Viele Kanzleien suchen monatelang nach qualifizierten Mitarbeitern – oft ohne Erfolg. Wir haben uns mit einem Teilbereich genau darauf spezialisiert: Mitarbeitergewinnung für Steuerberater. Mit unserem System sorgen wir dafür, dass Ihre Kanzlei kontinuierlich qualifizierte Bewerbungen erhält, ohne dass Sie selbst Zeit in Stellenportale oder komplizierte Recruitingprozesse investieren müssen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 198,
+      "w": 1250,
+      "h": 232
+     },
+     "boxM": {
+      "x": 24,
+      "y": 152,
+      "w": 342,
+      "h": 528
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 97,
+    "w": 1440,
+    "h": 433
+   },
+   "boxM": {
+    "x": 0,
+    "y": 102,
+    "w": 390,
+    "h": 628
+   }
+  },
+  {
+   "id": "a6f91bd2-c45e-47a9-a353-9bc4f7e6f2e0",
+   "title": "Vorteile",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    100
+   ],
+   "padM": [
+    50,
+    50
+   ],
+   "padT": [
+    101,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "left"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "left"
+    }
+   },
+   "rows": [
+    {
+     "id": "774a9f4b-ac47-4668-a744-9199066d276f",
+     "grid": "bento",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "left",
+     "valign": "top",
+     "gap": [
+      16,
+      16
+     ],
+     "gtc": "300.5px 300.5px 300.5px 300.5px",
+     "mb": 0,
+     "cols": [
+      {
+       "bento": [
+        "2",
+        "2"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "radius": "16px",
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1250,
+       "hpx": 726,
+       "x": 95,
+       "y": 630,
+       "mbox": {
+        "x": 95,
+        "y": 630,
+        "w": 617,
+        "h": 726
+       },
+       "wpxM": 342,
+       "yM": 779,
+       "hpxM": 2003,
+       "frameM": {
+        "radius": "16px",
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 750,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "5fc26f15-cfcf-482a-8d4b-9806e59d3dc5",
+         "gap": 20,
+         "w": "88.130081300813%",
+         "halign": "left",
+         "html": "<p>Über 100 Recruiting-Kampagnen – <mark data-hl=\"brush-underline\">98% aller Stellen besetzt.</mark></p>",
+         "tag": "h2",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "c929d04d-f946-4942-9378-608564f966e0",
+         "gap": 25,
+         "w": "91.411%",
+         "halign": "left",
+         "html": "<p><strong>Viele Steuerkanzleien suchen monatelang nach Mitarbeitern – oft ohne Erfolg.</strong> Der Grund: Klassische Stellenanzeigen erreichen heute nur einen kleinen Teil der Fachkräfte.<br><br>Unser Recruiting-System sorgt dafür, dass Ihre Kanzlei gezielt qualifizierte Bewerbungen erhält – <strong>schnell und planbar.</strong></p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "bfa3058b-8fc9-4311-b76b-575df761f1aa",
+         "gap": 40,
+         "halign": "left",
+         "style": "color",
+         "dir": "vertical",
+         "size": "l",
+         "space": "24px",
+         "items": [
+          {
+           "text": "Erreichen bis zu 60–80% wechselbereite Fachkräfte statt nur aktiv Suchende.",
+           "icon": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"none\"><path d=\"M43.707 9.87797C43.316 9.48697 42.683 9.48697 42.293 9.87797L17 35.171L5.707 23.878C5.316 23.487 4.683 23.487 4.293 23.878L2.879 25.292C2.488 25.683 2.488 26.316 2.879 26.706L16.293 40.12C16.684 40.511 17.317 40.511 17.707 40.12L45.122 12.707C45.513 12.316 45.513 11.683 45.122 11.293L43.708 9.87897L43.707 9.87797Z\" fill=\"url(#nc-ui-6-0_linear_215_63)\"></path> <defs> <linearGradient id=\"nc-ui-6-0_linear_215_63\" x1=\"24.0005\" y1=\"9.58472\" x2=\"24.0005\" y2=\"40.4132\" gradientUnits=\"userSpaceOnUse\"> <stop stop-color=\"#6AD084\"></stop> <stop offset=\"1\" stop-color=\"#3CB34B\"></stop> </linearGradient> </defs></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 24,
+            "svg": 17,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 74
+          },
+          {
+           "text": "Kampagne in wenigen Tagen live, erste passende Bewerbungen oft nach 2–3 Wochen.",
+           "icon": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"none\"><path d=\"M43.707 9.87797C43.316 9.48697 42.683 9.48697 42.293 9.87797L17 35.171L5.707 23.878C5.316 23.487 4.683 23.487 4.293 23.878L2.879 25.292C2.488 25.683 2.488 26.316 2.879 26.706L16.293 40.12C16.684 40.511 17.317 40.511 17.707 40.12L45.122 12.707C45.513 12.316 45.513 11.683 45.122 11.293L43.708 9.87897L43.707 9.87797Z\" fill=\"url(#nc-ui-6-0_linear_215_63)\"></path> <defs> <linearGradient id=\"nc-ui-6-0_linear_215_63\" x1=\"24.0005\" y1=\"9.58472\" x2=\"24.0005\" y2=\"40.4132\" gradientUnits=\"userSpaceOnUse\"> <stop stop-color=\"#6AD084\"></stop> <stop offset=\"1\" stop-color=\"#3CB34B\"></stop> </linearGradient> </defs></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 24,
+            "svg": 17,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 74
+          },
+          {
+           "text": "Wir übernehmen Kampagne, Ansprache und Vorqualifizierung.",
+           "icon": "<svg viewBox=\"0 0 48 48\" preserveAspectRatio=\"none\"><path d=\"M43.707 9.87797C43.316 9.48697 42.683 9.48697 42.293 9.87797L17 35.171L5.707 23.878C5.316 23.487 4.683 23.487 4.293 23.878L2.879 25.292C2.488 25.683 2.488 26.316 2.879 26.706L16.293 40.12C16.684 40.511 17.317 40.511 17.707 40.12L45.122 12.707C45.513 12.316 45.513 11.683 45.122 11.293L43.708 9.87897L43.707 9.87797Z\" fill=\"url(#nc-ui-6-0_linear_215_63)\"></path> <defs> <linearGradient id=\"nc-ui-6-0_linear_215_63\" x1=\"24.0005\" y1=\"9.58472\" x2=\"24.0005\" y2=\"40.4132\" gradientUnits=\"userSpaceOnUse\"> <stop stop-color=\"#6AD084\"></stop> <stop offset=\"1\" stop-color=\"#3CB34B\"></stop> </linearGradient> </defs></svg>",
+           "iconColor": "#151f25",
+           "iconBox": {
+            "w": 24,
+            "svg": 17,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 25.2,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "12px 12px 12px 12px"
+           },
+           "h": 49
+          }
+         ]
+        },
+        {
+         "type": "link-group",
+         "id": "5eb3c504-42c5-4a08-8d51-2d8d43e30b20",
+         "gap": 20,
+         "minW": "204.9296875px",
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Kontakt aufnehmen",
+           "href": "/kontakt",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "8px",
+           "h": 56,
+           "w": 198,
+           "bg": "#151f25",
+           "color": "#ffffff",
+           "pad": [
+            7,
+            28
+           ],
+           "font": {
+            "fs": 15,
+            "lh": 22.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 56,
+           "w": 198,
+           "fs": 15,
+           "pad": [
+            7,
+            28
+           ]
+          }
+         ],
+         "mode": "vertical"
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#76b2cc",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#ffffff",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1250,
+       "hpx": 726,
+       "x": 95,
+       "y": 630,
+       "mbox": {
+        "x": 728,
+        "y": 630,
+        "w": 301,
+        "h": 367
+       },
+       "wpxM": 342,
+       "yM": 779,
+       "hpxM": 2003,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#76b2cc",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#ffffff",
+        "valign": "top"
+       },
+       "wpxT": 750,
+       "atoms": [
+        {
+         "type": "icon",
+         "id": "47aa56da-47c4-4d7a-83ee-b8ecc4d07715",
+         "gap": 30,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 18 18\" preserveAspectRatio=\"none\"><path d=\"M16.6636 7.58599L13.2419 4.164C12.4609 3.383 11.1945 3.383 10.4135 4.164L6.99177 7.58599C6.21067 8.36699 6.21067 9.633 6.99177 10.415L10.4135 13.836C11.1945 14.617 12.4609 14.617 13.2419 13.836L16.6636 10.415C17.4446 9.633 17.4446 8.36699 16.6636 7.58599Z\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"></path> <path d=\"M0.75 9H3.5\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"></path> <path d=\"M3 5.75H4.75\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"></path> <path d=\"M3 12.25H4.75\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"></path></svg>",
+         "size": 26,
+         "color": "#ffffff",
+         "frame": {
+          "text": "#ffffff"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 26,
+          "color": "#ffffff",
+          "bg": "#428fb0",
+          "radius": "11px"
+         }
+        },
+        {
+         "type": "header",
+         "id": "90de1811-a170-43ea-a3e4-29890372f9e9",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p>Schnelle Umsetzung</p>",
+         "tag": "h3",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "008b15dd-2284-4c6e-a12d-4e00748306c4",
+         "gap": 0,
+         "halign": "left",
+         "html": "<p>Vom ersten Gespräch bis zum Start der Kampagne vergehen meist <strong>nur wenige Tage</strong>. So können wir <strong>schnell gute Bewerbungen</strong> für Ihre offene Stelle generieren.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#76b2cc",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#ffffff",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1250,
+       "hpx": 726,
+       "x": 95,
+       "y": 630,
+       "mbox": {
+        "x": 1045,
+        "y": 630,
+        "w": 301,
+        "h": 367
+       },
+       "wpxM": 342,
+       "yM": 779,
+       "hpxM": 2003,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#76b2cc",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#ffffff",
+        "valign": "top"
+       },
+       "wpxT": 750,
+       "atoms": [
+        {
+         "type": "icon",
+         "id": "359a79cb-cbe8-42ac-ac7d-68e7f90e338b",
+         "gap": 30,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><rect x=\"10\" y=\"14\" fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" width=\"4\" height=\"9\" stroke-linejoin=\"miter\"></rect> <rect x=\"1\" y=\"18\" fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" width=\"4\" height=\"5\" stroke-linejoin=\"miter\"></rect> <rect x=\"19\" y=\"10\" fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" width=\"4\" height=\"13\" stroke-linejoin=\"miter\"></rect> <polyline fill=\"none\" stroke-width=\"2\" stroke-miterlimit=\"10\" points=\"3,10 8,5 12,9 20,1 \" stroke-linejoin=\"miter\" stroke-linecap=\"butt\"></polyline> <polyline fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" points=\" 15,1 20,1 20,6 \" stroke-linejoin=\"miter\"></polyline></svg>",
+         "size": 26,
+         "color": "#ffffff",
+         "frame": {
+          "text": "#ffffff"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 26,
+          "color": "#ffffff",
+          "bg": "#428fb0",
+          "radius": "11px"
+         }
+        },
+        {
+         "type": "header",
+         "id": "4b34e093-1eae-4144-bfd5-d2f5df7c46cd",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p>Planbare Bewerbungen</p>",
+         "tag": "h3",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "0c191b98-13c5-4c1f-9cb8-150ac70ee99f",
+         "gap": 0,
+         "halign": "left",
+         "html": "<p>Unsere Kampagnen sind darauf ausgelegt, <strong>gezielt qualifizierte Bewerber zu erreichen</strong> – nicht nur Reichweite zu erzeugen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#76b2cc",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#ffffff",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1250,
+       "hpx": 726,
+       "x": 95,
+       "y": 630,
+       "mbox": {
+        "x": 728,
+        "y": 1013,
+        "w": 301,
+        "h": 343
+       },
+       "wpxM": 342,
+       "yM": 779,
+       "hpxM": 2003,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#76b2cc",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#ffffff",
+        "valign": "top"
+       },
+       "wpxT": 750,
+       "atoms": [
+        {
+         "type": "icon",
+         "id": "ecb5a142-47fe-4e68-b876-3b9c5d281669",
+         "gap": 30,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><circle cx=\"4.5\" cy=\"4.5\" r=\"2.5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"></circle> <circle cx=\"19.5\" cy=\"4.5\" r=\"2.5\" fill=\"none\" stroke-miterlimit=\"10\" stroke-width=\"2\"></circle> <path d=\"M10,13.838C7.788,13.088,6.883,10,4,10H4a3,3,0,0,0-3,3v9H7V16\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></path> <path d=\"M14,13.838C16.212,13.088,17.117,10,20,10h0a3,3,0,0,1,3,3v9H17V16\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></path></svg>",
+         "size": 26,
+         "color": "#ffffff",
+         "frame": {
+          "text": "#ffffff"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 26,
+          "color": "#ffffff",
+          "bg": "#428fb0",
+          "radius": "11px"
+         }
+        },
+        {
+         "type": "header",
+         "id": "279e019b-b324-4b98-8def-299f0ec94108",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p>Persönliche Umsetzung</p>",
+         "tag": "h3",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "36269c8a-281f-4039-88be-ddb0d139b112",
+         "gap": 0,
+         "halign": "left",
+         "html": "<p>Wenn nötig kommen wir auch direkt zu Ihnen in die Kanzlei und <strong>erstellen Fotos, Videos oder Mitarbeiterinterviews</strong> für authentisches Recruiting.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#76b2cc",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#ffffff",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1250,
+       "hpx": 726,
+       "x": 95,
+       "y": 630,
+       "mbox": {
+        "x": 1045,
+        "y": 1013,
+        "w": 301,
+        "h": 343
+       },
+       "wpxM": 342,
+       "yM": 779,
+       "hpxM": 2003,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#76b2cc",
+        "radius": "16px",
+        "pad": "32px",
+        "text": "#ffffff",
+        "valign": "top"
+       },
+       "wpxT": 750,
+       "atoms": [
+        {
+         "type": "icon",
+         "id": "a0d2805e-a781-4484-a69d-6a10b078757d",
+         "gap": 30,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M21,12c0,7-9,10-9,10S3,19,3,12V3l9-2,9,2Z\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></path><polyline points=\"8 11 11 14 17 7\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></polyline></svg>",
+         "size": 26,
+         "color": "#ffffff",
+         "frame": {
+          "text": "#ffffff"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 26,
+          "color": "#ffffff",
+          "bg": "#428fb0",
+          "radius": "11px"
+         }
+        },
+        {
+         "type": "header",
+         "id": "c4cd09f0-966e-4420-8d4d-51154aa8da6e",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p>Erfolgsorientiert</p>",
+         "tag": "h3",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "e6701963-2f2e-4c9d-a1f3-6fea81fb518a",
+         "gap": 0,
+         "halign": "left",
+         "html": "<p>Unsere <strong>Erfolgsquote</strong> spricht für sich: Von über 100 Kampagnen konnten wir bisher bis auf zwei Ausnahmen<strong> jede Stelle besetzen.</strong></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 630,
+      "w": 1250,
+      "h": 726
+     },
+     "boxM": {
+      "x": 24,
+      "y": 779,
+      "w": 342,
+      "h": 2003
+     },
+     "gapM": [
+      16,
+      16
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 529,
+    "w": 1440,
+    "h": 927
+   },
+   "boxM": {
+    "x": 0,
+    "y": 729,
+    "w": 390,
+    "h": 2103
+   }
+  },
+  {
+   "id": "3837a38a-b7b9-4c2b-8e5d-873ab57a4ac9",
+   "title": "Inhalt",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    99
+   ],
+   "padM": [
+    50,
+    49.5
+   ],
+   "padT": [
+    101,
+    99
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "7befc2c8-2546-4f51-9aaa-0b2058489b37",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "left",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "7",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 381,
+       "hpx": 350,
+       "x": 67,
+       "y": 1556,
+       "mbox": {
+        "x": 95,
+        "y": 1556,
+        "w": 325,
+        "h": 350
+       },
+       "wpxM": 342,
+       "yM": 2881,
+       "hpxM": 229,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "image",
+         "id": "653c9b8b-5bb7-483e-bd6b-c7b8c578b121",
+         "gap": 0,
+         "halign": "center",
+         "src": "media/23b28044-d088-45e9-ab14-6ba9b9ea413a",
+         "alt": "Drei Personen sitzen an einem Tisch und unterhalten sich, eine Person gestikuliert mit den Händen.",
+         "wpx": 325,
+         "hpx": 350,
+         "wpxM": 342,
+         "hpxM": 205,
+         "frame": {
+          "radius": "16px",
+          "shadow": "rgba(17, 17, 26, 0.05) 0px 4px 32px 0px, rgba(17, 17, 26, 0.05) 0px 8px 48px 0px"
+         },
+         "pos": "50% 50%",
+         "fit": "fill"
+        }
+       ]
+      },
+      {
+       "lg": "17",
+       "md": "17",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 925,
+       "hpx": 350,
+       "x": 448,
+       "y": 1556,
+       "mbox": {
+        "x": 476,
+        "y": 1556,
+        "w": 869,
+        "h": 350
+       },
+       "wpxM": 342,
+       "yM": 3110,
+       "hpxM": 673,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "292f3384-bdde-4f56-ba68-b68939cc6296",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p><mark data-hl=\"brush-underline\">Warum</mark> Sie von unserer Strategie profitieren.<br></p>",
+         "tag": "h3",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "2e45b2f8-fcdd-45cd-a571-8dc1a4695840",
+         "gap": 0,
+         "halign": "left",
+         "html": "<p><strong>Die meisten qualifizierten Fachkräfte sind heute nicht aktiv auf Jobsuche.</strong> Sie schauen weder regelmäßig in Stellenportale noch in Zeitungen. Genau deshalb bleiben viele klassische Stellenanzeigen ohne passende Bewerbungen.<br><br>Social Recruiting funktioniert anders. <strong>Wir erreichen potenzielle Bewerber direkt in ihrem Alltag</strong> – zum Beispiel auf Social Media. Dort sehen sie Ihre Kanzlei, erhalten einen echten Eindruck vom Team und können sich mit wenigen Klicks bewerben.<br><br><strong>Der große Vorteil:</strong> Sie erreichen nicht nur aktiv Suchende, sondern auch die vielen Fachkräfte, die grundsätzlich offen für einen Wechsel wären, aber selbst nicht aktiv nach Stellen suchen.<br><br>Genau diese Zielgruppe sorgt dafür, dass unsere Kampagnen so erfolgreich sind.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 1556,
+      "w": 1250,
+      "h": 350
+     },
+     "boxM": {
+      "x": 24,
+      "y": 2881,
+      "w": 342,
+      "h": 902
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1455,
+    "w": 1440,
+    "h": 550
+   },
+   "boxM": {
+    "x": 0,
+    "y": 2831,
+    "w": 390,
+    "h": 1001
+   }
+  },
+  {
+   "id": "f7a353d2-1af8-4a0d-91e5-87b62d807dd8",
+   "title": "Referenzen",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    100,
+    100
+   ],
+   "padM": [
+    49.5,
+    50
+   ],
+   "padT": [
+    100,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "bd3abcd7-370b-4eb5-ad9a-4d9eedb24903",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "left",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "10",
+       "md": "10",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 544,
+       "hpx": 378,
+       "x": 67,
+       "y": 2103,
+       "mbox": {
+        "x": 95,
+        "y": 2103,
+        "w": 488,
+        "h": 378
+       },
+       "wpxM": 342,
+       "yM": 3881,
+       "hpxM": 527,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "410944dd-9f0d-4f2a-9891-d429147dc386",
+         "gap": 0,
+         "halign": "left",
+         "src": "media/f1731d22-5fbf-40a6-83f5-d36b058431cb",
+         "alt": "Logo: \"steuer es\" in Dunkelblau und Schwarz, darunter \"Steuerberatungskanzlei\" in Schwarz.",
+         "wpx": 130,
+         "hpx": 94,
+         "wpxM": 130,
+         "hpxM": 94,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "header",
+         "id": "0ce63eb2-c3f2-4b3c-9074-ce4bc6abb7e7",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p>Ergebnisse für <mark data-hl=\"brush-underline\">Steuer es</mark> aus Dortmund.</p>",
+         "tag": "h3",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "36885943-afc5-492c-a280-1e1729bcd8fd",
+         "gap": 15,
+         "halign": "left",
+         "html": "<p>Ob Steuerfachangestellte oder speziellere Jobs wie \"Sachbearbeiter Digitale Kanzleiprozesse und Mandantenservice\" - wir durften für Steuer es viele Stellen bisher erfolgreich besetzen. </p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "1a4106b7-e908-491c-af11-16e94eff2a25",
+         "gap": 0,
+         "halign": "left",
+         "style": "dot",
+         "dir": "vertical",
+         "size": "l",
+         "space": "8px",
+         "items": [
+          {
+           "text": "Mitarbeiterfotos & -videos",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M8.5,20c-.398,0-.78-.158-1.061-.439L1.086,13.207c-.39-.391-.39-1.024,0-1.414l.707-.707c.391-.391,1.024-.391,1.414,0l5.293,5.293L20.793,4.086c.391-.391,1.024-.391,1.414,0l.707,.707c.391,.391,.391,1.024,0,1.414l-13.353,13.354c-.281,.281-.663,.439-1.061,.439Z\"></path></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "rgba(118,178,204,0.94)",
+            "radius": "8px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 32
+          },
+          {
+           "text": "120+ Bewerbungen",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M8.5,20c-.398,0-.78-.158-1.061-.439L1.086,13.207c-.39-.391-.39-1.024,0-1.414l.707-.707c.391-.391,1.024-.391,1.414,0l5.293,5.293L20.793,4.086c.391-.391,1.024-.391,1.414,0l.707,.707c.391,.391,.391,1.024,0,1.414l-13.353,13.354c-.281,.281-.663,.439-1.061,.439Z\"></path></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "rgba(118,178,204,0.94)",
+            "radius": "8px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 32
+          },
+          {
+           "text": "Einstellung teilweise nach 2 Wochen",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M8.5,20c-.398,0-.78-.158-1.061-.439L1.086,13.207c-.39-.391-.39-1.024,0-1.414l.707-.707c.391-.391,1.024-.391,1.414,0l5.293,5.293L20.793,4.086c.391-.391,1.024-.391,1.414,0l.707,.707c.391,.391,.391,1.024,0,1.414l-13.353,13.354c-.281,.281-.663,.439-1.061,.439Z\"></path></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "rgba(118,178,204,0.94)",
+            "radius": "8px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 32
+          },
+          {
+           "text": "Eigenes Karriereportal für fortlaufende Kampagnen",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M8.5,20c-.398,0-.78-.158-1.061-.439L1.086,13.207c-.39-.391-.39-1.024,0-1.414l.707-.707c.391-.391,1.024-.391,1.414,0l5.293,5.293L20.793,4.086c.391-.391,1.024-.391,1.414,0l.707,.707c.391,.391,.391,1.024,0,1.414l-13.353,13.354c-.281,.281-.663,.439-1.061,.439Z\"></path></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "rgba(118,178,204,0.94)",
+            "radius": "8px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 32
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "14",
+       "md": "14",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 762,
+       "hpx": 378,
+       "x": 611,
+       "y": 2103,
+       "mbox": {
+        "x": 639,
+        "y": 2103,
+        "w": 706,
+        "h": 378
+       },
+       "wpxM": 342,
+       "yM": 4408,
+       "hpxM": 191,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "custom-code",
+         "id": "b4727dca-ebd4-42e5-8d49-c2fca0094996",
+         "gap": 19,
+         "gapM": 18,
+         "halign": "left",
+         "raw": true,
+         "hpx": 373,
+         "source": {
+          "data": {
+           "html": "<div style=\"position:relative;padding-top:56.25%;\"><iframe src=\"https://player.mediadelivery.net/embed/748298/66f456dc-840c-460c-89a2-488bd9fa45bb?autoplay=false&loop=false&muted=false&preload=true&responsive=true\" loading=\"lazy\" style=\"border:0;position:absolute;top:0;height:100%;width:100%;\" allow=\"accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;\" allowfullscreen=\"true\"></iframe></div>"
+          },
+          "styles": {}
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 2103,
+      "w": 1250,
+      "h": 378
+     },
+     "boxM": {
+      "x": 24,
+      "y": 3881,
+      "w": 342,
+      "h": 718
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 2003,
+    "w": 1440,
+    "h": 578
+   },
+   "boxM": {
+    "x": 0,
+    "y": 3832,
+    "w": 390,
+    "h": 818
+   }
+  },
+  {
+   "id": "9610b3d9-23ba-49bc-88e9-45e18c0a8a55",
+   "title": "Referenzen",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    100
+   ],
+   "padM": [
+    50,
+    50
+   ],
+   "padT": [
+    101,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "0dee5286-580d-4aa7-bd4f-e652e4bce204",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "left",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 653,
+       "hpx": 366,
+       "x": 67,
+       "y": 2682,
+       "mbox": {
+        "x": 95,
+        "y": 2682,
+        "w": 597,
+        "h": 366
+       },
+       "wpxM": 342,
+       "yM": 4698,
+       "hpxM": 215,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "custom-code",
+         "id": "3e9ae3e4-ba96-45a9-b7b9-154934d67f48",
+         "gap": 19,
+         "gapM": 18,
+         "halign": "left",
+         "raw": true,
+         "hpx": 319,
+         "source": {
+          "data": {
+           "html": "<div style=\"position:relative;padding-top:56.25%;\"><iframe src=\"https://player.mediadelivery.net/embed/748298/c76789ed-faad-4bcb-b5f9-b63bfde62e74?autoplay=false&loop=false&muted=false&preload=true&responsive=true\" loading=\"lazy\" style=\"border:0;position:absolute;top:0;height:100%;width:100%;\" allow=\"accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;\" allowfullscreen=\"true\"></iframe></div>"
+          },
+          "styles": {}
+         }
+        }
+       ]
+      },
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 653,
+       "hpx": 366,
+       "x": 720,
+       "y": 2682,
+       "mbox": {
+        "x": 748,
+        "y": 2682,
+        "w": 597,
+        "h": 366
+       },
+       "wpxM": 342,
+       "yM": 4913,
+       "hpxM": 464,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "5faafbaf-fbc8-42d5-a087-d7de5b0e2e73",
+         "gap": 0,
+         "halign": "left",
+         "src": "media/a2fd2516-2e02-4eaa-9d52-15f795fe3a29",
+         "alt": "MVk Steuerberatung Logo mit einem kleinen, blauen Kreis rechts neben dem \"k\".",
+         "wpx": 163,
+         "hpx": 117,
+         "wpxM": 163,
+         "hpxM": 117,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "header",
+         "id": "c42120d6-f4af-4d70-9ea9-4013f9b77189",
+         "gap": 9,
+         "halign": "left",
+         "html": "<p>Ergebnisse für die <mark data-hl=\"brush-underline\">mvk Steuerberatung</mark> aus dem Großraum Ruhrgebiet.</p>",
+         "tag": "h3",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "6a405ba6-d1ca-44e8-9b68-27b9080168b2",
+         "gap": 15,
+         "halign": "left",
+         "html": "<p>Erfolgreiche Kampagnen für diverse Standorte von der mvk Steuerberatungs-Gruppe.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "3e65889a-f3dc-4ad0-a7eb-808964132825",
+         "gap": 20,
+         "halign": "left",
+         "style": "dot",
+         "dir": "vertical",
+         "size": "l",
+         "space": "8px",
+         "items": [
+          {
+           "text": "Kampagne binnen 3 Tagen live",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M8.5,20c-.398,0-.78-.158-1.061-.439L1.086,13.207c-.39-.391-.39-1.024,0-1.414l.707-.707c.391-.391,1.024-.391,1.414,0l5.293,5.293L20.793,4.086c.391-.391,1.024-.391,1.414,0l.707,.707c.391,.391,.391,1.024,0,1.414l-13.353,13.354c-.281,.281-.663,.439-1.061,.439Z\"></path></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "rgba(118,178,204,0.94)",
+            "radius": "8px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 32
+          },
+          {
+           "text": "12+ Bewerbungen in den ersten 15 Tagen",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M8.5,20c-.398,0-.78-.158-1.061-.439L1.086,13.207c-.39-.391-.39-1.024,0-1.414l.707-.707c.391-.391,1.024-.391,1.414,0l5.293,5.293L20.793,4.086c.391-.391,1.024-.391,1.414,0l.707,.707c.391,.391,.391,1.024,0,1.414l-13.353,13.354c-.281,.281-.663,.439-1.061,.439Z\"></path></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "rgba(118,178,204,0.94)",
+            "radius": "8px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 32
+          },
+          {
+           "text": "100% Zufriedenheit & weitere Stellen in Planung",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M8.5,20c-.398,0-.78-.158-1.061-.439L1.086,13.207c-.39-.391-.39-1.024,0-1.414l.707-.707c.391-.391,1.024-.391,1.414,0l5.293,5.293L20.793,4.086c.391-.391,1.024-.391,1.414,0l.707,.707c.391,.391,.391,1.024,0,1.414l-13.353,13.354c-.281,.281-.663,.439-1.061,.439Z\"></path></svg>",
+           "iconColor": "#ffffff",
+           "iconBox": {
+            "w": 24,
+            "svg": 11,
+            "color": "#ffffff",
+            "bg": "rgba(118,178,204,0.94)",
+            "radius": "8px"
+           },
+           "font": {
+            "fs": 16.8,
+            "lh": 21.84,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "4px 4px 4px 4px"
+           },
+           "h": 32
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 2682,
+      "w": 1250,
+      "h": 366
+     },
+     "boxM": {
+      "x": 24,
+      "y": 4698,
+      "w": 342,
+      "h": 679
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 2581,
+    "w": 1440,
+    "h": 567
+   },
+   "boxM": {
+    "x": 0,
+    "y": 4648,
+    "w": 390,
+    "h": 779
+   }
+  },
+  {
+   "id": "1681ec26-2ead-4ba1-8452-f877a1ecc537",
+   "title": "Team / Über uns (Mobil - global)",
+   "only": "mobile",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    50,
+    50
+   ],
+   "padM": [
+    50,
+    50
+   ],
+   "side": 24,
+   "container": {
+    "w": null,
+    "frame": {
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "PnDa2zCEsu8zU3oVVT6GU",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "left",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 342,
+       "hpx": 748,
+       "x": 24,
+       "y": 5476,
+       "mbox": {
+        "x": 24,
+        "y": 5476,
+        "w": 342,
+        "h": 724
+       },
+       "wpxM": 342,
+       "yM": 5476,
+       "hpxM": 748,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "atoms": [
+        {
+         "type": "label-text",
+         "id": "HVH2G3nB3goHaVCKfVpj0",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>das Team</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 20,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "left",
+          "ls": 0.5,
+          "tt": "uppercase"
+         },
+         "frame": {
+          "bg": "#76b2cc",
+          "radius": "4px",
+          "pad": "4px 12px 4px 12px",
+          "text": "#ffffff"
+         }
+        },
+        {
+         "type": "header",
+         "id": "jhM494gRI2KPkEmrSoutR",
+         "gap": 30,
+         "w": "90.93567251461988%",
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"brush-underline\">Ihre Experten.</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "3v_buJ_n4M_SrYG5XjWFY",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>Hinter reinkober.com steht ein <strong>eingespieltes</strong> <strong>Team aus Strategen, Online-Marketing-Experten und Kreativen</strong>, die ein gemeinsames Ziel verfolgen: <strong>das Wachstum unserer Kunden planbar zu machen.</strong> Jeder von uns bringt spezielles Know-how mit – von Datenanalyse über Kampagnen-Management bis hin zu kreativer Gestaltung. Was uns verbindet, ist die Leidenschaft, Unternehmen nicht nur mehr Sichtbarkeit, sondern <strong>echte Ergebnisse zu liefern.</strong> Wir arbeiten eng mit unseren Partnern zusammen, <strong>sind unkompliziert erreichbar und übernehmen Verantwortung,</strong> als wären wir Teil Ihres Unternehmens.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "link-group",
+         "id": "tNH0V7xRKEiWZs0-Y17w9",
+         "gap": 8,
+         "minW": "212.671875px",
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Mehr über uns erfahren",
+           "href": "/ueber-uns",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "8px",
+           "h": 56,
+           "w": 227,
+           "bg": "#151f25",
+           "color": "#ffffff",
+           "pad": [
+            7,
+            28
+           ],
+           "font": {
+            "fs": 15,
+            "lh": 18,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 56,
+           "w": 227,
+           "fs": 15,
+           "pad": [
+            7,
+            28
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "line",
+         "id": "ApYDssegUbA3GGSS8USaS",
+         "gap": 29,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 342,
+          "bg": null,
+          "border": "0px none rgb(21,31,37)"
+         }
+        }
+       ]
+      },
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 342,
+       "hpx": 280,
+       "x": 24,
+       "y": 6224,
+       "mbox": {
+        "x": 24,
+        "y": 6224,
+        "w": 342,
+        "h": 280
+       },
+       "wpxM": 342,
+       "yM": 6224,
+       "hpxM": 280,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "atoms": [
+        {
+         "type": "gallery",
+         "id": "xPBmsYRrHNyyR3fy5nGJ_",
+         "gap": 0,
+         "halign": "left",
+         "marquee": false,
+         "slider": true,
+         "images": [
+          {
+           "src": "media/35abd161-f83c-4891-b74f-7545b76ebbe1",
+           "alt": "Ein lächelnder Mann mit blonden Haaren und beigem Pullover steht vor einer Holzwand und einer Pflanze.",
+           "w": 342,
+           "h": 280,
+           "x": -350,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/4d63e96a-ae8c-40af-af3c-e70f49d7899b",
+           "alt": "Ein Mann sitzt am Holztisch, schaut nachdenklich auf seinen Laptop mit Diagrammen.",
+           "w": 342,
+           "h": 280,
+           "x": 0,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/66c0728d-48d2-48d3-9f95-f4fe9b255687",
+           "alt": "Ein lächelnder Mann mit Tätowierungen an Hals und Armen trägt einen braunen Pullover.",
+           "w": 342,
+           "h": 280,
+           "x": 350,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/29aaf2e3-864d-436c-81f5-6acf653e52eb",
+           "alt": "Junge Frau mit braunen Haaren und grünem Pullover vor einer Pflanze und Holzverkleidung.",
+           "w": 342,
+           "h": 280,
+           "x": 700,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/35abd161-f83c-4891-b74f-7545b76ebbe1",
+           "alt": "Ein lächelnder Mann mit blonden Haaren und beigem Pullover steht vor einer Holzwand und einer Pflanze.",
+           "w": 342,
+           "h": 280,
+           "x": 1050,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/4d63e96a-ae8c-40af-af3c-e70f49d7899b",
+           "alt": "Ein Mann sitzt am Holztisch, schaut nachdenklich auf seinen Laptop mit Diagrammen.",
+           "w": 342,
+           "h": 280,
+           "x": 1400,
+           "y": 0,
+           "radius": null
+          }
+         ],
+         "gbox": {
+          "x": 24,
+          "y": 6224,
+          "w": 342,
+          "h": 280
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 5476,
+      "w": 342,
+      "h": 1028
+     },
+     "boxM": {
+      "x": 24,
+      "y": 5476,
+      "w": 342,
+      "h": 1028
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 5426,
+    "w": 390,
+    "h": 1128
+   },
+   "boxM": {
+    "x": 0,
+    "y": 5426,
+    "w": 390,
+    "h": 1128
+   }
+  },
+  {
+   "id": "1b41470d-e1b3-46f1-8952-1ca035851074",
+   "title": "Team / Über uns (global)",
+   "only": "desktop",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "h01fxLGTdy6zLRUy3hGch",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "left",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 653,
+       "hpx": 617,
+       "x": 67,
+       "y": 3248,
+       "mbox": {
+        "x": 95,
+        "y": 3248,
+        "w": 597,
+        "h": 617
+       },
+       "atoms": [
+        {
+         "type": "label-text",
+         "id": "3cgrGwPpvbhVvy45TBwhQ",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p>das Team</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 20,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "left",
+          "ls": 0.5,
+          "tt": "uppercase"
+         },
+         "frame": {
+          "bg": "#76b2cc",
+          "radius": "4px",
+          "pad": "4px 12px 4px 12px",
+          "text": "#ffffff"
+         }
+        },
+        {
+         "type": "header",
+         "id": "GETcvWFUdzTS7wfNj3yKd",
+         "gap": 20,
+         "w": "90.93567251461988%",
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"brush-underline\">Ihre Experten.</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "M5fEQOTxcOUo_Tro7fGIW",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>Hinter reinkober.com steht ein <strong>eingespieltes Team aus Strategen, Online-Marketing-Experten und Kreativen</strong>, die ein gemeinsames Ziel verfolgen: <strong>das Wachstum unserer Kunden planbar zu machen</strong>. Jeder von uns bringt spezielles Know-how mit – von Datenanalyse über Kampagnen-Management bis hin zu kreativer Gestaltung. Was uns verbindet, ist die Leidenschaft, Unternehmen nicht nur mehr Sichtbarkeit, sondern <strong>echte Ergebnisse zu liefern</strong>. Wir arbeiten eng mit unseren Partnern zusammen, <strong>sind unkompliziert erreichbar und übernehmen Verantwortung</strong>, als wären wir Teil Ihres Unternehmens.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "link-group",
+         "id": "gvR6EJAEsFGkyaCfPSHMW",
+         "gap": 8,
+         "minW": "212.671875px",
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Mehr über uns erfahren",
+           "href": "/ueber-uns",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "8px",
+           "h": 56,
+           "w": 227,
+           "bg": "#151f25",
+           "color": "#ffffff",
+           "pad": [
+            7,
+            28
+           ],
+           "font": {
+            "fs": 15,
+            "lh": 22.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "mode": "vertical"
+        }
+       ]
+      },
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 653,
+       "hpx": 617,
+       "x": 720,
+       "y": 3248,
+       "mbox": {
+        "x": 748,
+        "y": 3248,
+        "w": 597,
+        "h": 617
+       },
+       "atoms": [
+        {
+         "type": "gallery",
+         "id": "-sHLySmvSvq9w-nBtSoZr",
+         "gap": 20,
+         "halign": "left",
+         "marquee": false,
+         "slider": false,
+         "images": [
+          {
+           "src": "media/4d63e96a-ae8c-40af-af3c-e70f49d7899b",
+           "alt": "Ein Mann mit rotblondem Haar und einem hellblauen Hemd sitzt nachdenklich vor einem Laptop an einem Holztisch.",
+           "w": 295,
+           "h": 196,
+           "x": 0,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/29aaf2e3-864d-436c-81f5-6acf653e52eb",
+           "alt": "Junge Frau mit dunklen Haaren und grünem Pullover lächelt, im Hintergrund eine Pflanze und Holzverkleidung.",
+           "w": 295,
+           "h": 295,
+           "x": 0,
+           "y": 204,
+           "radius": null
+          },
+          {
+           "src": "media/66c0728d-48d2-48d3-9f95-f4fe9b255687",
+           "alt": "Ein lächelnder Mann mit Tätowierungen an Hals und Händen trägt einen braunen Pullover.",
+           "w": 295,
+           "h": 295,
+           "x": 303,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/35abd161-f83c-4891-b74f-7545b76ebbe1",
+           "alt": "Ein lächelnder Mann mit blonden Haaren und beigefarbenem Pullover steht vor einer Pflanze und Holzverkleidung.",
+           "w": 295,
+           "h": 295,
+           "x": 303,
+           "y": 302,
+           "radius": null
+          }
+         ],
+         "gbox": {
+          "x": 748,
+          "y": 3248,
+          "w": 597,
+          "h": 617
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 3248,
+      "w": 1250,
+      "h": 617
+     }
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 3147,
+    "w": 1440,
+    "h": 818
+   }
+  },
+  {
+   "id": "e1e308af-fedc-4605-a2ac-bf735ae979e7",
+   "title": "Zahen & Fakten (global)",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    100
+   ],
+   "padM": [
+    50,
+    50
+   ],
+   "padT": [
+    101,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "top"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "top"
+    }
+   },
+   "rows": [
+    {
+     "id": "x4_s37Z82igB9ffNTcZ-T",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "19",
+       "md": "19",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1015,
+       "hpx": 136,
+       "x": 213,
+       "y": 4065,
+       "mbox": {
+        "x": 229,
+        "y": 4065,
+        "w": 983,
+        "h": 136
+       },
+       "wpxM": 342,
+       "yM": 6603,
+       "hpxM": 258,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 782,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "qonwr7uNcmmF4ZII-pfQY",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p><mark data-hl=\"brush-underline\">Zahlen, die für sich sprechen.</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "ve-UyVQJDSCxoymY849AW",
+         "gap": 20,
+         "w": "76.86143086446377%",
+         "halign": "center",
+         "html": "<p>Zahlen sagen oft mehr als lange Versprechen. Ein kleiner Einblick in Projekte, Budgets und Ergebnisse, die wir gemeinsam mit unseren Kunden erreicht haben.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4065,
+      "w": 1250,
+      "h": 176
+     },
+     "boxM": {
+      "x": 24,
+      "y": 6603,
+      "w": 342,
+      "h": 298
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    },
+    {
+     "id": "p0aMZC72B_ODutvyjb1Yv",
+     "grid": "list",
+     "frame": {
+      "radius": "16px",
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      32,
+      32
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "16px",
+        "text": "#151f25"
+       },
+       "wpx": 1250,
+       "hpx": 291,
+       "x": 95,
+       "y": 4241,
+       "mbox": {
+        "x": 95,
+        "y": 4241,
+        "w": 289,
+        "h": 291
+       },
+       "wpxM": 342,
+       "yM": 6901,
+       "hpxM": 1133,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "16px",
+        "text": "#151f25"
+       },
+       "wpxT": 750,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "YuCORJftDYY8ikCMvOSDa",
+         "gap": 5,
+         "halign": "center",
+         "html": "<strong><p><span style=\"color:rgb(118,178,204)\">&gt;19.200.000€</span><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "header",
+         "id": "rV77v720CpHGrgRt5Qu8E",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>verwaltetes Werbebudget</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "fontM": {
+          "fs": 17.62,
+          "lh": 23.18
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "XzRmC_Ug4UxHN7FRTKE-A",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Über verschiedene Plattformen hinweg haben wir bereits Werbebudgets in Millionenhöhe geplant, optimiert und erfolgreich eingesetzt.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "16px",
+        "text": "#151f25"
+       },
+       "wpx": 1250,
+       "hpx": 291,
+       "x": 95,
+       "y": 4241,
+       "mbox": {
+        "x": 416,
+        "y": 4241,
+        "w": 289,
+        "h": 291
+       },
+       "wpxM": 342,
+       "yM": 6901,
+       "hpxM": 1133,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "16px",
+        "text": "#151f25"
+       },
+       "wpxT": 750,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "RdeDFlbLHK5mLknPkBW86",
+         "gap": 5,
+         "halign": "center",
+         "html": "<strong><p><span style=\"color:rgb(118,178,204)\">&gt;65.000.000€</span><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "header",
+         "id": "qsK3dTXGXrsdLushw85NK",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>generierter Umsatz für Kunden &amp; Partner</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "fontM": {
+          "fs": 17.62,
+          "lh": 23.18
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "EP49tz0XpmPfraaj_o8s_",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Durch unsere Marketing- und Recruitingstrategien konnten unsere Kunden und Partner bereits Umsätze in dieser Größenordnung erzielen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "16px",
+        "text": "#151f25"
+       },
+       "wpx": 1250,
+       "hpx": 291,
+       "x": 95,
+       "y": 4241,
+       "mbox": {
+        "x": 736,
+        "y": 4241,
+        "w": 289,
+        "h": 291
+       },
+       "wpxM": 342,
+       "yM": 6901,
+       "hpxM": 1133,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "16px",
+        "text": "#151f25"
+       },
+       "wpxT": 750,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "38kZ2SHaEKvRCdNsIuv67",
+         "gap": 5,
+         "halign": "center",
+         "html": "<strong><p><span style=\"color:rgb(118,178,204)\">&gt;300</span><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "header",
+         "id": "On1fng_vJ_u1eMafFns9H",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>ausgeführte &amp; beratene Projekte</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "fontM": {
+          "fs": 17.62,
+          "lh": 23.18
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "6VYMoZkFBKkdj9uALzq71",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Von Recruitingkampagnen bis hin zu kompletten Marketingstrategien – wir haben bereits hunderte Projekte begleitet und umgesetzt.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      },
+      {
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "16px",
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1250,
+       "hpx": 291,
+       "x": 95,
+       "y": 4241,
+       "mbox": {
+        "x": 1057,
+        "y": 4241,
+        "w": 289,
+        "h": 291
+       },
+       "wpxM": 342,
+       "yM": 6901,
+       "hpxM": 1133,
+       "frameM": {
+        "kind": "solid",
+        "bg": "#f2f2f2",
+        "radius": "16px",
+        "pad": "16px",
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 750,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "n2rnatZ8fSZ_0W2a11aTw",
+         "gap": 5,
+         "halign": "center",
+         "html": "<strong><p><span style=\"color:rgb(118,178,204)\">9</span><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "header",
+         "id": "TvLM6F2MD8JA-MNtTZylI",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Experten im<br>Team</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "fontM": {
+          "fs": 17.62,
+          "lh": 23.18
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "puqWu9IVBosvgBrC08hL1",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Ein kleines, spezialisiertes Team mit klarem Fokus: messbare Ergebnisse für unsere Kunden.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4241,
+      "w": 1250,
+      "h": 291
+     },
+     "boxM": {
+      "x": 24,
+      "y": 6901,
+      "w": 342,
+      "h": 1133
+     },
+     "gapM": [
+      24,
+      24
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 3964,
+    "w": 1440,
+    "h": 668
+   },
+   "boxM": {
+    "x": 0,
+    "y": 6553,
+    "w": 390,
+    "h": 1532
+   }
+  },
+  {
+   "id": "94ac38a5-d1cd-4f9a-9e77-e03b6a2fe736",
+   "title": "FAQ",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    61,
+    100
+   ],
+   "padM": [
+    30,
+    50
+   ],
+   "padT": [
+    61,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "f503faec-974c-48f1-aedc-f0f3aca7bbeb",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "19",
+       "md": "19",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1002,
+       "hpx": 155,
+       "x": 219,
+       "y": 4692,
+       "mbox": {
+        "x": 227,
+        "y": 4692,
+        "w": 986,
+        "h": 155
+       },
+       "wpxM": 342,
+       "yM": 8113,
+       "hpxM": 158,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "d65450a3-8ab8-4cb7-8dd8-a933d67df100",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Wichtige Fragen an uns</p>",
+         "tag": "h3",
+         "font": {
+          "fs": 48,
+          "lh": 61.4,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "fontM": {
+          "fs": 28.98,
+          "lh": 37.07
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "b92cf6ca-1d41-43fc-919b-1e721e998414",
+         "gap": 20,
+         "w": "75.36121673003802%",
+         "halign": "center",
+         "html": "<p>Für uns und Sie ist wichtig: Aufgeklärt sein und sich bewusst für Wachstum und bewährte Praktiken zu entscheiden.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4692,
+      "w": 1250,
+      "h": 195
+     },
+     "boxM": {
+      "x": 24,
+      "y": 8113,
+      "w": 342,
+      "h": 198
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    },
+    {
+     "id": "b42800e5-85a6-4490-b49d-1d717b67427c",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 633,
+       "hpx": 355,
+       "x": 87,
+       "y": 4887,
+       "mbox": {
+        "x": 95,
+        "y": 4887,
+        "w": 617,
+        "h": 355
+       },
+       "wpxM": 342,
+       "yM": 8311,
+       "hpxM": 485,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "list",
+         "id": "b92ceec2-25bd-4b69-a374-d9a1f7010d9e",
+         "gap": 0,
+         "halign": "center",
+         "items": [
+          {
+           "title": "Wie schnell können wir mit ersten Bewerbungen rechnen?",
+           "titleFont": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "html": "<p>In der Regel können wir Ihre Kampagne innerhalb weniger Tage starten. Erste qualifizierte Bewerbungen sehen Kanzleien meist innerhalb der ersten 1–3 Wochen, abhängig von Standort, Profil und Anforderungen.</p>",
+           "bodyFont": {
+            "fs": 14,
+            "lh": 21,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "kind": "solid",
+            "bg": "#f2f2f2",
+            "radius": "16px",
+            "pad": "32px"
+           },
+           "accordion": true,
+           "open": null,
+           "iconSize": 18,
+           "bodyGap": 0
+          },
+          {
+           "title": "Für welche Positionen funktioniert Ihre Methode besonders gut?",
+           "titleFont": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "html": "<p>Wir besetzen regelmäßig Stellen wie Steuerfachangestellte, Bilanzbuchhalter, Lohnsachbearbeiter, Fachkräfte für digitale Kanzleiprozesse sowie Steuerberater. Wichtig ist ein klar definiertes Wunschprofil – darauf richten wir die Kampagne aus.</p>",
+           "bodyFont": {
+            "fs": 14,
+            "lh": 21,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "kind": "solid",
+            "bg": "#f2f2f2",
+            "radius": "16px",
+            "pad": "32px"
+           },
+           "accordion": true,
+           "open": null,
+           "iconSize": 18,
+           "bodyGap": 0
+          },
+          {
+           "title": "Müssen wir dafür selbst auf Social Media aktiv sein?",
+           "titleFont": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "html": "<p>Nein. Sie benötigen keine bestehenden Social-Media-Kanäle und müssen keine Inhalte selbst erstellen. Wir übernehmen die komplette Konzeption, Aussteuerung und – wenn gewünscht – auch die Produktion von Fotos und kurzen Videos.</p>",
+           "bodyFont": {
+            "fs": 14,
+            "lh": 21,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "kind": "solid",
+            "bg": "#f2f2f2",
+            "radius": "16px",
+            "pad": "32px"
+           },
+           "accordion": true,
+           "open": null,
+           "iconSize": 18,
+           "bodyGap": 0
+          }
+         ],
+         "listStyle": "solid",
+         "toggle": "arrow",
+         "listCols": 1,
+         "space": 16
+        }
+       ]
+      },
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 633,
+       "hpx": 355,
+       "x": 720,
+       "y": 4887,
+       "mbox": {
+        "x": 728,
+        "y": 4887,
+        "w": 617,
+        "h": 355
+       },
+       "wpxM": 342,
+       "yM": 8796,
+       "hpxM": 487,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "list",
+         "id": "659b11a0-f57f-491d-9cd1-7e713699c542",
+         "gap": 0,
+         "halign": "center",
+         "items": [
+          {
+           "title": "Worin unterscheidet sich Ihre Methode von klassischen Stellenanzeigen?",
+           "titleFont": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "html": "<p>Klassische Anzeigen sprechen meist nur aktiv Suchende an. Unser Ansatz über Social Recruiting erreicht zusätzlich die große Gruppe an Fachkräften, die nicht aktiv suchen, aber offen für ein gutes Angebot sind – mit deutlich höherer Reichweite und Qualität der Bewerbungen.</p>",
+           "bodyFont": {
+            "fs": 14,
+            "lh": 21,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "kind": "solid",
+            "bg": "#f2f2f2",
+            "radius": "16px",
+            "pad": "32px"
+           },
+           "accordion": true,
+           "open": null,
+           "iconSize": 18,
+           "bodyGap": 0
+          },
+          {
+           "title": "Wie viel Aufwand haben wir intern mit dem Recruiting-Prozess?",
+           "titleFont": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "html": "<p>Sie investieren vor allem Zeit in ein Erstgespräch und die Abstimmung der Anforderungen. Anschließend kümmern wir uns um die Kampagne und liefern Ihnen Bewerbungen, die Sie nur noch sichten und für Gespräche auswählen müssen.</p>",
+           "bodyFont": {
+            "fs": 14,
+            "lh": 21,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "kind": "solid",
+            "bg": "#f2f2f2",
+            "radius": "16px",
+            "pad": "32px"
+           },
+           "accordion": true,
+           "open": null,
+           "iconSize": 18,
+           "bodyGap": 0
+          },
+          {
+           "title": "Wie hoch ist das Risiko, wenn wir mit Ihnen starten?",
+           "titleFont": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "html": "<p>Wir arbeiten mit klaren Laufzeiten und transparenten Konditionen, ohne Provisionsmodelle wie Headhunter. Auf Basis unserer Erfahrung mit über 100 Kampagnen können wir sehr realistisch einschätzen, welche Ergebnisse an Ihrem Standort erreichbar sind – das besprechen wir offen im Erstgespräch.</p>",
+           "bodyFont": {
+            "fs": 14,
+            "lh": 21,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "kind": "solid",
+            "bg": "#f2f2f2",
+            "radius": "16px",
+            "pad": "32px"
+           },
+           "accordion": true,
+           "open": null,
+           "iconSize": 18,
+           "bodyGap": 0
+          }
+         ],
+         "listStyle": "solid",
+         "toggle": "arrow",
+         "listCols": 1,
+         "space": 16
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4887,
+      "w": 1250,
+      "h": 355
+     },
+     "boxM": {
+      "x": 24,
+      "y": 8311,
+      "w": 342,
+      "h": 972
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 4631,
+    "w": 1440,
+    "h": 712
+   },
+   "boxM": {
+    "x": 0,
+    "y": 8083,
+    "w": 390,
+    "h": 1250
+   }
+  },
+  {
+   "id": "Zv9T1F_toKsamVa_iRBBp",
+   "title": "Fußzeile Global 2",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    61,
+    80
+   ],
+   "padM": [
+    30,
+    40
+   ],
+   "padT": [
+    61,
+    80
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "LFz0L9wdlP-WsUtcF4sVg",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 94,
+       "y": 5403,
+       "mbox": {
+        "x": 122,
+        "y": 5403,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 9362,
+       "hpxM": 366,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "ppAZ17-odGtbU42km4is6",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Unternehmen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "5bbf22f9-a7d9-4554-9513-ea36f4e995d9",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Y6YmPKYV5wwhMUdRI6wX8",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Startseite",
+           "href": "/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Über uns & was wir tun",
+           "href": "/ueber-uns",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Erfolge unserer Partner",
+           "href": "/erfolge-unserer-partner",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "Karriere",
+           "href": "/karriere",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Potenzial-Analyse",
+           "href": "/potenzial-analyse",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kontakt",
+           "href": "/kontakt",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "8",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 435,
+       "hpx": 464,
+       "x": 366,
+       "y": 5403,
+       "mbox": {
+        "x": 394,
+        "y": 5403,
+        "w": 379,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 9728,
+       "hpxM": 537,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "UC7YkAB6uXvKuUD5wpAHJ",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Leistungen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "d34bcf03-baf2-4d05-8f45-607ad83508a2",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 379,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "nbUi8zuih0yYq8qAJShK2",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Mandantengewinnung für Anwälte",
+           "href": "https://www.heyadvo.com",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Handwerker",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Kundengewinnung für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Steuerberater",
+           "href": "/mitarbeitergewinnung-steuerberater",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Apotheken",
+           "href": "/mitarbeitergewinnung-apotheken",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Handwerksbetriebe",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für Pflegedienste",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "Recruiting für KFZ-Werkstätten",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 802,
+       "y": 5403,
+       "mbox": {
+        "x": 830,
+        "y": 5403,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 10265,
+       "hpxM": 334,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "Gw3NOgKX7lRycFG6df-Ic",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Marketing-Blog</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "b9be9d6f-233b-445f-8b61-7eda7c09bfb5",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "Lozpi2yuJNtiq_SQgl0Wj",
+         "gap": 10,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Zum Marketing-Blog",
+           "href": "/marketing-blog",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 41
+          },
+          {
+           "text": "KI-Schulungspflicht in Unternehmen",
+           "href": "/ki-schulungspflicht-in-unternehmen",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 häufige SEO-Fehler",
+           "href": "/10-haufige-seo-fehler",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 65
+          },
+          {
+           "text": "10 Tipps für ein besseres Instagram-Profil",
+           "href": "/10-tipps-fur-ein-besseres-instagram-profil",
+           "font": {
+            "fs": 19,
+            "lh": 24.7,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 90
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "lg": "5",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 272,
+       "hpx": 464,
+       "x": 1074,
+       "y": 5403,
+       "mbox": {
+        "x": 1102,
+        "y": 5403,
+        "w": 216,
+        "h": 464
+       },
+       "wpxM": 342,
+       "yM": 10598,
+       "hpxM": 338,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "SV2PwlVp3NlB2_L0VLTfB",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Kontakt</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#ffffff",
+          "align": "left"
+         }
+        },
+        {
+         "type": "line",
+         "id": "f620dd3b-de9e-44ee-918c-93b7fd947f53",
+         "gap": 20,
+         "halign": "left",
+         "line": {
+          "h": 32,
+          "w": 216,
+          "bg": null,
+          "border": "0px none rgb(255,255,255)"
+         }
+        },
+        {
+         "type": "contacts",
+         "id": "suWozKFJMh47QbZ6HZ-_D",
+         "gap": 20,
+         "halign": "left",
+         "items": [
+          {
+           "href": "tel:+49016096088604",
+           "text": "+49 (0) 160 960 886 04",
+           "sub": "Rufen Sie uns an",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M15.639,14.407l-2.355,2.321a19.111,19.111,0,0,1-3.4-2.613,19.353,19.353,0,0,1-2.612-3.4L9.591,8.36a1.01,1.01,0,0,0,.208-1.1L7.382,1.614A1.009,1.009,0,0,0,6.2,1.036L1.756,2.209A1.007,1.007,0,0,0,1,3.218,21.337,21.337,0,0,0,7.039,16.959,21.339,21.339,0,0,0,20.784,23a1.011,1.011,0,0,0,1.01-.756l1.172-4.44a1.009,1.009,0,0,0-.577-1.186L16.748,14.2A1.009,1.009,0,0,0,15.639,14.407Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          },
+          {
+           "href": "mailto:info@reinkober.com",
+           "text": "info@reinkober.com",
+           "sub": "Schreiben Sie eine E-Mail",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\"></path> <path d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\"></path></svg>",
+           "font": {
+            "fs": 15,
+            "lh": 19.5,
+            "fw": 500,
+            "color": "#ffffff",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12,
+            "lh": 15.6,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "left",
+            "ls": 0.5
+           },
+           "iconBox": {
+            "w": 56,
+            "svg": 26,
+            "color": "#ffffff",
+            "radius": "100px"
+           },
+           "h": 41,
+           "pad": [
+            0,
+            0
+           ]
+          }
+         ],
+         "dir": "row",
+         "gapItems": 12,
+         "html": "<a href=\"tel:+49016096088604\">+49 (0) 160 960 886 04Rufen Sie uns an</a><a href=\"mailto:info@reinkober.com\">info@reinkober.comSchreiben Sie eine E-Mail</a>",
+         "iconSize": 26,
+         "iconColor": "#ffffff"
+        },
+        {
+         "type": "link-group",
+         "id": "683b9cf4-094e-40a9-83eb-541d8110d99f",
+         "gap": 20,
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Kontakt aufnehmen",
+           "href": "/kontakt",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 40,
+           "w": 216,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            5,
+            20
+           ],
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 41.59,
+           "w": 342,
+           "fs": 13,
+           "pad": [
+            5,
+            20
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "social",
+         "id": "UgXHlwm7s_lhzxFDjPRUq",
+         "gap": 10,
+         "halign": "left",
+         "items": [
+          {
+           "href": "https://www.facebook.com/reinkoberholding",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#3b5998\" d=\"M9.03153,23L9,13H5V9h4V6.5C9,2.7886,11.29832,1,14.60914,1c1.58592,0,2.94893,0.11807,3.34615,0.17085 v3.87863l-2.29623,0.00104c-1.80061,0-2.14925,0.85562-2.14925,2.11119V9H18.75l-2,4h-3.24019v10H9.03153z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.instagram.com/reinkober.holding/",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#231F20\" d=\"M12,2.982c2.937,0,3.285.011,4.445.064a6.072,6.072,0,0,1,2.042.379,3.4,3.4,0,0,1,1.265.823,3.4,3.4,0,0,1,.823,1.265,6.072,6.072,0,0,1,.379,2.042c.053,1.16.064,1.508.064,4.445s-.011,3.285-.064,4.445a6.072,6.072,0,0,1-.379,2.042,3.644,3.644,0,0,1-2.088,2.088,6.072,6.072,0,0,1-2.042.379c-1.16.053-1.508.064-4.445.064s-3.285-.011-4.445-.064a6.072,6.072,0,0,1-2.042-.379,3.4,3.4,0,0,1-1.265-.823,3.4,3.4,0,0,1-.823-1.265,6.072,6.072,0,0,1-.379-2.042c-.053-1.16-.064-1.508-.064-4.445s.011-3.285.064-4.445a6.072,6.072,0,0,1,.379-2.042,3.4,3.4,0,0,1,.823-1.265,3.4,3.4,0,0,1,1.265-.823,6.072,6.072,0,0,1,2.042-.379c1.16-.053,1.508-.064,4.445-.064M12,1c-2.987,0-3.362.013-4.535.066a8.108,8.108,0,0,0-2.67.511A5.625,5.625,0,0,0,1.577,4.8a8.108,8.108,0,0,0-.511,2.67C1.013,8.638,1,9.013,1,12s.013,3.362.066,4.535a8.108,8.108,0,0,0,.511,2.67A5.625,5.625,0,0,0,4.8,22.423a8.108,8.108,0,0,0,2.67.511C8.638,22.987,9.013,23,12,23s3.362-.013,4.535-.066a8.108,8.108,0,0,0,2.67-.511A5.625,5.625,0,0,0,22.423,19.2a8.108,8.108,0,0,0,.511-2.67C22.987,15.362,23,14.987,23,12s-.013-3.362-.066-4.535a8.108,8.108,0,0,0-.511-2.67A5.625,5.625,0,0,0,19.2,1.577a8.108,8.108,0,0,0-2.67-.511C15.362,1.013,14.987,1,12,1Z\"></path><path d=\"M12,6.351A5.649,5.649,0,1,0,17.649,12,5.649,5.649,0,0,0,12,6.351Zm0,9.316A3.667,3.667,0,1,1,15.667,12,3.667,3.667,0,0,1,12,15.667Z\"></path><circle cx=\"17.872\" cy=\"6.128\" r=\"1.32\"></circle></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          },
+          {
+           "href": "https://www.linkedin.com/company/14815912",
+           "target": "_blank",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"#0076B6\" d=\"M23,0H1C0.4,0,0,0.4,0,1v22c0,0.6,0.4,1,1,1h22c0.6,0,1-0.4,1-1V1C24,0.4,23.6,0,23,0z M7.1,20.5H3.6V9h3.6 V20.5z M5.3,7.4c-1.1,0-2.1-0.9-2.1-2.1c0-1.1,0.9-2.1,2.1-2.1c1.1,0,2.1,0.9,2.1,2.1C7.4,6.5,6.5,7.4,5.3,7.4z M20.5,20.5h-3.6 v-5.6c0-1.3,0-3-1.8-3c-1.9,0-2.1,1.4-2.1,2.9v5.7H9.4V9h3.4v1.6h0c0.5-0.9,1.6-1.8,3.4-1.8c3.6,0,4.3,2.4,4.3,5.5V20.5z\"></path></svg>",
+           "font": {
+            "fs": 13,
+            "lh": 19.5,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "center"
+           },
+           "iconBox": {
+            "w": 26,
+            "svg": 18,
+            "color": "#151f25",
+            "radius": "100px"
+           },
+           "h": 40,
+           "pad": [
+            5,
+            0
+           ],
+           "btn": {
+            "bg": "#ffffff",
+            "r": "8px",
+            "w": 40
+           }
+          }
+         ],
+         "dir": "row",
+         "gapItems": 16,
+         "html": "<a href=\"https://www.facebook.com/reinkoberholding\" target=\"_blank\"></a><a href=\"https://www.instagram.com/reinkober.holding/\" target=\"_blank\"></a><a href=\"https://www.linkedin.com/company/14815912\" target=\"_blank\"></a>",
+         "iconSize": 18,
+         "iconColor": "#151f25"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 5403,
+      "w": 1250,
+      "h": 464
+     },
+     "boxM": {
+      "x": 24,
+      "y": 9362,
+      "w": 342,
+      "h": 1574
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 5342,
+    "w": 1440,
+    "h": 605
+   },
+   "boxM": {
+    "x": 0,
+    "y": 9332,
+    "w": 390,
+    "h": 1644
+   }
+  },
+  {
+   "id": "WHDK5lXLrdokvwrGgZ7FL",
+   "title": "Fußzeile 2 Global",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#151f25",
+   "text": "#ffffff",
+   "pad": [
+    31,
+    14
+   ],
+   "padM": [
+    15,
+    7
+   ],
+   "padT": [
+    31,
+    14
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#ffffff",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "1bh4QeuVKY-zDxWmln5ed",
+     "grid": "columns",
+     "frame": {
+      "text": "#ffffff"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 791,
+       "hpx": 189,
+       "x": 324,
+       "y": 5976,
+       "mbox": {
+        "x": 332,
+        "y": 5976,
+        "w": 775,
+        "h": 189
+       },
+       "wpxM": 342,
+       "yM": 10990,
+       "hpxM": 322,
+       "frameM": {
+        "text": "#ffffff",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "v7iNTO2MhW42TqubGqim2",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/7050135a-9ff5-4110-8263-9dde1c6b5b58",
+         "alt": "Logo reinkober.com",
+         "wpx": 200,
+         "hpx": 28,
+         "wpxM": 200,
+         "hpxM": 28,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "plain-text",
+         "id": "BRT3ZEtLnltJmLF4KQcKh",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "5VaH0FmvL7oIpSFSMoh-s",
+         "gap": 15,
+         "halign": "center",
+         "style": "color",
+         "dir": "vertical",
+         "size": "s",
+         "space": "10px",
+         "items": [
+          {
+           "text": "Impressum",
+           "href": "/impressum",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "AGB",
+           "href": "/agb",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          },
+          {
+           "text": "Datenschutz",
+           "href": "/datenschutz",
+           "font": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "frame": {
+            "pad": "5px 5px 5px 5px"
+           },
+           "h": 30
+          }
+         ]
+        },
+        {
+         "type": "plain-text",
+         "id": "RftLzF3IazEYpOgtCYlWO",
+         "gap": 30,
+         "halign": "center",
+         "html": "<p>© 2019 - 2026 reinkober.com - Alle Rechte vorbehalten.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 12,
+          "lh": 18,
+          "fw": 400,
+          "color": "#ffffff",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 5976,
+      "w": 1250,
+      "h": 189
+     },
+     "boxM": {
+      "x": 24,
+      "y": 10990,
+      "w": 342,
+      "h": 322
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 5945,
+    "w": 1440,
+    "h": 234
+   },
+   "boxM": {
+    "x": 0,
+    "y": 10975,
+    "w": 390,
+    "h": 344
+   }
+  },
+  {
+   "id": "cf520d54-f0b4-434e-ba44-c815468d9482",
+   "title": "mega-menu-manager",
+   "only": "both",
+   "isHeader": false,
+   "isMega": true,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    17,
+    56
+   ],
+   "padM": [
+    8,
+    28
+   ],
+   "padT": [
+    17,
+    56
+   ],
+   "side": 0,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "radius": "16px",
+     "pad": "56px",
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "top"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "radius": "16px",
+     "pad": "56px",
+     "text": "#151f25",
+     "halign": "left",
+     "valign": "top"
+    }
+   },
+   "rows": [
+    {
+     "id": "7ZRThB7HqSwNtN6bV5gQF",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "left",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "8",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 387,
+       "hpx": 569,
+       "x": 139,
+       "y": 38,
+       "mbox": {
+        "x": 151,
+        "y": 38,
+        "w": 363,
+        "h": 569
+       },
+       "wpxM": 0,
+       "yM": 0,
+       "hpxM": 0,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 0,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "u7qknNQ0JBjMOc4efqfKy",
+         "gap": 30,
+         "gapM": 0,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"brush-underline\">Neukundengewinnung</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         },
+         "only": "desktop"
+        },
+        {
+         "type": "menu-v2",
+         "id": "865IXcqWtGsyI0p5ypMxq",
+         "gap": 10,
+         "gapM": 0,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "s",
+         "space": "32px",
+         "items": [
+          {
+           "text": "Mandantengewinnung für Anwälte",
+           "sub": "Mehr A-Mandate für Ihre Kanzlei durch das heyavo-Neumandantensystem.",
+           "href": "https://www.heyadvo.com",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 91,
+           "img": "unsplash/MYbhN8KaaEc"
+          },
+          {
+           "text": "Kundengewinnung für Handwerker",
+           "sub": "Ob Sanitär oder Bausanierung - wir liefern Neukunden und bauen Systeme.",
+           "href": "/kundengewinnung-handwerk",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 91,
+           "img": "unsplash/XcLQN-2R9CM"
+          },
+          {
+           "text": "Kundengewinnung für Dienstleister",
+           "sub": "Mehr Kunden für Cateringunternehmen oder andere regionale Dienstleister.",
+           "href": "/kundengewinnung-dienstleister",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 91,
+           "img": "unsplash/fMntI8HAAB8"
+          },
+          {
+           "text": "Kundengewinnung für Pflegedienste",
+           "sub": "Ob ambulant oder stationär – wir bringen Ihnen neue Klienten und füllen Ihre Kapazitäten.",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 110,
+           "img": "media/1ee9e27d-af96-4959-bf8f-b2c4032db4b9"
+          },
+          {
+           "text": "Kundengewinnung für KFZ-Werkstätten",
+           "sub": "Wir sorgen dafür, dass der Hof voll ist.",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "16px 16px 16px 16px"
+           },
+           "h": 91,
+           "img": "unsplash/8t6tk7LYLrE"
+          }
+         ],
+         "only": "desktop"
+        }
+       ]
+      },
+      {
+       "lg": "9",
+       "md": "9",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 436,
+       "hpx": 569,
+       "x": 526,
+       "y": 38,
+       "mbox": {
+        "x": 538,
+        "y": 38,
+        "w": 412,
+        "h": 569
+       },
+       "wpxM": 0,
+       "yM": 0,
+       "hpxM": 0,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 0,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "O0Sm37yXpJpPOq118KtmN",
+         "gap": 30,
+         "gapM": 0,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"brush-underline\">Mitarbeitergewinnung</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         },
+         "only": "desktop"
+        },
+        {
+         "type": "menu-v2",
+         "id": "EbirSo3MSM6t28xaVu05G",
+         "gap": 10,
+         "gapM": 0,
+         "halign": "left",
+         "style": "underline",
+         "dir": "vertical",
+         "size": "s",
+         "space": "20px",
+         "items": [
+          {
+           "text": "Recruiting für Steuerberater",
+           "sub": "Vom Steuerfachangestellten oder Spezialstellen wie Sachbearbeiter Digitale Kanzleiprozesse und Mandantenservice.",
+           "href": "/mitarbeitergewinnung-steuerberater",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 98,
+           "img": "unsplash/8wLZi9OhsWU"
+          },
+          {
+           "text": "Recruiting für Apotheken",
+           "sub": "Vom approbierten Apotheker bis zum pharmazeutisch-kaufmännischen Angestellten",
+           "href": "/mitarbeitergewinnung-apotheken",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "unsplash/m-StmYvk7q0"
+          },
+          {
+           "text": "Recruiting für Handwerksbetriebe",
+           "sub": "Neue Fachkräfte für Ihren Betrieb. \nGezielt, regional, praxisnah.",
+           "href": "/mitarbeitergewinnung-handwerk",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "unsplash/oQQEXoG8Oqc"
+          },
+          {
+           "text": "Recruiting für Dienstleister",
+           "sub": "Von Cateringunternehmen bis Sicherheitsfirmen. Vom Koch bis zum Alarmfahrer.",
+           "href": "/mitarbeitergewinnung-dienstleister",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "unsplash/2OX0bKvL1-I"
+          },
+          {
+           "text": "Recruiting für Pflegedienste",
+           "sub": "Von der examinierten Pflegefachkraft bis zum Pflegehelfer. Gezielt, regional, praxisnah.",
+           "href": "https://valiora-partner.de/",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "media/e8990ac5-696c-4863-8aa5-64b28bd461ec"
+          },
+          {
+           "text": "Recruiting für KFZ-Werkstätten",
+           "sub": "Ob im Büro oder neue Unterstützung in der Werkstatt. Vom Azubi bis zum Meister.",
+           "href": "https://provengarage.de/",
+           "font": {
+            "fs": 13.6,
+            "lh": 17.68,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "subFont": {
+            "fs": 12.24,
+            "lh": 18.36,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "10px 10px 10px 10px"
+           },
+           "h": 84,
+           "img": "unsplash/UZUzvJEvKnI"
+          }
+         ],
+         "only": "desktop"
+        }
+       ]
+      },
+      {
+       "lg": "7",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 339,
+       "hpx": 569,
+       "x": 962,
+       "y": 38,
+       "mbox": {
+        "x": 974,
+        "y": 38,
+        "w": 315,
+        "h": 569
+       },
+       "wpxM": 0,
+       "yM": 0,
+       "hpxM": 0,
+       "frameM": {
+        "text": "#151f25",
+        "valign": "top"
+       },
+       "wpxT": 0,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "-N7yNaCv8DZzwa1HwV7cC",
+         "gap": 30,
+         "gapM": 0,
+         "halign": "left",
+         "html": "<strong><p><mark data-hl=\"brush-underline\">Kontakt</mark><br></p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "hl": {
+          "type": "brush-underline",
+          "color": "#76b2cc"
+         },
+         "only": "desktop"
+        },
+        {
+         "type": "map",
+         "id": "mxMMSZ-cWejyEHGDCueZQ",
+         "gap": 20,
+         "gapM": 0,
+         "halign": "left",
+         "raw": true,
+         "hpx": 215,
+         "only": "desktop",
+         "source": {
+          "data": {
+           "items": []
+          },
+          "styles": {
+           "location_x": "-122.419906",
+           "location_y": "37.7790262",
+           "osm_x": "7.6427878",
+           "osm_y": "51.6637736",
+           "osm_label": "Stockumer Straße 30 Deutschland, Werne",
+           "google_map_label": "San Francisco",
+           "resize_percent": 62,
+           "style": "light",
+           "radius_key": "custom",
+           "indentLg": 20,
+           "radius_custom": 12,
+           "map_provider_type": "free"
+          }
+         }
+        },
+        {
+         "type": "person",
+         "id": "smmA1sP5s7QrUBoYX452t",
+         "gap": 20,
+         "gapM": 0,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/35abd161-f83c-4891-b74f-7545b76ebbe1",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Simon Reinkober",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Simon Reinkober</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Geschäftsführer</p>",
+         "only": "desktop"
+        },
+        {
+         "type": "link-group",
+         "id": "61L0YdC4vuF_iN_J4PI-3",
+         "gap": 20,
+         "gapM": 0,
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Kostenloses Erstgespräch",
+           "href": "/kontakt",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 56,
+           "w": 315,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            7,
+            28
+           ],
+           "font": {
+            "fs": 15,
+            "lh": 22.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           }
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": null,
+           "w": 0,
+           "fs": 15,
+           "pad": [
+            7,
+            28
+           ]
+          }
+         ],
+         "mode": "vertical",
+         "only": "desktop"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 151,
+      "y": 38,
+      "w": 1138,
+      "h": 569
+     },
+     "boxM": {
+      "x": 0,
+      "y": 0,
+      "w": 0,
+      "h": 0
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 754
+   },
+   "boxM": {
+    "x": 0,
+    "y": 0,
+    "w": 0,
+    "h": 0
+   }
+  }
+ ],
+ "forms": []
+}

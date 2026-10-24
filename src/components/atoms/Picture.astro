@@ -1,0 +1,37 @@
+---
+// Bild oder Logo. Seitenverhältnis wie gemessen → kein Layout-Springen.
+import { Image } from 'astro:assets';
+import { getImage } from '../../data/images';
+import { css } from '../../lib/style';
+import { fixHref } from '../../lib/html';
+
+interface Props { atom: any; eager?: boolean }
+const { atom: a, eager = false } = Astro.props;
+const img = getImage(a.src);
+const f = a.frame || {};
+const isLogo = a.type === 'logo';
+const ratio = a.wpx && a.hpx ? +(a.wpx / a.hpx).toFixed(4) : undefined;
+const ratioM = a.wpxM && a.hpxM ? +(a.wpxM / a.hpxM).toFixed(4) : undefined;
+const href = fixHref(a.href);
+const alt = (a.alt && a.alt.trim()) || img?.alt || '';
+const widths = isLogo ? [Math.round((a.wpx || 200) * 1), Math.round((a.wpx || 200) * 2)] : [360, 540, 720, 960, 1280, 1600, 2000].filter((w) => !img || w <= img.src.width);
+const sizes = isLogo ? `${Math.round(a.wpx || 200)}px` : a.wpx ? `(max-width: 767px) calc(100vw - 48px), ${Math.round(a.wpx)}px` : '100vw';
+const style = css({
+  'aspect-ratio': !isLogo && ratio ? ratio : undefined,
+  '--ar-m': ratioM && ratioM !== ratio ? ratioM : undefined,
+  '--ir': f.radius, '--ish': f.shadow, '--ibd': f.border,
+  '--pos': a.pos && a.pos !== '50% 50%' ? a.pos : undefined,
+  height: isLogo && a.hpx ? `${Math.round(a.hpx)}px` : undefined,
+  width: isLogo && a.wpx ? `${Math.round(a.wpx)}px` : undefined,
+  '--hm': isLogo && a.hpxM && a.hpxM !== a.hpx ? `${Math.round(a.hpxM)}px` : undefined,
+  '--wm': isLogo && a.wpxM && a.wpxM !== a.wpx ? `${Math.round(a.wpxM)}px` : undefined,
+  '--fit': a.fit === 'fill' ? 'cover' : a.fit === 'contain' || a.fit === 'scale' ? 'contain' : undefined,
+  '--isc': a.scale && a.scale !== 1 ? a.scale : undefined,
+});
+const Wrap = href ? 'a' : 'div';
+---
+{img && (
+  <Wrap class:list={['img', isLogo && 'logo-img', ratioM && ratioM !== ratio && 'img--arm']} style={style} href={href} aria-label={href && isLogo ? (alt || 'Startseite') : undefined}>
+    <Image src={img.src} alt={href && isLogo ? '' : alt} widths={widths} sizes={sizes} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding={eager ? 'sync' : 'async'} />
+  </Wrap>
+)}

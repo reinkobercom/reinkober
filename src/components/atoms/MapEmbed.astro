@@ -1,0 +1,20 @@
+---
+// Karte (OpenStreetMap) mit Bürostandort – lädt wie bisher erst nach Zustimmung.
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const st = a.source?.styles || {};
+const lat = parseFloat(st.osm_y || '51.6637736');
+const lng = parseFloat(st.osm_x || '7.6427878');
+const d = 0.004;
+const src = `https://www.openstreetmap.org/export/embed.html?bbox=${lng - d}%2C${lat - d / 2}%2C${lng + d}%2C${lat + d / 2}&layer=mapnik&marker=${lat}%2C${lng}`;
+const h = a.hpx ? Math.round(a.hpx) : 196;
+const html = `<iframe src="${src}" title="Karte: ${st.osm_label || 'Stockumer Straße 30, 59368 Werne'}" loading="lazy" referrerpolicy="no-referrer"></iframe>`;
+---
+<div class="map" data-consent-embed style={`height:${h}px`}>
+  <div class="blocker" data-blocker>
+    <svg width="20" height="24" viewBox="0 0 20 24" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M14 8h2V6.01A5.98 5.98 0 0010.01 0h-.061A5.961 5.961 0 004 5.9V8h2V5.911A3.978 3.978 0 0110.047 2h.042A3.958 3.958 0 0114 6v2zM3 10h14a3 3 0 013 3v8a3 3 0 01-3 3H3a3 3 0 01-3-3v-8a3 3 0 013-3zm5.889 8.663a2 2 0 102.222-3.325 2 2 0 00-2.222 3.325z" fill="currentColor"/></svg>
+    <p class="blocker__title">Wir benötigen Ihre Zustimmung, um diese Karte zu laden</p>
+    <button type="button" class="blocker__btn" data-consent-accept>Ich bin einverstanden</button>
+  </div>
+  <template set:html={html} />
+</div>

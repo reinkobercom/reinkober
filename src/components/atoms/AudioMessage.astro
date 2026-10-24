@@ -1,0 +1,41 @@
+---
+// "Sprachnachricht"-Player (in Onepage eine eigene React-Komponente).
+// Der Ton liegt bei Bunny Stream; der Player lädt erst beim Klick.
+interface Props { atom: any }
+const { atom: a } = Astro.props;
+const p = a.source?.data?.componentProps || {};
+const url: string = p.videoUrl || '';
+const bars = [0.31, 0.42, 0.66, 0.5, 0.82, 0.38, 0.95, 0.6, 0.44, 0.72, 0.3, 0.58, 0.88, 0.47, 0.35, 0.69, 0.52, 0.8, 0.4, 0.62, 0.33, 0.74, 0.5, 0.28];
+---
+{url && (
+  <div class="voice" data-voice data-src={url}>
+    <button type="button" class="voice__btn" aria-label={`${p.label || 'Sprachnachricht'} abspielen`} aria-pressed="false">
+      <svg class="voice__play" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 4.5v15l13-7.5-13-7.5z" fill="currentColor"/></svg>
+      <svg class="voice__pause" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 4h4v16H6zM14 4h4v16h-4z" fill="currentColor"/></svg>
+    </button>
+    <div class="voice__body">
+      <span class="voice__label">{p.label}</span>
+      <span class="voice__wave" aria-hidden="true">{bars.map((b) => <span class="voice__bar" style={`transform:scaleY(${b})`} />)}</span>
+    </div>
+    <span class="voice__dur">{p.durationLabel}</span>
+    <div class="voice__player"></div>
+  </div>
+)}
+<script>
+  // Sprachnachricht: Bunny-Player beim ersten Klick unsichtbar einbinden, erneuter Klick stoppt
+  document.querySelectorAll<HTMLElement>('[data-voice]').forEach((el) => {
+    const btn = el.querySelector('button')!;
+    const holder = el.querySelector('.voice__player')!;
+    btn.addEventListener('click', () => {
+      const playing = el.classList.toggle('is-playing');
+      btn.setAttribute('aria-pressed', String(playing));
+      holder.innerHTML = '';
+      if (playing) {
+        const src = (el.dataset.src || '').replace(/autoplay=false/, '') + (el.dataset.src?.includes('?') ? '&' : '?') + 'autoplay=true';
+        const f = document.createElement('iframe');
+        f.src = src; f.allow = 'autoplay; encrypted-media'; f.title = 'Sprachnachricht'; f.tabIndex = -1;
+        holder.appendChild(f);
+      }
+    });
+  });
+</script>

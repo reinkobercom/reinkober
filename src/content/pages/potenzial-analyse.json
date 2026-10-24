@@ -1,0 +1,6230 @@
+{
+ "slug": "/potenzial-analyse",
+ "title": "Potenzial-Analyse",
+ "seoTitle": "Potenzial-Analyse",
+ "seoDescription": "",
+ "seoImage": "media/d31b4ddf-dc25-428b-87cf-f664736f8196",
+ "noindexLive": true,
+ "sections": [
+  {
+   "id": "f61a50e5-d613-40bb-8863-88656cf19e24",
+   "title": "Cover",
+   "only": "desktop",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    71,
+    60
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "75645cbe-62e8-4afb-86c2-290a757d57cd",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "23",
+       "md": "23",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1252,
+       "hpx": 194,
+       "x": 94,
+       "y": 70,
+       "mbox": {
+        "x": 122,
+        "y": 70,
+        "w": 1196,
+        "h": 194
+       },
+       "atoms": [
+        {
+         "type": "header",
+         "id": "f54814b2-ff39-47ee-8fe9-944734229cc4",
+         "gap": 20,
+         "w": "91.38710286326489%",
+         "halign": "center",
+         "html": "<strong><p>Erfahren Sie endlich, wie viel <mark data-hl=\"hand-underlined\">Neukunden‒Potenzial in Ihrer Website</mark> steckt!</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 48,
+          "lh": 61.4,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "hl": {
+          "type": "hand-underlined",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "header",
+         "id": "310b606f-c98d-46a2-af40-298992960eff",
+         "gap": 20,
+         "w": "91.38710286326489%",
+         "halign": "center",
+         "html": "<strong><p>Ohne ein Vermögen in Werbung zu verschwenden.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 70,
+      "w": 1250,
+      "h": 250
+     }
+    },
+    {
+     "id": "988fcd90-afcd-4363-bfd7-ea62713da742",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 653,
+       "hpx": 377,
+       "x": 67,
+       "y": 320,
+       "mbox": {
+        "x": 95,
+        "y": 320,
+        "w": 597,
+        "h": 377
+       },
+       "atoms": [
+        {
+         "type": "image",
+         "id": "d69f00bf-2cdb-4444-8241-5f63faaa9356",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/23b28044-d088-45e9-ab14-6ba9b9ea413a",
+         "wpx": 597,
+         "hpx": 346,
+         "frame": {
+          "radius": "8px"
+         },
+         "pos": "50% 38%",
+         "fit": "fill"
+        },
+        {
+         "type": "plain-text",
+         "id": "7d1a5525-68a9-4706-8fb0-6a6b124587da",
+         "gap": 0,
+         "halign": "left",
+         "html": "<p><strong><em>PS: Wenn umsetzbar und gewollt, besprechen wir die Ergebnisse face to face.</em></strong></p>",
+         "tag": "p",
+         "font": {
+          "fs": 14,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        }
+       ]
+      },
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 653,
+       "hpx": 377,
+       "x": 720,
+       "y": 320,
+       "mbox": {
+        "x": 748,
+        "y": 320,
+        "w": 597,
+        "h": 377
+       },
+       "atoms": [
+        {
+         "type": "header",
+         "id": "babb9ee9-d5c1-48c7-8cee-3b4a96c992c2",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Ihre Vorteile:</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "0ada1cb3-87e2-44e0-a888-9051f6b2def1",
+         "gap": 30,
+         "halign": "left",
+         "style": "dot",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Alle wichtigen Kennzahlen persönlich erklärt",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "rgba(118,178,204,0.49)",
+           "iconBox": {
+            "w": 30,
+            "svg": 21,
+            "color": "rgba(118,178,204,0.49)",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 20,
+            "lh": 26,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 46
+          },
+          {
+           "text": "Endlich Klarheit was die nächsten Schritte sind",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "rgba(118,178,204,0.49)",
+           "iconBox": {
+            "w": 30,
+            "svg": 21,
+            "color": "rgba(118,178,204,0.49)",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 20,
+            "lh": 26,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 46
+          },
+          {
+           "text": "Keine Kanäle mehr testen und Budget verschwenden",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "rgba(118,178,204,0.49)",
+           "iconBox": {
+            "w": 30,
+            "svg": 21,
+            "color": "rgba(118,178,204,0.49)",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 20,
+            "lh": 26,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 46
+          }
+         ]
+        },
+        {
+         "type": "link-group",
+         "id": "1798eb7d-0ed9-4927-9e99-5c16ac369a70",
+         "gap": 20,
+         "minW": "378.828125px",
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Potenzial-Analyse sichern",
+           "sub": "Kostenfrei & unverbindlich",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 67.89,
+           "w": 277,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 25.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           },
+           "href": "#atom-UNDIi23Rt1VipyDe16YFw",
+           "action": "scroll"
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "person",
+         "id": "750ae66e-ba9a-4cd4-98d3-050695fa94f9",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/bc3d3547-93e2-466d-847a-133afccdbffe",
+           "alt": ""
+          },
+          {
+           "src": "media/acfa7965-23a2-4680-8cf9-82323f15941d",
+           "alt": ""
+          },
+          {
+           "src": "media/00a189ce-68a5-47e0-870c-d3e8df15932b",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 5,
+         "starColor": "#fbbe03",
+         "html": "<p>Mehr als 300 erfolgreich betreute Kunden</p>"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 320,
+      "w": 1250,
+      "h": 377
+     }
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 1440,
+    "h": 758
+   }
+  },
+  {
+   "id": "e85b1107-735f-420e-a6be-2783d6eb5091",
+   "title": "Cover",
+   "only": "mobile",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    20,
+    30
+   ],
+   "padM": [
+    20,
+    30
+   ],
+   "padT": [
+    41,
+    60
+   ],
+   "side": 24,
+   "container": {
+    "w": null,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "1a2fbab4-47df-4a99-ae0c-f2d72d20b188",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "23",
+       "md": "23",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 342,
+       "hpx": 215,
+       "x": 24,
+       "y": 19,
+       "mbox": {
+        "x": 24,
+        "y": 19,
+        "w": 342,
+        "h": 215
+       },
+       "wpxM": 342,
+       "yM": 19,
+       "hpxM": 215,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 774,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "2841ec3e-d19f-46a1-a5ab-07e320813291",
+         "gap": 20,
+         "w": "91.38710286326489%",
+         "halign": "center",
+         "html": "<strong><p>Erfahren Sie endlich, wie viel <mark data-hl=\"hand-underlined\">Neukunden‒Potenzial in Ihrer Website</mark> steckt!</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 28.98,
+          "lh": 37.07,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "hl": {
+          "type": "hand-underlined",
+          "color": "#76b2cc"
+         }
+        },
+        {
+         "type": "header",
+         "id": "ad6da2d9-f01b-4f53-b381-faee88fd644c",
+         "gap": 0,
+         "w": "91.38710286326489%",
+         "halign": "center",
+         "html": "<strong><p>Ohne ein Vermögen in Werbung zu verschwenden.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 17.62,
+          "lh": 23.18,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 19,
+      "w": 342,
+      "h": 239
+     },
+     "boxM": {
+      "x": 24,
+      "y": 19,
+      "w": 342,
+      "h": 239
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    },
+    {
+     "id": "f726ff34-ae89-4679-9795-32869e423294",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 342,
+       "hpx": 268,
+       "x": 24,
+       "y": 258,
+       "mbox": {
+        "x": 24,
+        "y": 258,
+        "w": 342,
+        "h": 244
+       },
+       "wpxM": 342,
+       "yM": 258,
+       "hpxM": 268,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 774,
+       "atoms": [
+        {
+         "type": "image",
+         "id": "6437d8f6-7b40-4851-ba5c-dae40bdb8f3a",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/23b28044-d088-45e9-ab14-6ba9b9ea413a",
+         "wpx": 342,
+         "hpx": 198,
+         "wpxM": 342,
+         "hpxM": 198,
+         "frame": {
+          "radius": "8px"
+         },
+         "pos": "50% 38%",
+         "fit": "fill"
+        },
+        {
+         "type": "plain-text",
+         "id": "0d187c0f-dd09-446a-b572-b8f007961795",
+         "gap": 0,
+         "halign": "left",
+         "html": "<p><strong><em>PS: Wenn umsetzbar und gewollt, besprechen wir die Ergebnisse face to face.</em></strong></p>",
+         "tag": "p",
+         "font": {
+          "fs": 14,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        }
+       ]
+      },
+      {
+       "lg": "12",
+       "md": "12",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 342,
+       "hpx": 462,
+       "x": 24,
+       "y": 526,
+       "mbox": {
+        "x": 24,
+        "y": 526,
+        "w": 342,
+        "h": 462
+       },
+       "wpxM": 342,
+       "yM": 526,
+       "hpxM": 462,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "top"
+       },
+       "wpxT": 774,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "94d5dde9-286a-4196-8e9d-c6c74ab018d9",
+         "gap": 20,
+         "halign": "left",
+         "html": "<strong><p>Ihre Vorteile:</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "menu-v2",
+         "id": "bcae36f5-ccdd-4705-8c40-62b8cd4767d1",
+         "gap": 30,
+         "halign": "left",
+         "style": "dot",
+         "dir": "vertical",
+         "size": "custom",
+         "space": "16px",
+         "items": [
+          {
+           "text": "Alle wichtigen Kennzahlen persönlich erklärt",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "rgba(118,178,204,0.49)",
+           "iconBox": {
+            "w": 30,
+            "svg": 21,
+            "color": "rgba(118,178,204,0.49)",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 20,
+            "lh": 26,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 68
+          },
+          {
+           "text": "Endlich Klarheit was die nächsten Schritte sind",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "rgba(118,178,204,0.49)",
+           "iconBox": {
+            "w": 30,
+            "svg": 21,
+            "color": "rgba(118,178,204,0.49)",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 20,
+            "lh": 26,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 68
+          },
+          {
+           "text": "Keine Kanäle mehr testen und Budget verschwenden",
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
+           "iconColor": "rgba(118,178,204,0.49)",
+           "iconBox": {
+            "w": 30,
+            "svg": 21,
+            "color": "rgba(118,178,204,0.49)",
+            "radius": "100px"
+           },
+           "font": {
+            "fs": 20,
+            "lh": 26,
+            "fw": 600,
+            "color": "#151f25",
+            "align": "left"
+           },
+           "frame": {
+            "pad": "8px 8px 8px 8px"
+           },
+           "h": 68
+          }
+         ]
+        },
+        {
+         "type": "link-group",
+         "id": "077d64a8-3aa2-45f7-80a9-1bcd7c0082a9",
+         "gap": 20,
+         "minW": "378.828125px",
+         "halign": "left",
+         "buttons": [
+          {
+           "text": "Potenzial-Analyse sichern",
+           "sub": "Kostenfrei & unverbindlich",
+           "kind": "solid",
+           "effect": "volume",
+           "radius": "4px",
+           "h": 70.78,
+           "w": 277,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 20.4,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           },
+           "href": "#atom-UNDIi23Rt1VipyDe16YFw",
+           "action": "scroll"
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 70.78,
+           "w": 277,
+           "fs": 17,
+           "pad": [
+            8,
+            31
+           ]
+          }
+         ],
+         "mode": "vertical"
+        },
+        {
+         "type": "person",
+         "id": "1c3dcac5-54a8-48f4-8dc6-547c67445c06",
+         "gap": 20,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/bc3d3547-93e2-466d-847a-133afccdbffe",
+           "alt": ""
+          },
+          {
+           "src": "media/acfa7965-23a2-4680-8cf9-82323f15941d",
+           "alt": ""
+          },
+          {
+           "src": "media/00a189ce-68a5-47e0-870c-d3e8df15932b",
+           "alt": ""
+          }
+         ],
+         "faceSize": 56,
+         "stars": 5,
+         "starColor": "#fbbe03",
+         "html": "<p>Mehr als 300 betreute Kunden</p>"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 258,
+      "w": 342,
+      "h": 731
+     },
+     "boxM": {
+      "x": 24,
+      "y": 258,
+      "w": 342,
+      "h": 731
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 1019
+   },
+   "boxM": {
+    "x": 0,
+    "y": -1,
+    "w": 390,
+    "h": 1019
+   }
+  },
+  {
+   "id": "2799ba0d-3cf1-4406-a2c7-b029105f1ccc",
+   "title": "Herausforderungen 1",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    61,
+    10
+   ],
+   "padM": [
+    30,
+    5
+   ],
+   "padT": [
+    61,
+    10
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "32b09e27-7cf8-46d9-911a-a10c22e1e775",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "21",
+       "md": "21",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1108,
+       "hpx": 52,
+       "x": 166,
+       "y": 817,
+       "mbox": {
+        "x": 174,
+        "y": 817,
+        "w": 1092,
+        "h": 52
+       },
+       "wpxM": 342,
+       "yM": 1047,
+       "hpxM": 93,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "af506a99-e88f-41c6-8f9c-950a8192580d",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>Kennen Sie folgende Herausforderungen?</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 817,
+      "w": 1250,
+      "h": 52
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1047,
+      "w": 342,
+      "h": 93
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 756,
+    "w": 1440,
+    "h": 123
+   },
+   "boxM": {
+    "x": 0,
+    "y": 1017,
+    "w": 390,
+    "h": 128
+   }
+  },
+  {
+   "id": "9e9cea45-7302-45b1-9da0-a40a92dc09f3",
+   "title": "Herausforderungen 2",
+   "only": "mobile",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    10,
+    50
+   ],
+   "padM": [
+    10,
+    50
+   ],
+   "padT": [
+    21,
+    100
+   ],
+   "side": 24,
+   "container": {
+    "w": null,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "a9652932-cd3a-4563-a6ca-f6c03022eb0a",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "grid",
+       "wpx": 342,
+       "hpx": 416,
+       "x": 24,
+       "y": 1154,
+       "mbox": {
+        "x": 24,
+        "y": 1154,
+        "w": 342,
+        "h": 416
+       },
+       "wpxM": 342,
+       "yM": 1154,
+       "hpxM": 416,
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "icon",
+         "id": "c14f27bc-3d24-490b-9b48-f9e7188a10ab",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "1dffc260-04b0-4d7c-94c8-242becb89df0",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Keine verlässliche Kundenakquise</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "plain-text",
+         "id": "f6747e77-55d6-4b58-a4b4-4970f53e7585",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Sie investieren Zeit und Geld, aber die Kunden kommen unregelmäßig und ohne Vorhersehbarkeit. Es gibt keinen stabilen Prozess, auf den Sie sich verlassen können.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "icon",
+         "id": "910f8d88-7590-479c-8ab7-419c612f97ee",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "d490db57-245f-43dc-a128-125372fd7ee2",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Kaum Anfragen über die Website</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "plain-text",
+         "id": "c9565839-0bc0-4f4b-89f4-e8163e6105bb",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Ihre Website existiert, aber sie bringt kaum Anfragen. Sie fragen sich, warum all die Mühe und Kosten für die Online‒Präsenz keinen messbaren Erfolg bringen.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "icon",
+         "id": "91e5891f-0879-4037-bafc-4ebe3a3632cb",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "f39c3a19-358b-4ee1-b79e-6a1751aee836",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Starke Mitbewerber</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "plain-text",
+         "id": "1c86119c-0e0c-4660-a8c4-a3d9ff736467",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Ihre Konkurrenz ist immer einen Schritt voraus, holt Kunden ab, die Sie eigentlich gewinnen könnten, und drängt Sie langsam aber stetig aus der Sichtbarkeit und aus dem Markt.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "icon",
+         "id": "11363426-7600-4480-8da6-2baff531c980",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 3
+        },
+        {
+         "type": "header",
+         "id": "b4fec7a8-279d-49c6-aed3-3325ac738db3",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Abhängig von Empfehlungen &amp; Netzwerk</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 3
+        },
+        {
+         "type": "plain-text",
+         "id": "4335be4b-3a7a-462a-aa66-87b29897dadb",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Neukunden kommen fast ausschließlich durch Empfehlungen oder Ihr Netzwerk. Sie sind völlig abhängig davon, dass andere für Sie sprechen – was Ihr Wachstum stark limitiert.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 3
+        },
+        {
+         "type": "icon",
+         "id": "540f01bc-0871-40c4-b7e2-e550d8284587",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 4
+        },
+        {
+         "type": "header",
+         "id": "05fa908d-b9ba-4aaa-89c1-81647eac7210",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Jeder empfiehlt etwas anderes</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 4
+        },
+        {
+         "type": "plain-text",
+         "id": "ca7ebcec-3e34-4b80-a7a5-27c1f961053e",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Jeder Berater oder Marketingexperte hat eine andere Meinung. Sie haben das Gefühl, im Dschungel der Ratschläge die Übersicht zu verlieren, ohne eine klare Strategie.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 4
+        },
+        {
+         "type": "icon",
+         "id": "037bbafa-5784-49db-b3d0-d6caa04c7bc9",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 5
+        },
+        {
+         "type": "header",
+         "id": "4128f9ed-2f26-4891-a9f5-58ef09c01908",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Überforderung mit digitalen Kanälen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 5
+        },
+        {
+         "type": "plain-text",
+         "id": "74843dc9-5147-4ef1-9fd4-93835216b746",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">YouTube, Instagram, Google – die Möglichkeiten sind endlos, aber wo sollten Sie ansetzen? Die ständige Unsicherheit, welcher Kanal wirklich funktioniert, hält Sie davon ab, überhaupt zu starten.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 5
+        }
+       ],
+       "gl": {
+        "n": 1,
+        "gapX": 0,
+        "gapY": null,
+        "nM": 1,
+        "gapYM": null,
+        "item": {
+         "kind": "solid",
+         "bg": "#ffffff",
+         "radius": "8px",
+         "shadow": "rgba(17, 17, 26, 0.05) 0px 1px 4px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px 0px",
+         "pad": "16px",
+         "text": "#151f25",
+         "halign": "left",
+         "valign": "middle"
+        },
+        "itemW": 358,
+        "slider": {
+         "arrows": false,
+         "dots": true,
+         "itemW": 358
+        }
+       }
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 1154,
+      "w": 342,
+      "h": 416
+     },
+     "boxM": {
+      "x": 24,
+      "y": 1154,
+      "w": 342,
+      "h": 416
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1144,
+    "w": 390,
+    "h": 476
+   },
+   "boxM": {
+    "x": 0,
+    "y": 1144,
+    "w": 390,
+    "h": 476
+   }
+  },
+  {
+   "id": "406da5b6-69f4-4ea5-b0f5-df3b228b8b86",
+   "title": "Herausforderungen 2",
+   "only": "desktop",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    21,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "f9bebbb6-341b-4084-933f-281e6b1b8460",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "grid",
+       "wpx": 1306,
+       "hpx": 594,
+       "x": 67,
+       "y": 899,
+       "mbox": {
+        "x": 95,
+        "y": 899,
+        "w": 1250,
+        "h": 594
+       },
+       "atoms": [
+        {
+         "type": "icon",
+         "id": "c5c356b0-28ef-4009-9b9d-f163a54a4314",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "9f8abddb-488a-4c8c-95a7-46216801a37b",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Keine verlässliche Kundenakquise</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "plain-text",
+         "id": "cfd44e98-1371-493e-996c-104b99ca90f1",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Sie investieren Zeit und Geld, aber die Kunden kommen unregelmäßig und ohne Vorhersehbarkeit. Es gibt keinen stabilen Prozess, auf den Sie sich verlassen können.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "icon",
+         "id": "3d674c8a-5880-4ae7-bd20-98e0cba560ae",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "150cafe1-70db-43c1-9c00-c249a62c3443",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Kaum Anfragen über die Website</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "plain-text",
+         "id": "01c2de52-a2b8-4643-b91b-c5710fa0a0d2",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Ihre Website existiert, aber sie bringt kaum Anfragen. Sie fragen sich, warum all die Mühe und Kosten für die Online‒Präsenz keinen messbaren Erfolg bringen.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "icon",
+         "id": "8e2c885e-8925-430e-ac88-13f5d9466185",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "3b70ee42-57e6-42b1-ae84-22d9d94ce03d",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Starke Mitbewerber</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "plain-text",
+         "id": "903d2fb4-563f-48a9-8679-e3cec872a28e",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Ihre Konkurrenz ist immer einen Schritt voraus, holt Kunden ab, die Sie eigentlich gewinnen könnten, und drängt Sie langsam aber stetig aus der Sichtbarkeit und aus dem Markt.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "icon",
+         "id": "54172e83-0873-42cd-adce-c79f415a75cc",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 3
+        },
+        {
+         "type": "header",
+         "id": "8054ca6d-b477-4af8-9666-735143908f6d",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Abhängig von Empfehlungen &amp; Netzwerk</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 3
+        },
+        {
+         "type": "plain-text",
+         "id": "fe27bb8e-b58a-4317-892e-14306bfc20f7",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Neukunden kommen fast ausschließlich durch Empfehlungen oder Ihr Netzwerk. Sie sind völlig abhängig davon, dass andere für Sie sprechen – was Ihr Wachstum stark limitiert.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 3
+        },
+        {
+         "type": "icon",
+         "id": "eef28c5c-4be5-464f-8ea4-27b6ed564f1e",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 4
+        },
+        {
+         "type": "header",
+         "id": "9d20fff2-867c-43c7-885d-9d78d6e60486",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Jeder empfiehlt etwas anderes</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 4
+        },
+        {
+         "type": "plain-text",
+         "id": "8f5cc164-e983-439e-ae88-295cdca1a805",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Jeder Berater oder Marketingexperte hat eine andere Meinung. Sie haben das Gefühl, im Dschungel der Ratschläge die Übersicht zu verlieren, ohne eine klare Strategie.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 4
+        },
+        {
+         "type": "icon",
+         "id": "a63b788d-6ba3-4d90-9260-442d264161e4",
+         "gap": 10,
+         "halign": "left",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+         "size": 39,
+         "color": "#c60f17",
+         "frame": {
+          "text": "#c60f17"
+         },
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#c60f17",
+          "radius": "100px"
+         },
+         "cell": 5
+        },
+        {
+         "type": "header",
+         "id": "6af9cc94-f706-4aa7-bc00-a40606a100d7",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Überforderung mit digitalen Kanälen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 5
+        },
+        {
+         "type": "plain-text",
+         "id": "d42a8dfa-7459-4a1c-9d2f-ff3885521add",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">YouTube, Instagram, Google – die Möglichkeiten sind endlos, aber wo sollten Sie ansetzen? Die ständige Unsicherheit, welcher Kanal wirklich funktioniert, hält Sie davon ab, überhaupt zu starten.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.48)",
+          "align": "left"
+         },
+         "cell": 5
+        }
+       ],
+       "gl": {
+        "n": 3,
+        "gapX": 16,
+        "gapY": 16,
+        "nM": 1,
+        "gapYM": null,
+        "item": {
+         "kind": "solid",
+         "bg": "#ffffff",
+         "radius": "8px",
+         "shadow": "rgba(17, 17, 26, 0.05) 0px 4px 32px 0px, rgba(17, 17, 26, 0.05) 0px 8px 48px 0px",
+         "pad": "16px",
+         "text": "#151f25",
+         "halign": "left",
+         "valign": "middle"
+        },
+        "itemW": 406,
+        "slider": null
+       }
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 899,
+      "w": 1250,
+      "h": 594
+     }
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 878,
+    "w": 1440,
+    "h": 715
+   }
+  },
+  {
+   "id": "35609589-fbd2-454a-a5f4-033c0c087071",
+   "title": "CTA",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    51,
+    50
+   ],
+   "padM": [
+    25,
+    25
+   ],
+   "padT": [
+    51,
+    50
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "kind": "solid",
+     "bg": "#ffffff",
+     "radius": "8px",
+     "shadow": "rgba(17, 17, 26, 0.05) 0px 4px 32px 0px, rgba(17, 17, 26, 0.05) 0px 8px 48px 0px",
+     "pad": "32px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "kind": "solid",
+     "bg": "#ffffff",
+     "radius": "8px",
+     "shadow": "rgba(17, 17, 26, 0.05) 0px 4px 32px 0px, rgba(17, 17, 26, 0.05) 0px 8px 48px 0px",
+     "pad": "32px",
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "d8120281-16f2-45b5-97e8-8cc7b37de700",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 804,
+       "hpx": 242,
+       "x": 131,
+       "y": 1675,
+       "mbox": {
+        "x": 181,
+        "y": 1675,
+        "w": 704,
+        "h": 242
+       },
+       "wpxM": 294,
+       "yM": 1669,
+       "hpxM": 445,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "left",
+        "valign": "middle"
+       },
+       "wpxT": 786,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "de4207a6-a866-41f3-bd31-2b3c1fa02ab3",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Kostenfreie Potenzial-Analyse sichern</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "0cfc5ca8-7ebb-44cb-85b3-0c61145144ec",
+         "gap": 20,
+         "halign": "left",
+         "html": "<p>Sichern Sie sich jetzt eine kostenlose Potenzial-Analyse, die Ihnen zeigt, wie Ihre Website wirklich abschneidet. Wir analysieren Ihre Besucherzahlen, Ihr Google-Ranking und Ihre Konkurrenz – inklusive konkreter Empfehlungen, wie Sie schnell mehr Kunden gewinnen.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "left"
+         }
+        },
+        {
+         "type": "person",
+         "id": "8109aed1-7f1f-46a2-8cc5-df631cb4b408",
+         "gap": 10,
+         "halign": "left",
+         "faces": [
+          {
+           "src": "media/a7f47040-dbbe-4b92-9d03-22867b20cc02",
+           "alt": ""
+          }
+         ],
+         "faceSize": 88,
+         "stars": 0,
+         "texts": [
+          {
+           "cls": "title",
+           "text": "Simon Reinkober",
+           "font": {
+            "fs": 14,
+            "lh": 24,
+            "fw": 400,
+            "color": "#151f25",
+            "align": "left"
+           }
+          }
+         ],
+         "html": "<p>Simon Reinkober</p><p data-fs=\"14\" data-lh=\"21\" data-fw=\"400\">Geschäftsführer</p>"
+        }
+       ]
+      },
+      {
+       "lg": "7",
+       "md": "8",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "middle"
+       },
+       "valign": "middle",
+       "wpx": 375,
+       "hpx": 242,
+       "x": 934,
+       "y": 1675,
+       "mbox": {
+        "x": 984,
+        "y": 1675,
+        "w": 275,
+        "h": 242
+       },
+       "wpxM": 294,
+       "yM": 2113,
+       "hpxM": 71,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "middle"
+       },
+       "wpxT": 786,
+       "atoms": [
+        {
+         "type": "link-group",
+         "id": "3472ebf9-fa5a-4ae1-b8f6-88fb5b382956",
+         "gap": 0,
+         "halign": "center",
+         "buttons": [
+          {
+           "text": "Potenzial-Analyse sichern",
+           "sub": "Kostenfrei & unverbindlich",
+           "kind": "solid",
+           "effect": "soft-line-hover",
+           "radius": "8px",
+           "h": 93.39,
+           "w": 275,
+           "bg": "#76b2cc",
+           "color": "#ffffff",
+           "pad": [
+            8,
+            31
+           ],
+           "font": {
+            "fs": 17,
+            "lh": 25.5,
+            "fw": 600,
+            "color": "#ffffff",
+            "align": "center"
+           },
+           "subFont": {
+            "fs": 13.6,
+            "lh": 20.4,
+            "fw": 400,
+            "color": "#ffffff",
+            "align": "center",
+            "ls": 0.5
+           },
+           "shadow": "rgba(118, 178, 204, 0.3) 0px 0px 0px 0px, rgba(118, 178, 204, 0) 0px 0px 0px 16px",
+           "href": "#atom-UNDIi23Rt1VipyDe16YFw",
+           "action": "scroll"
+          }
+         ],
+         "buttonsM": [
+          {
+           "h": 70.78,
+           "w": 294,
+           "fs": 17,
+           "pad": [
+            8,
+            31
+           ]
+          }
+         ],
+         "mode": "vertical"
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 127,
+      "y": 1675,
+      "w": 1186,
+      "h": 242
+     },
+     "boxM": {
+      "x": 48,
+      "y": 1669,
+      "w": 294,
+      "h": 516
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1592,
+    "w": 1440,
+    "h": 407
+   },
+   "boxM": {
+    "x": 0,
+    "y": 1620,
+    "w": 390,
+    "h": 614
+   }
+  },
+  {
+   "id": "5a1e2937-4d5d-4daa-a9d8-4c333d7c1f1d",
+   "title": "Bullet points",
+   "only": "mobile",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    50,
+    50
+   ],
+   "padM": [
+    50,
+    50
+   ],
+   "padT": [
+    101,
+    100
+   ],
+   "side": 24,
+   "container": {
+    "w": null,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "df1c3e7a-5724-4cce-9f16-7ae7da306290",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "14",
+       "md": "14",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 342,
+       "hpx": 253,
+       "x": 24,
+       "y": 2282,
+       "mbox": {
+        "x": 24,
+        "y": 2282,
+        "w": 342,
+        "h": 253
+       },
+       "wpxM": 342,
+       "yM": 2282,
+       "hpxM": 253,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "65880889-f395-4610-82ec-baf0d5d4dd14",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Unsere Erfahrung in Zahlen.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "da83417f-43bf-4185-9359-72f037b814df",
+         "gap": 10,
+         "w": "86.52298634463938%",
+         "halign": "center",
+         "html": "<p>Die besten und schönsten Worte sind nichts wert, wenn sie nicht von schlagkräftigen Zahlen unterstrichen werden können.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "line",
+         "id": "e87b88de-63de-4daf-b809-aae2aceafce2",
+         "gap": 0,
+         "halign": "center",
+         "line": {
+          "h": 32,
+          "w": 342,
+          "bg": null,
+          "border": "0px none rgb(21,31,37)"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 2282,
+      "w": 342,
+      "h": 309
+     },
+     "boxM": {
+      "x": 24,
+      "y": 2282,
+      "w": 342,
+      "h": 309
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    },
+    {
+     "id": "99f66ec1-c5f4-4636-8095-85efd2ef905c",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "grid",
+       "wpx": 342,
+       "hpx": 216,
+       "x": 24,
+       "y": 2591,
+       "mbox": {
+        "x": 24,
+        "y": 2591,
+        "w": 342,
+        "h": 216
+       },
+       "wpxM": 342,
+       "yM": 2591,
+       "hpxM": 216,
+       "wpxT": 806,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "03a590c7-f07d-4979-932b-cb3a4bc1f0a6",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>10+</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 35.47,
+          "lh": 44.64,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "4389fa80-1959-4121-a6cf-baf1b4b0126c",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Jahre Erfahrung</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 17.62,
+          "lh": 23.18,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 0
+        },
+        {
+         "type": "plain-text",
+         "id": "7ccd409f-d276-4187-aa02-524e7a430d8e",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Wir sind von Anfang an mit Google, Facebook &amp; Co. gewachsen und kennen die Plattformen in- und auswendig.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "2e5fe407-af16-499b-bd35-9eac47d09982",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>274.000+</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 35.47,
+          "lh": 44.64,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "2192070d-ff22-44f5-97fa-04df891e92f5",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Generierte Anfragen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 17.62,
+          "lh": 23.18,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 1
+        },
+        {
+         "type": "plain-text",
+         "id": "e62be664-52b4-438e-86ac-84eaf6ce18b4",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Anfragen generieren? Das ist unser Tagesgeschäft – mit nachweislichem Erfolg.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "6b7aeba7-129f-4acd-8a9c-390c1e77c498",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>19,2 Mio. €</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 35.47,
+          "lh": 44.64,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "477c12fc-2c2d-4d01-87d5-a7ea8fcead71",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Adspend in Google &amp; Meta</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 17.62,
+          "lh": 23.18,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 2
+        },
+        {
+         "type": "plain-text",
+         "id": "b80996c8-4737-4de5-a172-b988ff2218cf",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Auch wenn wir heute viele organische Strategien nutzen, sind wir im Paid-Ads-Bereich absolute Profis.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "3399645d-8c35-46ab-a2af-65614819d57e",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>300+</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 35.47,
+          "lh": 44.64,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 3
+        },
+        {
+         "type": "header",
+         "id": "bf9a8037-0503-4a9e-b88b-b35e48dab377",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Glückliche Kunden</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 17.62,
+          "lh": 23.18,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 3
+        },
+        {
+         "type": "plain-text",
+         "id": "62992fac-7ed5-4769-a237-5a39f962a065",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Von Partneragenturen bis hin zu unseren eigenen Kunden – wir haben zahlreiche Unternehmen erfolgreich unterstützt.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 3
+        },
+        {
+         "type": "header",
+         "id": "f4d57a8e-6ed6-44c4-bcc3-7ac2d1eb6b83",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>8</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 35.47,
+          "lh": 44.64,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 4
+        },
+        {
+         "type": "header",
+         "id": "d4d1c5ca-9cff-4f53-b565-dfddfb45918b",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Eigene Projekte bis zum Verkauf</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 17.62,
+          "lh": 23.18,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 4
+        },
+        {
+         "type": "plain-text",
+         "id": "4cd309d7-319e-46bd-b89a-74313f8d120b",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Mit umfassender Erfahrung im Aufbau und erfolgreichen Verkauf eigener Projekte kennen wir jeden Prozessschritt.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 4
+        },
+        {
+         "type": "header",
+         "id": "d5385476-fd90-4d69-8507-99059910e257",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>3</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 35.47,
+          "lh": 44.64,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 5
+        },
+        {
+         "type": "header",
+         "id": "8f6157e4-7c8d-4866-a05b-94bb9807a2a3",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Aktive Beteiligungen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 17.62,
+          "lh": 23.18,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 5
+        },
+        {
+         "type": "plain-text",
+         "id": "4e8eb81d-7499-4f4b-91c7-fafef33ddc6a",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Wir setzen unsere Expertise nicht nur für unsere Partner ein, sondern auch für eigene Unternehmen – für nachhaltigen Erfolg.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 5
+        }
+       ],
+       "gl": {
+        "n": 1,
+        "gapX": 0,
+        "gapY": null,
+        "nM": 1,
+        "gapYM": null,
+        "item": {
+         "radius": "8px",
+         "text": "#151f25",
+         "halign": "center",
+         "valign": "middle"
+        },
+        "itemW": 366,
+        "slider": {
+         "arrows": false,
+         "dots": true,
+         "itemW": 366
+        }
+       }
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 2591,
+      "w": 342,
+      "h": 216
+     },
+     "boxM": {
+      "x": 24,
+      "y": 2591,
+      "w": 342,
+      "h": 216
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 2232,
+    "w": 390,
+    "h": 625
+   },
+   "boxM": {
+    "x": 0,
+    "y": 2232,
+    "w": 390,
+    "h": 625
+   }
+  },
+  {
+   "id": "6dd60033-0eae-40de-b6c9-0849945e1225",
+   "title": "Partners",
+   "only": "mobile",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    15,
+    25
+   ],
+   "padM": [
+    15,
+    25
+   ],
+   "padT": [
+    31,
+    50
+   ],
+   "side": 24,
+   "container": {
+    "w": null,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "c3617603-4e1c-4b98-a020-c793d9ed057f",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "14",
+       "md": "14",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 342,
+       "hpx": 135,
+       "x": 24,
+       "y": 2871,
+       "mbox": {
+        "x": 24,
+        "y": 2871,
+        "w": 342,
+        "h": 135
+       },
+       "wpxM": 342,
+       "yM": 2871,
+       "hpxM": 135,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "gallery",
+         "id": "d71f5e18-da85-44c1-b349-cf984bdfc416",
+         "gap": 0,
+         "halign": "left",
+         "marquee": true,
+         "slider": false,
+         "images": [
+          {
+           "src": "media/a236671d-2b9b-48b1-86c9-94749e0ff3bb",
+           "alt": "",
+           "w": 124,
+           "h": 77,
+           "x": -75,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8eb88448-2438-42a7-b623-daea195e6390",
+           "alt": "",
+           "w": 124,
+           "h": 77,
+           "x": 65,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/e39a9ee6-94f7-427d-a4a1-3088827c459e",
+           "alt": "",
+           "w": 124,
+           "h": 77,
+           "x": 205,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d5ce3c46-7d61-4a76-b77c-07323704fc27",
+           "alt": "",
+           "w": 124,
+           "h": 77,
+           "x": 344,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/0f0d74b8-3e3d-41b3-8de4-52e1f32f530c",
+           "alt": "",
+           "w": 124,
+           "h": 77,
+           "x": 484,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/5033095d-2acf-415f-8a14-80512e71001f",
+           "alt": "",
+           "w": 124,
+           "h": 77,
+           "x": 624,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/082d6a51-1aca-4984-aa3a-3d5a9e4223a1",
+           "alt": "",
+           "w": 124,
+           "h": 77,
+           "x": 763,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/a7626f12-1b7a-4e24-9eb6-75f47b0854c9",
+           "alt": "",
+           "w": 124,
+           "h": 77,
+           "x": 903,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8f36f234-9ac1-40bc-8e47-92b286681972",
+           "alt": "",
+           "w": 124,
+           "h": 77,
+           "x": 1042,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d4272d3b-3f20-453a-81a2-11c16e36e352",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 1182,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/73934bef-6999-424f-8e8d-6ce7432fcb56",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 1323,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/6dc8be83-121f-43bb-9a1b-9ff3f8f38607",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 1465,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/41f27911-5b6f-4e11-84e3-bf18e57d4f2c",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 1606,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/7bc8cf93-6a9f-4167-b0d1-aafb41ae95f8",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 1747,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8d36a5a9-4459-493e-a9ed-27cdd3df0b5b",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 1889,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/58c4ec36-61da-480d-8da2-569218677867",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 2030,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/3f3cd0f7-8865-4d9b-abf6-3d2ea1ae8ef1",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 2171,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/38e2af02-636f-44f5-a3aa-f5be3e60e12b",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 2313,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/ba2b2080-c050-46cc-a2b6-90f01237ffd9",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 2454,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 2595,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/a236671d-2b9b-48b1-86c9-94749e0ff3bb",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 2736,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8eb88448-2438-42a7-b623-daea195e6390",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 2878,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/e39a9ee6-94f7-427d-a4a1-3088827c459e",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 3019,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d5ce3c46-7d61-4a76-b77c-07323704fc27",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 3161,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/0f0d74b8-3e3d-41b3-8de4-52e1f32f530c",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 3302,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/5033095d-2acf-415f-8a14-80512e71001f",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 3443,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/082d6a51-1aca-4984-aa3a-3d5a9e4223a1",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 3585,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/a7626f12-1b7a-4e24-9eb6-75f47b0854c9",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 3726,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8f36f234-9ac1-40bc-8e47-92b286681972",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 3867,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d4272d3b-3f20-453a-81a2-11c16e36e352",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 4009,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/73934bef-6999-424f-8e8d-6ce7432fcb56",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 4150,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/6dc8be83-121f-43bb-9a1b-9ff3f8f38607",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 4291,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/41f27911-5b6f-4e11-84e3-bf18e57d4f2c",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 4433,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/7bc8cf93-6a9f-4167-b0d1-aafb41ae95f8",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 4574,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8d36a5a9-4459-493e-a9ed-27cdd3df0b5b",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 4715,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/58c4ec36-61da-480d-8da2-569218677867",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 4857,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/3f3cd0f7-8865-4d9b-abf6-3d2ea1ae8ef1",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 4998,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/38e2af02-636f-44f5-a3aa-f5be3e60e12b",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 5139,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/ba2b2080-c050-46cc-a2b6-90f01237ffd9",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 5281,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 5422,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/a236671d-2b9b-48b1-86c9-94749e0ff3bb",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 5547,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8eb88448-2438-42a7-b623-daea195e6390",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 5689,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/e39a9ee6-94f7-427d-a4a1-3088827c459e",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 5830,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d5ce3c46-7d61-4a76-b77c-07323704fc27",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 5972,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/0f0d74b8-3e3d-41b3-8de4-52e1f32f530c",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 6113,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/5033095d-2acf-415f-8a14-80512e71001f",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 6254,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/082d6a51-1aca-4984-aa3a-3d5a9e4223a1",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 6396,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/a7626f12-1b7a-4e24-9eb6-75f47b0854c9",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 6537,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8f36f234-9ac1-40bc-8e47-92b286681972",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 6678,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d4272d3b-3f20-453a-81a2-11c16e36e352",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 6820,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/73934bef-6999-424f-8e8d-6ce7432fcb56",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 6961,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/6dc8be83-121f-43bb-9a1b-9ff3f8f38607",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 7102,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/41f27911-5b6f-4e11-84e3-bf18e57d4f2c",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 7244,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/7bc8cf93-6a9f-4167-b0d1-aafb41ae95f8",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 7385,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8d36a5a9-4459-493e-a9ed-27cdd3df0b5b",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 7526,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/58c4ec36-61da-480d-8da2-569218677867",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 7668,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/3f3cd0f7-8865-4d9b-abf6-3d2ea1ae8ef1",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 7809,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/38e2af02-636f-44f5-a3aa-f5be3e60e12b",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 7950,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/ba2b2080-c050-46cc-a2b6-90f01237ffd9",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 8092,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 125,
+           "h": 77,
+           "x": 8233,
+           "y": 0,
+           "radius": null
+          }
+         ],
+         "gbox": {
+          "x": 24,
+          "y": 2871,
+          "w": 342,
+          "h": 77
+         },
+         "item": {
+          "x": -59,
+          "y": 2871,
+          "w": 140,
+          "h": 77,
+          "frame": {
+           "pad": [
+            0,
+            8,
+            0,
+            8
+           ]
+          }
+         },
+         "anim": {
+          "name": "marquee",
+          "dur": "93.7s",
+          "dir": "normal"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "2ba2fcbb-f60a-443c-b917-a734109fab4e",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p><em>Über 190 Partner vertrauen uns – hier ein Auszug derer, die wir nennen dürfen.</em></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 2871,
+      "w": 342,
+      "h": 135
+     },
+     "boxM": {
+      "x": 24,
+      "y": 2871,
+      "w": 342,
+      "h": 135
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 2856,
+    "w": 390,
+    "h": 175
+   },
+   "boxM": {
+    "x": 0,
+    "y": 2856,
+    "w": 390,
+    "h": 175
+   }
+  },
+  {
+   "id": "6a2950c6-a9a8-4cfe-b09f-b484f2a80f6a",
+   "title": "Bullet points",
+   "only": "desktop",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    101,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "5ad29106-da42-4fa3-abf6-6916a71a79f8",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "14",
+       "md": "14",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 762,
+       "hpx": 158,
+       "x": 339,
+       "y": 2098,
+       "mbox": {
+        "x": 367,
+        "y": 2098,
+        "w": 706,
+        "h": 158
+       },
+       "atoms": [
+        {
+         "type": "header",
+         "id": "c465f001-74d9-46dd-8456-8a29a9c38512",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Unsere Erfahrung in Zahlen.</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "6ee2b985-5c52-4f43-b687-2c9777216ca5",
+         "gap": 10,
+         "w": "86.52298634463938%",
+         "halign": "center",
+         "html": "<p>Die besten und schönsten Worte sind nichts wert, wenn sie nicht von schlagkräftigen Zahlen unterstrichen werden können.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 18,
+          "lh": 27,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "line",
+         "id": "fe67b9f4-b1db-4e04-9d41-94ad05682d0e",
+         "gap": 0,
+         "halign": "center",
+         "line": {
+          "h": 32,
+          "w": 706,
+          "bg": null,
+          "border": "0px none rgb(21,31,37)"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 2098,
+      "w": 1250,
+      "h": 214
+     }
+    },
+    {
+     "id": "213679af-2e9f-42e8-aefb-c7a65d83bf3e",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "grid",
+       "wpx": 1306,
+       "hpx": 470,
+       "x": 67,
+       "y": 2312,
+       "mbox": {
+        "x": 95,
+        "y": 2312,
+        "w": 1250,
+        "h": 470
+       },
+       "atoms": [
+        {
+         "type": "header",
+         "id": "4f99668b-8379-41a9-89e7-064ab5fec05d",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>10+</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 64,
+          "lh": 80.54,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "a7d05ef7-2a7e-4706-83d9-1a26b6a2f3f8",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Jahre Erfahrung</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 0
+        },
+        {
+         "type": "plain-text",
+         "id": "5e59982f-804a-40e2-9213-665e7ed4773a",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Wir sind von Anfang an mit Google, Facebook &amp; Co. gewachsen und kennen die Plattformen in- und auswendig.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "c41e2aa4-f25a-47bb-8e49-f22caaca7906",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>274.000+</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 64,
+          "lh": 80.54,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "352e5194-ed88-4e74-ad10-33b813d06a85",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Generierte Anfragen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 1
+        },
+        {
+         "type": "plain-text",
+         "id": "8ebe7126-fcfb-4b6c-ae01-604c2231ca44",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Anfragen generieren? Das ist unser Tagesgeschäft – mit nachweislichem Erfolg.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "75a640aa-00b0-4a9b-9def-2124bacabab9",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>19,2 Mio. €</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 64,
+          "lh": 80.54,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "3220a740-ff61-4082-b584-f8b9fa7e8145",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Adspend in Google &amp; Meta</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 2
+        },
+        {
+         "type": "plain-text",
+         "id": "2e5a8fa3-3b34-4f40-a586-5d73371c3d15",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Auch wenn wir heute viele organische Strategien nutzen, sind wir im Paid-Ads-Bereich absolute Profis.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "f948e244-c01d-4774-84d0-9b97e176f84b",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>300+</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 64,
+          "lh": 80.54,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 3
+        },
+        {
+         "type": "header",
+         "id": "f93f4c7f-9ed0-44d2-90cf-41dc90601c7d",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Glückliche Kunden</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 3
+        },
+        {
+         "type": "plain-text",
+         "id": "3da8bae6-1431-44e4-82c2-b84b0ca707e7",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Von Partneragenturen bis hin zu unseren eigenen Kunden – wir haben zahlreiche Unternehmen erfolgreich unterstützt.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 3
+        },
+        {
+         "type": "header",
+         "id": "8248522b-e58b-4d5c-a092-50fb7c849349",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>8</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 64,
+          "lh": 80.54,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 4
+        },
+        {
+         "type": "header",
+         "id": "e18b742a-b20c-45e6-9803-42e4f852fa31",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Eigene Projekte bis zum Verkauf</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 4
+        },
+        {
+         "type": "plain-text",
+         "id": "7f427c37-b9a2-4f11-833f-9fd8af38e659",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Mit umfassender Erfahrung im Aufbau und erfolgreichen Verkauf eigener Projekte kennen wir jeden Prozessschritt.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 4
+        },
+        {
+         "type": "header",
+         "id": "9c2ffc05-cc26-4953-8729-6477d41ea382",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>3</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 64,
+          "lh": 80.54,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 5
+        },
+        {
+         "type": "header",
+         "id": "4cfffed1-375d-4f5e-8921-226d41b35d95",
+         "gap": 20,
+         "halign": "center",
+         "html": "<strong><p>Aktive Beteiligungen</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 26.31,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         },
+         "cell": 5
+        },
+        {
+         "type": "plain-text",
+         "id": "942d79bb-2478-4d85-9b9f-bbb0f1222fe1",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>Wir setzen unsere Expertise nicht nur für unsere Partner ein, sondern auch für eigene Unternehmen – für nachhaltigen Erfolg.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "center"
+         },
+         "cell": 5
+        }
+       ],
+       "gl": {
+        "n": 3,
+        "gapX": 32,
+        "gapY": 32,
+        "nM": 1,
+        "gapYM": null,
+        "item": {
+         "radius": "8px",
+         "text": "#151f25",
+         "halign": "center",
+         "valign": "middle"
+        },
+        "itemW": 395,
+        "slider": null
+       }
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 2312,
+      "w": 1250,
+      "h": 470
+     }
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 1997,
+    "w": 1440,
+    "h": 884
+   }
+  },
+  {
+   "id": "d63f2df9-f016-4aec-8891-bf5b3d5973b1",
+   "title": "Partners",
+   "only": "desktop",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    31,
+    50
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "bb8c3438-6585-409c-8d3c-e99243e6414f",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "14",
+       "md": "14",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 739,
+       "hpx": 393,
+       "x": 351,
+       "y": 2912,
+       "mbox": {
+        "x": 359,
+        "y": 2912,
+        "w": 723,
+        "h": 393
+       },
+       "atoms": [
+        {
+         "type": "gallery",
+         "id": "1443a6ce-f555-49a7-bc37-9e0086fe504f",
+         "gap": 0,
+         "halign": "left",
+         "marquee": false,
+         "slider": false,
+         "images": [
+          {
+           "src": "media/a236671d-2b9b-48b1-86c9-94749e0ff3bb",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 0,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/8eb88448-2438-42a7-b623-daea195e6390",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 147,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/e39a9ee6-94f7-427d-a4a1-3088827c459e",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 295,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/d5ce3c46-7d61-4a76-b77c-07323704fc27",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 443,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/0f0d74b8-3e3d-41b3-8de4-52e1f32f530c",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 591,
+           "y": 0,
+           "radius": null
+          },
+          {
+           "src": "media/5033095d-2acf-415f-8a14-80512e71001f",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 0,
+           "y": 93,
+           "radius": null
+          },
+          {
+           "src": "media/082d6a51-1aca-4984-aa3a-3d5a9e4223a1",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 147,
+           "y": 93,
+           "radius": null
+          },
+          {
+           "src": "media/a7626f12-1b7a-4e24-9eb6-75f47b0854c9",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 295,
+           "y": 93,
+           "radius": null
+          },
+          {
+           "src": "media/8f36f234-9ac1-40bc-8e47-92b286681972",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 443,
+           "y": 93,
+           "radius": null
+          },
+          {
+           "src": "media/d4272d3b-3f20-453a-81a2-11c16e36e352",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 591,
+           "y": 93,
+           "radius": null
+          },
+          {
+           "src": "media/73934bef-6999-424f-8e8d-6ce7432fcb56",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 0,
+           "y": 187,
+           "radius": null
+          },
+          {
+           "src": "media/6dc8be83-121f-43bb-9a1b-9ff3f8f38607",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 147,
+           "y": 187,
+           "radius": null
+          },
+          {
+           "src": "media/41f27911-5b6f-4e11-84e3-bf18e57d4f2c",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 295,
+           "y": 187,
+           "radius": null
+          },
+          {
+           "src": "media/7bc8cf93-6a9f-4167-b0d1-aafb41ae95f8",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 443,
+           "y": 187,
+           "radius": null
+          },
+          {
+           "src": "media/8d36a5a9-4459-493e-a9ed-27cdd3df0b5b",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 591,
+           "y": 187,
+           "radius": null
+          },
+          {
+           "src": "media/58c4ec36-61da-480d-8da2-569218677867",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 0,
+           "y": 281,
+           "radius": null
+          },
+          {
+           "src": "media/3f3cd0f7-8865-4d9b-abf6-3d2ea1ae8ef1",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 147,
+           "y": 281,
+           "radius": null
+          },
+          {
+           "src": "media/38e2af02-636f-44f5-a3aa-f5be3e60e12b",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 295,
+           "y": 281,
+           "radius": null
+          },
+          {
+           "src": "media/ba2b2080-c050-46cc-a2b6-90f01237ffd9",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 443,
+           "y": 281,
+           "radius": null
+          },
+          {
+           "src": "media/d4deb22c-4020-4261-97f7-beb6c8de22ea",
+           "alt": "",
+           "w": 132,
+           "h": 78,
+           "x": 591,
+           "y": 281,
+           "radius": null
+          }
+         ],
+         "gbox": {
+          "x": 359,
+          "y": 2912,
+          "w": 723,
+          "h": 359
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "c728b879-6453-4b0f-bd61-6ce85bbbfcca",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p><em>Über 190 Partner vertrauen uns – hier ein Auszug derer, die wir nennen dürfen.</em></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 2912,
+      "w": 1250,
+      "h": 393
+     }
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 2881,
+    "w": 1440,
+    "h": 474
+   }
+  },
+  {
+   "id": "f7aa205b-5e3e-42d8-99cb-ae4d94b2499b",
+   "title": "Quiz",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    81,
+    80
+   ],
+   "padM": [
+    40,
+    40
+   ],
+   "padT": [
+    81,
+    80
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "35a90e54-2d98-4595-ae5c-947802f85e29",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1266,
+       "hpx": 484,
+       "x": 87,
+       "y": 3434,
+       "mbox": {
+        "x": 95,
+        "y": 3434,
+        "w": 1250,
+        "h": 484
+       },
+       "wpxM": 342,
+       "yM": 3070,
+       "hpxM": 494,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "quiz",
+         "id": "fd13def5-7509-49aa-b08c-1587bcdeb1f1",
+         "gap": 19,
+         "halign": "center",
+         "raw": true,
+         "hpx": 484,
+         "source": {
+          "data": {
+           "formId": "f6cd4b09-ae06-4835-9ee6-9fad325bcadc",
+           "_oldFormId": 3074,
+           "formTemplateSchema": {
+            "_id": "90809402-1b18-4992-9646-abc577b96c59",
+            "title": "Quiz",
+            "type": "form_multistep",
+            "config": {
+             "options": {
+              "button_text": "Daten absenden",
+              "legal_documents": [],
+              "button_back_text": "",
+              "button_next_text": "Nächster Schritt",
+              "button_back_active": false,
+              "on_submit_action_link": "",
+              "on_submit_action_type": "slide",
+              "on_submit_action_header": "Thank you!",
+              "on_submit_action_description": "The form was successfully submitted.",
+              "on_submit_action_target_blank": false
+             }
+            },
+            "steps": [
+             {
+              "id": "e71088b6-8ac8-4620-9a3e-9f14c345104c",
+              "fields": [
+               {
+                "id": "3618248f-4035-4f89-a1df-cf5301a98966",
+                "type": "text",
+                "label": "www.",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "url",
+                  "svg": "<path d=\"M11.864,16.378a3.915,3.915,0,0,1-1.124,2.468l-1,1A3.95,3.95,0,0,1,4.154,14.26l1-1a3.917,3.917,0,0,1,2.468-1.124L9.438,10.32a5.928,5.928,0,0,0-5.7,1.527l-1,1a5.949,5.949,0,0,0,8.414,8.413l1-1a5.932,5.932,0,0,0,1.527-5.7Z\" data-fill=\"#444\"/> <path d=\"M16.378,11.864a3.915,3.915,0,0,0,2.468-1.124l1-1A3.95,3.95,0,0,0,14.26,4.154l-1,1a3.917,3.917,0,0,0-1.124,2.468L10.32,9.438a5.928,5.928,0,0,1,1.527-5.7l1-1a5.949,5.949,0,0,1,8.413,8.414l-1,1a5.932,5.932,0,0,1-5.7,1.527Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M8,17a1,1,0,0,1-.707-1.707l8-8a1,1,0,0,1,1.414,1.414l-8,8A1,1,0,0,1,8,17Z\" data-fill=\"#444\"/>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie lautet Ihre Website?",
+              "description": "",
+              "options": {
+               "required": true,
+               "step_type": "mono_field",
+               "step_field_type": "text",
+               "slug": "Website"
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "e35dd970-8f5c-48e4-ac18-503319ff3eab",
+              "fields": [
+               {
+                "id": "a043c9d5-4631-4ce6-b587-4c7c4c7503d1",
+                "type": "text",
+                "label": "z.B. 17 Personen",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "multiple-11",
+                  "svg": "<path data-fill=\"#444444\" d=\"M12,6L12,6c-1.657,0-3-1.343-3-3v0c0-1.657,1.343-3,3-3h0c1.657,0,3,1.343,3,3v0C15,4.657,13.657,6,12,6z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M4,19v-8c0-1.13,0.391-2.162,1.026-3H2c-1.105,0-2,0.895-2,2v6h2v5c0,0.552,0.448,1,1,1h2 c0.552,0,1-0.448,1-1v-2H4z\"></path> <path data-fill=\"#444444\" d=\"M14,24h-4c-0.552,0-1-0.448-1-1v-6H6v-6c0-1.657,1.343-3,3-3h6c1.657,0,3,1.343,3,3v6h-3v6 C15,23.552,14.552,24,14,24z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M4,7L4,7C2.895,7,2,6.105,2,5v0c0-1.105,0.895-2,2-2h0c1.105,0,2,0.895,2,2v0 C6,6.105,5.105,7,4,7z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M20,19v-8c0-1.13-0.391-2.162-1.026-3H22c1.105,0,2,0.895,2,2v6h-2v5c0,0.552-0.448,1-1,1h-2 c-0.552,0-1-0.448-1-1v-2H20z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M20,7L20,7c1.105,0,2-0.895,2-2v0c0-1.105-0.895-2-2-2h0c-1.105,0-2,0.895-2,2v0 C18,6.105,18.895,7,20,7z\"></path>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie groß ist Ihr Team?",
+              "description": "",
+              "options": {
+               "step_type": "mono_field",
+               "step_field_type": "text",
+               "required": true,
+               "slug": "Teamgröße"
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "7de68c3e-9e51-4066-9ae5-64254d425067",
+              "fields": [
+               {
+                "id": "bdc2d826-6cc8-4d7b-8568-ac55eecb44fb",
+                "type": "text",
+                "label": "Max Mustermann",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "personal-trainer",
+                  "svg": "<path d=\"M22,14.885l-5-4.5A1.5,1.5,0,0,0,16,10H8a1.5,1.5,0,0,0-1,.385l-5,4.5a1.5,1.5,0,0,0-.308,1.844l2.5,4.5a1.5,1.5,0,1,0,2.622-1.458L4.892,16.315,7,14.418V23a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V14.418l2.108,1.9-1.919,3.456a1.5,1.5,0,0,0,2.622,1.458l2.5-4.5A1.5,1.5,0,0,0,22,14.885Z\" data-fill=\"#444\"></path> <circle cx=\"12\" cy=\"4\" r=\"4\" data-fill=\"#444\"></circle>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie heißen Sie?",
+              "description": "",
+              "options": {
+               "required": true,
+               "step_type": "mono_field",
+               "step_field_type": "text"
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "c6d152e6-8f6d-4ec4-ba46-7ea984ab6740",
+              "fields": [
+               {
+                "id": "36859603-1afc-4d41-8f66-a75259391b95",
+                "type": "email",
+                "label": "Ihre E-Mail-Adresse",
+                "placeholder": "",
+                "required": true,
+                "position": 1,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "letter",
+                  "svg": "<path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\" data-fill=\"#444\"/>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               },
+               {
+                "id": "0cfafb12-7e8b-40e6-9654-626595609e01",
+                "type": "phone",
+                "label": "Telefon",
+                "placeholder": "",
+                "required": true,
+                "position": 2,
+                "options": {
+                 "phone_region": "auto"
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie können wir Sie erreichen?",
+              "description": "Innerhalb von 48 Stunden kontaktieren wir Sie zwecks Besprechung der tiefgreifenden Analyse.",
+              "options": {
+               "required": true,
+               "step_type": "form",
+               "step_field_type": "phone",
+               "button_text_switch": true,
+               "button_text": "Kostenfreie Potenzial-Analyse erhalten",
+               "slug": "Kontakt",
+               "icon_switch": false,
+               "icon_type": "nucleo",
+               "icon_nucleo_config": {
+                "label": "file-edit",
+                "svg": "<path d=\"M21,0H3A1,1,0,0,0,2,1V23a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V1A1,1,0,0,0,21,0ZM10,17,6,18l1-4,8-8,3,3Z\" data-fill=\"#444\"/>",
+                "fill": "glyph",
+                "size": 24,
+                "line_weight": 2
+               }
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "6fb9c88f-5430-463a-b475-26e2d2fc9cfa",
+              "fields": [],
+              "title": "Vielen Dank! Wir werden uns bald mit dir in Verbindung setzen",
+              "description": "",
+              "options": {
+               "slug": "",
+               "label": "Label",
+               "title": "Question",
+               "disabled": false,
+               "required": true,
+               "image_src": "",
+               "step_type": "finish",
+               "autoSelect": false,
+               "media_type": "image",
+               "showLabels": true,
+               "button_text": "Finish",
+               "description": "Description",
+               "icon_nucleo": "",
+               "icon_switch": false,
+               "image_switch": false,
+               "image_position": "right",
+               "media_position": "right",
+               "button_subtitle": "",
+               "image_size_type": "fill",
+               "step_field_type": "select",
+               "image_arrangement": "centerCenter",
+               "image_full_switch": false,
+               "select_option_type": "card",
+               "select_content_type": "image",
+               "step_allow_multiselect": false
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             }
+            ],
+            "id": null
+           }
+          },
+          "styles": {
+           "button_infinite_animation": "ripple",
+           "size": "xl",
+           "step_progressbar_type": "dots",
+           "step_progressbar_switch": false
+          }
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 3434,
+      "w": 1250,
+      "h": 484
+     },
+     "boxM": {
+      "x": 24,
+      "y": 3070,
+      "w": 342,
+      "h": 494
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 3353,
+    "w": 1440,
+    "h": 645
+   },
+   "boxM": {
+    "x": 0,
+    "y": 3030,
+    "w": 390,
+    "h": 574
+   }
+  },
+  {
+   "id": "723c8208-0d63-4882-aaf8-77d00853cf0f",
+   "title": "Produkt",
+   "only": "mobile",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    20,
+    50
+   ],
+   "padM": [
+    20,
+    50
+   ],
+   "padT": [
+    41,
+    100
+   ],
+   "side": 24,
+   "container": {
+    "w": null,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "636cdfa9-119e-4c04-b225-9f4be617c82f",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "16",
+       "md": "16",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 342,
+       "hpx": 93,
+       "x": 24,
+       "y": 3623,
+       "mbox": {
+        "x": 24,
+        "y": 3623,
+        "w": 342,
+        "h": 93
+       },
+       "wpxM": 342,
+       "yM": 3623,
+       "hpxM": 93,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 790,
+       "atoms": [
+        {
+         "type": "header",
+         "id": "bcdb3b20-bf40-496a-a802-e2d50fa30f61",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>Das weitere Vorgehen:</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 3623,
+      "w": 342,
+      "h": 133
+     },
+     "boxM": {
+      "x": 24,
+      "y": 3623,
+      "w": 342,
+      "h": 133
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    },
+    {
+     "id": "c3bfb73e-fe95-41f9-a720-ce13cd30122b",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": null,
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "grid",
+       "wpx": 342,
+       "hpx": 471,
+       "x": 24,
+       "y": 3756,
+       "mbox": {
+        "x": 24,
+        "y": 3756,
+        "w": 342,
+        "h": 471
+       },
+       "wpxM": 342,
+       "yM": 3756,
+       "hpxM": 471,
+       "wpxT": 790,
+       "atoms": [
+        {
+         "type": "image",
+         "id": "e6b05e1d-024a-42c7-b5ab-7e31204b6397",
+         "gap": 20,
+         "halign": "center",
+         "src": "unsplash/Vy2Y1cCLiT8",
+         "wpx": 342,
+         "hpx": 239,
+         "wpxM": 342,
+         "hpxM": 239,
+         "pos": "50% 50%",
+         "fit": "fill",
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "ee57807e-77f2-442f-b167-9f434679384f",
+         "gap": 0,
+         "halign": "left",
+         "html": "<strong><p>Schritt 1</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 28,
+          "fw": 700,
+          "color": "#76b2cc",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "e9997fe6-4079-4708-96d2-bd9cb8add2b9",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Analyse Ihres Potenzials</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "plain-text",
+         "id": "b375b860-be0f-4ad9-97e9-fe7b715c44a1",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Unsere Analysten haben bereits Ihre Website auf dem Radar und prüfen zeitnah, welche Möglichkeiten Sie noch haben. </span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "image",
+         "id": "e9877696-640b-413e-b151-b73fcc417eb4",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/f17cb458-f95d-45bf-92fa-cd17ff4b6f22",
+         "wpx": 342,
+         "hpx": 239,
+         "wpxM": 342,
+         "hpxM": 239,
+         "pos": "50% 50%",
+         "fit": "fill",
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "aab8ee2b-cd16-4d4f-bc30-69e42263bfcc",
+         "gap": 0,
+         "halign": "left",
+         "html": "<strong><p>Schritt 2</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 28,
+          "fw": 700,
+          "color": "#76b2cc",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "61b37c25-5fc0-45b7-b26f-55c70b2eac57",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Wir rufen Sie an</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "plain-text",
+         "id": "4f012cce-7a7f-4da5-9269-16723ee517b7",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Wir rufen Sie an und vereinbaren mit Ihnen einen Termin zur Besprechung der Ergebnisse ‒ kein Sales-Gespräch ‒ sondern 100% Mehrwert. </span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "image",
+         "id": "e3c29826-e206-44a6-a03e-4405ce6c07ee",
+         "gap": 20,
+         "halign": "center",
+         "src": "unsplash/pypeCEaJeZY",
+         "wpx": 342,
+         "hpx": 239,
+         "wpxM": 342,
+         "hpxM": 239,
+         "pos": "50% 50%",
+         "fit": "fill",
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "83db0c92-5289-4e22-8e91-4683b5f14898",
+         "gap": 0,
+         "halign": "left",
+         "html": "<strong><p>Schritt 3</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 28,
+          "fw": 700,
+          "color": "#76b2cc",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "9fd56e3b-6f69-4b8b-9b07-2afe0ff10517",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Mehrwert &amp; Umsetzung</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "plain-text",
+         "id": "fe2455ab-c8f7-4bb3-9877-d644cb0a03e7",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Im persönlichen Gespräch analysieren wir Ihr Potenzial und geben Ihnen direkt umsetzbare Maßnahmen mit auf den Weg.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         },
+         "cell": 2
+        }
+       ],
+       "gl": {
+        "n": 1,
+        "gapX": 0,
+        "gapY": null,
+        "nM": 1,
+        "gapYM": null,
+        "item": {
+         "text": "#151f25",
+         "halign": "left",
+         "valign": "top"
+        },
+        "itemW": 366,
+        "slider": {
+         "arrows": false,
+         "dots": true,
+         "itemW": 366
+        }
+       }
+      }
+     ],
+     "box": {
+      "x": 24,
+      "y": 3756,
+      "w": 342,
+      "h": 471
+     },
+     "boxM": {
+      "x": 24,
+      "y": 3756,
+      "w": 342,
+      "h": 471
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 3603,
+    "w": 390,
+    "h": 674
+   },
+   "boxM": {
+    "x": 0,
+    "y": 3603,
+    "w": 390,
+    "h": 674
+   }
+  },
+  {
+   "id": "26923b96-07d2-431a-b0e0-c9d1bb84db62",
+   "title": "Produkt",
+   "only": "desktop",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    41,
+    100
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "5d3b492b-5add-42bb-8a4d-61fe46d5a13f",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "16",
+       "md": "16",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 860,
+       "hpx": 52,
+       "x": 290,
+       "y": 4038,
+       "mbox": {
+        "x": 310,
+        "y": 4038,
+        "w": 820,
+        "h": 52
+       },
+       "atoms": [
+        {
+         "type": "header",
+         "id": "37cc92bb-57c2-4883-80cd-6d7290788706",
+         "gap": 10,
+         "halign": "center",
+         "html": "<strong><p>Das weitere Vorgehen:</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 32,
+          "lh": 41.6,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4038,
+      "w": 1250,
+      "h": 92
+     }
+    },
+    {
+     "id": "639d0cee-9651-495c-978a-f19dbdaa20f6",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "mol": "grid",
+       "wpx": 1290,
+       "hpx": 433,
+       "x": 75,
+       "y": 4130,
+       "mbox": {
+        "x": 95,
+        "y": 4130,
+        "w": 1250,
+        "h": 433
+       },
+       "atoms": [
+        {
+         "type": "image",
+         "id": "c8491c2b-6f54-45d1-8626-b47e585c0c6e",
+         "gap": 20,
+         "halign": "center",
+         "src": "unsplash/Vy2Y1cCLiT8",
+         "wpx": 373,
+         "hpx": 261,
+         "pos": "50% 50%",
+         "fit": "fill",
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "17a22bae-ee88-4305-88ae-cfb24ef3eaca",
+         "gap": 0,
+         "halign": "left",
+         "html": "<strong><p>Schritt 1</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 28,
+          "fw": 700,
+          "color": "#76b2cc",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "header",
+         "id": "83da8e50-b918-4ea0-b77a-adbfddf31965",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Analyse Ihres Potenzials</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "plain-text",
+         "id": "1f05cbdf-4b3c-40cf-8121-beb07fe11125",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Unsere Analysten haben bereits Ihre Website auf dem Radar und prüfen zeitnah, welche Möglichkeiten Sie noch haben. </span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         },
+         "cell": 0
+        },
+        {
+         "type": "image",
+         "id": "3b068fc1-b395-44c9-8e14-51cb20ad5f19",
+         "gap": 20,
+         "halign": "center",
+         "src": "media/f17cb458-f95d-45bf-92fa-cd17ff4b6f22",
+         "wpx": 373,
+         "hpx": 261,
+         "pos": "50% 50%",
+         "fit": "fill",
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "191aadd5-5d87-449c-a795-1f684a5de219",
+         "gap": 0,
+         "halign": "left",
+         "html": "<strong><p>Schritt 2</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 28,
+          "fw": 700,
+          "color": "#76b2cc",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "header",
+         "id": "43e478f8-7019-49f9-a7be-85342b4dd68f",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Wir rufen Sie an</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "plain-text",
+         "id": "0b712144-7ba5-48cd-84a4-48c764169a8f",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Wir rufen Sie an und vereinbaren mit Ihnen einen Termin zur Besprechung der Ergebnisse ‒ kein Sales-Gespräch ‒ sondern 100% Mehrwert. </span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         },
+         "cell": 1
+        },
+        {
+         "type": "image",
+         "id": "6027bb89-00fc-42da-90df-22d0d016f4f2",
+         "gap": 20,
+         "halign": "center",
+         "src": "unsplash/pypeCEaJeZY",
+         "wpx": 373,
+         "hpx": 261,
+         "pos": "50% 50%",
+         "fit": "fill",
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "095e1f09-7941-4fb7-9740-cb24ede705c4",
+         "gap": 0,
+         "halign": "left",
+         "html": "<strong><p>Schritt 3</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 20,
+          "lh": 28,
+          "fw": 700,
+          "color": "#76b2cc",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "header",
+         "id": "d9f872b3-3a3b-4931-b2a1-2967911c3985",
+         "gap": 10,
+         "halign": "left",
+         "html": "<strong><p>Mehrwert &amp; Umsetzung</p></strong>",
+         "tag": "p",
+         "font": {
+          "fs": 24,
+          "lh": 31.45,
+          "fw": 700,
+          "color": "#151f25",
+          "align": "left"
+         },
+         "cell": 2
+        },
+        {
+         "type": "plain-text",
+         "id": "c41a2612-7d6c-4ef6-9c84-15d13f6734c2",
+         "gap": 10,
+         "halign": "left",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Im persönlichen Gespräch analysieren wir Ihr Potenzial und geben Ihnen direkt umsetzbare Maßnahmen mit auf den Weg.</span><br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "rgba(21,31,37,0.5)",
+          "align": "left"
+         },
+         "cell": 2
+        }
+       ],
+       "gl": {
+        "n": 3,
+        "gapX": 65,
+        "gapY": null,
+        "nM": 1,
+        "gapYM": null,
+        "item": {
+         "text": "#151f25",
+         "halign": "left",
+         "valign": "top"
+        },
+        "itemW": 373,
+        "slider": null
+       }
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4130,
+      "w": 1250,
+      "h": 433
+     }
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 3997,
+    "w": 1440,
+    "h": 665
+   }
+  },
+  {
+   "id": "UNDIi23Rt1VipyDe16YFw",
+   "title": "Quiz",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    81,
+    80
+   ],
+   "padM": [
+    40,
+    40
+   ],
+   "padT": [
+    81,
+    80
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "803c122b-b177-4889-a6b6-70cc846c5c20",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "24",
+       "md": "24",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 1266,
+       "hpx": 484,
+       "x": 87,
+       "y": 4743,
+       "mbox": {
+        "x": 95,
+        "y": 4743,
+        "w": 1250,
+        "h": 484
+       },
+       "wpxM": 342,
+       "yM": 4316,
+       "hpxM": 494,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "quiz",
+         "id": "0RSwWHCyGe9CPJTcdCYSa",
+         "gap": 19,
+         "halign": "center",
+         "raw": true,
+         "hpx": 484,
+         "source": {
+          "data": {
+           "formId": "442a1997-ad50-49a2-840d-b7af5d79be62",
+           "_oldFormId": 3074,
+           "formTemplateSchema": {
+            "_id": "90809402-1b18-4992-9646-abc577b96c59",
+            "title": "Quiz",
+            "type": "form_multistep",
+            "config": {
+             "options": {
+              "button_text": "Daten absenden",
+              "legal_documents": [],
+              "button_back_text": "",
+              "button_next_text": "Nächster Schritt",
+              "button_back_active": false,
+              "on_submit_action_link": "",
+              "on_submit_action_type": "slide",
+              "on_submit_action_header": "Thank you!",
+              "on_submit_action_description": "The form was successfully submitted.",
+              "on_submit_action_target_blank": false
+             }
+            },
+            "steps": [
+             {
+              "id": "e71088b6-8ac8-4620-9a3e-9f14c345104c",
+              "fields": [
+               {
+                "id": "3618248f-4035-4f89-a1df-cf5301a98966",
+                "type": "text",
+                "label": "www.",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "url",
+                  "svg": "<path d=\"M11.864,16.378a3.915,3.915,0,0,1-1.124,2.468l-1,1A3.95,3.95,0,0,1,4.154,14.26l1-1a3.917,3.917,0,0,1,2.468-1.124L9.438,10.32a5.928,5.928,0,0,0-5.7,1.527l-1,1a5.949,5.949,0,0,0,8.414,8.413l1-1a5.932,5.932,0,0,0,1.527-5.7Z\" data-fill=\"#444\"/> <path d=\"M16.378,11.864a3.915,3.915,0,0,0,2.468-1.124l1-1A3.95,3.95,0,0,0,14.26,4.154l-1,1a3.917,3.917,0,0,0-1.124,2.468L10.32,9.438a5.928,5.928,0,0,1,1.527-5.7l1-1a5.949,5.949,0,0,1,8.413,8.414l-1,1a5.932,5.932,0,0,1-5.7,1.527Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M8,17a1,1,0,0,1-.707-1.707l8-8a1,1,0,0,1,1.414,1.414l-8,8A1,1,0,0,1,8,17Z\" data-fill=\"#444\"/>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie lautet Ihre Website?",
+              "description": "",
+              "options": {
+               "required": true,
+               "step_type": "mono_field",
+               "step_field_type": "text",
+               "slug": "Website"
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "e35dd970-8f5c-48e4-ac18-503319ff3eab",
+              "fields": [
+               {
+                "id": "a043c9d5-4631-4ce6-b587-4c7c4c7503d1",
+                "type": "text",
+                "label": "z.B. 17 Personen",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "multiple-11",
+                  "svg": "<path data-fill=\"#444444\" d=\"M12,6L12,6c-1.657,0-3-1.343-3-3v0c0-1.657,1.343-3,3-3h0c1.657,0,3,1.343,3,3v0C15,4.657,13.657,6,12,6z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M4,19v-8c0-1.13,0.391-2.162,1.026-3H2c-1.105,0-2,0.895-2,2v6h2v5c0,0.552,0.448,1,1,1h2 c0.552,0,1-0.448,1-1v-2H4z\"></path> <path data-fill=\"#444444\" d=\"M14,24h-4c-0.552,0-1-0.448-1-1v-6H6v-6c0-1.657,1.343-3,3-3h6c1.657,0,3,1.343,3,3v6h-3v6 C15,23.552,14.552,24,14,24z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M4,7L4,7C2.895,7,2,6.105,2,5v0c0-1.105,0.895-2,2-2h0c1.105,0,2,0.895,2,2v0 C6,6.105,5.105,7,4,7z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M20,19v-8c0-1.13-0.391-2.162-1.026-3H22c1.105,0,2,0.895,2,2v6h-2v5c0,0.552-0.448,1-1,1h-2 c-0.552,0-1-0.448-1-1v-2H20z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M20,7L20,7c1.105,0,2-0.895,2-2v0c0-1.105-0.895-2-2-2h0c-1.105,0-2,0.895-2,2v0 C18,6.105,18.895,7,20,7z\"></path>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie groß ist Ihr Team?",
+              "description": "",
+              "options": {
+               "step_type": "mono_field",
+               "step_field_type": "text",
+               "required": true,
+               "slug": "Teamgröße"
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "7de68c3e-9e51-4066-9ae5-64254d425067",
+              "fields": [
+               {
+                "id": "bdc2d826-6cc8-4d7b-8568-ac55eecb44fb",
+                "type": "text",
+                "label": "Max Mustermann",
+                "placeholder": "",
+                "required": false,
+                "position": 1,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "personal-trainer",
+                  "svg": "<path d=\"M22,14.885l-5-4.5A1.5,1.5,0,0,0,16,10H8a1.5,1.5,0,0,0-1,.385l-5,4.5a1.5,1.5,0,0,0-.308,1.844l2.5,4.5a1.5,1.5,0,1,0,2.622-1.458L4.892,16.315,7,14.418V23a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V14.418l2.108,1.9-1.919,3.456a1.5,1.5,0,0,0,2.622,1.458l2.5-4.5A1.5,1.5,0,0,0,22,14.885Z\" data-fill=\"#444\"></path> <circle cx=\"12\" cy=\"4\" r=\"4\" data-fill=\"#444\"></circle>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie heißen Sie?",
+              "description": "",
+              "options": {
+               "required": true,
+               "step_type": "mono_field",
+               "step_field_type": "text"
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "c6d152e6-8f6d-4ec4-ba46-7ea984ab6740",
+              "fields": [
+               {
+                "id": "36859603-1afc-4d41-8f66-a75259391b95",
+                "type": "email",
+                "label": "Ihre E-Mail-Adresse",
+                "placeholder": "",
+                "required": true,
+                "position": 1,
+                "options": {
+                 "icon_switch": true,
+                 "icon_type": "nucleo",
+                 "icon_nucleo_config": {
+                  "label": "letter",
+                  "svg": "<path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\" data-fill=\"#444\"/>",
+                  "fill": "glyph",
+                  "size": 24,
+                  "line_weight": 2
+                 }
+                },
+                "value": ""
+               },
+               {
+                "id": "0cfafb12-7e8b-40e6-9654-626595609e01",
+                "type": "phone",
+                "label": "Telefon",
+                "placeholder": "",
+                "required": true,
+                "position": 2,
+                "options": {
+                 "phone_region": "auto"
+                },
+                "value": ""
+               }
+              ],
+              "title": "Wie können wir Sie erreichen?",
+              "description": "Innerhalb von 48 Stunden kontaktieren wir Sie zwecks Besprechung der tiefgreifenden Analyse.",
+              "options": {
+               "required": true,
+               "step_type": "form",
+               "step_field_type": "phone",
+               "button_text_switch": true,
+               "button_text": "Kostenfreie Potenzial-Analyse erhalten",
+               "slug": "Kontakt",
+               "icon_switch": false,
+               "icon_type": "nucleo",
+               "icon_nucleo_config": {
+                "label": "file-edit",
+                "svg": "<path d=\"M21,0H3A1,1,0,0,0,2,1V23a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V1A1,1,0,0,0,21,0ZM10,17,6,18l1-4,8-8,3,3Z\" data-fill=\"#444\"/>",
+                "fill": "glyph",
+                "size": 24,
+                "line_weight": 2
+               }
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             },
+             {
+              "id": "6fb9c88f-5430-463a-b475-26e2d2fc9cfa",
+              "fields": [],
+              "title": "Vielen Dank! Wir werden uns bald mit dir in Verbindung setzen",
+              "description": "",
+              "options": {
+               "slug": "",
+               "label": "Label",
+               "title": "Question",
+               "disabled": false,
+               "required": true,
+               "image_src": "",
+               "step_type": "finish",
+               "autoSelect": false,
+               "media_type": "image",
+               "showLabels": true,
+               "button_text": "Finish",
+               "description": "Description",
+               "icon_nucleo": "",
+               "icon_switch": false,
+               "image_switch": false,
+               "image_position": "right",
+               "media_position": "right",
+               "button_subtitle": "",
+               "image_size_type": "fill",
+               "step_field_type": "select",
+               "image_arrangement": "centerCenter",
+               "image_full_switch": false,
+               "select_option_type": "card",
+               "select_content_type": "image",
+               "step_allow_multiselect": false
+              },
+              "logic": {
+               "rules": [],
+               "fallback": {}
+              }
+             }
+            ],
+            "id": null
+           }
+          },
+          "styles": {
+           "button_infinite_animation": "ripple",
+           "size": "xl",
+           "step_progressbar_type": "dots",
+           "step_progressbar_switch": false
+          }
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 4743,
+      "w": 1250,
+      "h": 484
+     },
+     "boxM": {
+      "x": 24,
+      "y": 4316,
+      "w": 342,
+      "h": 494
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 4662,
+    "w": 1440,
+    "h": 645
+   },
+   "boxM": {
+    "x": 0,
+    "y": 4276,
+    "w": 390,
+    "h": 574
+   }
+  },
+  {
+   "id": "85568a61-44be-4d11-b767-b5b3da69bc6f",
+   "title": "Fußzeile 2 Global",
+   "only": "both",
+   "isHeader": false,
+   "isMega": false,
+   "global": false,
+   "bg": "#ffffff",
+   "text": "#151f25",
+   "pad": [
+    31,
+    30
+   ],
+   "padM": [
+    15,
+    15
+   ],
+   "padT": [
+    31,
+    30
+   ],
+   "side": 32,
+   "container": {
+    "w": 1250,
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "containerM": {
+    "frame": {
+     "text": "#151f25",
+     "halign": "center",
+     "valign": "middle"
+    }
+   },
+   "rows": [
+    {
+     "id": "I6J9kr_AwfYJIxutM10OK",
+     "grid": "columns",
+     "frame": {
+      "text": "#151f25"
+     },
+     "halign": "center",
+     "valign": "top",
+     "gap": [
+      null,
+      null
+     ],
+     "gtc": "none",
+     "mb": 0,
+     "cols": [
+      {
+       "lg": "15",
+       "md": "15",
+       "sm": "24",
+       "bento": [
+        "1",
+        "1"
+       ],
+       "mol": "text-block",
+       "frame": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "valign": "top",
+       "wpx": 791,
+       "hpx": 182,
+       "x": 324,
+       "y": 5337,
+       "mbox": {
+        "x": 332,
+        "y": 5337,
+        "w": 775,
+        "h": 182
+       },
+       "wpxM": 342,
+       "yM": 4864,
+       "hpxM": 254,
+       "frameM": {
+        "text": "#151f25",
+        "halign": "center",
+        "valign": "top"
+       },
+       "wpxT": 766,
+       "atoms": [
+        {
+         "type": "logo",
+         "id": "u9KhOql_psf5SbS3UUbL5",
+         "gap": 10,
+         "halign": "center",
+         "src": "media/d92f36ab-4d35-4ebd-9683-fb4cebac0a89",
+         "wpx": 250,
+         "hpx": 35,
+         "wpxM": 250,
+         "hpxM": 35,
+         "href": "/",
+         "pos": "50% 50%",
+         "fit": "cover"
+        },
+        {
+         "type": "plain-text",
+         "id": "9rADkVfZN8pttq5kYkErf",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 16,
+          "lh": 24,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "5IYd2vsBZj51KPl3ggdNN",
+         "gap": 20,
+         "halign": "center",
+         "html": "<p>Impressum | AGB | Datenschutz<br></p>",
+         "tag": "p",
+         "font": {
+          "fs": 14,
+          "lh": 21,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        },
+        {
+         "type": "plain-text",
+         "id": "-Sy97RS0p3oX9JgYf129r",
+         "gap": 10,
+         "halign": "center",
+         "html": "<p>© 2025 reinkober.com - Alle Rechte vorbehalten.</p>",
+         "tag": "p",
+         "font": {
+          "fs": 12,
+          "lh": 18,
+          "fw": 400,
+          "color": "#151f25",
+          "align": "center"
+         }
+        }
+       ]
+      }
+     ],
+     "box": {
+      "x": 95,
+      "y": 5337,
+      "w": 1250,
+      "h": 182
+     },
+     "boxM": {
+      "x": 24,
+      "y": 4864,
+      "w": 342,
+      "h": 254
+     },
+     "gapM": [
+      null,
+      null
+     ]
+    }
+   ],
+   "box": {
+    "x": 0,
+    "y": 5306,
+    "w": 1440,
+    "h": 243
+   },
+   "boxM": {
+    "x": 0,
+    "y": 4849,
+    "w": 390,
+    "h": 284
+   }
+  }
+ ],
+ "forms": [
+  {
+   "_id": "442a1997-ad50-49a2-840d-b7af5d79be62",
+   "siteId": "fa3bb1a6-a314-426b-8714-2409dcaa0b7a",
+   "title": "Quiz 2",
+   "type": "form_multistep",
+   "config": {
+    "options": {
+     "button_text": "Daten absenden",
+     "legal_documents": [],
+     "button_back_text": "",
+     "button_next_text": "Nächster Schritt",
+     "button_back_active": false,
+     "on_submit_action_link": "",
+     "on_submit_action_type": "slide",
+     "on_submit_action_header": "Thank you!",
+     "on_submit_action_description": "The form was successfully submitted.",
+     "on_submit_action_target_blank": false
+    }
+   },
+   "steps": [
+    {
+     "id": "e71088b6-8ac8-4620-9a3e-9f14c345104c",
+     "fields": [
+      {
+       "id": "3618248f-4035-4f89-a1df-cf5301a98966",
+       "type": "text",
+       "label": "www.",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "url",
+         "svg": "<path d=\"M11.864,16.378a3.915,3.915,0,0,1-1.124,2.468l-1,1A3.95,3.95,0,0,1,4.154,14.26l1-1a3.917,3.917,0,0,1,2.468-1.124L9.438,10.32a5.928,5.928,0,0,0-5.7,1.527l-1,1a5.949,5.949,0,0,0,8.414,8.413l1-1a5.932,5.932,0,0,0,1.527-5.7Z\" data-fill=\"#444\"/> <path d=\"M16.378,11.864a3.915,3.915,0,0,0,2.468-1.124l1-1A3.95,3.95,0,0,0,14.26,4.154l-1,1a3.917,3.917,0,0,0-1.124,2.468L10.32,9.438a5.928,5.928,0,0,1,1.527-5.7l1-1a5.949,5.949,0,0,1,8.413,8.414l-1,1a5.932,5.932,0,0,1-5.7,1.527Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M8,17a1,1,0,0,1-.707-1.707l8-8a1,1,0,0,1,1.414,1.414l-8,8A1,1,0,0,1,8,17Z\" data-fill=\"#444\"/>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "value": ""
+      }
+     ],
+     "title": "Jetzt ausfüllen & Auswertung sichern:\nWie lautet Ihre Website?",
+     "description": "",
+     "options": {
+      "required": true,
+      "step_type": "mono_field",
+      "step_field_type": "text",
+      "slug": "Website"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "e35dd970-8f5c-48e4-ac18-503319ff3eab",
+     "fields": [
+      {
+       "id": "a043c9d5-4631-4ce6-b587-4c7c4c7503d1",
+       "type": "text",
+       "label": "z.B. 17 Personen",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "multiple-11",
+         "svg": "<path data-fill=\"#444444\" d=\"M12,6L12,6c-1.657,0-3-1.343-3-3v0c0-1.657,1.343-3,3-3h0c1.657,0,3,1.343,3,3v0C15,4.657,13.657,6,12,6z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M4,19v-8c0-1.13,0.391-2.162,1.026-3H2c-1.105,0-2,0.895-2,2v6h2v5c0,0.552,0.448,1,1,1h2 c0.552,0,1-0.448,1-1v-2H4z\"></path> <path data-fill=\"#444444\" d=\"M14,24h-4c-0.552,0-1-0.448-1-1v-6H6v-6c0-1.657,1.343-3,3-3h6c1.657,0,3,1.343,3,3v6h-3v6 C15,23.552,14.552,24,14,24z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M4,7L4,7C2.895,7,2,6.105,2,5v0c0-1.105,0.895-2,2-2h0c1.105,0,2,0.895,2,2v0 C6,6.105,5.105,7,4,7z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M20,19v-8c0-1.13-0.391-2.162-1.026-3H22c1.105,0,2,0.895,2,2v6h-2v5c0,0.552-0.448,1-1,1h-2 c-0.552,0-1-0.448-1-1v-2H20z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M20,7L20,7c1.105,0,2-0.895,2-2v0c0-1.105-0.895-2-2-2h0c-1.105,0-2,0.895-2,2v0 C18,6.105,18.895,7,20,7z\"></path>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "value": ""
+      }
+     ],
+     "title": "Wie groß ist Ihr Team?",
+     "description": "",
+     "options": {
+      "step_type": "mono_field",
+      "step_field_type": "text",
+      "required": true,
+      "slug": "Teamgröße"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "7de68c3e-9e51-4066-9ae5-64254d425067",
+     "fields": [
+      {
+       "id": "bdc2d826-6cc8-4d7b-8568-ac55eecb44fb",
+       "type": "text",
+       "label": "Max Mustermann",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "personal-trainer",
+         "svg": "<path d=\"M22,14.885l-5-4.5A1.5,1.5,0,0,0,16,10H8a1.5,1.5,0,0,0-1,.385l-5,4.5a1.5,1.5,0,0,0-.308,1.844l2.5,4.5a1.5,1.5,0,1,0,2.622-1.458L4.892,16.315,7,14.418V23a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V14.418l2.108,1.9-1.919,3.456a1.5,1.5,0,0,0,2.622,1.458l2.5-4.5A1.5,1.5,0,0,0,22,14.885Z\" data-fill=\"#444\"></path> <circle cx=\"12\" cy=\"4\" r=\"4\" data-fill=\"#444\"></circle>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "value": ""
+      }
+     ],
+     "title": "Wie heißen Sie?",
+     "description": "",
+     "options": {
+      "required": true,
+      "step_type": "mono_field",
+      "step_field_type": "text"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "c6d152e6-8f6d-4ec4-ba46-7ea984ab6740",
+     "fields": [
+      {
+       "id": "36859603-1afc-4d41-8f66-a75259391b95",
+       "type": "email",
+       "label": "Ihre E-Mail-Adresse",
+       "placeholder": "",
+       "required": true,
+       "position": 1,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "letter",
+         "svg": "<path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\" data-fill=\"#444\"/>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "value": ""
+      },
+      {
+       "id": "0cfafb12-7e8b-40e6-9654-626595609e01",
+       "type": "phone",
+       "label": "Telefon",
+       "placeholder": "",
+       "required": true,
+       "position": 2,
+       "options": {
+        "phone_region": "auto"
+       },
+       "value": ""
+      }
+     ],
+     "title": "Wie können wir Sie erreichen?",
+     "description": "Innerhalb von 48 Stunden kontaktieren wir Sie zwecks Terminabsprache zur Besprechung der tiefgreifenden Analyse.",
+     "options": {
+      "required": true,
+      "step_type": "form",
+      "step_field_type": "phone",
+      "button_text_switch": true,
+      "button_text": "Kostenfreie Potenzial-Analyse erhalten",
+      "slug": "Kontakt",
+      "icon_switch": false,
+      "icon_type": "nucleo",
+      "icon_nucleo_config": {
+       "label": "file-edit",
+       "svg": "<path d=\"M21,0H3A1,1,0,0,0,2,1V23a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V1A1,1,0,0,0,21,0ZM10,17,6,18l1-4,8-8,3,3Z\" data-fill=\"#444\"/>",
+       "fill": "glyph",
+       "size": 24,
+       "line_weight": 2
+      }
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "6fb9c88f-5430-463a-b475-26e2d2fc9cfa",
+     "fields": [],
+     "title": "",
+     "description": "",
+     "options": {
+      "slug": "",
+      "label": "Label",
+      "title": "Question",
+      "disabled": false,
+      "required": true,
+      "image_src": "",
+      "step_type": "finish",
+      "autoSelect": false,
+      "media_type": "image",
+      "showLabels": true,
+      "button_text": "Finish",
+      "description": "Description",
+      "icon_nucleo": "",
+      "icon_switch": false,
+      "image_switch": false,
+      "image_position": "right",
+      "media_position": "right",
+      "button_subtitle": "",
+      "image_size_type": "fill",
+      "step_field_type": "select",
+      "image_arrangement": "centerCenter",
+      "image_full_switch": false,
+      "select_option_type": "card",
+      "select_content_type": "image",
+      "step_allow_multiselect": false,
+      "on_submit_action_type": "link",
+      "on_submit_action_link": "/danke"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    }
+   ]
+  },
+  {
+   "_id": "f6cd4b09-ae06-4835-9ee6-9fad325bcadc",
+   "siteId": "fa3bb1a6-a314-426b-8714-2409dcaa0b7a",
+   "title": "Quiz 1",
+   "type": "form_multistep",
+   "config": {
+    "options": {
+     "button_text": "Daten absenden",
+     "legal_documents": [
+      {
+       "id": "bb90f195-c05d-40b9-86ae-1f00cbe17e8d",
+       "text_before": "Mit dem Absenden des Formulars erkläre ich mich einverstanden mit der",
+       "isRequired": true,
+       "isCheckbox": true,
+       "list": [
+        {
+         "id": "6acb92a9-4de2-4868-9c80-47ef7d1b6372",
+         "document_title": "Datenschutzerklärung",
+         "document_link": "https://www.reinkober.com/datenschutz"
+        }
+       ]
+      }
+     ],
+     "button_back_text": "",
+     "button_next_text": "Nächster Schritt",
+     "button_back_active": false,
+     "on_submit_action_link": "",
+     "on_submit_action_type": "slide",
+     "on_submit_action_header": "Thank you!",
+     "on_submit_action_description": "The form was successfully submitted.",
+     "on_submit_action_target_blank": false,
+     "legal_documents_style": "framed"
+    }
+   },
+   "steps": [
+    {
+     "id": "e71088b6-8ac8-4620-9a3e-9f14c345104c",
+     "fields": [
+      {
+       "id": "3618248f-4035-4f89-a1df-cf5301a98966",
+       "type": "text",
+       "label": "www.",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "url",
+         "svg": "<path d=\"M11.864,16.378a3.915,3.915,0,0,1-1.124,2.468l-1,1A3.95,3.95,0,0,1,4.154,14.26l1-1a3.917,3.917,0,0,1,2.468-1.124L9.438,10.32a5.928,5.928,0,0,0-5.7,1.527l-1,1a5.949,5.949,0,0,0,8.414,8.413l1-1a5.932,5.932,0,0,0,1.527-5.7Z\" data-fill=\"#444\"/> <path d=\"M16.378,11.864a3.915,3.915,0,0,0,2.468-1.124l1-1A3.95,3.95,0,0,0,14.26,4.154l-1,1a3.917,3.917,0,0,0-1.124,2.468L10.32,9.438a5.928,5.928,0,0,1,1.527-5.7l1-1a5.949,5.949,0,0,1,8.413,8.414l-1,1a5.932,5.932,0,0,1-5.7,1.527Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M8,17a1,1,0,0,1-.707-1.707l8-8a1,1,0,0,1,1.414,1.414l-8,8A1,1,0,0,1,8,17Z\" data-fill=\"#444\"/>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "value": ""
+      }
+     ],
+     "title": "Jetzt ausfüllen & Auswertung sichern:\nWie lautet Ihre Website?",
+     "description": "",
+     "options": {
+      "required": true,
+      "step_type": "mono_field",
+      "step_field_type": "text",
+      "slug": "Website"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "e35dd970-8f5c-48e4-ac18-503319ff3eab",
+     "fields": [
+      {
+       "id": "a043c9d5-4631-4ce6-b587-4c7c4c7503d1",
+       "type": "text",
+       "label": "z.B. 17 Personen",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "multiple-11",
+         "svg": "<path data-fill=\"#444444\" d=\"M12,6L12,6c-1.657,0-3-1.343-3-3v0c0-1.657,1.343-3,3-3h0c1.657,0,3,1.343,3,3v0C15,4.657,13.657,6,12,6z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M4,19v-8c0-1.13,0.391-2.162,1.026-3H2c-1.105,0-2,0.895-2,2v6h2v5c0,0.552,0.448,1,1,1h2 c0.552,0,1-0.448,1-1v-2H4z\"></path> <path data-fill=\"#444444\" d=\"M14,24h-4c-0.552,0-1-0.448-1-1v-6H6v-6c0-1.657,1.343-3,3-3h6c1.657,0,3,1.343,3,3v6h-3v6 C15,23.552,14.552,24,14,24z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M4,7L4,7C2.895,7,2,6.105,2,5v0c0-1.105,0.895-2,2-2h0c1.105,0,2,0.895,2,2v0 C6,6.105,5.105,7,4,7z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M20,19v-8c0-1.13-0.391-2.162-1.026-3H22c1.105,0,2,0.895,2,2v6h-2v5c0,0.552-0.448,1-1,1h-2 c-0.552,0-1-0.448-1-1v-2H20z\"></path> <path data-color=\"color-2\" data-fill=\"#444444\" d=\"M20,7L20,7c1.105,0,2-0.895,2-2v0c0-1.105-0.895-2-2-2h0c-1.105,0-2,0.895-2,2v0 C18,6.105,18.895,7,20,7z\"></path>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "value": ""
+      }
+     ],
+     "title": "Wie groß ist Ihr Team?",
+     "description": "",
+     "options": {
+      "step_type": "mono_field",
+      "step_field_type": "text",
+      "required": true,
+      "slug": "Teamgröße"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "7de68c3e-9e51-4066-9ae5-64254d425067",
+     "fields": [
+      {
+       "id": "bdc2d826-6cc8-4d7b-8568-ac55eecb44fb",
+       "type": "text",
+       "label": "Max Mustermann",
+       "placeholder": "",
+       "required": false,
+       "position": 1,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "personal-trainer",
+         "svg": "<path d=\"M22,14.885l-5-4.5A1.5,1.5,0,0,0,16,10H8a1.5,1.5,0,0,0-1,.385l-5,4.5a1.5,1.5,0,0,0-.308,1.844l2.5,4.5a1.5,1.5,0,1,0,2.622-1.458L4.892,16.315,7,14.418V23a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1V14.418l2.108,1.9-1.919,3.456a1.5,1.5,0,0,0,2.622,1.458l2.5-4.5A1.5,1.5,0,0,0,22,14.885Z\" data-fill=\"#444\"></path> <circle cx=\"12\" cy=\"4\" r=\"4\" data-fill=\"#444\"></circle>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "value": ""
+      }
+     ],
+     "title": "Wie heißen Sie?",
+     "description": "",
+     "options": {
+      "required": true,
+      "step_type": "mono_field",
+      "step_field_type": "text"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "c6d152e6-8f6d-4ec4-ba46-7ea984ab6740",
+     "fields": [
+      {
+       "id": "36859603-1afc-4d41-8f66-a75259391b95",
+       "type": "email",
+       "label": "Ihre E-Mail-Adresse",
+       "placeholder": "",
+       "required": true,
+       "position": 1,
+       "options": {
+        "icon_switch": true,
+        "icon_type": "nucleo",
+        "icon_nucleo_config": {
+         "label": "letter",
+         "svg": "<path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\" data-fill=\"#444\"/> <path data-color=\"color-2\" d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\" data-fill=\"#444\"/>",
+         "fill": "glyph",
+         "size": 24,
+         "line_weight": 2
+        }
+       },
+       "value": ""
+      },
+      {
+       "id": "0cfafb12-7e8b-40e6-9654-626595609e01",
+       "type": "phone",
+       "label": "Telefon",
+       "placeholder": "",
+       "required": true,
+       "position": 2,
+       "options": {
+        "phone_region": "auto"
+       },
+       "value": ""
+      }
+     ],
+     "title": "Wie können wir Sie erreichen?",
+     "description": "Innerhalb von 48 Stunden kontaktieren wir Sie zwecks Besprechung der tiefgreifenden Analyse.",
+     "options": {
+      "required": true,
+      "step_type": "form",
+      "step_field_type": "phone",
+      "button_text_switch": true,
+      "button_text": "Kostenfreie Potenzial-Analyse erhalten",
+      "slug": "Kontakt",
+      "icon_switch": false,
+      "icon_type": "nucleo",
+      "icon_nucleo_config": {
+       "label": "file-edit",
+       "svg": "<path d=\"M21,0H3A1,1,0,0,0,2,1V23a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V1A1,1,0,0,0,21,0ZM10,17,6,18l1-4,8-8,3,3Z\" data-fill=\"#444\"/>",
+       "fill": "glyph",
+       "size": 24,
+       "line_weight": 2
+      }
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    },
+    {
+     "id": "6fb9c88f-5430-463a-b475-26e2d2fc9cfa",
+     "fields": [],
+     "title": "",
+     "description": "",
+     "options": {
+      "slug": "",
+      "label": "Label",
+      "title": "Question",
+      "disabled": false,
+      "required": true,
+      "image_src": "",
+      "step_type": "finish",
+      "autoSelect": false,
+      "media_type": "image",
+      "showLabels": true,
+      "button_text": "Finish",
+      "description": "Description",
+      "icon_nucleo": "",
+      "icon_switch": false,
+      "image_switch": false,
+      "image_position": "right",
+      "media_position": "right",
+      "button_subtitle": "",
+      "image_size_type": "fill",
+      "step_field_type": "select",
+      "image_arrangement": "centerCenter",
+      "image_full_switch": false,
+      "select_option_type": "card",
+      "select_content_type": "image",
+      "step_allow_multiselect": false,
+      "on_submit_action_type": "link",
+      "on_submit_action_link": "/danke"
+     },
+     "logic": {
+      "rules": [],
+      "fallback": {}
+     }
+    }
+   ]
+  }
+ ]
+}

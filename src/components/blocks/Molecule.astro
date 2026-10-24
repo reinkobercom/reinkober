@@ -1,0 +1,103 @@
+---
+// Textblock / Karte: Rahmen (Farbe, Rand, Radius, Schatten, Innenabstand) + Atome.
+import { Image } from 'astro:assets';
+import { getImage } from '../../data/images';
+import { css, frameVars, hasFrame, flex } from '../../lib/style';
+import { fixHref } from '../../lib/html';
+import Atom from './Atom.astro';
+
+interface Props { col: any; headings: Map<string, string>; style?: string; eagerImages?: boolean }
+const { col: c, headings, style: extra, eagerImages = false } = Astro.props;
+const f = c.frame || {};
+const fm = c.frameM;
+const framed = hasFrame(f);
+const bg = f.bgImage ? getImage(f.bgImage.src) : c.bgImg ? getImage(c.bgImg) : undefined;
+const href = fixHref(c.href);
+const Tag = href ? 'a' : 'div';
+const style = [css({ ...(framed ? frameVars(f, fm) : {}), '--mva': flex(c.valign || f.valign) }), extra].filter(Boolean).join(';');
+const atoms: any[] = c.atoms || [];
+// Raster-Liste (Onepage „grid“-Molekül): Atome nach Zelle gruppieren
+const gl = c.gl && atoms.some((a) => a.cell !== undefined) ? c.gl : null;
+const cells: any[][] = [];
+if (gl) for (const a of atoms) (cells[a.cell ?? 0] ||= []).push(a);
+const itemFramed = gl && hasFrame(gl.item);
+const glStyle = gl ? css({ '--gn': gl.n, '--gnm': gl.nM || 1, '--ggx': gl.gapX != null ? `${gl.gapX}px` : undefined, '--ggy': gl.gapY != null ? `${gl.gapY}px` : undefined, '--ggym': gl.gapYM != null ? `${gl.gapYM}px` : undefined }) : '';
+const itemStyle = itemFramed ? css(frameVars(gl.item)) : '';
+---
+<Tag class:list={['mol', framed && 'fr', href && 'mol--link', 'reveal']} style={style || undefined} href={href}>
+  {bg && (
+    <div class="fr__bg" aria-hidden="true">
+      <Image src={bg.src} alt="" widths={[480, 800, 1200, 1600]} sizes="(max-width: 767px) 100vw, 50vw" loading="lazy" style={`object-position:${f.bgImage?.pos || '50% 50%'}`} />
+    </div>
+  )}
+  {gl && gl.slider ? (
+    <div class="cslider" data-cslider style={glStyle} role="region" aria-roledescription="Karussell" aria-label="Karussell">
+      <div class="cslider__track" data-track tabindex="0">
+        {cells.filter(Boolean).map((cell, n, all) => (
+          <div class:list={['cslider__it', 'glist__it', itemFramed && 'fr']} style={itemStyle || undefined} role="group" aria-roledescription="Folie" aria-label={`${n + 1} von ${all.length}`}>
+            <div class="mol__atoms">
+              {cell.map((a) => <Atom atom={a} headings={headings} eager={eagerImages} />)}
+            </div>
+          </div>
+        ))}
+      </div>
+      {gl.slider.arrows && (
+        <>
+          <button type="button" class="cslider__arrow cslider__arrow--prev" data-prev aria-label="Vorherige">
+            <svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M20 12H4m6-6-6 6 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <button type="button" class="cslider__arrow cslider__arrow--next" data-next aria-label="Nächste">
+            <svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M4 12h16m-6-6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </>
+      )}
+      {gl.slider.dots && <div class="cslider__dots" data-dots></div>}
+    </div>
+  ) : gl ? (
+    <div class="glist" style={glStyle}>
+      {cells.filter(Boolean).map((cell) => (
+        <div class:list={['glist__it', itemFramed && 'fr']} style={itemStyle || undefined}>
+          <div class="mol__atoms">
+            {cell.map((a) => <Atom atom={a} headings={headings} eager={eagerImages} />)}
+          </div>
+        </div>
+      ))}
+    </div>
+  ) : atoms.length > 0 && (
+    <div class="mol__atoms">
+      {atoms.map((a) => <Atom atom={a} headings={headings} eager={eagerImages} />)}
+    </div>
+  )}
+</Tag>
+
+<script>
+  // Karten-Karussell (Onepage-Slider im Raster-Molekül): Pfeile, Punkte je Seite, Wischen
+  document.querySelectorAll<HTMLElement>('[data-cslider]').forEach((sl) => {
+    const track = sl.querySelector<HTMLElement>('[data-track]')!;
+    const dotsBox = sl.querySelector<HTMLElement>('[data-dots]');
+    const pages = () => Math.max(1, Math.ceil((track.scrollWidth - 2) / track.clientWidth));
+    const page = () => Math.round(track.scrollLeft / track.clientWidth);
+    const go = (i: number) => { const n = pages(); track.scrollTo({ left: ((i + n) % n) * track.clientWidth, behavior: 'smooth' }); };
+    let last = -1;
+    const renderDots = () => {
+      if (!dotsBox) return;
+      const n = pages();
+      if (n === last) return;
+      last = n;
+      dotsBox.innerHTML = '';
+      dotsBox.hidden = n < 2;
+      for (let i = 0; i < n; i++) {
+        const b = document.createElement('button');
+        b.type = 'button'; b.className = 'cslider__dot'; b.setAttribute('aria-label', `Seite ${i + 1} anzeigen`);
+        b.addEventListener('click', () => go(i));
+        dotsBox.appendChild(b);
+      }
+      mark();
+    };
+    const mark = () => dotsBox?.querySelectorAll('button').forEach((d, n) => (n === page() ? d.setAttribute('aria-current', 'true') : d.removeAttribute('aria-current')));
+    sl.querySelector('[data-prev]')?.addEventListener('click', () => go(page() - 1));
+    sl.querySelector('[data-next]')?.addEventListener('click', () => go(page() + 1));
+    track.addEventListener('scroll', mark, { passive: true });
+    new ResizeObserver(renderDots).observe(track);
+  });
+</script>

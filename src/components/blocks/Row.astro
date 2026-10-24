@@ -1,0 +1,111 @@
+---
+// Eine Zeile innerhalb einer Sektion. Unterstützt die Onepage-Rastertypen
+// columns (24er-Raster), bento, masonry, list und timeline.
+import { Image } from 'astro:assets';
+import { getImage } from '../../data/images';
+import { css, frameVars, hasFrame, flex } from '../../lib/style';
+import Molecule from './Molecule.astro';
+import Timeline from './Timeline.astro';
+
+interface Props { row: any; headings: Map<string, string>; gap?: number; gapM?: number; eagerImages?: boolean; sectionIndex: number }
+const { row: r, headings, gap, gapM, eagerImages = false } = Astro.props;
+
+const grid: string = r.grid || 'columns';
+// Für Raster ohne 24er-Spans zählt die gemessene Karte (Molekül), nicht ihr Wrapper
+const cols: any[] = (r.cols || []).map((c: any) =>
+  grid !== 'columns' && grid !== 'masonry' && c.mbox?.w ? { ...c, x: c.mbox.x, y: c.mbox.y, wpx: c.mbox.w, hpx: c.mbox.h } : c);
+const rf = r.frame || {};
+const rowFrame = hasFrame(rf);
+const rowBg = rf.bgImage ? getImage(rf.bgImage.src) : undefined;
+const q = (v: number) => Math.round(v / 6) * 6; // Messrauschen glätten
+
+// --- 24er-Raster: Gutter = (Summe Spaltenbreiten − Innenbreite) / 2
+const innerPadX = rowFrame && rf.pad ? (() => { const p = rf.pad.split(/\s+/).map(parseFloat); return (p[1] ?? p[0]) + (p[3] ?? p[1] ?? p[0]); })() : 0;
+const innerW = (r.box?.w || 0) - innerPadX;
+let gut = 28;
+if (grid === 'columns' && cols.length && innerW > 0) {
+  const c0 = cols[0];
+  const full = c0.lg ? (c0.wpx * 24) / +c0.lg : innerW + 56; // = Innenbreite + 2 × Gutter
+  gut = Math.max(0, Math.round((full - innerW) / 2));
+}
+
+// --- Raster ohne Spans: Positionen aus der Messung
+const xs = [...new Set(cols.map((c) => q(c.x)))].sort((a, b) => a - b);
+const ys = [...new Set(cols.map((c) => q(c.y)))].sort((a, b) => a - b);
+const minW = cols.length ? Math.min(...cols.map((c) => c.wpx)) : 0;
+// Masonry-/Listen-Elemente: Abstand steckt im Wrapper (Wrapper-Breite − Kartenbreite)
+const wrapGap = cols[0]?.mbox && cols[0].mbox.w < cols[0].wpx - 2 ? Math.round(cols[0].wpx - cols[0].mbox.w) : 0;
+// Bento: Spaltenzahl und Abstand direkt aus dem gemessenen CSS-Grid, sonst aus Positionen
+const gtcN = typeof r.gtc === 'string' && r.gtc !== 'none' ? r.gtc.trim().split(/\s+/).length : 0;
+const gtcW = gtcN ? parseFloat(r.gtc) : 0;
+const gapX = grid === 'bento' && gtcN && r.gap?.[1] != null ? r.gap[1] : wrapGap || (xs.length > 1 ? Math.max(0, Math.round(xs[1] - xs[0] - minW)) : 16);
+const unit = grid === 'bento' && gtcN ? gtcW + gapX : minW + gapX;
+const nCols = grid === 'bento' && gtcN ? gtcN : grid === 'bento' && unit ? Math.max(1, Math.round(((r.box?.w || 0) + gapX) / unit)) : Math.max(1, xs.length);
+const place = (c: any) => {
+  const colStart = unit ? Math.round((c.x - (xs[0] || 0)) / unit) + 1 : 1;
+  const rowStart = ys.indexOf(q(c.y)) + 1;
+  const bx = +(c.bento?.[0] || 1), by = +(c.bento?.[1] || 1);
+  return css({ 'grid-column': `${colStart} / span ${Math.max(bx, Math.round((c.wpx + gapX) / unit) || 1)}`, 'grid-row': `${rowStart} / span ${by}` });
+};
+
+// Masonry: Karten den gemessenen Spalten zuordnen, mobil wieder Originalreihenfolge
+const masonryCols: { c: any; i: number }[][] = xs.map(() => []);
+if (grid === 'masonry') cols.forEach((c, i) => masonryCols[Math.max(0, xs.indexOf(q(c.x)))].push({ c, i }));
+masonryCols.forEach((arr) => arr.sort((a, b) => a.c.y - b.c.y));
+let mGapY = gapX;
+if (grid === 'masonry') {
+  const ds: number[] = [];
+  masonryCols.forEach((arr) => { for (let i = 1; i < arr.length; i++) { const a = arr[i - 1].c, b = arr[i].c; ds.push((b.mbox?.y ?? b.y) - ((a.mbox?.y ?? a.y) + (a.mbox?.h ?? a.hpx))); } });
+  if (ds.length) mGapY = Math.max(0, Math.round(Math.min(...ds)));
+}
+
+// Freiraum unter dem Inhalt einer Zeile (Onepage-Zeilenabstand), gemessen
+const rawCols: any[] = r.cols || [];
+const tail = (box: any, key: 'd' | 'm') => {
+  if (!box || !rawCols.length) return undefined;
+  const bottoms = rawCols.map((c) => key === 'd' ? (c.y ?? 0) + (c.hpx ?? 0) : c.yM != null ? c.yM + (c.hpxM ?? 0) : NaN).filter((v) => !isNaN(v) && v > 0);
+  if (!bottoms.length) return undefined;
+  const t = Math.round(box.y + box.h - Math.max(...bottoms));
+  return t > 4 ? t : undefined;
+};
+const rpb = grid === 'columns' ? tail(r.box, 'd') : undefined;
+const rpbM = grid === 'columns' ? tail(r.boxM, 'm') : undefined;
+const style = css({ '--rg': gap || undefined, '--rg-m': gapM ?? undefined, '--rpb': rpb, '--rpb-m': rpbM ?? (rpb ? 0 : undefined) });
+const gridStyle = css({ '--gut': gut !== 28 ? gut : undefined, '--rha': flex(r.halign) });
+---
+<div class="row" style={style || undefined}>
+  <div class:list={[rowFrame && 'fr']} style={rowFrame ? css(frameVars(rf)) : undefined}>
+    {rowBg && (
+      <div class="fr__bg" aria-hidden="true">
+        <Image src={rowBg.src} alt="" widths={[640, 1024, 1440, 1920]} sizes="(max-width: 1300px) 100vw, 1250px" loading="lazy" style={`object-position:${rf.bgImage.pos || '50% 50%'}`} />
+      </div>
+    )}
+    {grid === 'columns' && (
+      <div class="row__grid" style={gridStyle || undefined}>
+        {cols.map((c) => (
+          <div class:list={['col', c.only === 'desktop' && 'only-desktop', c.only === 'mobile' && 'only-mobile']} style={css({ '--lg': c.lg || 24, '--md': c.md && c.md !== c.lg ? c.md : undefined })}>
+            <Molecule col={c} headings={headings} eagerImages={eagerImages} />
+          </div>
+        ))}
+      </div>
+    )}
+    {grid === 'bento' && (
+      <div class="bento" style={css({ '--bc': nCols, '--bg-gap': gapX })}>
+        {cols.map((c) => <Molecule col={c} headings={headings} style={place(c)} />)}
+      </div>
+    )}
+    {grid === 'list' && (
+      <div class="bento bento--list" style={css({ '--bc': nCols, '--bg-gap': gapX, '--bg-gap-y': ys.length > 1 ? undefined : undefined })}>
+        {cols.map((c) => <Molecule col={c} headings={headings} />)}
+      </div>
+    )}
+    {grid === 'masonry' && (
+      <div class="masonry" style={css({ '--mg': gapX, '--mgy': mGapY })}>
+        {masonryCols.map((arr) => (
+          <div class="masonry__col">{arr.map(({ c, i }) => <Molecule col={c} headings={headings} style={`order:${i}`} />)}</div>
+        ))}
+      </div>
+    )}
+    {grid === 'timeline' && <Timeline cols={cols} headings={headings} />}
+  </div>
+</div>
