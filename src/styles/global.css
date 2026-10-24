@@ -176,7 +176,7 @@ mark[data-hl="underline"] { text-decoration: underline; text-decoration-color: v
 .atom--right > .img, .atom--right > .logo-img, .atom--right > .icon { margin-left: auto; }
 .atom--right { margin-left: auto; }
 .atom:last-child { margin-bottom: 0; }
-@media (max-width: 767.98px) { .atom { margin-bottom: calc(var(--g-m, var(--g, 0)) * 1px); max-width: var(--aw-m, var(--aw, 100%)); } .atom:last-child { margin-bottom: 0; } }
+@media (max-width: 767.98px) { .atom { margin-bottom: calc(var(--g-m, var(--g, 0)) * 1px); max-width: var(--aw-m, 100%); } .atom:last-child { margin-bottom: 0; } }
 
 /* ---------- Buttons ---------- */
 .btns { display: flex; flex-wrap: wrap; gap: 16px; justify-content: var(--bja, flex-start); }

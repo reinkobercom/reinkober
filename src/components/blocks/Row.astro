@@ -52,6 +52,9 @@ const place = (c: any) => {
 const masonryCols: { c: any; i: number }[][] = xs.map(() => []);
 if (grid === 'masonry') cols.forEach((c, i) => masonryCols[Math.max(0, xs.indexOf(q(c.x)))].push({ c, i }));
 masonryCols.forEach((arr) => arr.sort((a, b) => a.c.y - b.c.y));
+// Mobil: Karten zeilenweise (wie bei Onepage: 1. Karte jeder Spalte, dann 2. Karte jeder Spalte …)
+const mRank = new Map<number, number>();
+masonryCols.forEach((arr, ci) => arr.forEach((o, r) => mRank.set(o.i, r * masonryCols.length + ci)));
 let mGapY = gapX;
 if (grid === 'masonry') {
   const ds: number[] = [];
@@ -102,7 +105,7 @@ const gridStyle = css({ '--gut': gut !== 28 ? gut : undefined, '--rha': flex(r.h
     {grid === 'masonry' && (
       <div class="masonry" style={css({ '--mg': gapX, '--mgy': mGapY })}>
         {masonryCols.map((arr) => (
-          <div class="masonry__col">{arr.map(({ c, i }) => <Molecule col={c} headings={headings} style={`order:${i}`} />)}</div>
+          <div class="masonry__col">{arr.map(({ c, i }) => <Molecule col={c} headings={headings} style={`order:${mRank.get(i) ?? i}`} />)}</div>
         ))}
       </div>
     )}

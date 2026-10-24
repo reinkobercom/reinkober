@@ -372,4 +372,4 @@ details.acc__item[open]::details-content { block-size: auto; }
 }
 .slider__dot, .cslider__dot { width: 44px; height: 44px; }
 .slider__dots { gap: 0; bottom: 4px; }
-@media (max-width: 767.98px) { .btn { min-height: 44px; } }
+@media (max-width: 767.98px) { .btn { min-height: max(44px, calc(var(--bh-m, var(--bh, 48)) * 1px)); } }
