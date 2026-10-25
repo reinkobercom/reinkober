@@ -16,6 +16,10 @@ const cols: any[] = (r.cols || []).map((c: any) =>
   grid !== 'columns' && grid !== 'masonry' && c.mbox?.w ? { ...c, x: c.mbox.x, y: c.mbox.y, wpx: c.mbox.w, hpx: c.mbox.h } : c);
 const rf = r.frame || {};
 const rowFrame = hasFrame(rf);
+// Mobiles Innenpolster der Zeilen-Box aus der Messung (Zeilenbreite − Spaltenbreite)
+const c0m = (r.cols || []).find((c: any) => c.wpxM);
+const sideM = rowFrame && rf.pad && r.boxM?.w && c0m ? Math.max(0, Math.round((r.boxM.w - c0m.wpxM) / 2)) : undefined;
+const rowPadM = sideM != null ? `${sideM}px` : undefined;
 const rowBg = rf.bgImage ? getImage(rf.bgImage.src) : undefined;
 const q = (v: number) => Math.round(v / 6) * 6; // Messrauschen glätten
 
@@ -77,7 +81,7 @@ const style = css({ '--rg': gap || undefined, '--rg-m': gapM ?? undefined, '--rp
 const gridStyle = css({ '--gut': gut !== 28 ? gut : undefined, '--rha': flex(r.halign) });
 ---
 <div class="row" style={style || undefined}>
-  <div class:list={[rowFrame && 'fr']} style={rowFrame ? css(frameVars(rf)) : undefined}>
+  <div class:list={[rowFrame && 'fr']} style={rowFrame ? css(frameVars(rf, rowPadM ? { pad: rowPadM } : undefined)) : undefined}>
     {rowBg && (
       <div class="fr__bg" aria-hidden="true">
         <Image src={rowBg.src} alt="" widths={[640, 1024, 1440, 1920]} sizes="(max-width: 1300px) 100vw, 1250px" loading="lazy" style={`object-position:${rf.bgImage.pos || '50% 50%'}`} />
@@ -87,7 +91,7 @@ const gridStyle = css({ '--gut': gut !== 28 ? gut : undefined, '--rha': flex(r.h
       <div class="row__grid" style={gridStyle || undefined}>
         {cols.map((c) => (
           <div class:list={['col', c.only === 'desktop' && 'only-desktop', c.only === 'mobile' && 'only-mobile', cols.length > 1 && hasFrame(c.frame) && c.mbox && r.box && c.mbox.h >= r.box.h * 0.95 && 'col--stretch']} style={css({ '--lg': c.lg || 24, '--md': c.md && c.md !== c.lg ? c.md : undefined })}>
-            <Molecule col={c} headings={headings} eagerImages={eagerImages} />
+            <Molecule col={c} headings={headings} eagerImages={eagerImages} style={cols.length > 1 && hasFrame(c.frame) && c.mbox?.h ? `--mmh:${Math.round(c.mbox.h)}px` : undefined} />
           </div>
         ))}
       </div>

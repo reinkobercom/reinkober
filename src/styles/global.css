@@ -242,3 +242,4 @@ a.mlist__item:hover .mlist__title { text-decoration: underline; text-underline-o
 .img__cap-title { font-weight: 700; }
 .mlist--center { align-items: center; }
 @media (min-width: 768px) { .mlist--legal { flex-direction: row; justify-content: center; column-gap: 0; } }
+@media (min-width: 992px) { .col > .mol.fr { min-height: var(--mmh, auto); } }
