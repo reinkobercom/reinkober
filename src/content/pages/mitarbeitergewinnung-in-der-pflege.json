@@ -1002,7 +1002,7 @@
            "effect": "soft-line-hover",
            "radius": "8px",
            "h": 93.39,
-           "w": 284,
+           "w": 278,
            "bg": "#76b2cc",
            "color": "#ffffff",
            "pad": [
@@ -1030,7 +1030,7 @@
          "buttonsM": [
           {
            "h": 70.78,
-           "w": 295,
+           "w": 303,
            "fs": 17,
            "pad": [
             8,

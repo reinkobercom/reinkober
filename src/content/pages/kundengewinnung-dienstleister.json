@@ -3666,11 +3666,11 @@
           {
            "title": "Für welche Dienstleistungsunternehmen eignet sich Ihre Zusammenarbeit?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Unsere Zusammenarbeit eignet sich für Dienstleister, die ihre Kundengewinnung nicht mehr dem Zufall überlassen wollen, sondern ein planbares System aufbauen möchten. Entscheidend ist weniger die Branche als die Bereitschaft, gemeinsam an klaren Zielen, Prozessen und messbaren Ergebnissen zu arbeiten.</p>",
            "bodyFont": {
@@ -3686,6 +3686,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3694,11 +3696,11 @@
           {
            "title": "Funktioniert Ihr Ansatz auch außerhalb von Großstädten?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Ja. Unser Ansatz ist darauf ausgelegt, sich flexibel an Marktgröße und Umfeld anzupassen. Ob Metropolregion oder ländliches Gebiet: Wir entwickeln eine Strategie, die zu Ihrem Einzugsgebiet, Ihrem Angebot und Ihren Kapazitäten passt.</p>",
            "bodyFont": {
@@ -3714,6 +3716,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3722,11 +3726,11 @@
           {
            "title": "Wie viel Aufwand haben wir intern mit der Zusammenarbeit?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Wir legen Wert darauf, Ihren internen Aufwand so gering wie möglich zu halten. Zu Beginn brauchen wir vor allem Ihre Zeit für ein strukturiertes Onboarding und klare Zieldefinitionen, danach konzentrieren Sie sich hauptsächlich auf das, was wirklich zählt: den Kontakt mit interessanten Anfragen und die Abwicklung neuer Aufträge.</p>",
            "bodyFont": {
@@ -3742,6 +3746,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3797,11 +3803,11 @@
           {
            "title": "Wann können wir mit ersten Ergebnissen rechnen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>In der Regel lassen sich erste Entwicklungen und Anfragen bereits in den ersten Wochen erkennen. Wie schnell und in welchem Umfang Ergebnisse sichtbar werden, hängt von Ihren Zielen, der Ausgangssituation und dem vereinbarten Vorgehen ab – darüber sprechen wir offen im Vorfeld.</p>",
            "bodyFont": {
@@ -3817,6 +3823,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3825,11 +3833,11 @@
           {
            "title": "Müssen wir bereits viel im Online‑Marketing gemacht haben?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Nein, das ist keine Voraussetzung. Manche unserer Partner starten nahezu bei Null, andere bringen bereits Erfahrungen mit. Wichtig ist, dass Sie offen für datenbasierte Entscheidungen sind und bereit, gemeinsam mit uns einen professionellen Rahmen für Ihre Kundengewinnung aufzubauen.</p>",
            "bodyFont": {
@@ -3845,6 +3853,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3853,11 +3863,11 @@
           {
            "title": "Wie behalten wir die Kontrolle über Budget und Entscheidungen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Transparenz ist ein zentraler Teil unserer Zusammenarbeit. Sie erhalten regelmäßig verständliche Auswertungen und sprechen mit uns über nächste Schritte. Budgets, Maßnahmen und Prioritäten werden gemeinsam abgestimmt – Sie behalten jederzeit den Überblick, während wir die operative Umsetzung übernehmen.</p>",
            "bodyFont": {
@@ -3873,6 +3883,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,

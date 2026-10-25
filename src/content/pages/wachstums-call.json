@@ -155,7 +155,7 @@
            "effect": "volume",
            "radius": "8px",
            "h": 67.89,
-           "w": 417,
+           "w": 405,
            "bg": "#099dd4",
            "color": "#ffffff",
            "pad": [
@@ -901,44 +901,96 @@
          "halign": "left",
          "items": [
           {
-           "title": null,
-           "titleFont": null,
+           "title": "Unzuverlässige & schwankende Auftragslage",
+           "titleFont": {
+            "fs": 18,
+            "lh": 23.73,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
            "html": null,
            "bodyFont": null,
            "frame": {},
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+           "iconBox": {
+            "w": 40,
+            "svg": 28,
+            "color": "#e9300d",
+            "radius": "100px"
+           },
            "accordion": false,
            "open": null,
            "iconSize": null,
            "bodyGap": null
           },
           {
-           "title": null,
-           "titleFont": null,
+           "title": "Kaum Bewerbungen, nur unqualifizierte Fachkräfte",
+           "titleFont": {
+            "fs": 18,
+            "lh": 23.73,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
            "html": null,
            "bodyFont": null,
            "frame": {},
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+           "iconBox": {
+            "w": 40,
+            "svg": 28,
+            "color": "#e9300d",
+            "radius": "100px"
+           },
            "accordion": false,
            "open": null,
            "iconSize": null,
            "bodyGap": null
           },
           {
-           "title": null,
-           "titleFont": null,
+           "title": "Keine Sichtbarkeit – Kunden finden die Konkurrenz",
+           "titleFont": {
+            "fs": 18,
+            "lh": 23.73,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
            "html": null,
            "bodyFont": null,
            "frame": {},
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+           "iconBox": {
+            "w": 40,
+            "svg": 28,
+            "color": "#e9300d",
+            "radius": "100px"
+           },
            "accordion": false,
            "open": null,
            "iconSize": null,
            "bodyGap": null
           },
           {
-           "title": null,
-           "titleFont": null,
+           "title": "Viel Stress mit manuellen & chaotischen Abläufen",
+           "titleFont": {
+            "fs": 18,
+            "lh": 23.73,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
            "html": null,
            "bodyFont": null,
            "frame": {},
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"5\" x2=\"5\" y2=\"19\" stroke-linejoin=\"miter\"></line> <line fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" x1=\"19\" y1=\"19\" x2=\"5\" y2=\"5\" stroke-linejoin=\"miter\"></line></svg>",
+           "iconBox": {
+            "w": 40,
+            "svg": 28,
+            "color": "#e9300d",
+            "radius": "100px"
+           },
            "accordion": false,
            "open": null,
            "iconSize": null,
@@ -1035,44 +1087,96 @@
          "halign": "left",
          "items": [
           {
-           "title": null,
-           "titleFont": null,
+           "title": "Regelmäßige & planbare Kundenanfragen",
+           "titleFont": {
+            "fs": 18,
+            "lh": 23.73,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
            "html": null,
            "bodyFont": null,
            "frame": {},
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><polyline points=\"2 14 8 20 22 2\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></polyline></svg>",
+           "iconBox": {
+            "w": 40,
+            "svg": 28,
+            "color": "#0caf11",
+            "radius": "100px"
+           },
            "accordion": false,
            "open": null,
            "iconSize": null,
            "bodyGap": null
           },
           {
-           "title": null,
-           "titleFont": null,
+           "title": "Bewerbungen von qualifizierten & passenden Fachkräften",
+           "titleFont": {
+            "fs": 18,
+            "lh": 23.73,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
            "html": null,
            "bodyFont": null,
            "frame": {},
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><polyline points=\"2 14 8 20 22 2\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></polyline></svg>",
+           "iconBox": {
+            "w": 40,
+            "svg": 28,
+            "color": "#0caf11",
+            "radius": "100px"
+           },
            "accordion": false,
            "open": null,
            "iconSize": null,
            "bodyGap": null
           },
           {
-           "title": null,
-           "titleFont": null,
+           "title": "Deine Zielkunden finden & kontaktieren dich direkt",
+           "titleFont": {
+            "fs": 18,
+            "lh": 23.73,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
            "html": null,
            "bodyFont": null,
            "frame": {},
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><polyline points=\"2 14 8 20 22 2\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></polyline></svg>",
+           "iconBox": {
+            "w": 40,
+            "svg": 28,
+            "color": "#0caf11",
+            "radius": "100px"
+           },
            "accordion": false,
            "open": null,
            "iconSize": null,
            "bodyGap": null
           },
           {
-           "title": null,
-           "titleFont": null,
+           "title": "Effiziente Prozesse, weniger Stress, mehr Zeit für dein Handwerk",
+           "titleFont": {
+            "fs": 18,
+            "lh": 23.73,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
            "html": null,
            "bodyFont": null,
            "frame": {},
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><polyline points=\"2 14 8 20 22 2\" fill=\"none\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" stroke-width=\"2\"></polyline></svg>",
+           "iconBox": {
+            "w": 40,
+            "svg": 28,
+            "color": "#0caf11",
+            "radius": "100px"
+           },
            "accordion": false,
            "open": null,
            "iconSize": null,
@@ -1219,7 +1323,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": -95,
+           "x": -100,
            "y": 0,
            "radius": null
           },
@@ -1228,7 +1332,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 19,
+           "x": 14,
            "y": 0,
            "radius": null
           },
@@ -1237,7 +1341,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 132,
+           "x": 127,
            "y": 0,
            "radius": null
           },
@@ -1246,7 +1350,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 246,
+           "x": 241,
            "y": 0,
            "radius": null
           },
@@ -1255,7 +1359,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 360,
+           "x": 355,
            "y": 0,
            "radius": null
           },
@@ -1264,7 +1368,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 474,
+           "x": 469,
            "y": 0,
            "radius": null
           },
@@ -1273,7 +1377,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 588,
+           "x": 583,
            "y": 0,
            "radius": null
           },
@@ -1282,7 +1386,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 702,
+           "x": 697,
            "y": 0,
            "radius": null
           },
@@ -1291,7 +1395,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 816,
+           "x": 811,
            "y": 0,
            "radius": null
           },
@@ -1300,7 +1404,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 930,
+           "x": 925,
            "y": 0,
            "radius": null
           },
@@ -1309,7 +1413,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 1044,
+           "x": 1039,
            "y": 0,
            "radius": null
           },
@@ -1318,7 +1422,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 1158,
+           "x": 1153,
            "y": 0,
            "radius": null
           },
@@ -1327,7 +1431,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 1271,
+           "x": 1266,
            "y": 0,
            "radius": null
           },
@@ -1336,7 +1440,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 1385,
+           "x": 1380,
            "y": 0,
            "radius": null
           },
@@ -1345,7 +1449,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 1499,
+           "x": 1494,
            "y": 0,
            "radius": null
           },
@@ -1354,7 +1458,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 1613,
+           "x": 1608,
            "y": 0,
            "radius": null
           },
@@ -1363,7 +1467,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 1727,
+           "x": 1722,
            "y": 0,
            "radius": null
           },
@@ -1372,7 +1476,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 1841,
+           "x": 1836,
            "y": 0,
            "radius": null
           },
@@ -1381,7 +1485,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 1955,
+           "x": 1950,
            "y": 0,
            "radius": null
           },
@@ -1390,7 +1494,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 2069,
+           "x": 2064,
            "y": 0,
            "radius": null
           },
@@ -1399,7 +1503,7 @@
            "alt": "",
            "w": 90,
            "h": 56,
-           "x": 2183,
+           "x": 2178,
            "y": 0,
            "radius": null
           },
@@ -1408,7 +1512,7 @@
            "alt": "",
            "w": 91,
            "h": 56,
-           "x": 2297,
+           "x": 2292,
            "y": 0,
            "radius": null
           },
@@ -1417,7 +1521,7 @@
            "alt": "",
            "w": 91,
            "h": 56,
-           "x": 2412,
+           "x": 2407,
            "y": 0,
            "radius": null
           },
@@ -1426,7 +1530,7 @@
            "alt": "",
            "w": 91,
            "h": 56,
-           "x": 2527,
+           "x": 2522,
            "y": 0,
            "radius": null
           },
@@ -1435,7 +1539,7 @@
            "alt": "",
            "w": 91,
            "h": 56,
-           "x": 2642,
+           "x": 2637,
            "y": 0,
            "radius": null
           },
@@ -1444,7 +1548,7 @@
            "alt": "",
            "w": 91,
            "h": 56,
-           "x": 2757,
+           "x": 2752,
            "y": 0,
            "radius": null
           },
@@ -1453,7 +1557,7 @@
            "alt": "",
            "w": 91,
            "h": 56,
-           "x": 2872,
+           "x": 2867,
            "y": 0,
            "radius": null
           },
@@ -1462,7 +1566,7 @@
            "alt": "",
            "w": 91,
            "h": 56,
-           "x": 2987,
+           "x": 2982,
            "y": 0,
            "radius": null
           },
@@ -1471,7 +1575,7 @@
            "alt": "",
            "w": 91,
            "h": 56,
-           "x": 3103,
+           "x": 3098,
            "y": 0,
            "radius": null
           },
@@ -1480,7 +1584,7 @@
            "alt": "",
            "w": 91,
            "h": 56,
-           "x": 3218,
+           "x": 3213,
            "y": 0,
            "radius": null
           }
@@ -1492,7 +1596,7 @@
           "h": 76
          },
          "item": {
-          "x": 67,
+          "x": 62,
           "y": 2288,
           "w": 114,
           "h": 56,

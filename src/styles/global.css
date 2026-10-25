@@ -7,7 +7,7 @@
   --c-dark: #151f25;      /* Text / dunkle Flächen */
   --c-light: #ffffff;
   --c-grey: #f2f2f2;      /* Kartenflächen */
-  --font: 'Inter Variable', 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   --container: 1250px;
   --focus: 0 0 0 3px #fff, 0 0 0 5px var(--c-dark);
   color-scheme: light;
@@ -135,6 +135,7 @@ mark[data-hl="underline"] { text-decoration: underline; text-decoration-color: v
 }
 .col { flex: 0 0 calc(var(--lg) / 24 * 100%); max-width: calc(var(--lg) / 24 * 100%); padding: 0 calc(var(--gut, 28) * 1px); display: flex; min-width: 0; }
 .col > .mol { width: 100%; }
+.col--stretch { align-self: stretch; }
 .col--stretch > .mol { height: 100%; }
 @media (min-width: 768px) and (max-width: 991.98px) {
   .col { flex-basis: calc(var(--md, var(--lg)) / 24 * 100%); max-width: calc(var(--md, var(--lg)) / 24 * 100%); }
@@ -237,3 +238,7 @@ a.mlist__item:hover .mlist__title { text-decoration: underline; text-underline-o
 .marquee__item { flex: 0 0 auto; padding: 0 calc(var(--mpx, 16) * 1px); height: calc(var(--mh, 100) * 1px); display: flex; align-items: center; }
 .marquee__item img { height: 100%; width: auto; object-fit: contain; }
 @media (prefers-reduced-motion: reduce) { .marquee__track { animation-duration: calc(var(--speed, 120s) * 4); } }
+.img__cap { position: absolute; inset: 0; z-index: 1; display: flex; flex-direction: column; justify-content: var(--cja, flex-end); text-align: var(--cta, left); padding: var(--cp, 24px); background: var(--csh, linear-gradient(rgba(0,0,0,.04), rgba(0,0,0,.41))); color: #fff; pointer-events: none; }
+.img__cap-title { font-weight: 700; }
+.mlist--center { align-items: center; }
+@media (min-width: 768px) { .mlist--legal { flex-direction: row; justify-content: center; column-gap: 0; } }

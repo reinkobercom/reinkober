@@ -15,7 +15,9 @@ const bg = f.bgImage ? getImage(f.bgImage.src) : c.bgImg ? getImage(c.bgImg) : u
 const href = fixHref(c.href);
 const Tag = href ? 'a' : 'div';
 const style = [css({ ...(framed ? frameVars(f, fm) : {}), '--mva': flex(c.valign || f.valign) }), extra].filter(Boolean).join(';');
-const atoms: any[] = c.atoms || [];
+// Formular-Moleküle: Onepage-Absendebutton (ohne Ziel) nicht doppelt zeigen – das Formular hat einen eigenen
+const hasForm = (c.atoms || []).some((a: any) => a.type === 'form-name' || a.type === 'quiz');
+const atoms: any[] = (c.atoms || []).filter((a: any) => !(hasForm && a.type === 'link-group' && (a.buttons || []).every((b: any) => !b.href)));
 // Raster-Liste (Onepage „grid“-Molekül): Atome nach Zelle gruppieren
 const gl = c.gl && atoms.some((a) => a.cell !== undefined) ? c.gl : null;
 const cells: any[][] = [];

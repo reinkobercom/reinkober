@@ -1852,6 +1852,28 @@
          "halign": "left",
          "src": "media/35abd161-f83c-4891-b74f-7545b76ebbe1",
          "alt": "Ein lächelnder Mann mit blondem Haar und hellem, gestreiftem Hemd mit rosa Polo-Logo.",
+         "caption": {
+          "title": "Simon",
+          "text": "Geschäftsführung & Strategie",
+          "tf": {
+           "fs": 20,
+           "lh": 26.31,
+           "fw": 700,
+           "color": "#ffffff",
+           "align": "left"
+          },
+          "xf": {
+           "fs": 12,
+           "lh": 18,
+           "fw": 400,
+           "color": "rgba(255,255,255,0.72)",
+           "align": "left"
+          },
+          "pad": "32px",
+          "va": "bottom",
+          "ha": "left",
+          "shade": "linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.42))"
+         },
          "wpx": 406,
          "hpx": 528,
          "wpxM": 342,
@@ -1900,6 +1922,28 @@
          "gap": 20,
          "halign": "left",
          "src": "media/29aaf2e3-864d-436c-81f5-6acf653e52eb",
+         "caption": {
+          "title": "Lisa",
+          "text": "Leitung Online-Marketing & Strategie",
+          "tf": {
+           "fs": 20,
+           "lh": 26.31,
+           "fw": 700,
+           "color": "#ffffff",
+           "align": "left"
+          },
+          "xf": {
+           "fs": 12,
+           "lh": 18,
+           "fw": 400,
+           "color": "rgba(255,255,255,0.72)",
+           "align": "left"
+          },
+          "pad": "32px",
+          "va": "bottom",
+          "ha": "left",
+          "shade": "linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.41))"
+         },
          "wpx": 406,
          "hpx": 528,
          "wpxM": 342,
@@ -1948,6 +1992,28 @@
          "gap": 20,
          "halign": "left",
          "src": "media/66c0728d-48d2-48d3-9f95-f4fe9b255687",
+         "caption": {
+          "title": "Tobias",
+          "text": "Online-Marketing & Medienproduktion",
+          "tf": {
+           "fs": 20,
+           "lh": 26.31,
+           "fw": 700,
+           "color": "#ffffff",
+           "align": "left"
+          },
+          "xf": {
+           "fs": 12,
+           "lh": 18,
+           "fw": 400,
+           "color": "rgba(255,255,255,0.72)",
+           "align": "left"
+          },
+          "pad": "32px",
+          "va": "bottom",
+          "ha": "left",
+          "shade": "linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.42))"
+         },
          "wpx": 406,
          "hpx": 528,
          "wpxM": 342,
@@ -2000,6 +2066,28 @@
          "gap": 20,
          "halign": "left",
          "src": "media/4e4a646d-75b7-49e4-8389-99051fc6c0ac",
+         "caption": {
+          "title": "Daria",
+          "text": "Projektleitung & Online-Marketing",
+          "tf": {
+           "fs": 20,
+           "lh": 26.31,
+           "fw": 700,
+           "color": "#ffffff",
+           "align": "left"
+          },
+          "xf": {
+           "fs": 12,
+           "lh": 18,
+           "fw": 400,
+           "color": "rgba(255,255,255,0.72)",
+           "align": "left"
+          },
+          "pad": "32px",
+          "va": "bottom",
+          "ha": "left",
+          "shade": "linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.42))"
+         },
          "wpx": 406,
          "hpx": 528,
          "wpxM": 342,
@@ -2016,6 +2104,28 @@
          "gap": 20,
          "halign": "left",
          "src": "unsplash/iEEBWgY_6lA",
+         "caption": {
+          "title": "Azharul",
+          "text": "Webentwicklung & Programmierung",
+          "tf": {
+           "fs": 20,
+           "lh": 26.31,
+           "fw": 700,
+           "color": "#ffffff",
+           "align": "left"
+          },
+          "xf": {
+           "fs": 12,
+           "lh": 18,
+           "fw": 400,
+           "color": "rgba(255,255,255,0.72)",
+           "align": "left"
+          },
+          "pad": "32px",
+          "va": "bottom",
+          "ha": "left",
+          "shade": "linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.42))"
+         },
          "wpx": 406,
          "hpx": 528,
          "wpxM": 342,
@@ -2064,6 +2174,28 @@
          "gap": 20,
          "halign": "left",
          "src": "media/cd761c78-660f-4fa6-91f0-04fc0894ff7a",
+         "caption": {
+          "title": "Nino",
+          "text": "Leitung Webentwicklung",
+          "tf": {
+           "fs": 20,
+           "lh": 26.31,
+           "fw": 700,
+           "color": "#ffffff",
+           "align": "left"
+          },
+          "xf": {
+           "fs": 12,
+           "lh": 18,
+           "fw": 400,
+           "color": "rgba(255,255,255,0.72)",
+           "align": "left"
+          },
+          "pad": "32px",
+          "va": "bottom",
+          "ha": "left",
+          "shade": "linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.41))"
+         },
          "wpx": 406,
          "hpx": 528,
          "wpxM": 342,
@@ -2080,6 +2212,28 @@
          "gap": 20,
          "halign": "left",
          "src": "unsplash/rDEOVtE7vOs",
+         "caption": {
+          "title": "Natalie",
+          "text": "Content-Marketing",
+          "tf": {
+           "fs": 20,
+           "lh": 26.31,
+           "fw": 700,
+           "color": "#ffffff",
+           "align": "left"
+          },
+          "xf": {
+           "fs": 12,
+           "lh": 18,
+           "fw": 400,
+           "color": "rgba(255,255,255,0.72)",
+           "align": "left"
+          },
+          "pad": "32px",
+          "va": "bottom",
+          "ha": "left",
+          "shade": "linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.42))"
+         },
          "wpx": 406,
          "hpx": 528,
          "wpxM": 342,
@@ -2128,6 +2282,28 @@
          "gap": 20,
          "halign": "left",
          "src": "unsplash/C8Ta0gwPbQg",
+         "caption": {
+          "title": "Philipp",
+          "text": "Content-Marketing",
+          "tf": {
+           "fs": 20,
+           "lh": 26.31,
+           "fw": 700,
+           "color": "#ffffff",
+           "align": "left"
+          },
+          "xf": {
+           "fs": 12,
+           "lh": 18,
+           "fw": 400,
+           "color": "rgba(255,255,255,0.72)",
+           "align": "left"
+          },
+          "pad": "32px",
+          "va": "bottom",
+          "ha": "left",
+          "shade": "linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.42))"
+         },
          "wpx": 406,
          "hpx": 528,
          "wpxM": 342,
@@ -2144,6 +2320,28 @@
          "gap": 20,
          "halign": "left",
          "src": "unsplash/IF9TK5Uy-KI",
+         "caption": {
+          "title": "Lara",
+          "text": "Backoffice",
+          "tf": {
+           "fs": 20,
+           "lh": 26.31,
+           "fw": 700,
+           "color": "#ffffff",
+           "align": "left"
+          },
+          "xf": {
+           "fs": 12,
+           "lh": 18,
+           "fw": 400,
+           "color": "rgba(255,255,255,0.72)",
+           "align": "left"
+          },
+          "pad": "32px",
+          "va": "bottom",
+          "ha": "left",
+          "shade": "linear-gradient(rgba(0, 0, 0, 0.04), rgba(0, 0, 0, 0.42))"
+         },
          "wpx": 406,
          "hpx": 528,
          "wpxM": 342,
@@ -2262,6 +2460,23 @@
        "wpxT": 806,
        "atoms": [
         {
+         "type": "icon",
+         "id": "fx-E_HaIZ9OwAzWKzmyb8PlF-0",
+         "gap": 0,
+         "halign": "center",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M15.639,14.407l-2.355,2.321a19.111,19.111,0,0,1-3.4-2.613,19.353,19.353,0,0,1-2.612-3.4L9.591,8.36a1.01,1.01,0,0,0,.208-1.1L7.382,1.614A1.009,1.009,0,0,0,6.2,1.036L1.756,2.209A1.007,1.007,0,0,0,1,3.218,21.337,21.337,0,0,0,7.039,16.959,21.339,21.339,0,0,0,20.784,23a1.011,1.011,0,0,0,1.01-.756l1.172-4.44a1.009,1.009,0,0,0-.577-1.186L16.748,14.2A1.009,1.009,0,0,0,15.639,14.407Z\"></path></svg>",
+         "size": 39,
+         "color": "#76b2cc",
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#76b2cc",
+          "radius": "4px"
+         },
+         "cell": 0
+        },
+        {
          "type": "header",
          "id": "J5F4lXhDwTov38Kx7UEai",
          "gap": 10,
@@ -2274,7 +2489,8 @@
           "fw": 700,
           "color": "#151f25",
           "align": "center"
-         }
+         },
+         "cell": 0
         },
         {
          "type": "plain-text",
@@ -2289,7 +2505,25 @@
           "fw": 400,
           "color": "#151f25",
           "align": "center"
-         }
+         },
+         "cell": 0
+        },
+        {
+         "type": "icon",
+         "id": "fx-E_HaIZ9OwAzWKzmyb8PlF-1",
+         "gap": 0,
+         "halign": "center",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M13.4,14.6A2.3,2.3,0,0,1,12,15a2.3,2.3,0,0,1-1.4-.4L0,8.9V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V8.9Z\"></path> <path d=\"M21,2H3A3,3,0,0,0,0,5V6a1.05,1.05,0,0,0,.5.9l11,6a.9.9,0,0,0,.5.1.9.9,0,0,0,.5-.1l11-6A1.05,1.05,0,0,0,24,6V5A3,3,0,0,0,21,2Z\"></path></svg>",
+         "size": 39,
+         "color": "#76b2cc",
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#76b2cc",
+          "radius": "4px"
+         },
+         "cell": 1
         },
         {
          "type": "header",
@@ -2304,7 +2538,8 @@
           "fw": 700,
           "color": "#151f25",
           "align": "center"
-         }
+         },
+         "cell": 1
         },
         {
          "type": "plain-text",
@@ -2319,7 +2554,25 @@
           "fw": 400,
           "color": "#151f25",
           "align": "center"
-         }
+         },
+         "cell": 1
+        },
+        {
+         "type": "icon",
+         "id": "fx-E_HaIZ9OwAzWKzmyb8PlF-2",
+         "gap": 0,
+         "halign": "center",
+         "svg": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M0.05369,24l1.68771-6.16271c-1.04102-1.80344-1.58881-3.84947-1.58796-5.94549 C0.15607,5.33464,5.49277,0,12.04988,0c3.18237,0.00127,6.16932,1.23986,8.41533,3.48773 c2.24607,2.24788,3.48232,5.23587,3.48109,8.41356c-0.00266,6.55716-5.33983,11.8925-11.89626,11.8925h-0.00003h-0.00487 c-1.99106-0.00082-3.9474-0.50012-5.68498-1.44752L0.05369,24z M6.65233,20.19318l0.36107,0.21425 c1.5181,0.90064,3.25833,1.3771,5.03255,1.37779h0.00405c5.44987,0,9.88551-4.43425,9.88772-9.88468 c0.00101-2.64119-1.0265-5.1247-2.89334-6.99306c-1.86684-1.86836-4.34946-2.89789-6.99046-2.8989 c-5.45405,0-9.88973,4.43393-9.89191,9.88399c-0.00076,1.86766,0.52201,3.68667,1.51178,5.26048l0.23513,0.37395l-0.99891,3.64756 L6.65233,20.19318z\"></path> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.07668,6.92043 C8.83542,6.34098,8.59035,6.41938,8.40789,6.4103c-0.17318-0.00862-0.37154-0.01044-0.5697-0.01044S7.31801,6.47422,7.04553,6.77169 C6.77307,7.06918,6.0052,7.7881,6.0052,9.25069c0,1.46259,1.06511,2.8756,1.21374,3.07393 c0.14861,0.19833,2.09602,3.1998,5.07784,4.48696c0.70918,0.30615,1.26289,0.48895,1.69455,0.62597 c0.71212,0.22611,1.36011,0.19422,1.87228,0.11772c0.57108-0.08529,1.75864-0.71889,2.00636-1.41301 c0.24769-0.69412,0.24769-1.28908,0.17337-1.41304c-0.07428-0.12392-0.27246-0.1983-0.56969-0.34706 c-0.29726-0.14872-1.75867-0.86765-2.03116-0.96679c-0.27246-0.09915-0.4706-0.14873-0.66877,0.14875 c-0.19814,0.29745-0.7678,0.9668-0.9412,1.1651c-0.17337,0.19833-0.34677,0.22314-0.644,0.07438 c-0.29726-0.14872-1.25504-0.46253-2.3904-1.47489c-0.88362-0.78789-1.48023-1.76108-1.65362-2.05856 c-0.17339-0.29748-0.01844-0.45833,0.13036-0.60645c0.1337-0.13313,0.29723-0.34706,0.44586-0.52059 c0.14861-0.17353,0.19816-0.29748,0.29723-0.49578c0.09909-0.19833,0.04954-0.37186-0.02477-0.5206 C9.91886,8.978,9.3244,7.51538,9.07668,6.92043z\"></path></svg>",
+         "size": 39,
+         "color": "#76b2cc",
+         "boxSize": 56,
+         "iconBox": {
+          "w": 56,
+          "svg": 39,
+          "color": "#76b2cc",
+          "radius": "4px"
+         },
+         "cell": 2
         },
         {
          "type": "header",
@@ -2334,7 +2587,8 @@
           "fw": 700,
           "color": "#151f25",
           "align": "center"
-         }
+         },
+         "cell": 2
         },
         {
          "type": "plain-text",
@@ -2349,9 +2603,29 @@
           "fw": 400,
           "color": "#151f25",
           "align": "center"
-         }
+         },
+         "cell": 2
         }
-       ]
+       ],
+       "gl": {
+        "n": 3,
+        "gapX": 0,
+        "gapY": null,
+        "nM": 1,
+        "gapYM": 0,
+        "item": {
+         "kind": "solid",
+         "bg": "#ffffff",
+         "radius": "8px",
+         "shadow": "rgba(17, 17, 26, 0.05) 0px 4px 32px 0px, rgba(17, 17, 26, 0.05) 0px 8px 48px 0px",
+         "pad": "32px",
+         "text": "#151f25",
+         "halign": "center",
+         "valign": "middle"
+        },
+        "itemW": 417,
+        "slider": null
+       }
       }
      ],
      "box": {
@@ -2534,11 +2808,24 @@
          "halign": "left",
          "items": [
           {
-           "title": null,
-           "titleFont": null,
+           "title": "Stockumer Straße 30, 59368 Werne",
+           "titleFont": {
+            "fs": 18,
+            "lh": 23.73,
+            "fw": 700,
+            "color": "#151f25",
+            "align": "left"
+           },
            "html": null,
            "bodyFont": null,
            "frame": {},
+           "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" d=\"M20,9c0,4.9-8,13-8,13 S4,13.9,4,9c0-5.1,4.1-8,8-8S20,3.9,20,9z\" stroke-linejoin=\"miter\"></path> <circle fill=\"none\" stroke-width=\"2\" stroke-linecap=\"square\" stroke-miterlimit=\"10\" cx=\"12\" cy=\"9\" r=\"3\" stroke-linejoin=\"miter\"></circle></svg>",
+           "iconBox": {
+            "w": 40,
+            "svg": 28,
+            "color": "#76b2cc",
+            "radius": "100px"
+           },
            "accordion": false,
            "open": null,
            "iconSize": null,

@@ -86,7 +86,7 @@ const gridStyle = css({ '--gut': gut !== 28 ? gut : undefined, '--rha': flex(r.h
     {grid === 'columns' && (
       <div class="row__grid" style={gridStyle || undefined}>
         {cols.map((c) => (
-          <div class:list={['col', c.only === 'desktop' && 'only-desktop', c.only === 'mobile' && 'only-mobile']} style={css({ '--lg': c.lg || 24, '--md': c.md && c.md !== c.lg ? c.md : undefined })}>
+          <div class:list={['col', c.only === 'desktop' && 'only-desktop', c.only === 'mobile' && 'only-mobile', cols.length > 1 && hasFrame(c.frame) && c.mbox && r.box && c.mbox.h >= r.box.h * 0.95 && 'col--stretch']} style={css({ '--lg': c.lg || 24, '--md': c.md && c.md !== c.lg ? c.md : undefined })}>
             <Molecule col={c} headings={headings} eagerImages={eagerImages} />
           </div>
         ))}

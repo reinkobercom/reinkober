@@ -2,7 +2,7 @@
 // Bild oder Logo. Seitenverhältnis wie gemessen → kein Layout-Springen.
 import { Image } from 'astro:assets';
 import { getImage } from '../../data/images';
-import { css } from '../../lib/style';
+import { css, fontVars } from '../../lib/style';
 import { fixHref } from '../../lib/html';
 
 interface Props { atom: any; eager?: boolean }
@@ -29,9 +29,18 @@ const style = css({
   '--isc': a.scale && a.scale !== 1 ? a.scale : undefined,
 });
 const Wrap = href ? 'a' : 'div';
+// Bildunterschrift im Bild (z. B. Name + Rolle bei Teamfotos)
+const cap = a.caption;
+const capStyle = cap ? css({ '--cp': cap.pad, '--cja': cap.va === 'top' ? 'flex-start' : cap.va === 'middle' ? 'center' : 'flex-end', '--cta': cap.ha || 'left', '--csh': cap.shade }) : '';
 ---
 {img && (
   <Wrap class:list={['img', isLogo && 'logo-img', ratioM && ratioM !== ratio && 'img--arm']} style={style} href={href} aria-label={href && isLogo ? (alt || 'Startseite') : undefined}>
     <Image src={img.src} alt={href && isLogo ? '' : alt} widths={widths} sizes={sizes} loading={eager ? 'eager' : 'lazy'} fetchpriority={eager ? 'high' : undefined} decoding={eager ? 'sync' : 'async'} />
+    {cap && (
+      <span class="img__cap" style={capStyle}>
+        {cap.title && <span class="img__cap-title t" style={css(fontVars(cap.tf))}>{cap.title}</span>}
+        {cap.text && <span class="img__cap-text t" style={css(fontVars(cap.xf))}>{cap.text}</span>}
+      </span>
+    )}
   </Wrap>
 )}

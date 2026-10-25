@@ -3383,11 +3383,11 @@
           {
            "title": "Wie schnell können wir mit ersten Bewerbungen rechnen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>In der Regel können wir Ihre Kampagne innerhalb weniger Tage starten. Erste qualifizierte Bewerbungen sehen Kanzleien meist innerhalb der ersten 1–3 Wochen, abhängig von Standort, Profil und Anforderungen.</p>",
            "bodyFont": {
@@ -3403,6 +3403,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3411,11 +3413,11 @@
           {
            "title": "Für welche Positionen funktioniert Ihre Methode besonders gut?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Wir besetzen regelmäßig Stellen wie Steuerfachangestellte, Bilanzbuchhalter, Lohnsachbearbeiter, Fachkräfte für digitale Kanzleiprozesse sowie Steuerberater. Wichtig ist ein klar definiertes Wunschprofil – darauf richten wir die Kampagne aus.</p>",
            "bodyFont": {
@@ -3431,6 +3433,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3439,11 +3443,11 @@
           {
            "title": "Müssen wir dafür selbst auf Social Media aktiv sein?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Nein. Sie benötigen keine bestehenden Social-Media-Kanäle und müssen keine Inhalte selbst erstellen. Wir übernehmen die komplette Konzeption, Aussteuerung und – wenn gewünscht – auch die Produktion von Fotos und kurzen Videos.</p>",
            "bodyFont": {
@@ -3459,6 +3463,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3514,11 +3520,11 @@
           {
            "title": "Worin unterscheidet sich Ihre Methode von klassischen Stellenanzeigen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Klassische Anzeigen sprechen meist nur aktiv Suchende an. Unser Ansatz über Social Recruiting erreicht zusätzlich die große Gruppe an Fachkräften, die nicht aktiv suchen, aber offen für ein gutes Angebot sind – mit deutlich höherer Reichweite und Qualität der Bewerbungen.</p>",
            "bodyFont": {
@@ -3534,6 +3540,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3542,11 +3550,11 @@
           {
            "title": "Wie viel Aufwand haben wir intern mit dem Recruiting-Prozess?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Sie investieren vor allem Zeit in ein Erstgespräch und die Abstimmung der Anforderungen. Anschließend kümmern wir uns um die Kampagne und liefern Ihnen Bewerbungen, die Sie nur noch sichten und für Gespräche auswählen müssen.</p>",
            "bodyFont": {
@@ -3562,6 +3570,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3570,11 +3580,11 @@
           {
            "title": "Wie hoch ist das Risiko, wenn wir mit Ihnen starten?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Wir arbeiten mit klaren Laufzeiten und transparenten Konditionen, ohne Provisionsmodelle wie Headhunter. Auf Basis unserer Erfahrung mit über 100 Kampagnen können wir sehr realistisch einschätzen, welche Ergebnisse an Ihrem Standort erreichbar sind – das besprechen wir offen im Erstgespräch.</p>",
            "bodyFont": {
@@ -3590,6 +3600,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,

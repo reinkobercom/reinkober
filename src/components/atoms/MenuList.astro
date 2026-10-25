@@ -10,8 +10,11 @@ const { atom: a } = Astro.props;
 const items: any[] = a.items || [];
 const horizontal = a.dir === 'horizontal';
 const space = a.space ? parseFloat(a.space) : undefined;
+const centered = a.halign === 'center' && !horizontal;
+// Rechtliche Links im Footer: am Desktop nebeneinander, mobil untereinander (wie bei Onepage)
+const legal = items.length > 0 && items.every((it) => /\/(impressum|agb|datenschutz)$/.test(it.href || ''));
 ---
-<ul class:list={['mlist', horizontal && 'mlist--h', `mlist--${a.style || 'plain'}`]} style={css({ '--msp': horizontal ? space : 0, '--mja': a.halign === 'center' ? 'center' : undefined })}>
+<ul class:list={['mlist', horizontal && 'mlist--h', centered && 'mlist--center', legal && 'mlist--legal', `mlist--${a.style || 'plain'}`]} style={css({ '--msp': horizontal ? space : 0, '--mja': a.halign === 'center' ? 'center' : undefined })}>
   {items.map((it) => {
     const href = fixHref(it.href);
     const ib = it.iconBox || {};

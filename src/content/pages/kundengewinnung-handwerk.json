@@ -3364,11 +3364,11 @@
           {
            "title": "Für welche Gewerke und Leistungen funktioniert Ihre Methode im Handwerk besonders gut?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Unsere Methode funktioniert besonders gut für Gewerke, bei denen Kunden konkrete Projekte planen und online nach Lösungen suchen – zum Beispiel SHK, Elektro, Dach, Garten‑ und Landschaftsbau, Innenausbau, Maler, Trockenbau, Fliesenleger oder Spezialleistungen wie Kellerabdichtung und PV‑Montage. Entscheidend ist weniger das Gewerk als ein klar definiertes Leistungsangebot in einer bestimmten Region – darauf richten wir Ihre Kampagnen aus.</p>",
            "bodyFont": {
@@ -3384,6 +3384,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3392,11 +3394,11 @@
           {
            "title": "Wie viel Zeit müssen wir intern für Rückfragen und Angebote einplanen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Sie investieren vor allem Zeit in ein kurzes Erstgespräch und die Freigabe der Kampagnen. Danach benötigen Sie intern hauptsächlich Kapazität, um Anfragen zeitnah zu beantworten, Rückfragen zu klären und Angebote zu erstellen – erfahrungsgemäß reichen dafür wenige Stunden pro Woche, je nach Anzahl der Anfragen.</p>",
            "bodyFont": {
@@ -3412,6 +3414,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3420,11 +3424,11 @@
           {
            "title": "Müssen wir selbst aktiv auf Social Media oder in Portalen unterwegs sein?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Nein, das ist nicht notwendig. Sie brauchen weder eigene Social‑Media‑Kanäle noch müssen Sie Anzeigen in Portalen selbst schalten – wir übernehmen Konzeption, Anzeigenaufbau, Aussteuerung und Auswertung der Kampagnen komplett für Sie. Wichtig ist nur, dass Sie sichtbar erreichbar sind (Website, Telefonnummer, E‑Mail), damit Interessenten schnell mit Ihnen in Kontakt kommen.</p>",
            "bodyFont": {
@@ -3440,6 +3444,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3495,11 +3501,11 @@
           {
            "title": "Funktioniert das auch in ländlichen Regionen oder kleineren Einzugsgebieten?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Ja, unsere Erfahrung zeigt, dass gerade Betriebe in ländlichen Regionen von gezielten Online‑Kampagnen profitieren, weil dort das Angebot überschaubarer ist. Wir passen Zielgebiete, Botschaft und Kanäle an Ihren Standort an und erweitern den Radius nur so weit, wie es für Ihre Einsätze sinnvoll ist – so erzielen wir auch in kleineren Märkten gute Ergebnisse.</p>",
            "bodyFont": {
@@ -3515,6 +3521,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3523,11 +3531,11 @@
           {
            "title": "Wie schnell sehen wir die ersten qualifizierten Kundenanfragen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>In der Regel sind Ihre Kampagnen innerhalb weniger Tage startklar. Erste qualifizierte Anfragen gehen häufig innerhalb der ersten 1–3 Wochen ein, abhängig von Region, Gewerk und Wettbewerbsumfeld – diese Erwartungen besprechen wir vorab transparent mit Ihnen.</p>",
            "bodyFont": {
@@ -3543,6 +3551,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3551,11 +3561,11 @@
           {
            "title": "Mit welchen Kosten und Budgets sollten wir als Handwerksbetrieb rechnen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Die Gesamtkosten setzen sich aus unserem Agenturhonorar und dem Werbebudget für Plattformen wie Google und Meta zusammen. Wir arbeiten mit klar kalkulierbaren Paketen und empfehlen je nach Region und Zielsetzung ein Mindestbudget, das realistisch genügend Sichtbarkeit erzeugt – typische Betriebe starten mit einem monatlichen Werbebudget im unteren bis mittleren vierstelligen Bereich, das sich über neue Aufträge amortisieren soll.</p>",
            "bodyFont": {
@@ -3571,6 +3581,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,

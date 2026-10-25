@@ -3410,11 +3410,11 @@
           {
            "title": "Für welche Dienstleistungsbranchen eignet sich Ihr Recruiting?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Wir unterstützen u.a. Unternehmen aus Gastronomie, Hotellerie, Logistik, Gebäudereinigung, Sicherheit, Kundenservice, Agenturen und vielen weiteren Servicebereichen.</p>",
            "bodyFont": {
@@ -3430,6 +3430,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3438,11 +3440,11 @@
           {
            "title": "Besetzen Sie eher Fachkräfte oder Einstiegspositionen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Beides. Wir gewinnen qualifizierte Fachkräfte (z.B. Köche, Fahrer, Disposition, Leitstelle) ebenso wie Service-, Büro- und Einstiegsrollen.</p>",
            "bodyFont": {
@@ -3458,6 +3460,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3466,11 +3470,11 @@
           {
            "title": "Müssen wir dafür eigene Social-Media-Kanäle haben?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Nein. Sie benötigen weder Kanäle noch Content. Wir entwickeln die Kampagnen, erstellen die Anzeigen und spielen sie gezielt an passende Kandidat:innen aus.</p>",
            "bodyFont": {
@@ -3486,6 +3490,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3541,11 +3547,11 @@
           {
            "title": "Wie schnell sehen wir erste Ergebnisse?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>In der Regel ist Ihre Kampagne innerhalb weniger Tage online. Erste passende Bewerbungen treffen häufig innerhalb der ersten 2–3 Wochen ein.</p>",
            "bodyFont": {
@@ -3561,6 +3567,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3569,11 +3577,11 @@
           {
            "title": "Wie viel Aufwand haben wir intern?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Sie investieren vor allem ein kurzes Briefing und geben die Kampagne frei. Danach konzentriert sich Ihr Team auf Bewerbungsgespräche mit vorqualifizierten Kandidat:innen.</p>",
            "bodyFont": {
@@ -3589,6 +3597,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3597,11 +3607,11 @@
           {
            "title": "Was kostet das im Vergleich zu Jobbörsen oder Personalvermittlern?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Wir arbeiten mit klar kalkulierbaren Projektpreisen statt Provision pro Einstellung. So behalten Sie die Kosten im Blick und vermeiden hohe Vermittlungsgebühren.</p>",
            "bodyFont": {
@@ -3617,6 +3627,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,

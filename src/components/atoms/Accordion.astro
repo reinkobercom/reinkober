@@ -9,7 +9,7 @@ const items: any[] = a.items || [];
 const cols = a.listCols || 1;
 const plus = '<svg viewBox="0 0 16 16" aria-hidden="true"><path class="acc__v" d="M8 1v14"/><path d="M1 8h14"/></svg>';
 ---
-<div class="acc" style={css({ '--acols': cols > 1 ? cols : undefined, '--agap': a.space ?? 8 })}>
+<div class:list={['acc', a.listStyle === 'transparent' && 'acc--plain']} style={css({ '--acols': cols > 1 ? cols : undefined, '--agap': a.space ?? 8 })}>
   {items.map((it) => {
     const style = css({ ...frameVars(it.frame), '--isz': it.iconSize });
     return it.accordion !== false ? (
@@ -21,7 +21,8 @@ const plus = '<svg viewBox="0 0 16 16" aria-hidden="true"><path class="acc__v" d
         <div class="acc__body t" style={css({ ...fontVars(it.bodyFont), '--abg': it.bodyGap })} set:html={blockHtml(it.html || '')} />
       </details>
     ) : (
-      <div class="acc__item fr" style={style}>
+      <div class:list={['acc__item', 'fr', it.icon && 'acc__item--icon']} style={style}>
+        {it.icon && <span class="acc__icon" aria-hidden="true" style={css({ '--iw': it.iconBox?.w, '--is': it.iconBox?.svg, '--ic': it.iconBox?.color })} set:html={it.icon} />}
         <p class="acc__title t" style={css(fontVars(it.titleFont))}>{it.title}</p>
         {it.html && <div class="acc__body t" style={css(fontVars(it.bodyFont))} set:html={blockHtml(it.html)} />}
       </div>

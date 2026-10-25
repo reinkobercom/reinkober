@@ -3438,11 +3438,11 @@
           {
            "title": "Für welche Stellen funktioniert Ihre Methode in Apotheken?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Wir gewinnen vor allem PTA, PKA und Apotheker:innen, bei Bedarf auch Filialleitungen oder spezialisierte Funktionen wie QM oder Rezeptur.</p>",
            "bodyFont": {
@@ -3458,6 +3458,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3466,11 +3468,11 @@
           {
            "title": "Müssen wir selbst auf Social Media aktiv sein?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Nein. Sie brauchen weder eigene Accounts noch Inhalte – wir übernehmen Konzeption, Anzeigen, Zielgruppenansprache und Aussteuerung.</p>",
            "bodyFont": {
@@ -3486,6 +3488,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3494,11 +3498,11 @@
           {
            "title": "Wie schnell sehen wir erste Bewerbungen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>In der Regel ist Ihre Kampagne in wenigen Tagen live. Erste passende Bewerbungen gehen häufig innerhalb der ersten 2–3 Wochen ein.</p>",
            "bodyFont": {
@@ -3514,6 +3518,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3569,11 +3575,11 @@
           {
            "title": "Wie viel Zeit müssen wir intern einplanen?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Sie investieren vor allem ein kurzes Erstgespräch und die Freigabe der Kampagne. Danach konzentrieren Sie sich auf Gespräche mit vorqualifizierten Bewerber:innen.</p>",
            "bodyFont": {
@@ -3589,6 +3595,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3597,11 +3605,11 @@
           {
            "title": "Funktioniert das auch in ländlichen Regionen oder kleineren Städten?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Ja, wir passen die Ansprache und den Radius an Ihren Standort an und können so auch in weniger dicht besiedelten Regionen geeignete Kandidat:innen erreichen.</p>",
            "bodyFont": {
@@ -3617,6 +3625,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
@@ -3625,11 +3635,11 @@
           {
            "title": "Welche Kosten kommen auf unsere Apotheke zu?",
            "titleFont": {
-            "fs": 14,
-            "lh": 24,
-            "fw": 400,
+            "fs": 20,
+            "lh": 26.31,
+            "fw": 700,
             "color": "#151f25",
-            "align": "center"
+            "align": "left"
            },
            "html": "<p>Wir arbeiten mit klar definierten Projektpreisen statt Provisionen pro Einstellung. Das gibt Ihnen Planungssicherheit und vermeidet hohe, unkalkulierbare Headhunter-Honorare.</p>",
            "bodyFont": {
@@ -3645,6 +3655,8 @@
             "radius": "16px",
             "pad": "32px"
            },
+           "icon": "<svg viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><line fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" x1=\"8.5\" y1=\"0.5\" x2=\"8.5\" y2=\"15.5\"></line> <polyline fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-miterlimit=\"10\" points=\"3.5,10.5 8.5,15.5 13.5,10.5 \"></polyline></svg>",
+           "iconBox": null,
            "accordion": true,
            "open": null,
            "iconSize": 18,
