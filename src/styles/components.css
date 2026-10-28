@@ -224,25 +224,25 @@ details.acc__item[open]::details-content { block-size: auto; }
 .js-forms .msf__step:not([data-active]) { display: none; }
 .msf__step + .msf__step { margin-top: 48px; }
 .js-forms .msf__step + .msf__step { margin-top: 0; }
-.msf__title { display: block; width: 100%; padding: 0; font-size: 32px; line-height: 41.6px; font-weight: 700; color: var(--c-dark); text-align: center; margin: 0 0 20px; }
+.msf__title { display: block; width: 100%; padding: 0; font-size: 32px; line-height: 41.6px; font-weight: 700; color: var(--c-dark); text-align: center; margin: 0 0 39px; }
 .msf__desc { font-size: 16px; line-height: 24px; margin: -4px auto 24px; max-width: 520px; }
 .msf__fields { display: flex; flex-direction: column; gap: 18px; }
 .msf__field { position: relative; text-align: left; }
 .msf__control { position: relative; }
-.msf__icon { position: absolute; left: 26px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; color: var(--c-dark); pointer-events: none; }
+.msf__icon { position: absolute; left: 25px; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; color: var(--c-dark); pointer-events: none; }
 .msf__icon svg { width: 16px; height: 16px; fill: currentColor; }
 .msf input[type=text], .msf input[type=email], .msf input[type=tel], .msf textarea, .msf select {
   width: 100%; height: 72px; padding: 23px 21px; font-size: 20px; line-height: 24px; color: #000; background: #fff;
   border: 1px solid rgba(21, 31, 37, .1); border-radius: 4px; outline: 0; transition: border-color .2s, box-shadow .2s; -webkit-appearance: none; appearance: none;
 }
-.msf__field--icon input { padding-left: 72px; }
+.msf .msf__field--icon input { padding-left: 72px; }
 .msf textarea { height: auto; min-height: 120px; resize: vertical; }
 .msf select { background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M7 10l5 5 5-5' fill='none' stroke='%23151f25' stroke-width='2'/%3E%3C/svg%3E") no-repeat right 16px center / 18px; padding-right: 48px; }
 .msf ::placeholder { color: rgba(21, 31, 37, .4); opacity: 1; }
 .msf input:focus, .msf textarea:focus, .msf select:focus { border-color: var(--c-key1); box-shadow: 0 0 0 3px rgba(118, 178, 204, .25); }
 .msf [aria-invalid=true] { border-color: #c0392b !important; }
 .msf__label { display: block; font-size: 14px; font-weight: 700; line-height: 20px; margin-bottom: 8px; }
-.msf__nav { display: flex; justify-content: center; margin-top: 104px; }
+.msf__nav { display: flex; justify-content: center; margin-top: 170px; }
 .msf__btn { --bh: 61; --bpy: 8; --bpx: 31; --bfs: 17; min-width: 196px; }
 .msf__btn.is-loading { opacity: .7; pointer-events: none; }
 .msf__btn { animation: ripple 2.4s ease-out infinite; }
@@ -255,8 +255,8 @@ details.acc__item[open]::details-content { block-size: auto; }
 .msf__check input { width: 18px; height: 18px; margin: 2px 0 0; accent-color: var(--c-key1); flex: 0 0 auto; }
 .msf__check a { color: inherit; }
 .msf__done { padding: 40px 0; }
-.msf__progress { display: flex; flex-direction: column; align-items: center; gap: 8px; margin-bottom: 64px; }
-.msf__progress-label { font-size: 14px; line-height: 18px; }
+.msf__progress { display: flex; flex-direction: column; align-items: center; gap: 8px; margin-bottom: 142px; }
+.msf__progress-label { font-size: 17px; line-height: 24px; }
 .msf__bar { width: 120px; height: 3px; background: #e9eaeb; border-radius: 3px; overflow: hidden; }
 .msf__fill { display: block; height: 100%; background: var(--c-key1); transition: width .35s ease; }
 /* Auswahl-Kacheln */
@@ -275,9 +275,9 @@ details.acc__item[open]::details-content { block-size: auto; }
 .msf--bewerbung input[type=text], .msf--bewerbung input[type=email], .msf--bewerbung input[type=tel], .msf--bewerbung select { height: 48px; padding: 11px 12px; font-size: 14px; }
 .msf--bewerbung textarea { min-height: 72px; padding: 11px 12px; font-size: 14px; }
 .msf--bewerbung .msf__fields { gap: 17px; }
-.msf--bewerbung .msf__nav { margin-top: 40px; }
+.msf--bewerbung .msf__nav { margin-top: 60px; }
 .msf--bewerbung .msf__btn { min-width: 0; }
-.msf--bewerbung .msf__progress { margin-bottom: 24px; }
+.msf--bewerbung .msf__progress { margin-bottom: 41px; }
 .msf--bewerbung .msf__progress-label { font-size: 13px; }
 .msf--bewerbung .msf__bar { width: 180px; }
 .msf--bewerbung .msf__choices--multi { max-width: 1250px; margin: 0 -375px; width: auto; }
@@ -293,11 +293,16 @@ details.acc__item[open]::details-content { block-size: auto; }
 .msf--stack .msf__legal { margin-top: 12px; }
 @media (max-width: 767.98px) {
   .msf input[type=text], .msf input[type=email], .msf input[type=tel], .msf select { height: 60px; padding: 17px 16px; font-size: 14px; }
-  .msf__field--icon input { padding-left: 60px; }
-  .msf__icon { left: 22px; }
+  .msf .msf__field--icon input { padding-left: 60px; }
+  .msf__icon { left: 20px; }
   .msf__title { font-size: 32px; line-height: 41.6px; }
-  .msf__nav { margin-top: 85px; }
-  .msf--stack .msf__nav, .msf--bewerbung .msf__nav { margin-top: 24px; }
+  .msf__nav { margin-top: 145px; }
+  .msf__progress { margin-bottom: 132px; }
+  .msf__progress-label { font-size: 11px; line-height: 15px; }
+  .msf__title { margin-bottom: 37px; }
+  .msf--stack .msf__nav { margin-top: 24px; }
+  .msf--bewerbung .msf__nav { margin-top: 44px; }
+  .msf--bewerbung .msf__progress { margin-bottom: 46px; }
 }
 
 /* ---------- Onboarding-Interview ---------- */
@@ -309,7 +314,7 @@ details.acc__item[open]::details-content { block-size: auto; }
 .itv__start .sec__frame { padding-top: 40px; }
 .itv__form { max-width: 554px; margin: 0 auto; padding: 64px 24px 80px; box-sizing: content-box; text-align: center; }
 .itv__step { border: 0; margin: 0; padding: 0; min-width: 0; }
-.itv__kicker { margin: 0 0 24px; font-size: 32px; line-height: 41.6px; font-weight: 700; }
+.itv__kicker { display: block; margin: 0 0 24px; font-size: 32px; line-height: 41.6px; font-weight: 700; }
 .itv__kicker mark { background: linear-gradient(transparent 55%, rgba(118, 178, 204, .45) 55%, rgba(118, 178, 204, .45) 85%, transparent 85%); padding: 0 .3em; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
 .itv__q { display: block; width: 100%; padding: 0; font-size: 32px; line-height: 41.6px; font-weight: 700; margin: 0 0 36px; color: var(--c-dark); }
 .itv__fields { display: flex; flex-direction: column; gap: 16px; text-align: left; }
@@ -365,3 +370,7 @@ details.acc__item[open]::details-content { block-size: auto; }
 .acc__icon svg { width: calc(var(--is, 24) * 1px); height: calc(var(--is, 24) * 1px); }
 .acc--plain .acc__item { --f-bg: transparent; --f-p: 0; --f-sh: none; }
 .links--contacts .links__label { white-space: nowrap; }
+
+.itv__qt { display: block; }
+.msf--bewerbung .msf__field--icon input { padding-left: 44px; }
+.msf--bewerbung .msf__icon { left: 15px; }

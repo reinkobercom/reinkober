@@ -208,7 +208,7 @@ mark[data-hl="underline"] { text-decoration: underline; text-decoration-color: v
 /* ---------- Checklisten / Menüs (menu-v2) ---------- */
 .mlist { list-style: none; display: flex; flex-direction: column; gap: calc(var(--msp, 8) * 1px); margin: 0; padding: 0; }
 .mlist--h { justify-content: var(--mja, flex-start); flex-direction: row; flex-wrap: wrap; column-gap: calc(var(--msp, 24) * 1px); row-gap: 0; }
-.mlist__item { display: flex; align-items: center; gap: 12px; text-decoration: none; color: inherit; padding: var(--mip, 0); }
+.mlist__item { display: flex; align-items: center; gap: var(--mig, 12px); text-decoration: none; color: inherit; padding: var(--mip, 0); }
 a.mlist__item:hover .mlist__title { text-decoration: underline; text-underline-offset: 3px; }
 .mlist__icon { flex: 0 0 auto; display: grid; place-items: center; width: calc(var(--iw, 24) * 1px); height: calc(var(--iw, 24) * 1px); background: var(--ibg, transparent); border: var(--ibd, 0); border-radius: var(--ir, 0); color: var(--ic, currentColor); }
 .mlist__icon svg { width: calc(var(--is, 24) * 1px); height: calc(var(--is, 24) * 1px); fill: currentColor; }
@@ -243,3 +243,5 @@ a.mlist__item:hover .mlist__title { text-decoration: underline; text-underline-o
 .mlist--center { align-items: center; }
 @media (min-width: 768px) { .mlist--legal { flex-direction: row; justify-content: center; column-gap: 0; } }
 @media (min-width: 992px) { .col > .mol.fr { min-height: var(--mmh, auto); } }
+.mlist__icon { overflow: hidden; }
+.mlist__icon img { display: block; width: 100% !important; height: 100% !important; object-fit: cover; }

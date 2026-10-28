@@ -443,34 +443,6 @@ export const forms: Record<string, FormDef> = {
         ]
       },
       {
-        "kicker": "Deine Wunschkunden",
-        "title": "Wer sind deine absoluten Lieblingskunden, mit denen es einfach „läuft“?",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Denk an Kunden, bei denen die Zusammenarbeit Spaß macht: Alter, Beruf, Interessen, Branche, typische Probleme.",
-            "required": true,
-            "name": "ZG"
-          }
-        ]
-      },
-      {
-        "kicker": "Was steht deinen Kunden im Weg?",
-        "title": "Welche typischen Herausforderungen oder Stolpersteine hat deine Zielgruppe, wenn sie das Problem alleine lösen will?",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Was funktioniert bei ihnen nicht? Woran scheitern sie, wenn sie es selbst probieren?",
-            "required": true,
-            "name": "Herausforderung ZG"
-          }
-        ]
-      },
-      {
         "kicker": "Das ist dein Angebot",
         "title": "Was bietest du genau an – erklär es bitte so, wie du es deinem Wunschkunden erklären würdest.",
         "hint": null,
@@ -481,6 +453,20 @@ export const forms: Record<string, FormDef> = {
             "placeholder": "💡 Beschreib’s so, wie du es einem Interessenten erzählen würdest. Was bekommt er konkret? Welche Ergebnisse kann er erwarten?",
             "required": true,
             "name": "Angebotsinhalt"
+          }
+        ]
+      },
+      {
+        "kicker": "Das ist dein Angebot",
+        "title": "Was verstehen Kunden an deinem Angebot oft FALSCH, was musst Du häufiger klarstellen oder genauer erklären?",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Zum Beispiel: „Viele glauben, mein Coaching ist nur für Profis geeignet“, oder „Die meisten unterschätzen den Aufwand hinter dem Ergebnis“. Was müssen wir wissen, um diese falschen Vorstellungen direkt richtigzustellen?",
+            "required": true,
+            "name": "Verständnisfehler"
           }
         ]
       },
@@ -526,6 +512,20 @@ export const forms: Record<string, FormDef> = {
       },
       {
         "kicker": "Deine Wunschkunden",
+        "title": "Wer sind deine absoluten Lieblingskunden, mit denen es einfach „läuft“?",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Denk an Kunden, bei denen die Zusammenarbeit Spaß macht: Alter, Beruf, Interessen, Branche, typische Probleme.",
+            "required": true,
+            "name": "ZG"
+          }
+        ]
+      },
+      {
+        "kicker": "Deine Wunschkunden",
         "title": "Welche Wünsche oder Ziele verfolgen deine Wunschkunden mit deinem Angebot?",
         "hint": null,
         "fields": [
@@ -549,6 +549,20 @@ export const forms: Record<string, FormDef> = {
             "placeholder": "💡 Beschreib typische Probleme oder Symptome. Was ist der Moment, in dem die Kunden merken: „Jetzt reicht’s, ich will eine Lösung!“",
             "required": true,
             "name": "ZG Problem"
+          }
+        ]
+      },
+      {
+        "kicker": "Was steht deinen Kunden im Weg?",
+        "title": "Welche typischen Herausforderungen oder Stolpersteine hat deine Zielgruppe, wenn sie das Problem alleine lösen will?",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Was funktioniert bei ihnen nicht? Woran scheitern sie, wenn sie es selbst probieren?",
+            "required": true,
+            "name": "Herausforderung ZG"
           }
         ]
       },
@@ -595,6 +609,20 @@ export const forms: Record<string, FormDef> = {
         ]
       },
       {
+        "kicker": "Was macht dein Angebot besonders?",
+        "title": "Bitte nenne uns einige deiner Mitbewerber:",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Füge gern einfach die Links zu deren Webseiten hier ein.",
+            "required": true,
+            "name": "Wettbewerber (2)"
+          }
+        ]
+      },
+      {
         "kicker": "Deine Story & Motivation",
         "title": "Warum machst du genau das, was du machst? Gab es einen Moment, der dich dahin geführt hat?",
         "hint": null,
@@ -605,6 +633,20 @@ export const forms: Record<string, FormDef> = {
             "placeholder": "💡 Gab es einen Aha-Moment? Ein Schlüsselerlebnis? Oder hast du einfach gemerkt: „DAS ist meine Leidenschaft“?",
             "required": true,
             "name": "Motivation/Story"
+          }
+        ]
+      },
+      {
+        "kicker": "Deine Story & Motivation",
+        "title": "Welche Qualifikationen, Ausbildungen oder besonderen Erfahrungen machen dich zum Experten in deinem Bereich?",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Zum Beispiel: „Zertifizierter XY-Coach“, „20 Jahre Branchenerfahrung“, „Studium im Bereich XY“, „Eigene Erfolgsgeschichte mit dem Thema“ oder „Regelmäßige Fachvorträge auf Konferenzen“. Alles, was deiner Zielgruppe zeigt: Du weißt, wovon du sprichst!",
+            "required": true,
+            "name": "Qualifikationen"
           }
         ]
       },
@@ -656,20 +698,6 @@ export const forms: Record<string, FormDef> = {
         ]
       },
       {
-        "kicker": "Das ist dein Angebot",
-        "title": "Was verstehen Kunden an deinem Angebot oft FALSCH, was musst Du häufiger klarstellen oder genauer erklären?",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Zum Beispiel: „Viele glauben, mein Coaching ist nur für Profis geeignet“, oder „Die meisten unterschätzen den Aufwand hinter dem Ergebnis“. Was müssen wir wissen, um diese falschen Vorstellungen direkt richtigzustellen?",
-            "required": true,
-            "name": "Verständnisfehler"
-          }
-        ]
-      },
-      {
         "kicker": "Der Feinschliff",
         "title": "Wie fühlen sich deine Kunden nach der Zusammenarbeit mit dir? Was verändert sich?",
         "hint": null,
@@ -708,34 +736,6 @@ export const forms: Record<string, FormDef> = {
             "placeholder": "💡 Hier ist Platz für alles, was du uns noch mitgeben möchtest.",
             "required": true,
             "name": "Mehr infos"
-          }
-        ]
-      },
-      {
-        "kicker": "Deine Story & Motivation",
-        "title": "Welche Qualifikationen, Ausbildungen oder besonderen Erfahrungen machen dich zum Experten in deinem Bereich?",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Zum Beispiel: „Zertifizierter XY-Coach“, „20 Jahre Branchenerfahrung“, „Studium im Bereich XY“, „Eigene Erfolgsgeschichte mit dem Thema“ oder „Regelmäßige Fachvorträge auf Konferenzen“. Alles, was deiner Zielgruppe zeigt: Du weißt, wovon du sprichst!",
-            "required": true,
-            "name": "Qualifikationen"
-          }
-        ]
-      },
-      {
-        "kicker": "Was macht dein Angebot besonders?",
-        "title": "Bitte nenne uns einige deiner Mitbewerber:",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Füge gern einfach die Links zu deren Webseiten hier ein.",
-            "required": true,
-            "name": "Wettbewerber (2)"
           }
         ]
       }
@@ -792,34 +792,6 @@ export const forms: Record<string, FormDef> = {
         ]
       },
       {
-        "kicker": "Deine Wunschkunden",
-        "title": "Wer sind deine absoluten Lieblingskunden, mit denen es einfach „läuft“?",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Denk an Kunden, bei denen die Zusammenarbeit Spaß macht: Alter, Beruf, Interessen, Branche, typische Probleme.",
-            "required": true,
-            "name": "ZG"
-          }
-        ]
-      },
-      {
-        "kicker": "Was steht deinen Kunden im Weg?",
-        "title": "Welche typischen Herausforderungen oder Stolpersteine hat deine Zielgruppe, wenn sie das Problem alleine lösen will?",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Was funktioniert bei ihnen nicht? Woran scheitern sie, wenn sie es selbst probieren?",
-            "required": true,
-            "name": "Herausforderung ZG"
-          }
-        ]
-      },
-      {
         "kicker": "Das ist dein Angebot",
         "title": "Was bietest du genau an – erklär es bitte so, wie du es deinem Wunschkunden erklären würdest.",
         "hint": null,
@@ -830,6 +802,20 @@ export const forms: Record<string, FormDef> = {
             "placeholder": "💡 Beschreib’s so, wie du es einem Interessenten erzählen würdest. Was bekommt er konkret? Welche Ergebnisse kann er erwarten?",
             "required": true,
             "name": "Angebotsinhalt"
+          }
+        ]
+      },
+      {
+        "kicker": "Das ist dein Angebot",
+        "title": "Was verstehen Kunden an deinem Angebot oft FALSCH, was musst Du häufiger klarstellen oder genauer erklären?",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Zum Beispiel: „Viele glauben, mein Coaching ist nur für Profis geeignet“, oder „Die meisten unterschätzen den Aufwand hinter dem Ergebnis“. Was müssen wir wissen, um diese falschen Vorstellungen direkt richtigzustellen?",
+            "required": true,
+            "name": "Verständnisfehler"
           }
         ]
       },
@@ -875,6 +861,20 @@ export const forms: Record<string, FormDef> = {
       },
       {
         "kicker": "Deine Wunschkunden",
+        "title": "Wer sind deine absoluten Lieblingskunden, mit denen es einfach „läuft“?",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Denk an Kunden, bei denen die Zusammenarbeit Spaß macht: Alter, Beruf, Interessen, Branche, typische Probleme.",
+            "required": true,
+            "name": "ZG"
+          }
+        ]
+      },
+      {
+        "kicker": "Deine Wunschkunden",
         "title": "Welche Wünsche oder Ziele verfolgen deine Wunschkunden mit deinem Angebot?",
         "hint": null,
         "fields": [
@@ -898,6 +898,20 @@ export const forms: Record<string, FormDef> = {
             "placeholder": "💡 Beschreib typische Probleme oder Symptome. Was ist der Moment, in dem die Kunden merken: „Jetzt reicht’s, ich will eine Lösung!“",
             "required": true,
             "name": "ZG Problem"
+          }
+        ]
+      },
+      {
+        "kicker": "Was steht deinen Kunden im Weg?",
+        "title": "Welche typischen Herausforderungen oder Stolpersteine hat deine Zielgruppe, wenn sie das Problem alleine lösen will?",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Was funktioniert bei ihnen nicht? Woran scheitern sie, wenn sie es selbst probieren?",
+            "required": true,
+            "name": "Herausforderung ZG"
           }
         ]
       },
@@ -944,6 +958,20 @@ export const forms: Record<string, FormDef> = {
         ]
       },
       {
+        "kicker": "Was macht dein Angebot besonders?",
+        "title": "Bitte nenne uns einige deiner Mitbewerber:",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Füge gern einfach die Links zu deren Webseiten hier ein.",
+            "required": true,
+            "name": "Wettbewerber (2)"
+          }
+        ]
+      },
+      {
         "kicker": "Deine Story & Motivation",
         "title": "Warum machst du genau das, was du machst? Gab es einen Moment, der dich dahin geführt hat?",
         "hint": null,
@@ -954,6 +982,20 @@ export const forms: Record<string, FormDef> = {
             "placeholder": "💡 Gab es einen Aha-Moment? Ein Schlüsselerlebnis? Oder hast du einfach gemerkt: „DAS ist meine Leidenschaft“?",
             "required": true,
             "name": "Motivation/Story"
+          }
+        ]
+      },
+      {
+        "kicker": "Deine Story & Motivation",
+        "title": "Welche Qualifikationen, Ausbildungen oder besonderen Erfahrungen machen dich zum Experten in deinem Bereich?",
+        "hint": null,
+        "fields": [
+          {
+            "type": "textarea",
+            "label": "",
+            "placeholder": "💡 Zum Beispiel: „Zertifizierter XY-Coach“, „20 Jahre Branchenerfahrung“, „Studium im Bereich XY“, „Eigene Erfolgsgeschichte mit dem Thema“ oder „Regelmäßige Fachvorträge auf Konferenzen“. Alles, was deiner Zielgruppe zeigt: Du weißt, wovon du sprichst!",
+            "required": true,
+            "name": "Qualifikationen"
           }
         ]
       },
@@ -1005,20 +1047,6 @@ export const forms: Record<string, FormDef> = {
         ]
       },
       {
-        "kicker": "Das ist dein Angebot",
-        "title": "Was verstehen Kunden an deinem Angebot oft FALSCH, was musst Du häufiger klarstellen oder genauer erklären?",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Zum Beispiel: „Viele glauben, mein Coaching ist nur für Profis geeignet“, oder „Die meisten unterschätzen den Aufwand hinter dem Ergebnis“. Was müssen wir wissen, um diese falschen Vorstellungen direkt richtigzustellen?",
-            "required": true,
-            "name": "Verständnisfehler"
-          }
-        ]
-      },
-      {
         "kicker": "Der Feinschliff",
         "title": "Wie fühlen sich deine Kunden nach der Zusammenarbeit mit dir? Was verändert sich?",
         "hint": null,
@@ -1057,34 +1085,6 @@ export const forms: Record<string, FormDef> = {
             "placeholder": "💡 Hier ist Platz für alles, was du uns noch mitgeben möchtest.",
             "required": true,
             "name": "Mehr infos"
-          }
-        ]
-      },
-      {
-        "kicker": "Deine Story & Motivation",
-        "title": "Welche Qualifikationen, Ausbildungen oder besonderen Erfahrungen machen dich zum Experten in deinem Bereich?",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Zum Beispiel: „Zertifizierter XY-Coach“, „20 Jahre Branchenerfahrung“, „Studium im Bereich XY“, „Eigene Erfolgsgeschichte mit dem Thema“ oder „Regelmäßige Fachvorträge auf Konferenzen“. Alles, was deiner Zielgruppe zeigt: Du weißt, wovon du sprichst!",
-            "required": true,
-            "name": "Qualifikationen"
-          }
-        ]
-      },
-      {
-        "kicker": "Was macht dein Angebot besonders?",
-        "title": "Bitte nenne uns einige deiner Mitbewerber:",
-        "hint": null,
-        "fields": [
-          {
-            "type": "textarea",
-            "label": "",
-            "placeholder": "💡 Füge gern einfach die Links zu deren Webseiten hier ein.",
-            "required": true,
-            "name": "Wettbewerber (2)"
           }
         ]
       }

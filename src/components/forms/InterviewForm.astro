@@ -34,8 +34,10 @@ const pct = (i: number) => `${Math.round(((i + 1) / total) * 100)}%`;
 
     {steps.map((st, s) => (
       <fieldset class="itv__step" data-step={s} aria-labelledby={`${uid}-q${s}`}>
-        {st.kicker && <p class="itv__kicker"><mark>{st.kicker}</mark></p>}
-        <legend class="itv__q" id={`${uid}-q${s}`}>{st.title}</legend>
+        <legend class="itv__q" id={`${uid}-q${s}`}>
+          {st.kicker && <span class="itv__kicker"><mark>{st.kicker}</mark></span>}
+          <span class="itv__qt">{st.title}</span>
+        </legend>
         <div class="itv__fields">
           {st.fields.map((f, i) => {
             const id = `${uid}-${s}-${i}`;
