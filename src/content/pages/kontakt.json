@@ -2,7 +2,7 @@
  "slug": "/kontakt",
  "title": "Kontakt",
  "seoTitle": "Kontakt",
- "seoDescription": "Erfahren Sie mehr über reinkober.com: Unsere Werte, transparente Kommunikation, partnerschaftliche Zusammenarbeit und der Fokus auf nachhaltiges Wachstum für Ihren Erfolg.",
+ "seoDescription": "Erfahren Sie mehr über reinkober.com, die Unternehmensberatung für planbares Wachstum: unsere Werte, transparente Kommunikation und partnerschaftliche Zusammenarbeit.",
  "seoImage": null,
  "noindexLive": true,
  "sections": [
@@ -104,7 +104,7 @@
        "h": 49
       },
       {
-       "text": "Ziele & Branchen",
+       "text": "Beratung & Branchen",
        "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
        "iconColor": "#151f25",
        "iconBox": {
@@ -298,7 +298,7 @@
            "h": 49
           },
           {
-           "text": "Ziele & Branchen",
+           "text": "Beratung & Branchen",
            "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
            "iconColor": "#151f25",
            "iconBox": {
@@ -904,7 +904,7 @@
          "gap": 30,
          "w": "83.51459645105896%",
          "halign": "left",
-         "html": "<p>In einem kurzen Gespräch schauen wir uns gemeinsam Ihre aktuelle Situation an und prüfen, welche Möglichkeiten es für mehr Wachstum und Sichtbarkeit gibt.</p>",
+         "html": "<p>In einem kurzen Gespräch schauen wir uns gemeinsam Ihre aktuelle Situation an und prüfen, wo Beratung und Umsetzung den größten Hebel für Ihr Wachstum haben.</p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -925,7 +925,7 @@
          "space": "1px",
          "items": [
           {
-           "text": "Persönliches Gespräch auf Augenhöhe",
+           "text": "Persönliches Beratungsgespräch auf Augenhöhe",
            "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,0A12,12,0,1,0,24,12,12.035,12.035,0,0,0,12,0ZM10,17.414,4.586,12,6,10.586l4,4,8-8L19.414,8Z\"></path></svg>",
            "iconColor": "#151f25",
            "iconBox": {
@@ -2062,7 +2062,7 @@
          "id": "UC7YkAB6uXvKuUD5wpAHJ",
          "gap": 20,
          "halign": "left",
-         "html": "<strong><p>Leistungen</p></strong>",
+         "html": "<strong><p>Beratungsfelder</p></strong>",
          "tag": "p",
          "font": {
           "fs": 24,
@@ -2789,7 +2789,7 @@
          "id": "BRT3ZEtLnltJmLF4KQcKh",
          "gap": 20,
          "halign": "center",
-         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind Ihre Unternehmensberatung mit Umsetzungsstärke – als Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -3053,7 +3053,7 @@
           },
           {
            "text": "Kundengewinnung für Handwerker",
-           "sub": "Ob Sanitär oder Bausanierung - wir liefern Neukunden und bauen Systeme.",
+           "sub": "Ob Sanitär oder Bausanierung – wir beraten, liefern Neukunden und bauen Systeme.",
            "href": "/kundengewinnung-handwerk",
            "font": {
             "fs": 13.6,

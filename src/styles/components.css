@@ -374,3 +374,15 @@ details.acc__item[open]::details-content { block-size: auto; }
 .itv__qt { display: block; }
 .msf--bewerbung .msf__field--icon input { padding-left: 44px; }
 .msf--bewerbung .msf__icon { left: 15px; }
+
+/* schmale Desktop-Breiten: Logo und Menü überlappen sonst */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .hdr .hdr__logo img { width: 100%; max-width: 204px; }
+  .hdr .hdr__link { padding: 12px 8px; font-size: 16px; }
+  .hdr .hdr__spacer { flex-basis: 16px; }
+}
+@media (min-width: 992px) and (max-width: 1099.98px) {
+  .hdr .hdr__logo { flex-basis: 150px; }
+  .hdr .hdr__link { padding: 12px 6px; font-size: 15px; }
+  .hdr .hdr__spacer { flex-basis: 8px; }
+}

@@ -1,8 +1,8 @@
 {
  "slug": "/",
- "title": "reinkober.com - Partner für Kunden- & Mitarbeitergewinnung",
- "seoTitle": "reinkober.com - Partner für Kunden- & Mitarbeitergewinnung",
- "seoDescription": "Ihr Team aus Strategen, Online-Marketing-Experten & Kreativen für planbares Wachstum. Wir liefern Sichtbarkeit & echte Ergebnisse!",
+ "title": "reinkober.com - Unternehmensberatung für Wachstum, Vertrieb & Recruiting",
+ "seoTitle": "reinkober.com - Unternehmensberatung für Wachstum, Vertrieb & Recruiting",
+ "seoDescription": "Unternehmensberatung für planbares Wachstum: Wir beraten zu Strategie, Vertrieb, Marketing & Recruiting – und setzen auf Wunsch direkt mit um.",
  "seoImage": "media/d31b4ddf-dc25-428b-87cf-f664736f8196",
  "noindexLive": false,
  "sections": [
@@ -104,7 +104,7 @@
        "h": 49
       },
       {
-       "text": "Ziele & Branchen",
+       "text": "Beratung & Branchen",
        "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
        "iconColor": "#151f25",
        "iconBox": {
@@ -298,7 +298,7 @@
            "h": 49
           },
           {
-           "text": "Ziele & Branchen",
+           "text": "Beratung & Branchen",
            "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
            "iconColor": "#151f25",
            "iconBox": {
@@ -540,7 +540,7 @@
          "id": "3d602d75-b801-48bd-adb5-81b1c8400ae7",
          "gap": 15,
          "halign": "left",
-         "html": "<p><mark data-hl=\"brush-underline\">Mehr </mark>Sichtbarkeit. Wachstum. Kundenanfragen. Mitarbeiter.<br></p>",
+         "html": "<p><mark data-hl=\"brush-underline\">Unternehmens­beratung</mark> für planbares Wachstum.<br></p>",
          "tag": "h1",
          "font": {
           "fs": 48,
@@ -564,7 +564,7 @@
          "gap": 20,
          "w": "91.95515990768216%",
          "halign": "left",
-         "html": "<p>Mit reinkober.com gewinnen Sie Ihren Partner für mehr Anfragen &amp; Mitarbeiter, ohne Abhängigkeit von Empfehlungen oder Zufall. Über 300 erfolgreich betreute Projekte belegen: Unsere Strategien liefern messbare Ergebnisse. Sie konzentrieren sich auf Ihr Kerngeschäft und wir sorgen dafür, dass kontinuierlich qualifizierte Anfragen bei Ihnen ankommen.</p>",
+         "html": "<p>reinkober.com ist Ihre Unternehmensberatung für Neukundengewinnung, Mitarbeitergewinnung und Marketing. Wir analysieren, wo Ihr Unternehmen steht, entwickeln eine klare Wachstumsstrategie und begleiten die Umsetzung, bis die Ergebnisse messbar sind. Über 300 beratene Projekte zeigen: Wachstum ist planbar, wenn Strategie und Umsetzung zusammenpassen.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -3162,7 +3162,7 @@
          "id": "ZQc6PtM53L",
          "gap": 0,
          "halign": "center",
-         "html": "<p>reinkober.com ist die Agenturgruppe im Hintergrund. Darunter arbeiten zwei eigenständige Marken, die ihre Branche bis ins Detail kennen – mit denselben Strategen, Kampagnenmanagern und Systemen, die auch alle anderen Projekte tragen.</p>",
+         "html": "<p>reinkober.com ist die Beratungsgruppe im Hintergrund. Darunter arbeiten zwei eigenständige Marken, die ihre Branche bis ins Detail kennen – mit denselben Beratern, Strategen und Systemen, die auch alle anderen Projekte tragen.</p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -3269,7 +3269,7 @@
          "id": "BjhYqnKNF3",
          "gap": 8,
          "halign": "center",
-         "html": "<strong><p>reinkober.com – die Agenturgruppe</p></strong>",
+         "html": "<strong><p>reinkober.com – die Beratungsgruppe</p></strong>",
          "tag": "p",
          "font": {
           "fs": 24,
@@ -3284,7 +3284,7 @@
          "id": "ZZ8uD6Va4a",
          "gap": 0,
          "halign": "center",
-         "html": "<p>Strategie, Kampagnen und Systeme für planbare Kunden- und Mitarbeitergewinnung – branchenübergreifend.</p>",
+         "html": "<p>Beratung, Strategie und Umsetzung für planbare Kunden- und Mitarbeitergewinnung – branchenübergreifend.</p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -5719,7 +5719,7 @@
          "gap": 20,
          "w": "89.3038665342758%",
          "halign": "left",
-         "html": "<p>Viele Unternehmen <strong>verlassen sich noch immer auf klassische Methoden:</strong> Empfehlungen aus dem eigenen Netzwerk, teure Anzeigen in Branchenportalen oder eine Website, die zwar existiert, aber kaum Anfragen bringt. <strong>Das Problem:</strong> Diese Ansätze sind weder verlässlich noch skalierbar. Wachstum wird so zum Zufall; abhängig davon, wer gerade zufällig sucht oder empfohlen wird.<br><br>Wir gehen einen anderen Weg. Mit unserer <strong>erprobten Strategie</strong> verbinden wir gezielte Online-Marketing-Maßnahmen mit einem <strong>klaren System</strong>, das <strong>kontinuierlich neue Kundenanfragen und Bewerbungen generiert</strong>. Statt auf Zufall setzen Sie damit auf einen <strong>planbaren Prozess</strong>, der <strong>unabhängig von Empfehlungen</strong> funktioniert und sich Schritt für Schritt ausbauen lässt.<br><br>Um herauszufinden, welches Potenzial für Ihr Unternehmen möglich ist, starten wir mit einer kostenlosen Potenzial-Analyse. Darin zeigen wir Ihnen, wo Sie aktuell stehen, welche Chancen ungenutzt bleiben und wie Sie schneller neue Kunden und Mitarbeiter gewinnen können.</p>",
+         "html": "<p>Viele Unternehmen <strong>verlassen sich noch immer auf klassische Methoden:</strong> Empfehlungen aus dem eigenen Netzwerk, teure Anzeigen in Branchenportalen oder eine Website, die zwar existiert, aber kaum Anfragen bringt. <strong>Das Problem:</strong> Diese Ansätze sind weder verlässlich noch skalierbar. Wachstum wird so zum Zufall; abhängig davon, wer gerade zufällig sucht oder empfohlen wird.<br><br>Wir gehen einen anderen Weg. Als <strong>Unternehmensberatung</strong> verbinden wir fundierte Analyse und Strategie mit gezielter Umsetzung und einem <strong>klaren System</strong>, das <strong>kontinuierlich neue Kundenanfragen und Bewerbungen generiert</strong>. Statt auf Zufall setzen Sie damit auf einen <strong>planbaren Prozess</strong>, der <strong>unabhängig von Empfehlungen</strong> funktioniert und sich Schritt für Schritt ausbauen lässt.<br><br>Um herauszufinden, welches Potenzial für Ihr Unternehmen möglich ist, starten wir mit einer kostenlosen Potenzial-Analyse. Darin zeigen wir Ihnen, wo Sie aktuell stehen, welche Chancen ungenutzt bleiben und wie Sie schneller neue Kunden und Mitarbeiter gewinnen können.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -6290,7 +6290,7 @@
          "gap": 8,
          "w": "77.57941241548863%",
          "halign": "center",
-         "html": "<strong><p>Komplette Umsetzung aus einer Hand</p></strong>",
+         "html": "<strong><p>Beratung &amp; Umsetzung aus einer Hand</p></strong>",
          "tag": "p",
          "font": {
           "fs": 24,
@@ -6305,7 +6305,7 @@
          "id": "08ec6c07-634a-4465-8a45-471f975bdaac",
          "gap": 30,
          "halign": "center",
-         "html": "<p>Strategie, Kampagnen, Monitoring – wir kümmern uns um alles. Sie müssen sich nicht mit zig Agenturen oder Beratern koordinieren, sondern haben einen einzigen starken Partner.</p>",
+         "html": "<p>Analyse, Strategie, Umsetzung, Controlling – wir begleiten Sie durchgängig. Statt Berater fürs Konzept und Agenturen für die Umsetzung haben Sie einen einzigen starken Partner.</p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -6433,7 +6433,7 @@
          "id": "95a9ac62-afec-437c-af10-620ad319e312",
          "gap": 30,
          "halign": "center",
-         "html": "<p>Mehr als 300 erfolgreich betreute Projekte haben von unserem Know-how profitiert. Diese Erfahrung setzen wir ein, um auch Ihr Unternehmen auf Wachstumskurs zu bringen.</p>",
+         "html": "<p>Mehr als 300 erfolgreich beratene Projekte haben von unserem Know-how profitiert. Diese Erfahrung setzen wir ein, um auch Ihr Unternehmen auf Wachstumskurs zu bringen.</p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -6623,7 +6623,7 @@
          "id": "ad62eac3-6077-4e1b-bd23-e7cf6d2d8597",
          "gap": 30,
          "halign": "center",
-         "html": "<p>Während wir Ihr Marketing zuverlässig skalieren, bleibt Ihre volle Energie für das, was Sie am besten können: Ihr Unternehmen weiterentwickeln und Kunden begeistern.</p>",
+         "html": "<p>Während wir Vertrieb, Marketing und Recruiting zuverlässig skalieren, bleibt Ihre volle Energie für das, was Sie am besten können: Ihr Unternehmen weiterentwickeln und Kunden begeistern.</p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -7070,7 +7070,7 @@
          "id": "6VYMoZkFBKkdj9uALzq71",
          "gap": 20,
          "halign": "center",
-         "html": "<p>Von Recruitingkampagnen bis hin zu kompletten Marketingstrategien – wir haben bereits hunderte Projekte begleitet und umgesetzt.</p>",
+         "html": "<p>Von der Wachstumsstrategie bis zur Recruitingkampagne – wir haben bereits hunderte Projekte beraten und umgesetzt.</p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -7140,7 +7140,7 @@
          "id": "TvLM6F2MD8JA-MNtTZylI",
          "gap": 20,
          "halign": "center",
-         "html": "<strong><p>Experten im<br>Team</p></strong>",
+         "html": "<strong><p>Berater &amp;<br>Experten</p></strong>",
          "tag": "p",
          "font": {
           "fs": 20,
@@ -7294,7 +7294,7 @@
          "id": "d243e105-d7fe-4bc3-a6d9-44f48300ce6d",
          "gap": 20,
          "halign": "center",
-         "html": "<p>DIGITALE LÖSUNG</p>",
+         "html": "<p>UNSER BERATUNGSANSATZ</p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -7495,7 +7495,7 @@
          "id": "fcc6f60d-1c68-4d37-aea1-23c06738717b",
          "gap": 20,
          "halign": "left",
-         "html": "<p>Wir starten mit einer kostenlosen Potenzial-Analyse: Wir prüfen Ihren Markt, Ihre Mitbewerber und Ihre aktuelle Online-Präsenz. Gemeinsam definieren wir Ihre Wachstumsziele; ob mehr Kundenanfragen, neue Mitarbeiter oder beides.</p>",
+         "html": "<p>Wir starten mit einer kostenlosen Potenzial-Analyse: Wir prüfen Ihr Geschäftsmodell, Ihren Markt, Ihre Mitbewerber und Ihre Online-Präsenz. Gemeinsam definieren wir Ihre Wachstumsziele; ob mehr Kundenanfragen, neue Mitarbeiter oder beides.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -7582,7 +7582,7 @@
          "id": "6528ce86-e127-431f-9eea-9a4a915836bd",
          "gap": 30,
          "halign": "left",
-         "html": "<p>Auf Basis der Analyse entwickeln wir eine individuelle Strategie und setzen ein System auf, das kontinuierlich qualifizierte Kundenanfragen und Bewerbungen generiert, unabhängig von Empfehlungen oder Zufall.</p>",
+         "html": "<p>Auf Basis der Analyse beraten wir Sie, entwickeln eine individuelle Wachstumsstrategie und setzen ein System auf, das kontinuierlich qualifizierte Kundenanfragen und Bewerbungen generiert, unabhängig von Empfehlungen oder Zufall.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -7654,7 +7654,7 @@
          "id": "5b3fbd4e-f2cf-4f60-ba1e-e3c2833dd773",
          "gap": 10,
          "halign": "left",
-         "html": "<strong><p>Kampagnenstart &amp; Vorqualifizierung</p></strong>",
+         "html": "<strong><p>Umsetzung &amp; Vorqualifizierung</p></strong>",
          "tag": "p",
          "font": {
           "fs": 32,
@@ -7669,7 +7669,7 @@
          "id": "de397f71-f592-4ec5-b5fd-c26035a82324",
          "gap": 30,
          "halign": "left",
-         "html": "<p>Wir starten gezielte Online-Kampagnen (z. B. Google, Meta &amp; Co.) und sorgen dafür, dass Sie in Ihrer Zielgruppe sichtbar werden. Durch smarte Vorqualifizierung landen bei Ihnen nur wirklich passende Anfragen.</p>",
+         "html": "<p>Wir setzen die Strategie um, etwa mit gezielten Online-Kampagnen (Google, Meta &amp; Co.), und sorgen dafür, dass Sie in Ihrer Zielgruppe sichtbar werden. Durch smarte Vorqualifizierung landen bei Ihnen nur wirklich passende Anfragen.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -7756,7 +7756,7 @@
          "id": "e21a4ea4-7494-4bc2-ba7b-6eec5d369cca",
          "gap": 30,
          "halign": "left",
-         "html": "<p>Wir überwachen und optimieren Ihre Kampagnen laufend, sodass Ihr System mit Ihrem Unternehmen wächst. Das Ergebnis: planbares Wachstum und mehr Zeit für Ihr Kerngeschäft. </p><p>Wir unterstützen Sie bei Ihrem Wachstum. </p>",
+         "html": "<p>Wir messen, beraten und optimieren laufend, sodass Ihr System mit Ihrem Unternehmen wächst. Das Ergebnis: planbares Wachstum und mehr Zeit für Ihr Kerngeschäft. </p><p>Wir begleiten Sie als Berater bei Ihrem Wachstum. </p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -8163,7 +8163,7 @@
          "id": "3v_buJ_n4M_SrYG5XjWFY",
          "gap": 20,
          "halign": "left",
-         "html": "<p>Hinter reinkober.com steht ein <strong>eingespieltes</strong> <strong>Team aus Strategen, Online-Marketing-Experten und Kreativen</strong>, die ein gemeinsames Ziel verfolgen: <strong>das Wachstum unserer Kunden planbar zu machen.</strong> Jeder von uns bringt spezielles Know-how mit – von Datenanalyse über Kampagnen-Management bis hin zu kreativer Gestaltung. Was uns verbindet, ist die Leidenschaft, Unternehmen nicht nur mehr Sichtbarkeit, sondern <strong>echte Ergebnisse zu liefern.</strong> Wir arbeiten eng mit unseren Partnern zusammen, <strong>sind unkompliziert erreichbar und übernehmen Verantwortung,</strong> als wären wir Teil Ihres Unternehmens.</p>",
+         "html": "<p>Hinter reinkober.com steht ein <strong>eingespieltes</strong> <strong>Team aus Unternehmensberatern, Strategen und Marketing-Experten</strong>, die ein gemeinsames Ziel verfolgen: <strong>das Wachstum unserer Kunden planbar zu machen.</strong> Jeder von uns bringt spezielles Know-how mit – von Strategieberatung und Datenanalyse über Kampagnen-Management bis hin zu kreativer Gestaltung. Was uns verbindet, ist die Leidenschaft, Unternehmen nicht nur mehr Sichtbarkeit, sondern <strong>echte Ergebnisse zu liefern.</strong> Wir arbeiten eng mit unseren Partnern zusammen, <strong>sind unkompliziert erreichbar und übernehmen Verantwortung,</strong> als wären wir Teil Ihres Unternehmens.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -8478,7 +8478,7 @@
          "id": "M5fEQOTxcOUo_Tro7fGIW",
          "gap": 20,
          "halign": "left",
-         "html": "<p>Hinter reinkober.com steht ein <strong>eingespieltes Team aus Strategen, Online-Marketing-Experten und Kreativen</strong>, die ein gemeinsames Ziel verfolgen: <strong>das Wachstum unserer Kunden planbar zu machen</strong>. Jeder von uns bringt spezielles Know-how mit – von Datenanalyse über Kampagnen-Management bis hin zu kreativer Gestaltung. Was uns verbindet, ist die Leidenschaft, Unternehmen nicht nur mehr Sichtbarkeit, sondern <strong>echte Ergebnisse zu liefern</strong>. Wir arbeiten eng mit unseren Partnern zusammen, <strong>sind unkompliziert erreichbar und übernehmen Verantwortung</strong>, als wären wir Teil Ihres Unternehmens.</p>",
+         "html": "<p>Hinter reinkober.com steht ein <strong>eingespieltes Team aus Unternehmensberatern, Strategen und Marketing-Experten</strong>, die ein gemeinsames Ziel verfolgen: <strong>das Wachstum unserer Kunden planbar zu machen</strong>. Jeder von uns bringt spezielles Know-how mit – von Strategieberatung und Datenanalyse über Kampagnen-Management bis hin zu kreativer Gestaltung. Was uns verbindet, ist die Leidenschaft, Unternehmen nicht nur mehr Sichtbarkeit, sondern <strong>echte Ergebnisse zu liefern</strong>. Wir arbeiten eng mit unseren Partnern zusammen, <strong>sind unkompliziert erreichbar und übernehmen Verantwortung</strong>, als wären wir Teil Ihres Unternehmens.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -8708,7 +8708,7 @@
          "id": "1cf7b526-0565-4dbc-a983-858655745a42",
          "gap": 0,
          "halign": "center",
-         "html": "<strong><p>Häufige <mark data-hl=\"brush-underline\">Fragen samt Antworten</mark> rund um uns als Wachstumspartner sowie unser Partnermodell.</p></strong>",
+         "html": "<strong><p>Häufige <mark data-hl=\"brush-underline\">Fragen samt Antworten</mark> rund um unsere Beratung sowie unser Partnermodell.</p></strong>",
          "tag": "p",
          "font": {
           "fs": 32,
@@ -8797,7 +8797,7 @@
          "halign": "center",
          "items": [
           {
-           "title": "Bietet ihr klassische Agenturleistungen oder arbeitet ihr nur auf Erfolgsbasis?",
+           "title": "Bietet ihr klassische Beratungsmandate oder arbeitet ihr nur auf Erfolgsbasis?",
            "titleFont": {
             "fs": 20,
             "lh": 26.31,
@@ -8805,7 +8805,7 @@
             "color": "#151f25",
             "align": "left"
            },
-           "html": "<p>Beides! Wir haben klassische Agentur-Kunden, die mit festen Budgets arbeiten, und Partner, mit denen wir auf Erfolgsbasis zusammenarbeiten. In beiden Fällen profitieren Sie von unserer Expertise und unserem klaren Fokus: messbare Ergebnisse.</p>",
+           "html": "<p>Beides! Wir haben klassische Beratungs- und Projektkunden, die mit festen Budgets arbeiten, und Partner, mit denen wir auf Erfolgsbasis zusammenarbeiten. In beiden Fällen profitieren Sie von unserer Expertise und unserem klaren Fokus: messbare Ergebnisse.</p>",
            "bodyFont": {
             "fs": 18,
             "lh": 27,
@@ -8857,7 +8857,7 @@
            "bodyGap": 0
           },
           {
-           "title": "Welche Vorteile habe ich als klassischer Agentur-Kunde?",
+           "title": "Welche Vorteile habe ich als klassischer Beratungskunde?",
            "titleFont": {
             "fs": 20,
             "lh": 26.31,
@@ -8925,7 +8925,7 @@
             "color": "#151f25",
             "align": "left"
            },
-           "html": "<p>Wir arbeiten branchenübergreifend – vom Handwerk über Dienstleister bis hin zu spezialisierten Unternehmen. Entscheidend ist nicht die Branche, sondern das Ziel: planbar mehr Kunden und/oder Mitarbeiter zu gewinnen.</p>",
+           "html": "<p>Wir beraten branchenübergreifend – vom Handwerk über Dienstleister bis hin zu spezialisierten Unternehmen. Entscheidend ist nicht die Branche, sondern das Ziel: planbar mehr Kunden und/oder Mitarbeiter zu gewinnen.</p>",
            "bodyFont": {
             "fs": 18,
             "lh": 27,
@@ -8985,7 +8985,7 @@
             "color": "#151f25",
             "align": "left"
            },
-           "html": "<p>Nach der kostenlosen Potenzial-Analyse wissen Sie genau, wo Sie stehen, welche Chancen Sie aktuell ungenutzt lassen und wie Sie mit uns planbar wachsen können. Danach entscheiden Sie: klassisches Agentur-Modell oder Partnerschaft auf Erfolgsbasis.</p>",
+           "html": "<p>Nach der kostenlosen Potenzial-Analyse wissen Sie genau, wo Sie stehen, welche Chancen Sie aktuell ungenutzt lassen und wie Sie mit uns planbar wachsen können. Danach entscheiden Sie: klassisches Beratungsmandat oder Partnerschaft auf Erfolgsbasis.</p>",
            "bodyFont": {
             "fs": 18,
             "lh": 27,
@@ -9544,7 +9544,7 @@
          "id": "UC7YkAB6uXvKuUD5wpAHJ",
          "gap": 20,
          "halign": "left",
-         "html": "<strong><p>Leistungen</p></strong>",
+         "html": "<strong><p>Beratungsfelder</p></strong>",
          "tag": "p",
          "font": {
           "fs": 24,
@@ -10271,7 +10271,7 @@
          "id": "BRT3ZEtLnltJmLF4KQcKh",
          "gap": 20,
          "halign": "center",
-         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind Ihre Unternehmensberatung mit Umsetzungsstärke – als Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -10535,7 +10535,7 @@
           },
           {
            "text": "Kundengewinnung für Handwerker",
-           "sub": "Ob Sanitär oder Bausanierung - wir liefern Neukunden und bauen Systeme.",
+           "sub": "Ob Sanitär oder Bausanierung – wir beraten, liefern Neukunden und bauen Systeme.",
            "href": "/kundengewinnung-handwerk",
            "font": {
             "fs": 13.6,

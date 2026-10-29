@@ -104,7 +104,7 @@
        "h": 49
       },
       {
-       "text": "Ziele & Branchen",
+       "text": "Beratung & Branchen",
        "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
        "iconColor": "#151f25",
        "iconBox": {
@@ -298,7 +298,7 @@
            "h": 49
           },
           {
-           "text": "Ziele & Branchen",
+           "text": "Beratung & Branchen",
            "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
            "iconColor": "#151f25",
            "iconBox": {
@@ -543,7 +543,7 @@
          "gap": 20,
          "w": "91.20677810854133%",
          "halign": "center",
-         "html": "<p>Erfolgreiche Partnerschaften sprechen für sich. Hier teilen unsere Partner ihre Erfahrungen aus der Zusammenarbeit mit reinkober.com. Erfahren Sie, wie wir gemeinsam nachhaltige Erfolge erzielen konnten und welche positiven Veränderungen unsere Strategien für ihre Unternehmen bewirkt haben.</p>",
+         "html": "<p>Erfolgreiche Partnerschaften sprechen für sich. Hier teilen unsere Partner ihre Erfahrungen aus der Zusammenarbeit mit reinkober.com. Erfahren Sie, wie wir gemeinsam nachhaltige Erfolge erzielen konnten und welche positiven Veränderungen unsere Beratung und Strategien für ihre Unternehmen bewirkt haben.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -5866,7 +5866,7 @@
          "id": "UC7YkAB6uXvKuUD5wpAHJ",
          "gap": 20,
          "halign": "left",
-         "html": "<strong><p>Leistungen</p></strong>",
+         "html": "<strong><p>Beratungsfelder</p></strong>",
          "tag": "p",
          "font": {
           "fs": 24,
@@ -6593,7 +6593,7 @@
          "id": "BRT3ZEtLnltJmLF4KQcKh",
          "gap": 20,
          "halign": "center",
-         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind Ihre Unternehmensberatung mit Umsetzungsstärke – als Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -6857,7 +6857,7 @@
           },
           {
            "text": "Kundengewinnung für Handwerker",
-           "sub": "Ob Sanitär oder Bausanierung - wir liefern Neukunden und bauen Systeme.",
+           "sub": "Ob Sanitär oder Bausanierung – wir beraten, liefern Neukunden und bauen Systeme.",
            "href": "/kundengewinnung-handwerk",
            "font": {
             "fs": 13.6,

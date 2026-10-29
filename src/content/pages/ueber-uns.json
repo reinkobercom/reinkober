@@ -2,7 +2,7 @@
  "slug": "/ueber-uns",
  "title": "Über uns",
  "seoTitle": "Über uns",
- "seoDescription": "Erfahren Sie mehr über reinkober.com: Unsere Werte, transparente Kommunikation, partnerschaftliche Zusammenarbeit und der Fokus auf nachhaltiges Wachstum für Ihren Erfolg.",
+ "seoDescription": "Erfahren Sie mehr über reinkober.com, die Unternehmensberatung für planbares Wachstum: unsere Werte, transparente Kommunikation und partnerschaftliche Zusammenarbeit.",
  "seoImage": null,
  "noindexLive": true,
  "sections": [
@@ -104,7 +104,7 @@
        "h": 49
       },
       {
-       "text": "Ziele & Branchen",
+       "text": "Beratung & Branchen",
        "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
        "iconColor": "#151f25",
        "iconBox": {
@@ -298,7 +298,7 @@
            "h": 49
           },
           {
-           "text": "Ziele & Branchen",
+           "text": "Beratung & Branchen",
            "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M12,15c-0.256,0-0.512-0.098-0.707-0.293L6.586,10L8,8.586l4,4l4-4L17.414,10l-4.707,4.707 C12.512,14.902,12.256,15,12,15z\"></path></svg>",
            "iconColor": "#151f25",
            "iconBox": {
@@ -559,7 +559,7 @@
          "gap": 100,
          "w": "83.66269337369752%",
          "halign": "center",
-         "html": "<p>Wir bei reinkober.com glauben daran, dass Wachstum kein Zufall ist. Ob Sie neue Kunden gewinnen oder motivierte Mitarbeiter finden wollen: wir machen Ihre Online-Präsenz und Ihre Marketingstrategie so stark, dass Ergebnisse planbar werden. Kein „Hoffen auf Sichtbarkeit“, sondern ein klar strukturiertes System, das wirkt.</p>",
+         "html": "<p>reinkober.com ist eine Unternehmensberatung für planbares Wachstum. Ob Sie neue Kunden gewinnen oder motivierte Mitarbeiter finden wollen: Wir beraten Sie zu Strategie, Vertrieb, Marketing und Recruiting und begleiten die Umsetzung, bis Ergebnisse planbar werden. Kein „Hoffen auf Sichtbarkeit“, sondern ein klar strukturiertes System, das wirkt.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -710,7 +710,7 @@
          "id": "4f39e9f0-c736-4e9f-be24-0ca9d612f930",
          "gap": 20,
          "halign": "left",
-         "html": "<p>Unser Team kombiniert erfahrene Online-Marketing-Strategen, Datenanalysten und Umsetzungsexperten. Hinzu kommen Spezialisten für Conversion-Optimierung und Kampagnenmanagement. Gemeinsam haben wir schon über 300 Projekte realisiert, in denen wir Unternehmen geholfen haben, sowohl Kundenanfragen als auch Bewerbungen zu vervielfachen und nachhaltig zu wachsen.</p>",
+         "html": "<p>Unser Team kombiniert erfahrene Unternehmensberater, Strategen und Datenanalysten mit Umsetzungsexperten für Marketing, Conversion-Optimierung und Kampagnenmanagement. Gemeinsam haben wir schon über 300 Projekte beraten und realisiert, in denen wir Unternehmen geholfen haben, sowohl Kundenanfragen als auch Bewerbungen zu vervielfachen und nachhaltig zu wachsen.</p>",
          "tag": "p",
          "font": {
           "fs": 18,
@@ -731,7 +731,7 @@
          "space": "16px",
          "items": [
           {
-           "text": "300+ erfolgreich umgesetzte Projekte",
+           "text": "300+ beratene & umgesetzte Projekte",
            "icon": "<svg viewBox=\"0 0 24 24\" preserveAspectRatio=\"none\"><path d=\"M8.5,20c-.398,0-.78-.158-1.061-.439L1.086,13.207c-.39-.391-.39-1.024,0-1.414l.707-.707c.391-.391,1.024-.391,1.414,0l5.293,5.293L20.793,4.086c.391-.391,1.024-.391,1.414,0l.707,.707c.391,.391,.391,1.024,0,1.414l-13.353,13.354c-.281,.281-.663,.439-1.061,.439Z\"></path></svg>",
            "iconColor": "#ffffff",
            "iconBox": {
@@ -1203,7 +1203,7 @@
          "id": "c6ef74d4-891b-47e2-9303-9fbe583af194",
          "gap": 0,
          "halign": "center",
-         "html": "<p>Wir sehen uns nicht als reine Dienstleister, sondern als Partner. Ihr Wachstum ist unser Wachstum, deshalb tragen wir gern Verantwortung mit und bieten faire Erfolgsmodelle an.</p>",
+         "html": "<p>Wir sehen uns nicht als reine Dienstleister, sondern als beratender Partner. Ihr Wachstum ist unser Wachstum, deshalb tragen wir gern Verantwortung mit und bieten faire Erfolgsmodelle an.</p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -1854,7 +1854,7 @@
          "alt": "Ein lächelnder Mann mit blondem Haar und hellem, gestreiftem Hemd mit rosa Polo-Logo.",
          "caption": {
           "title": "Simon",
-          "text": "Geschäftsführung & Strategie",
+          "text": "Geschäftsführung & Strategieberatung",
           "tf": {
            "fs": 20,
            "lh": 26.31,
@@ -3422,7 +3422,7 @@
          "id": "UC7YkAB6uXvKuUD5wpAHJ",
          "gap": 20,
          "halign": "left",
-         "html": "<strong><p>Leistungen</p></strong>",
+         "html": "<strong><p>Beratungsfelder</p></strong>",
          "tag": "p",
          "font": {
           "fs": 24,
@@ -4149,7 +4149,7 @@
          "id": "BRT3ZEtLnltJmLF4KQcKh",
          "gap": 20,
          "halign": "center",
-         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind Ihre Unternehmensberatung mit Umsetzungsstärke – als Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -4413,7 +4413,7 @@
           },
           {
            "text": "Kundengewinnung für Handwerker",
-           "sub": "Ob Sanitär oder Bausanierung - wir liefern Neukunden und bauen Systeme.",
+           "sub": "Ob Sanitär oder Bausanierung – wir beraten, liefern Neukunden und bauen Systeme.",
            "href": "/kundengewinnung-handwerk",
            "font": {
             "fs": 13.6,

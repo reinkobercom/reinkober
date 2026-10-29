@@ -429,7 +429,7 @@
          "id": "f432f66f-953f-4091-9e99-d408d7e3f0df",
          "gap": 10,
          "halign": "left",
-         "html": "<p><span style=\"color:rgb(21,31,37)\">Unsere Analysten haben bereits Ihre Website auf dem Radar und prüfen zeitnah, welche Möglichkeiten Sie noch haben. </span><br></p>",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Unsere Berater haben bereits Ihre Website auf dem Radar und prüfen zeitnah, welche Möglichkeiten Sie noch haben. </span><br></p>",
          "tag": "p",
          "font": {
           "fs": 16,
@@ -553,7 +553,7 @@
          "id": "26c11927-f6a9-4c4a-8845-8fd93194a47e",
          "gap": 10,
          "halign": "left",
-         "html": "<p><span style=\"color:rgb(21,31,37)\">Im persönlichen Gespräch analysieren wir Ihr Potenzial und geben Ihnen direkt umsetzbare Maßnahmen mit auf den Weg.</span><br></p>",
+         "html": "<p><span style=\"color:rgb(21,31,37)\">Im persönlichen Beratungsgespräch analysieren wir Ihr Potenzial und geben Ihnen direkt umsetzbare Maßnahmen mit auf den Weg.</span><br></p>",
          "tag": "p",
          "font": {
           "fs": 16,

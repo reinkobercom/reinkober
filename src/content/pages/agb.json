@@ -811,7 +811,7 @@
          "id": "UC7YkAB6uXvKuUD5wpAHJ",
          "gap": 20,
          "halign": "left",
-         "html": "<strong><p>Leistungen</p></strong>",
+         "html": "<strong><p>Beratungsfelder</p></strong>",
          "tag": "p",
          "font": {
           "fs": 24,
@@ -1538,7 +1538,7 @@
          "id": "BRT3ZEtLnltJmLF4KQcKh",
          "gap": 20,
          "halign": "center",
-         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind mehr als eine Agentur – als Ihr Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
+         "html": "<p>Gewinnen Sie kontinuierlich neue Kunden &amp; Mitarbeiter für Ihr Unternehmen. Wir sind Ihre Unternehmensberatung mit Umsetzungsstärke – als Partner partizipieren wir am Erfolg und arbeiten aktiv an Ihrer Seite.<br></p>",
          "tag": "p",
          "font": {
           "fs": 16,

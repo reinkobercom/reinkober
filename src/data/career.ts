@@ -11,7 +11,7 @@ export const career = {
   intro: {
     title: 'Unsere offenen Stellen.',
     text: [
-      'Du möchtest in einem dynamischen Team arbeiten und mit innovativen Strategien echtes Wachstum erzeugen? Wir suchen engagierte Talente, die mit uns im Bereich Online-Marketing und Webentwicklung durchstarten. Bei uns erwarten dich spannende Projekte, viel Gestaltungsspielraum und ein motiviertes Team.',
+      'Du möchtest in einem dynamischen Team arbeiten und mit innovativen Strategien echtes Wachstum erzeugen? Wir suchen engagierte Talente, die mit uns in Unternehmensberatung, Online-Marketing und Webentwicklung durchstarten. Bei uns erwarten dich spannende Projekte, viel Gestaltungsspielraum und ein motiviertes Team.',
       'Finde die passende Stelle für dich und werde Teil unseres Erfolgs!',
     ],
   },

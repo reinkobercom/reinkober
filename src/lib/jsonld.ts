@@ -21,7 +21,8 @@ const org = {
   geo: { '@type': 'GeoCoordinates', latitude: site.address.lat, longitude: site.address.lng },
   founder: { '@type': 'Person', name: site.managingDirector },
   areaServed: 'DE',
-  knowsAbout: ['Online-Marketing', 'Kundengewinnung', 'Mitarbeitergewinnung', 'Social Recruiting', 'SEO', 'Google Ads', 'Meta Ads'],
+  description: 'Unternehmensberatung für planbares Wachstum: Strategie, Neukundengewinnung, Mitarbeitergewinnung und Marketing – Beratung und Umsetzung aus einer Hand.',
+  knowsAbout: ['Unternehmensberatung', 'Strategieberatung', 'Vertriebsberatung', 'Personalberatung', 'Online-Marketing', 'Kundengewinnung', 'Mitarbeitergewinnung', 'Social Recruiting', 'SEO', 'Google Ads', 'Meta Ads'],
   sameAs: Object.values(site.social),
   ...(site.openingHours.length ? { openingHours: site.openingHours } : {}),
 };

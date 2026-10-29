@@ -3,35 +3,35 @@
 
 export const pageMeta: Record<string, { title: string; description: string }> = {
   '/': {
-    title: 'reinkober.com - Partner für Kunden- & Mitarbeitergewinnung',
-    description: 'Ihr Team aus Strategen, Online-Marketing-Experten & Kreativen für planbares Wachstum. Wir liefern Sichtbarkeit & echte Ergebnisse!',
+    title: 'reinkober.com - Unternehmensberatung für Wachstum, Vertrieb & Recruiting',
+    description: 'Unternehmensberatung für planbares Wachstum: Wir beraten zu Strategie, Vertrieb, Marketing & Recruiting – und setzen auf Wunsch direkt mit um.',
   },
   '/ueber-uns': {
     title: 'Über uns | reinkober.com',
-    description: 'Erfahren Sie mehr über reinkober.com: Unsere Werte, transparente Kommunikation, partnerschaftliche Zusammenarbeit und der Fokus auf nachhaltiges Wachstum für Ihren Erfolg.',
+    description: 'Erfahren Sie mehr über reinkober.com, die Unternehmensberatung für planbares Wachstum: unsere Werte, transparente Kommunikation und partnerschaftliche Zusammenarbeit.',
   },
   '/kontakt': {
     title: 'Kontakt | reinkober.com',
     // neu (bisher identisch mit „Über uns“)
-    description: 'Kontakt zu reinkober.com: Rufen Sie uns an, schreiben Sie uns oder fragen Sie unverbindlich an – wir besprechen, wo Sie stehen und wie wir Sie beim Wachstum unterstützen.',
+    description: 'Kontakt zu reinkober.com: Rufen Sie uns an, schreiben Sie uns oder fragen Sie unverbindlich an – wir besprechen, wo Sie stehen und wie wir Sie beim Wachstum beraten und unterstützen.',
   },
   '/erfolge-unserer-partner': {
     title: 'Erfolge unserer Partner | reinkober.com',
     // neu
-    description: 'Echte Ergebnisse unserer Kunden & Partner: mehr Anfragen, mehr Bewerbungen und mehr Umsatz durch Online-Marketing und Social Recruiting von reinkober.com.',
+    description: 'Echte Ergebnisse unserer Kunden & Partner: mehr Anfragen, mehr Bewerbungen und mehr Umsatz durch Beratung, Online-Marketing und Social Recruiting von reinkober.com.',
   },
   '/karriere': {
     title: 'Karriere | reinkober.com',
     // neu
-    description: 'Karriere bei reinkober.com: Werde Teil unseres Teams aus Strategen, Online-Marketing-Experten und Kreativen in Werne.',
+    description: 'Karriere bei reinkober.com: Werde Teil unseres Teams aus Unternehmensberatern, Strategen und Marketing-Experten in Werne.',
   },
   '/potenzial-analyse': {
     title: 'Potenzial-Analyse | reinkober.com',
-    description: 'Sichern Sie sich Ihre kostenlose Potenzial-Analyse: Wir prüfen Ihre Website und zeigen, welche Möglichkeiten Sie für mehr Anfragen und Mitarbeiter haben.',
+    description: 'Sichern Sie sich Ihre kostenlose Potenzial-Analyse: Wir prüfen Ihre Website, beraten Sie persönlich und zeigen, welche Möglichkeiten Sie für mehr Anfragen und Mitarbeiter haben.',
   },
   '/wachstums-call': {
     title: 'Wachstums-Call | reinkober.com',
-    description: 'Vereinbaren Sie Ihren kostenlosen Wachstums-Call mit reinkober.com und erfahren Sie, wie Sie planbar neue Kunden gewinnen.',
+    description: 'Vereinbaren Sie Ihren kostenlosen Wachstums-Call mit der Unternehmensberatung reinkober.com und erfahren Sie, wie Sie planbar neue Kunden gewinnen.',
   },
   '/wachstums-call-formular': {
     title: 'Wachstums-Call Formular | reinkober.com',
@@ -49,31 +49,31 @@ export const pageMeta: Record<string, { title: string; description: string }> = 
   '/agb': { title: 'AGB | reinkober.com', description: 'Allgemeine Geschäftsbedingungen der RX2 Marketing GmbH (reinkober.com) für Geschäftskunden.' },
   '/mitarbeitergewinnung-steuerberater': {
     title: 'Mitarbeitergewinnung für Steuerberater',
-    description: 'Mitarbeitergewinnung für Steuerberater: Reinkober bietet transparente Lösungen für Ihr Wachstum. Vertrauen Sie auf unsere Expertise & erzielen Sie Ergebnisse!',
+    description: 'Mitarbeitergewinnung für Steuerberater: reinkober.com berät und liefert transparente Lösungen für Ihr Wachstum. Vertrauen Sie auf unsere Expertise & erzielen Sie Ergebnisse!',
   },
   '/mitarbeitergewinnung-apotheken': {
     title: 'Mitarbeitergewinnung für Apotheken',
-    description: 'Mitarbeitergewinnung für Apotheken: Erfahren Sie, wie wir PTA, PKA & Apotheker:innen finden. Schnelle Ergebnisse durch bewährte Praktiken!',
+    description: 'Mitarbeitergewinnung für Apotheken: Erfahren Sie, wie wir beraten und PTA, PKA & Apotheker:innen finden. Schnelle Ergebnisse durch bewährte Praktiken!',
   },
   '/mitarbeitergewinnung-handwerk': {
     title: 'Mitarbeitergewinnung für das Handwerk',
-    description: 'reinkober.com hilft Handwerksbetrieben, Top-Mitarbeiter zu gewinnen. Erfahren Sie, wie Sie mit gezielten Kampagnen und bewährten Strategien erfolgreich Fachkräfte finden.',
+    description: 'reinkober.com berät Handwerksbetriebe und hilft, Top-Mitarbeiter zu gewinnen. Erfahren Sie, wie Sie mit gezielten Kampagnen und bewährten Strategien erfolgreich Fachkräfte finden.',
   },
   '/mitarbeitergewinnung-dienstleister': {
     title: 'Mitarbeitergewinnung für Dienstleister',
-    description: 'Effiziente Mitarbeitergewinnung für Dienstleister: reinkober hilft Ihnen, qualifizierte Fachkräfte schnell und nachhaltig zu finden.',
+    description: 'Effiziente Mitarbeitergewinnung für Dienstleister: reinkober.com berät und hilft Ihnen, qualifizierte Fachkräfte schnell und nachhaltig zu finden.',
   },
   '/kundengewinnung-handwerk': {
     title: 'Kundengewinnung für Handwerker',
-    description: 'reinkober.com hilft Handwerkern bei der Kundengewinnung. Erfahren Sie, wie Sie qualifizierte Anfragen erhalten und Ihr Wachstum nachhaltig fördern.',
+    description: 'reinkober.com berät Handwerksbetriebe bei der Kundengewinnung. Erfahren Sie, wie Sie qualifizierte Anfragen erhalten und Ihr Wachstum nachhaltig fördern.',
   },
   '/kundengewinnung-dienstleister': {
     title: 'Kundengewinnung für Dienstleister',
-    description: 'Steigern Sie Ihre Kundengewinnung als Dienstleister! Wir liefern qualifizierte Anfragen und nachhaltiges Wachstum durch Transparenz und Vertrauen.',
+    description: 'Steigern Sie Ihre Kundengewinnung als Dienstleister! Wir beraten und liefern qualifizierte Anfragen und nachhaltiges Wachstum durch Transparenz und Vertrauen.',
   },
   '/marketing-blog': {
     title: 'Marketing Blog: Tipps & Strategien für Online-Erfolg',
-    description: 'Marketing-Tipps & Strategien: Erfahren Sie im reinkober.com Blog alles über Online-Marketing, SEO, Content, Social Media & mehr!',
+    description: 'Marketing-Tipps & Strategien: Erfahren Sie im reinkober.com Blog alles über Unternehmenswachstum, Online-Marketing, SEO, Social Media & mehr!',
   },
   '/10-tipps-fur-ein-besseres-instagram-profil': {
     title: '10 Tipps: Optimiere dein Instagram-Profil jetzt!',
